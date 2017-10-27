@@ -1,6 +1,5 @@
 ---
 title: Acceptable use of Information Technology at work
-date: 2017-10-26 13:30
 ---
 
 ## Acceptable use of Information Technology at work
