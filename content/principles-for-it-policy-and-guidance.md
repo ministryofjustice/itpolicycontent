@@ -45,13 +45,12 @@ title: Principles for IT policy and guidance
   - Roles and processes must exist to support regular change.
 
 ## IT Standards
-<ol>
-<li>A standard provides clear 'do this' or 'do this in this way' statements.</li>
-<li>By implementing the standard, and performing tasks as the standard requires, all aspects of the corresponding policy are met.</li>
-<li>A standard can require associated sub-documents. For example, a backup standard might require a backup plan for system X, and a different plan for system Y. The standard indicates what is required for a plan, but each plan can be different.</li>
-<li>Standards should be precise, and unambiguous.</li>
-<li>Standards should prefer open or established solutions, rather than creating or defining new ones.</li>
-</ol>
+
+- A standard provides clear 'do this' or 'do this in this way' statements.
+- By implementing the standard, and performing tasks as the standard requires, all aspects of the corresponding policy are met.
+- A standard can require associated sub-documents. For example, a backup standard might require a backup plan for system X, and a different plan for system Y. The standard indicates what is required for a plan, but each plan can be different.
+- Standards should be precise, and unambiguous.
+- Standards should prefer open or established solutions, rather than creating or defining new ones.
 
 ## Guidance
 
