@@ -8,7 +8,7 @@ This guide is designed to help protect MoJ information (held on MoJ ICT systems)
 
 ### Introduction
 
-<a href=https://www.gov.uk/government/publications/security-policy-framework/hmg-security-policy-framework>HMG Security Policy Framework</a> mandatory requirements concern valuing and classifying information assets. To comply with these, the MoJ needs to ensure that:
+[HMG Security Policy Framework](https://www.gov.uk/government/publications/security-policy-framework/hmg-security-policy-framework) mandatory requirements concern valuing and classifying information assets. To comply with these, the MoJ needs to ensure that:
 
 <blockquote>Where information is shared for business purposes departments and agencies must ensure the receiving party understands the obligations and protects the assets appropriately.</blockquote>
 
