@@ -35,6 +35,7 @@ MoJ may require access to audit logs in investigating incidents (investigations 
 ### Review of security policies
 
 MoJ ICT Security Policies must be maintained and reviewed on a regular basis to a schedule determined by the ITSO – This is currently annually for all policies in this policy set.
+
 The MoJ ICT security policy and any supporting ICT security guides will be reviewed by the ITSO according to the following schedule and criteria:
 
 *   annually
