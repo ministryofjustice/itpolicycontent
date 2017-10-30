@@ -1,3 +1,7 @@
+---
+title: Forensic Readiness Policy
+---
+
 ## Forensic Readiness
 
 The [HMG Security Policy Framework](https://www.gov.uk/government/publications/security-policy-framework) has this mandatory requirement:

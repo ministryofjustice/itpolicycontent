@@ -1,3 +1,7 @@
+---
+title: Forensic Readiness Standard
+---
+
 ## Forensic Readiness
 
 Legal and management requirements mean that we must be able to preserve and analyse data generated or processed by MOJ IT systems. The MOJ Forensic Readiness Policy [link to follow] helps us do that.

@@ -1,3 +1,7 @@
+---
+title: IT Security Policy
+---
+
 The objective of ICT security is to ensure business continuity and minimise damage by preventing and reducing the impact of ICT security incidents. This policy applies to all MoJ’s ICT systems, including those managed by ICT service providers. It covers:
 
 *   the use of ICT equipment
