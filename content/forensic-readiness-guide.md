@@ -1,64 +1,60 @@
-<h2>Forensics Readiness Guide</h2>
-<p>Being 'Forensic Ready' means that you can:</p>
-<ul>
-  <li>maximise the effectiveness of a forensic investigation after an IT security incident</li>
-  <li>minimise the cost and effect on the business</li>
-  <li>protect MOJ information</li>
-  <li>manage the risks that cause incidents</li>
-</ul>
-<p>This guide:</p>
-<ul>
-  <li>helps you understand and apply the Forensic Readiness Policy (FRP) [link to follow]</li>
-  <li>provides details to support the Forensic Readiness Standard</li>
-  <li>provides additional guidance and materials to help you develop a Forensic Readiness Plan (FRPlan) that complies with the policy</li>
-</ul>
-<p>Useful material can be also be found in:</p>
-<ul>
-  <li>IT Security Incident Management Plan and Process Guide [Link: ??]</li>
-  <li><a href="https://www.ncsc.gov.uk/guidance/forensic-readiness-good-practice-guide-18" target="_blank">NCSC Good Practice Guide 18 on Forensic Readiness</a></li>
-  <li><a href="https://www.ncsc.gov.uk/guidance/forensic-readiness-planning-implementation-guide-18" target="_blank">NCSC Implementation Guide 18 on Forensic Readiness Planning</a></li>
-</ul>
+---
+title: Forensic Readiness Guide
+---
 
-<h2>What are IT forensics?</h2>
-<p>IT forensics are the tools and techniques used to collect, store, and analyse digital evidence, or to prepare the evidence for formal proceedings. They are normally used after a security incident.</p>
+Being 'Forensic Ready' means that you can:
 
-<h3>Principles supporting forensic readiness</h3>
-<table border='1'>
-  <tr>
-    <td>Detection</td>
-    <td>MOJ systems must enable the detection of unauthorised or malicious actions. This includes being able to detect someone trying to 'cover up' their actions.</td>
-  </tr>
-  <tr>
-    <td>Deterrence</td>
-    <td>Security awareness training, and publicising that the MOJ monitors systems, helps discourage people from inappropriate, illegal, or malicious actions.</td>
-  </tr>
-  <tr>
-    <td>Consistency</td>
-    <td>All forensic investigations must be conducted in a consistent, repeatable fashion. The SIMP must include procedures for forensic investigations.</td>
-  </tr>
-  <tr>
-    <td>Business continuity</td>
-    <td>The MOJ must resume work as soon as possible after a security incident. Forensic investigation must not prevent IT services being restored promptly.</td>
-  </tr>
-</table>
+- maximise the effectiveness of a forensic investigation after an IT security incident
+- minimise the cost and effect on the business
+- protect MOJ information
+- manage the risks that cause incidents
 
-<h2>Criteria for an investigation</h2>
-<p>The decision to conduct a forensic investigation is basically a risk management decision: allowing for any legal or regulatory obligations, would the benefits of investigating outweigh the costs?</p>
-<p>To answer the question, consider:</p>
-<ul>
-  <li>will a forensic investigation have an adverse effect on MOJ systems or processes?</li>
-  <li>will the expected costs of an forensic investigation exceed the benefits of the desired outcomes?</li>
-  <li>how will the costs vary, depending on what investigation options apply, or who provides the investigation service?</li>
-  <li>what is the legal or regulatory requirement for a forensic investigation, if any? </li>
-  <li>what level of detail is required for the investigation to meet legal or regulatory requirements?</li>
-</ul>
-<p>Ultimately, the decision to conduct a forensic investigation resides with the IAO or ITSO.</p>
+This guide:
 
-<h2>Sources and forms of digital evidence</h2>
-<p>Computers, networks, storage devices and their peripherals may be used in the commission of various incidents or crimes, or can themselves be the target of an attack. As a result, digital evidence may be collected from a variety of sources.</p>
+- helps you understand and apply the Forensic Readiness Policy (FRP) [link to follow]
+- provides details to support the Forensic Readiness Standard
+- provides additional guidance and materials to help you develop a Forensic Readiness Plan (FRPlan) that complies with the policy
 
-<h3>Hardware</h3>
-<table border='1'>
+Useful material can be also be found in:
+
+- IT Security Incident Management Plan and Process Guide [Link to follow]
+- [NCSC Good Practice Guide 18 on Forensic Readiness](https://www.ncsc.gov.uk/guidance/forensic-readiness-good-practice-guide-18)
+- [NCSC Implementation Guide 18 on Forensic Readiness Planning](https://www.ncsc.gov.uk/guidance/forensic-readiness-planning-implementation-guide-18)
+
+## What are IT forensics?
+
+IT forensics are the tools and techniques used to collect, store, and analyse digital evidence, or to prepare the evidence for formal proceedings. They are normally used after a security incident.
+
+### Principles supporting forensic readiness
+
+| Principle | Detail |
+|---|---|
+| Detection | MOJ systems must enable the detection of unauthorised or malicious actions. This includes being able to detect someone trying to 'cover up' their actions. |
+| Deterrence | Security awareness training, and publicising that the MOJ monitors systems, helps discourage people from inappropriate, illegal, or malicious actions. |
+| Consistency | All forensic investigations must be conducted in a consistent, repeatable fashion. The SIMP must include procedures for forensic investigations. |
+| Business continuity | The MOJ must resume work as soon as possible after a security incident. Forensic investigation must not prevent IT services being restored promptly. |
+
+## Criteria for an investigation
+
+The decision to conduct a forensic investigation is basically a risk management decision: allowing for any legal or regulatory obligations, would the benefits of investigating outweigh the costs?
+
+To answer the question, consider:
+
+- will a forensic investigation have an adverse effect on MOJ systems or processes?
+- will the expected costs of an forensic investigation exceed the benefits of the desired outcomes?
+- how will the costs vary, depending on what investigation options apply, or who provides the investigation service?
+- what is the legal or regulatory requirement for a forensic investigation, if any?
+- what level of detail is required for the investigation to meet legal or regulatory requirements?
+
+Ultimately, the decision to conduct a forensic investigation resides with the IAO or ITSO.
+
+## Sources and forms of digital evidence
+
+Computers, networks, storage devices and their peripherals may be used in the commission of various incidents or crimes, or can themselves be the target of an attack. As a result, digital evidence may be collected from a variety of sources.
+
+### Hardware
+
+<table>
   <tr>
     <td>Backup media (tapes, disks, etc.)</td>
     <td>Actions that took place over a period of time, or in the past, might be recreated using backup media, or backup files stored on a device.</td>
@@ -109,8 +105,9 @@
   </tr>
 </table>
 
-<h3>Software</h3>
-<table border='1'>
+### Software
+
+<table>
   <tr>
     <td>Application software</td>
     <td>Some applications, such as accounting packages, might hold records of fraud or employee records and activities.</td>
@@ -140,10 +137,3 @@
     <td>ICT systems produce log files for various activities. An investigation may involve the detailed study of this information, or of the servers holding this information. Investigators need to be aware of any attempt to subvert log files in support of malicious activity.</td>
   </tr>
 </table>
-
-
-
-
-
-
-
