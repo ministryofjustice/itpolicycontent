@@ -1,56 +1,66 @@
-<h2>Forensic Readiness</h2>
-<p>Legal and management requirements mean that we must be able to preserve and analyse data generated or processed by MOJ IT systems. The MOJ Forensic Readiness Policy [link to follow] helps us do that.</p>
-<p>This document describes how to comply with the policy. It helps you:</p>
-<ul>
-<li>understand and apply the Forensic Readiness Policy (FRP)</li>
-<li>develop a Forensic Readiness Plan (FRPlan) to implement the policy</li>
-</ul>
-<p>The resulting FRPlan can be used for MOJ systems and domains, or by third party suppliers hosting MOJ systems and domains.</p>
-<p>To help you get started, this document includes a blank FRPlan template.</p>
+## Forensic Readiness
 
-<h2>Building a case</h2>
-<p>A forensic investigation is not just about finding who did the deed, or how. It is also about collecting evidence that stands up to scrutiny. The investigation finds facts, both technical and testimonial, gathers them together, and presents them as a logical argument.</p>
-<p>A forensic case includes:</p>
-<ul>
-<li>a technical forensic investigation that used a rigorous and documented methodology to collect evidence</li>
-<li>reliable recordings of testimonial evidence such as witness statements, or details of the investigation from a forensic expert</li>
-<li>a presentation of the evidence in a logical, unbiased argument</li>
-</ul>
-<p>The FRPlan ensures that the forensic investigation builds the case. For example, the investigation:</p>
-<ul>
-<li>follows a methodology to get evidence consistently</li>
-<li>transports and preserves evidence suitably</li>
-<li>presents evidence in a legally admissible form</li>
-</ul>
+Legal and management requirements mean that we must be able to preserve and analyse data generated or processed by MOJ IT systems. The MOJ Forensic Readiness Policy [link to follow] helps us do that.
 
-<h2>The Forensic Readiness Plan</h2>
-<p>Each MOJ system or domain must have its own Forensic Readiness Plan (FRPlan). The plan:</p>
-<ul>
-<li>contains the procedures and methods for conducting a forensic investigation</li>
-<li>ensures compliance with policy requirements</li>
-<li>is part of the IT Security Incident Management Plan (SIMP) for the system</li>
-<li>includes details and processes for meeting Level 1 of the <a href="https://www.ncsc.gov.uk/guidance/information-assurance-maturity-model-and-assessment-framework-gpg-40" target="_blank">NCSC Information Assurance Maturity Model</a> (IAMM)</li>
-</ul>
+This document describes how to comply with the policy. It helps you:
+
+- understand and apply the Forensic Readiness Policy (FRP)
+- develop a Forensic Readiness Plan (FRPlan) to implement the policy
+
+The resulting FRPlan can be used for MOJ systems and domains, or by third party suppliers hosting MOJ systems and domains.
+
+To help you get started, this document includes a blank FRPlan template.
+
+## Building a case
+
+A forensic investigation is not just about finding who did the deed, or how. It is also about collecting evidence that stands up to scrutiny. The investigation finds facts, both technical and testimonial, gathers them together, and presents them as a logical argument.
+
+A forensic case includes:
+
+- a technical forensic investigation that used a rigorous and documented methodology to collect evidence
+- reliable recordings of testimonial evidence such as witness statements, or details of the investigation from a forensic expert
+- a presentation of the evidence in a logical, unbiased argument
+
+The FRPlan ensures that the forensic investigation builds the case. For example, the investigation:
+
+- follows a methodology to get evidence consistently
+- transports and preserves evidence suitably
+- presents evidence in a legally admissible form
+
+## The Forensic Readiness Plan
+
+Each MOJ system or domain must have its own Forensic Readiness Plan (FRPlan). The plan:
+
+- contains the procedures and methods for conducting a forensic investigation
+- ensures compliance with policy requirements
+- is part of the IT Security Incident Management Plan (SIMP) for the system
+- includes details and processes for meeting Level 1 of the [NCSC Information Assurance Maturity Model](https://www.ncsc.gov.uk/guidance/information-assurance-maturity-model-and-assessment-framework-gpg-40) (IAMM)
 
 <a id="keyroleswithintheplan"></a>
-<h2>Key roles within the plan</h2>
-<p>The plan should identify:</p>
-<ul>
-<li>the Forensic Investigation Owner (FIO)</li>
-<li>the Information Asset Owner (IAO)</li>
-<li>the Operational Security Team (OST)</li>
-</ul>
-<p>The OST is responsible for:</p>
-<ul>
-<li>the IT Security Incident Management Process</li>
-<li>responding to all IT security incidents</li>
-</ul>
-<p>The FIO is responsible for conducting the investigation.</p>
-<p>The OST and the FIO are together responsible for the integrity of collected evidence.</p>
-<p>The IAO or FIO is responsible for <a href="#reportingandcommunication">reporting progress</a> during the investigation.</p>
 
-<h2>Plan template</h2>
-<p>Create your FRPlan by using the following template as a starting point.
+## Key roles within the plan
+
+The plan should identify:
+
+- the Forensic Investigation Owner (FIO)
+- the Information Asset Owner (IAO)
+- the Operational Security Team (OST)
+
+The OST is responsible for:
+
+- the IT Security Incident Management Process
+- responding to all IT security incidents
+
+The FIO is responsible for conducting the investigation.
+
+The OST and the FIO are together responsible for the integrity of collected evidence.
+
+The IAO or FIO is responsible for [reporting progress](#reportingandcommunication) during the investigation.
+
+## Plan template
+
+Create your FRPlan by using the following template as a starting point.
+
 <table border='1'>
 <tr>
 <th colspan='2'>System details</th>
@@ -131,26 +141,35 @@
 </table>
 
 <a id="developingtheplan"></a>
-<h2>Developing the plan</h2>
-<p>A helpful approach for creating the plan is to think of example scenarios involving security incidents that might require a forensic investigation. The <a href="https://www.ncsc.gov.uk/guidance/forensic-readiness-planning-implementation-guide-18" target="_blank">NCSC Implementation Guide</a> provides a useful list of typical incident scenarios.</p>
 
-<h3>Scenarios</h3>
-<p>Example scenarios that might be relevant to an MOJ system could involve:</p>
-<ul>
-<li>criminal offences and law enforcement</li>
-<li>internal investigations such as for disciplinary or audit purposes</li>
-<li>external attacks such as from a hacker</li>
-<li>providing information as a regulatory requirement such as the Freedom of Information Act</li>
-</ul>
-<p>The following table provides some specific examples of incidents which might require a forensic investigation:
+## Developing the plan
+
+A helpful approach for creating the plan is to think of example scenarios involving security incidents that might require a forensic investigation. The [NCSC Implementation Guide](https://www.ncsc.gov.uk/guidance/forensic-readiness-planning-implementation-guide-18) provides a useful list of typical incident scenarios.
+
+### Scenarios
+
+Example scenarios that might be relevant to an MOJ system could involve:
+
+- criminal offences and law enforcement
+- internal investigations such as for disciplinary or audit purposes
+- external attacks such as from a hacker
+- providing information as a regulatory requirement such as the Freedom of Information Act
+
+The following table provides some specific examples of incidents which might require a forensic investigation:
+
+| Incident | Notes |
+|----------|-------|
+| Creation or planting of viruses or malware | The deliberate or accidental introduction of malware are a major threat to MOJ information security. Possible problems include system downtime, unpredictable behaviour, or data becoming unavailable. |
+| Damage or modification to computer equipment or data | Deliberate or accidental damage to a system might hide unauthorised activity previously carried out on that system. Modifications might include technologies such as key loggers or devices for bypassing normal security mechanisms. |
+
 <table border='1'>
 <tr>
-<td>Creation or planting of viruses or malware</td>
-<td>The deliberate or accidental introduction of malware are a major threat to MOJ information security. Possible problems include system downtime, unpredictable behaviour, or data becoming unavailable.</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>Damage or modification to computer equipment or data</td>
-<td>Deliberate or accidental damage to a system might hide unauthorised activity previously carried out on that system. Modifications might include technologies such as key loggers or devices for bypassing normal security mechanisms.</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>
@@ -208,19 +227,19 @@ Disciplinary issues as a result of inappropriate use of systems</td>
 <p>The workflow does not need to be a detailed list. Most incidents have unique characteristics that can take the investigation in unpredictable directions. A simple ordered checklist can be very effective as a workflow for everyone to understand and follow.</p>
 
 <a id="performance"></a>
-<h3>Performance</h3>
+### Performance
 <p>The Forensic Readiness Plan must also consider the Key Performance Indicators (KPIs) and Service Level Agreements (SLAs) for the system. The plan should provide details showing that when it is executed, the plan:</p>
 <ul>
 <li>works in a timely and efficient manner</li>
 <li>has the smallest possible adverse effect on the KPIs and SLAs</li>
 </ul>
 
-<h2>Incident management and forensic investigation</h2>
+## Incident management and forensic investigation
 <p>Forensic investigation is often part of a larger incident management activity. The <a href="https://intranet.justice.gov.uk/documents/2015/04/it-incident-management-policy.pdf">IT Security – Incident Management Policy</a> describes the MOJ requirements for when forensic investigation is part of an incident management process.</p>
 <p>The investigation process should also work with the relevant business continuity plan, and in accord with <a href="https://intranet.justice.gov.uk/documents/2015/04/records-management-service-handbook.pdf">MOJ policy on records management</a>.</p>
 
 <a id="basicforensicinvestigationsteps"></a>
-<h2>Basic forensic investigation steps</h2>
+## Basic forensic investigation steps
 <p>Your FRPlan should provide details for each of the activities in the forensic investigation process. Useful examples are provided in the <a href="https://www.ncsc.gov.uk/guidance/forensic-readiness-planning-implementation-guide-18" target="_blank">NCSC Implementation Guide</a>. Your plan should make clear who is responsible for completing each activity.</p>
 <p>The basic steps are as follows:</p>
 <ol>
@@ -246,13 +265,13 @@ Disciplinary issues as a result of inappropriate use of systems</td>
 </ol>
 
 <a id="conductingaforensicinvestigation"></a>
-<h2>Conducting a forensic investigation</h2>
+## Conducting a forensic investigation
 
-<h3>Having enough capacity</h3>
+### Having enough capacity
 <p>At all times, a forensic investigation must be possible on a system or domain, using internal or external resources. Include details in your FRPlan about the pre-allocation of resources, or a process for obtaining the resources.</p>
 <p>The resources required for an investigation should be sufficient to meet capability level 2 of the <a href="https://www.ncsc.gov.uk/guidance/forensic-readiness-good-practice-guide-18" target="_blank">NCSC Forensic Readiness Good Practice Guide</a>. The actual capacity required for an investigation is determined for each system as part of the accreditation process, defined within the <a href="https://intranet.justice.gov.uk/documents/2015/04/accreditation-framework.pdf">MOJ Accreditation Framework</a>.</p>
 
-<h3>Deciding if forensic work is required</h3>
+### Deciding if forensic work is required
 <p>Normally, a forensic investigation is done only if any of the following scenarios applies:</p>
 <ul>
 <li>it is required by UK law</li>
@@ -277,13 +296,13 @@ Disciplinary issues as a result of inappropriate use of systems</td>
 <p>Your FRPlan should have a process for confirming that forensic work is required.</p>
 
 <a id="ensuringadmissibility"></a>
-<h3>Ensuring admissibility</h3>
+### Ensuring admissibility
 <p>Legal and regulatory constraints on the MOJ differ from region to region. Conducting investigations in line with MOJ policies helps avoid any problems.</p>
 <p><a href="https://www.bsigroup.com/en-GB/bs-10008-electronic-information-management/" target="_blank">BS 10008</a> is the British Standard describing legal admissibility of evidence. Evidence captured from an MOJ system during an investigation must meet the standard.</p>
 <p>Other legal frameworks and guidance might apply. For example, the National Crime Agency (NCA) expects an investigation to follow <a href="https://www.app.college.police.uk/app-content/investigations/linked-reference-material/" target="_blank">Association of Chief Police Officers (ACPO) guidelines</a> to help ensure admissibility.</p>
 <p>The FRPlan should include processes for seeking advice from the MOJ legal team and appropriate forensic investigation providers to ensure that evidence collected and managed is legally admissible.</p>
 
-<h3>Types of investigation</h3>
+### Types of investigation
 <p>The FRPlan should include details for running each of the two types of forensic investigation:</p>
 <ul>
 <li>proactive</li>
@@ -299,20 +318,20 @@ Disciplinary issues as a result of inappropriate use of systems</td>
 <li>availability of key resources</li>
 </ul>
 
-<h3>Starting an investigation</h3>
+### Starting an investigation
 <p>Unless the investigation is required by UK law or requested by UK law enforcement, you must do three tasks before starting the investigation:</p>
 <ul><li>Perform a cost benefit analysis, including an assessment of the risk management benefits. This determines the cost of collecting and analysing the data, and measures the benefits of the analysis.</li>
 <li>Get confirmation that the investigation has been authorised by the ITSO, DSO or business group SIRO.</li>
 <li>Get confirmation that the planned forensic investigation complies with the system SIMP.</li></ul>
 <p>Your FRPlan should have a process for completing these three steps.</p>
 
-<h3>Business continuity</h3>
+### Business continuity
 <p>The MOJ must be able to resume or continue working as soon as possible after an IT security incident event. This means that a forensic investigation should try to avoid impeding restoration of services. Ideally, the investigation helps support the restoration of IT services.</p>
 <p>For example, a forensic investigation might require removal of hardware. Therefore, the investigation process should include provision for replacement hardware as part of removing the original equipment.</p>
 <p>Your FRPlan should ensure that business continuity is maintained as much as possible throughout the investigation.</p>
 
 <a id="collectingandmanagingevidence"></a>
-<h3>Collecting and managing evidence</h3>
+### Collecting and managing evidence
 <p>Digital evidence is surprisingly 'fragile'. It must be handled extremely carefully to remain admissible. The forensic investigator or other qualified individual must check before capturing and storing evidence that the methods proposed are acceptable and comply with the <a href="#ensuringadmissibility">Legality</a> requirements, and in particular comply with <a href="https://www.bsigroup.com/en-GB/bs-10008-electronic-information-management/" target="_blank">BS 10008</a>.</p>
 <p>Anything done to evidence material must be recorded, including the details of what was done, and by whom.</p>
 <p>In practice, the task of collecting and managing evidence is likely to be split between the MOJ, service providers, or external forensics providers. The methods used must still comply with the <a href="#ensuringadmissibility">Legal admissibility</a> requirements and with <a href="https://www.bsigroup.com/en-GB/bs-10008-electronic-information-management/" target="_blank">BS 10008</a>. Throughout the investigation, evidence materials must be under the control of the Forensic Investigation Owner, who has responsibility for the material.</p>
@@ -383,17 +402,17 @@ Disciplinary issues as a result of inappropriate use of systems</td>
   <li>comply with the four principles of collecting forensic evidence</li>
 </ul>
 
-<h3>Disposing of material</h3>
+### Disposing of material
 <p>When no longer required, equipment, information, or other evidential items must be disposed of securely and in compliance with the <a href="https://intranet.justice.gov.uk/guidance/knowledge-information/managing-information/what-to-keep/">record retention and disposition schedule</a>. Do this by following the <a href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/">ICT Security – ICT Asset Disposal Guide</a>.</p>
 <p>Ensure that the FRPlan has the details and processes to ensure timely and suitable disposal of materials that are no longer required.</p>
 
 <a id="reportingandcommunication"></a>
-<h2>Reporting and communication</h2>
+## Reporting and communication
 <p>Reporting is essential during an incident and subsequent investigation. A major incident might require external (non-MOJ) reporting. The FRPlan should include details and processes for communicating with generic and specific external audiences that might be included in the reporting structure or escalation path.</p>
 <p>Consider the impact of any external reporting or escalation on day-to-day operational work. The investigation process needs to allow for the chain of evidence to be passed to outside agencies, such as law enforcement.</p>
 <p>The FRPlan should include details of who get reports, and processes for collecting and delivering the information to present to them. The FRPlan must be consistent with the reporting structure included in the SIMP. The FRPlan should also identify a single point of contact to coordinate the communications with people interested in the forensic investigation. This person is normally the FIO.</p>
 
-<h3>Internal reporting</h3>
+### Internal reporting
 <p>Internal reporting and communication must meet two objectives:</p>
 <ol>
   <li>Informing senior management that an incident has happened or is still in progress.</li>
@@ -410,7 +429,7 @@ Disciplinary issues as a result of inappropriate use of systems</td>
   <li>the MOJ Data Access and Compliance Unit, especially where an incident involves personal data</li>
 </ul>
 
-<h3>External reporting</h3>
+### External reporting
 <p>Major incidents often require communication with external bodies, such as:</p>
 <ul>
   <li>other government agencies, especially if common assets or the agencies themselves are directly involved</li>
@@ -420,19 +439,19 @@ Disciplinary issues as a result of inappropriate use of systems</td>
   <li>MOJ legal advisors</li>
 </ul>
 
-<h3>Escalating reports</h3>
+### Escalating reports
 <p>As work progresses, significant issues might be identified, or something might go wrong. In that case, it might become necessary to escalate to a wider or more senior audience.</p>
 <p>The IAO or FIO is responsible for decisions about escalating or increasing the audience for reports. If responsibility for an investigation was escalated to the DSO or SIRO, they decide who gets the reports and will also decide on further escalation if it is appropriate.</p>
 <p>The FRPlan should include details of the escalation path options. In particular, define clear roles and connection points to help speed up response.</p>
 
 <a id="staffawareness"></a>
-<h2>Staff awareness</h2>
+## Staff awareness
 <p>Everyone using an MOJ system should know that their access and use is monitored. This awareness includes an understanding that forensic techniques might be used to capture evidence as part of an investigation. The FRPlan for a system should describe how this awareness is provided.</p>
 <p>More generally, ongoing MOJ security awareness training should include forensic readiness awareness, and ensure at least annual refreshment for all staff on the current policy and procedures. This includes the communication of any required incident response procedures to ensure admissibility of evidence.</p>
 <p>For those with specific roles identified in the FRPlan, more in-depth forensic readiness training may be required. The FRPlan should include details for providing the necessary training.</p>
 
 <a id="maintainingtheplan"></a>
-<h2>Maintaining the plan</h2>
+## Maintaining the plan
 <p>To ensure that the plan remains relevant, effective, and efficient, it should be reviewed annually and updated if appropriate.</p>
 <p>As a minimum, the following plan information should be reviewed:</p>
 <ul>
