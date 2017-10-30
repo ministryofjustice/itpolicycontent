@@ -1,11 +1,13 @@
 ---
 title: Code of connection standard
-date: 2017-10-26 13:43
 ---
 
 This standard is designed to help protect MoJ ICT systems by providing a standard for the connection of a 3rd party ICT system to a MoJ ICT system.
-##Overview
-###Introduction
+
+## Overview
+
+### Introduction
+
 A Code of Connection (CoCo) is designed to provide a mechanism to record a formal agreement between a 3rd party organisation and the MoJ on the security measures to be applied by that 3rd party prior to and during any electronic connection with a MoJ ICT system, for example, to facilitate the exchange of data between two case management systems.
 
 <a href=https://www.gov.uk/government/publications/security-policy-framework/hmg-security-policy-framework>HMG Security Policy Framework (SPF)</a> mandatory requirements state that:
@@ -17,12 +19,19 @@ In order to meet these requirements, the SPF stipulates that ICT systems must:
 <blockquote>Comply with the requirements of any codes of connection, multilateral or bilateral international agreements and community or shared services security policies to which they are signatories (e.g. Government Secure Intranet).</blockquote>
 
 Policy statements on connecting 3rd party ICT systems and the requirements for a CoCo are covered in IT Security – Technical Controls Policy, while this document sets out the MoJ standard for its implementation.
-###Scope
+
+### Scope
+
 This guide applies to all MoJ ICT systems including ICT systems hosted by third party suppliers on behalf of the MoJ where there is a valid business requirement to connect to a 3rd party system.
-###Demonstration of Compliance
+
+### Demonstration of Compliance
+
 The CESG Information Assurance Maturity Model (IAMM) sets out the minimum maturity level Government departments should attain. Maintaining secure connections is captured as a basic requirement in Level 1 of this model, which the MoJ will need to demonstrate compliance with in their IAMM return to the Cabinet Office.
-##Code of Connection
-###Context
+
+## Code of Connection
+
+### Context
+
 A Code of Connection (CoCo) is designed to provide evidence to the MoJ that a connecting 3rd party understands the security controls and procedures required to connect to a MoJ ICT system and that those controls and procedures have been implemented. The aim here is to ensure that the risks associated with connecting ICT systems together are sufficiently mitigated in the technical solution and managed on an ongoing basis during live operation.
 
 <strong>Note:</strong> This standard is based on connecting a RESTRICTED-IL3 MoJ ICT system with an Accredited 3rd party RESTRICTED-IL3 ICT system where all electronic communication is over an Accredited RESTRICTED-IL3 network/s and/or RESTRICTED-IL3 communications channel. Where this is not the case, advice must be sort from the IT Security Officer (ITSO) and system Accreditor.
@@ -34,7 +43,8 @@ A generic CoCo (based on the note above) is provided in Appendix A; it is split 
 
 <strong>Note:</strong> A signed CoCo between the MoJ and the connecting 3rd party is required before the connection can go into live operation.
 
-###Managing the risk of connectivity
+### Managing the risk of connectivity
+
 In order to ensure that the connectivity and sharing of electronic data between a MoJ ICT system and a 3rd party ICT system does not cause undue risk from one participating organisation to another, each organisation must reasonably comply with the code of connection to ensure any risks are managed effectively.
 
 The need for a CoCo and its application will be determined by the MoJ system Accreditor who will consider the risks involved, this may require the production of a technical risk assessment and/or RMADS for the connection (further details on RMADS can be found in the Accreditation Framework, [Ref, 7]).
@@ -45,7 +55,8 @@ It is highly likely that the connection between the two systems will be over the
 
 <strong>Note:</strong> Depending on the protocols being used, the GSi authority may need to be contacted.
 
-###Completing a Code of Connection
+### Completing a Code of Connection
+
 The IT System Manager and/or ITSO for the connecting 3rd party organisation must review CoCo and submit the supporting compliance statement to the MoJ system Accreditor along with any supporting documentation.
 
 In completing the CoCo statement, the connecting 3rd party organisation confirms that they have implemented all the controls required, it should be noted that the adoption of these controls will not totally mitigate all the risks involved whether to the 3rd party’s own ICT system or to the connecting MoJ ICT system.
