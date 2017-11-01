@@ -4,7 +4,7 @@ title: Review list
 
 # Ministry of Justice
 
-Last updated: 1 November 2017
+Last updated: 1 Nov 2017
 
 ## **Draft** IT Policy Content
 
