@@ -26,5 +26,5 @@ Last updated: 1 Nov 2017
 | Data Handling and Information Sharing Guide | <https://ministryofjustice.github.io/itpolicycontent/content/data-handling-and-information-sharing-guide.html> | <https://intranet.justice.gov.uk/?page_id=106420> |
 | ICT Security Policy | <https://ministryofjustice.github.io/itpolicycontent/content/ict-security-policy.html> | <https://intranet.justice.gov.uk/?page_id=108966> |
 | HMG Cryptography Business Continuity Management Standard | <https://ministryofjustice.github.io/itpolicycontent/content/hmg-cryptography-business-continuity-management-standard.html> | <https://intranet.justice.gov.uk/?page_id=109705> |
+| Offshoring Guide | <https://ministryofjustice.github.io/itpolicycontent/content/offshoring-guide.html> |  |
 | System Test Standard | <https://ministryofjustice.github.io/itpolicycontent/content/system-test-standard.html> | <https://intranet.justice.gov.uk/?page_id=109963> |
-| Offshoring Guide | <https://ministryofjustice.github.io/itpolicycontent/content/offshoring-guide.html> | <https://intranet.justice.gov.uk/?page_id=109963> |
