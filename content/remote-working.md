@@ -119,6 +119,8 @@ By signing below I acknowledge that I have read the Remote Working Security Oper
 <tr valign='top'><td>Signature:</td><td>&nbsp;</td></tr>
 </table>
 
+<p></p>
+
 <table border='1'>
 <tr valign='top'>
 <td>This policy is dated October 2017, and is an update of the Remote Working Policy, v1.0, May 2015.<br/>
