@@ -119,7 +119,7 @@ By signing below I acknowledge that I have read the Remote Working Security Oper
 <tr valign='top'><td>Signature:</td><td>&nbsp;</td></tr>
 </table>
 
-<p></p>
+<p>&nbsp;</p>
 
 <table border='1'>
 <tr valign='top'>
