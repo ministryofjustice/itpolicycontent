@@ -403,7 +403,7 @@ The FRPlan should include details of who get reports, and processes for collecti
 Internal reporting and communication must meet two objectives:
 
 1.  Informing senior management that an incident has happened or is still in progress.
-2.  Preventing a target from being alerted that an investigation is in progress.
+2.  As far as possible, preventing a target from being alerted that an investigation is in progress.
 
 Bearing these in mind, reports normally go to:
 
