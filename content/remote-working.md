@@ -114,7 +114,7 @@ For other security related information, please refer to:
 By signing below I acknowledge that I have read the Remote Working Security Operating Procedures (SyOPs) and agree to be bound by them.
 
 <table border='1'>
-<tr valign='top'><td>Name:</td><td>&nbsp;</td></tr>
+<tr valign='top'><td>Name:</td><td width='100%'>&nbsp;</td></tr>
 <tr valign='top'><td>Date:</td><td>&nbsp;</td></tr>
 <tr valign='top'><td>Signature:</td><td>&nbsp;</td></tr>
 </table>
