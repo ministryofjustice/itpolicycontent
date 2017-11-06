@@ -80,7 +80,7 @@ Changes must not be implemented unless the corresponding Operational Change Requ
 </tr>
 <tr valign='top'>
 <td>Audit &amp; protective monitoring</td>
-<td>Audit logs collected as part of the IT System's protective monitoring solution must be monitored by the System Administrator.
+<td><ul><li>Audit logs collected as part of the IT System's protective monitoring solution must be monitored by the System Administrator.
 General audit checking must occur at regular intervals (set by the system owner) and all suspicious activity must be monitored and investigated thoroughly.</li>
 <li>System Administrators must ensure that audit and compliance checks do not adversely affect the business operation of the IT System.</li>
 <li>It is the System Administrator's responsibility to protect audit logs in accordance with its Protective Marking.</li></ul></td>
@@ -103,8 +103,8 @@ Encryption may be required at the direction of the system Accreditor.</li></ul><
 <td><ul><li>Any incident involving a suspected or known security breach involving personnel, hardware, software, communications, document or physical security
 must be reported immediately to the System Administrator's System Manager, and the [ORGANISATION] Operational Security Team (OST).</li>
 <li>Any loss of IT equipment, [ORGANISATION] or personal data should be reported to the System Administrator's line manager,
-the [ORGANISATION] OST and to the Data Access &amp; Compliance Unit (DACU): email [data.access@justice.gsi.gov.uk](mailto:data.access@justice.gsi.gov.uk)
-or ring the Head of the Information Access Division on 0203 334 3798.
+the [ORGANISATION] OST and to the Data Access &amp; Compliance Unit (DACU): email [data.access@justice.gsi.gov.uk](mailto:data.access@justice.gsi.gov.uk) or
+ring the Head of the Information Access Division on 0203 334 3798.
 To ensure a quick response all emails should be marked Urgent and have 'Data Incident' in the title/subject heading.</li></ul></td>
 </tr>
 </table>
