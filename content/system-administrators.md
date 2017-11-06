@@ -86,10 +86,30 @@ General audit checking must occur at regular intervals (set by the system owner)
 <li>It is the System Administrator's responsibility to protect audit logs in accordance with its Protective Marking.</li></ul></td>
 </tr>
 <tr valign='top'>
-
+<td>Passwords</td>
+<td><ul><li>Administrator passwords must be created in line with the [ORGANISATION] Password Standard [Ref, 3].
+Passwords must be a minimum of 12 characters long and use a mix of lower case, upper case, numbers and special characters.</li>
+<li>The password for an Administrator account must not be re-used with another Administrator or Normal User account.</li></ul></td>
+</tr>
+<tr valign='top'>
+<td>Back-up</td>
+<td><ul><li>System Administrators must follow the IT System's back up schedule and procedures.</li>
+<li>All back up media must be assigned a Protective Marking and afforded appropriate protection based on that marking.
+Back-up material must only be accessible to those who have a need-to-know.
+Encryption may be required at the direction of the system Accreditor.</li></ul></td>
+</tr>
+<tr valign='top'>
+<td>Incident Management &amp; response</td>
+<td><ul><li>Any incident involving a suspected or known security breach involving personnel, hardware, software, communications, document or physical security
+must be reported immediately to the System Administrator's System Manager, and the [ORGANISATION] Operational Security Team (OST).</li>
+<li>Any loss of IT equipment, [ORGANISATION] or personal data should be reported to the System Administrator's line manager,
+the [ORGANISATION] OST and to the Data Access &amp; Compliance Unit (DACU): email [data.access@justice.gsi.gov.uk](mailto:data.access@justice.gsi.gov.uk)
+or ring the Head of the Information Access Division on 0203 334 3798.
+To ensure a quick response all emails should be marked Urgent and have 'Data Incident' in the title/subject heading.</li></ul></td>
 </tr>
 </table>
-By signing below I acknowledge that I have read the Remote Working Security Operating Procedures (SyOPs) and agree to be bound by them.
+
+By signing below I acknowledge that I have read the System Administrator Security Operating Procedures (SyOps) and agree to be bound by them.
 
 <table border='1'>
 <tr valign='top'><td>Name:</td><td width='100%'>&nbsp;</td></tr>
@@ -101,31 +121,7 @@ By signing below I acknowledge that I have read the Remote Working Security Oper
 
 <table border='1'>
 <tr valign='top'>
-<td>This policy is dated October 2017, and is an update of the Remote Working Policy, v1.0, May 2015.<br/>
-To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=remote-working">itpolicycontent@digital.justice.gov.uk</a>.</td>
+<td>This policy is dated October 2017, and is an update of the System Administrator Security Operating Procedures (SyOps), v1.0, May 2015.<br/>
+To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=system-administrator">itpolicycontent@digital.justice.gov.uk</a>.</td>
 </tr>
 </table>
-
-
-
-
-
-Passwords
-Administrator passwords must be created in line with the [ORGANISATION] Password Standard [Ref, 3]. Passwords must be a minimum of 12 characters long and use a mix of lower case, upper case, numbers and special characters.
-The password for an Administrator account must not be re-used with another Administrator or Normal User account.
-Back-up
-System Administrators must follow the IT System’s back up schedule and procedures.
-All back up media must be assigned a Protective Marking and afforded appropriate protection based on that marking. Back-up material must only be accessible to those who have a need-to-know. Encryption may be required at the direction of the system Accreditor.
-Incident Management & response
-Any incident involving a suspected or known security breach involving personnel, hardware, software, communications, document or physical security must be reported immediately to the System Administrator’s System Manager, and the [ORGANISATION] Operational Security Team (OST).
-Any loss of IT equipment, [ORGANISATION] or personal data should be reported to the System Administrator’s line manager, the [ORGANISATION] OST and to the Data Access & Compliance Unit (DACU): email data.access@justice.gsi.gov.uk or ring the Head of the Information Access Division on 0203 334 3798.  To ensure a quick response all emails should be marked Urgent and have ‘Data Incident’ in the title/subject heading.
- 
-By signing below I acknowledge that I have read the System Administrator Security Operating Procedures (SyOps) and agree to be bound by them.
-Name:            _________________________________
-Date:              _________________
-Signature:      _________________________________
- 
-LikeBe the first to like this
-No labelsEdit Labels
-User icon
-Write a comment…
