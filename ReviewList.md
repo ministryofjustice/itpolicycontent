@@ -28,4 +28,5 @@ Last updated: 6 Nov 2017
 | ICT Security Policy | <https://ministryofjustice.github.io/itpolicycontent/content/ict-security-policy.html> | <https://intranet.justice.gov.uk/?page_id=108966> |
 | HMG Cryptography Business Continuity Management Standard | <https://ministryofjustice.github.io/itpolicycontent/content/hmg-cryptography-business-continuity-management-standard.html> | <https://intranet.justice.gov.uk/?page_id=109705> |
 | Offshoring Guide | <https://ministryofjustice.github.io/itpolicycontent/content/offshoring-guide.html> | <https://intranet.justice.gov.uk/?page_id=112350> |
+| Remote Working | <https://ministryofjustice.github.io/itpolicycontent/content/remote-working.html> |  |
 | System Test Standard | <https://ministryofjustice.github.io/itpolicycontent/content/system-test-standard.html> | <https://intranet.justice.gov.uk/?page_id=109963> |
