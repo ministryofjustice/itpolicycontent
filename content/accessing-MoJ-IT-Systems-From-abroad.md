@@ -17,24 +17,24 @@ Special case: If you are national security cleared to ‘Enhanced SC’ or DV le
 If you need to access MoJ services from abroad and visiting one of the following countries, you must seek permission from your line manager and SCS/Governor first. If they approve, submit your request to [Operational Security](mailto:operationalsecurityteam@justice.gsi.gov.uk), giving at least 14 days’ notice. This is because it may be necessary to apply additional technical controls to protect you, your device, and any data they can access.	
 
 *   China
-*   Pakistan
 *   Cyprus
-*   Russia
 *   Egypt
-*   Saudi Arabia
 *   France
-*   South Africa
 *   Germany
-*   South Korea
 *   India
-*   Syria
 *   Iran
-*   Turkey
 *   Israel
-*   UAE
 *   North Korea
+*   Pakistan
+*   Russia
+*   Saudi Arabia
+*   South Africa
+*   South Korea
+*   Syria
+*   Turkey
+*   UAE
 
-<strong>To make a request:</strong>
+**To make a request:**
 
 First, collect the following information:
 
@@ -60,13 +60,13 @@ When you have received business approval, send a copy of your request and the ap
 
 When Operational Security have acknowledged receipt of the request and approval, the process is complete.
 
-###International Roaming
+### International Roaming
 
 While travelling, you might incur roaming charges when using your MOJ equipment for calls or accessing services. These charges can be expensive, and must be paid by your Business Unit. This is another reason for having a good business need to take MOJ equipment abroad.  
 
 By default, MOJ equipment is not enabled for use abroad. Before travelling, contact the [MoJ Phone and Mobile Devices](mailto:MoJ_Phone_and_Mobi@Justice.gov.uk) team. Ask them to enable International Roaming, and to activate the remote wipe function. This protects the MOJ equipment in case of loss or theft.
 
-###If you have any problem when using MOJ equipment abroad
+### If you have any problem when using MOJ equipment abroad
 
 Contact the  Service Desk immediately. Tell them if the MOJ equipment  is lost, stolen or was potentially compromised. This includes any time the equipment is deliberately removed out of your sight, such as by a customs official.
 
@@ -83,12 +83,13 @@ It might be necessary to disable your ability to connect to the MOJ network or s
 
 MOJ-issued phones might still have some functionality, to let you make phone calls, but the device should be treated as compromised and not used any more for any MoJ business.
 
-####Related pages
+#### Related pages
 
-*   [General advice on taking Equipment abroad](https://intranet.justice.gov.uk/guidance/security/staff-security-and-responsibilities/travelling-abroad-business-or-personal)
+*   General advice on taking Equipment abroad - link to follow
+*   [Travelling abroad - business or personal](https://intranet.justice.gov.uk/guidance/security/staff-security-and-responsibilities/travelling-abroad-business-or-personal)
 *   [Staff security and responsibilities – during employment](https://intranet.justice.gov.uk/guidance/security/staff-security-and-responsibilities/during-employment)
 
-####External websites
+#### External websites
 
 *   [Foreign & Commonwealth Office – travel & living abroad](https://www.gov.uk/browse/abroad)
 
