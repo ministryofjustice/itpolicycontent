@@ -1,4 +1,4 @@
-﻿---
+---
 title: Accessing MoJ IT Systems From Abroad
 ---
 
@@ -12,9 +12,9 @@ But before you travel, consider:
 
 As a government official travelling overseas, you should consider that you may be of interest to hostile parties regardless of your role. By following MoJ policies and processes, you can help reduce the risk to yourself and limit the damage of exposure of sensitive information.
 
-Special case: If you are national security cleared to ‘Enhanced SC’ or DV levels, you must also contact Corporate Security branch before travelling, regardless of whether the trip is for business or personal reasons.
+Special case: If you are national security cleared to ‘Enhanced SC’ or DV levels, you must also contact [Corporate Security](mailto:corporatesecuritybranch@justice.gsi.gov.uk) branch before travelling, regardless of whether the trip is for business or personal reasons.
  
-If you need to access MoJ services from abroad and visiting one of the following countries, you must seek permission from your line manager and SCS/Governor first. If they approve, submit your request to Operational Security, giving at least 14 days’ notice. This is because it may be necessary to apply additional technical controls to protect you, your device, and any data they can access.	
+If you need to access MoJ services from abroad and visiting one of the following countries, you must seek permission from your line manager and SCS/Governor first. If they approve, submit your request to [Operational Security](mailto:operationalsecurityteam@justice.gsi.gov.uk), giving at least 14 days’ notice. This is because it may be necessary to apply additional technical controls to protect you, your device, and any data they can access.	
 
 *   China
 *   Pakistan
@@ -56,7 +56,7 @@ Next, request business approval as follows:
 | MOJ HQ, HMPPS HQ or HMCTS MOJ staff | Send your request to your Senior Civil Servant (SCS) |
 | All HMPPS staff except HQ | Send your request to your governor |
 
-When you have received business approval, send a copy of your request and the approval to Operational Security.
+When you have received business approval, send a copy of your request and the approval to [Operational Security](mailto:operationalsecurityteam@justice.gsi.gov.uk).
 
 When Operational Security have acknowledged receipt of the request and approval, the process is complete.
 
@@ -64,7 +64,7 @@ When Operational Security have acknowledged receipt of the request and approval,
 
 While travelling, you might incur roaming charges when using your MOJ equipment for calls or accessing services. These charges can be expensive, and must be paid by your Business Unit. This is another reason for having a good business need to take MOJ equipment abroad.  
 
-By default, MOJ equipment is not enabled for use abroad. Before travelling, contact the MoJ Phone and Mobile Devices team. Ask them to enable International Roaming, and to activate the remote wipe function. This protects the MOJ equipment in case of loss or theft.
+By default, MOJ equipment is not enabled for use abroad. Before travelling, contact the [MoJ Phone and Mobile Devices](mailto:MoJ_Phone_and_Mobi@Justice.gov.uk) team. Ask them to enable International Roaming, and to activate the remote wipe function. This protects the MOJ equipment in case of loss or theft.
 
 ###If you have any problem when using MOJ equipment abroad
 
@@ -75,9 +75,9 @@ When calling from abroad, the contact telephone numbers you need are:
 1. Technology Service Desk: +44 (0)1270 612 618
 2. NICTs Service Desk: +44 (0)191 587 8388
  
-*   If any security-related incident occurs overseas, you should contact Corporate Security Branch as soon as possible.
+*   If any security-related incident occurs overseas, you should contact [Corporate Security Branch](mailto:corporatesecuritybranch@justice.gsi.gov.uk) as soon as possible.
 
-*   If there is any emergency outside normal UK business hours,  contact the Duty Security Officer on 020 3334 5577, or email: dutysecurityofficer@justice.gsi.gov.uk
+*   If there is any emergency outside normal UK business hours,  contact the Duty Security Officer on 020 3334 5577, or email: [dutysecurityofficer@justice.gsi.gov.uk](mailto:dutysecurityofficer@justice.gsi.gov.uk)
  
 It might be necessary to disable your ability to connect to the MOJ network or services from your device. Service Desk will do this if required.
 
@@ -85,11 +85,10 @@ MOJ-issued phones might still have some functionality, to let you make phone cal
 
 ####Related pages
 
-*   General advice on taking Equipment abroad doc
-https://intranet.justice.gov.uk/guidance/security/staff-security-and-responsibilities/travelling-abroad-business-or-personal/
-*   Staff security and responsibilities – during employment
+*   [General advice on taking Equipment abroad](https://intranet.justice.gov.uk/guidance/security/staff-security-and-responsibilities/travelling-abroad-business-or-personal)
+*   [Staff security and responsibilities – during employment](https://intranet.justice.gov.uk/guidance/security/staff-security-and-responsibilities/during-employment)
 
 ####External websites
 
-*   Foreign & Commonwealth Office – travel & living abroad
+*   [Foreign & Commonwealth Office – travel & living abroad](https://www.gov.uk/browse/abroad)
 
