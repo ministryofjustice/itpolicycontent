@@ -1,20 +1,20 @@
 ---
-title: Accessing MoJ IT Systems From Abroad
+title: Accessing MOJ IT Systems From Abroad
 ---
 
-In general, it is acceptable for MoJ users to access MoJ services from abroad, and to do this using their MoJ equipment. 
+In general, it is acceptable for MOJ users to access MOJ services from abroad, and to do this using their MOJ equipment. 
 
 But before you travel, consider:
 
-*   If you need to take MoJ IT equipment abroad or access MoJ IT systems to do your job?
+*   If you need to take MOJ IT equipment abroad or access MOJ IT systems to do your job?
 *   If the business need can be met in another way or by someone else?
 *   If you just need to manage your inbox while away, whether you can delegate permissions to your inbox to a colleague to manage on your behalf?
 
-As a government official travelling overseas, you should consider that you may be of interest to hostile parties regardless of your role. By following MoJ policies and processes, you can help reduce the risk to yourself and limit the damage of exposure of sensitive information.
+As a government official travelling overseas, you should consider that you may be of interest to hostile parties regardless of your role. By following MOJ policies and processes, you can help reduce the risk to yourself and limit the damage of exposure of sensitive information.
 
 Special case: If you are national security cleared to ‘Enhanced SC’ or DV levels, you must also contact [Corporate Security](mailto:corporatesecuritybranch@justice.gsi.gov.uk) branch before travelling, regardless of whether the trip is for business or personal reasons.
  
-If you need to access MoJ services from abroad and visiting one of the following countries, you must seek permission from your line manager and SCS/Governor first. If they approve, submit your request to [Operational Security](mailto:operationalsecurityteam@justice.gsi.gov.uk), giving at least 14 days’ notice. This is because it may be necessary to apply additional technical controls to protect you, your device, and any data they can access.	
+If you need to access MOJ services from abroad and visiting one of the following countries, you must seek permission from your line manager and SCS/Governor first. If they approve, submit your request to [Operational Security](mailto:operationalsecurityteam@justice.gsi.gov.uk), giving at least 14 days’ notice. This is because it may be necessary to apply additional technical controls to protect you, your device, and any data they can access.	
 
 *   China
 *   Cyprus
@@ -46,7 +46,7 @@ First, collect the following information:
 *   Asset Tag details
 *   Country of travel
 *   Dates of travel
-*   Proposed method of connecting (e.g. MoJ WiFi)
+*   Proposed method of connecting (e.g. MOJ WiFi)
 *   Reason for maintaining access while abroad
 
 Next, request business approval as follows:
@@ -64,7 +64,7 @@ When Operational Security have acknowledged receipt of the request and approval,
 
 While travelling, you might incur roaming charges when using your MOJ equipment for calls or accessing services. These charges can be expensive, and must be paid by your Business Unit. This is another reason for having a good business need to take MOJ equipment abroad.  
 
-By default, MOJ equipment is not enabled for use abroad. Before travelling, contact the [MoJ Phone and Mobile Devices](mailto:MoJ_Phone_and_Mobi@Justice.gov.uk) team. Ask them to enable International Roaming, and to activate the remote wipe function. This protects the MOJ equipment in case of loss or theft.
+By default, MOJ equipment is not enabled for use abroad. Before travelling, contact the [MOJ Phone and Mobile Devices](mailto:MoJ_Phone_and_Mobi@Justice.gov.uk) team. Ask them to enable International Roaming, and to activate the remote wipe function. This protects the MOJ equipment in case of loss or theft.
 
 ### If you have any problem when using MOJ equipment abroad
 
@@ -81,7 +81,7 @@ When calling from abroad, the contact telephone numbers you need are:
  
 It might be necessary to disable your ability to connect to the MOJ network or services from your device. Service Desk will do this if required.
 
-MOJ-issued phones might still have some functionality, to let you make phone calls, but the device should be treated as compromised and not used any more for any MoJ business.
+MOJ-issued phones might still have some functionality, to let you make phone calls, but the device should be treated as compromised and not used any more for any MOJ business.
 
 #### Related pages
 
