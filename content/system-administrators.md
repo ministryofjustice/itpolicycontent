@@ -56,7 +56,7 @@ If an electronic monitoring system is not in place (such as key card entry), the
 Permissions granted must be commensurate to the User’s business role, and are only to be enabled once a signed copy of the normal system user SyOps [Ref, 2] has been received from the User.</li>
 <li>Account usage should be reviewed on regular intervals.
 If an account is dormant, the System Administrator must investigate its status and disable the account if appropriate.</li>
-<li>All User & Administrator accounts must be disabled when staff members leave the organisation or where the account is not required.</li>
+<li>All User &amp; Administrator accounts must be disabled when staff members leave the organisation or where the account is not required.</li>
 <li>Administrator level accounts must only be used when carrying out administrative tasks; at all other times a Normal User account must be used.</li></ul></td>
 </tr>
 <tr valign='top'>
