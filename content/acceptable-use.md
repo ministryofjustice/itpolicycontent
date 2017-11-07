@@ -40,7 +40,7 @@ Acceptable use can also vary according to context. For example, checking sensiti
 
 ## Unacceptable use of MOJ IT
 
-Unacceptable use of IT prevents you or your colleagues from doing work, or does not take the context into account.
+Unacceptable use of IT prevents you or your colleagues from doing work, or  is unlawful or illegal, or does not take the context into account.
 
 There are many unacceptable uses of IT, making it impossible to provide a complete list. Examples of things to avoid include:
 
@@ -48,6 +48,8 @@ There are many unacceptable uses of IT, making it impossible to provide a comple
 - using resources without permission
 - storing sensitive information where it could easily be lost or stolen
 - using your work email address for personal tasks
+- excessive private use during working time
+- installing unlicensed or unauthorised software
 
 ## Why unacceptable use is a problem
 
@@ -65,6 +67,8 @@ Unacceptable use might also affect you, too:
 - termination of contract for contractors and agency staff
 
 ## Keeping control
+
+You are responsible for protecting your MOJ IT resources. This includes keeping your usernames and passwords safe and secure.
 
 While you might be careful about acceptable use of MOJ IT, there are still risks from [malware](https://en.wikipedia.org/wiki/Malware), [ransomware](https://en.wikipedia.org/wiki/Ransomware), or [phishing](https://en.wikipedia.org/wiki/Phishing) attacks.
 
