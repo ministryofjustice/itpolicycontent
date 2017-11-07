@@ -4,7 +4,7 @@ title: Review list
 
 # Ministry of Justice
 
-Last updated: 6 Nov 2017
+Last updated: 7 Nov 2017
 
 ## **Draft** IT Policy Content
 
@@ -31,3 +31,4 @@ Last updated: 6 Nov 2017
 | Remote Working | <https://ministryofjustice.github.io/itpolicycontent/content/remote-working.html> | <https://intranet.justice.gov.uk/?page_id=112617> |
 | System Administrators | <https://ministryofjustice.github.io/itpolicycontent/content/system-administrators.html> | <https://intranet.justice.gov.uk/?page_id=112703> |
 | System Test Standard | <https://ministryofjustice.github.io/itpolicycontent/content/system-test-standard.html> | <https://intranet.justice.gov.uk/?page_id=109963> |
+| System Users and Application Administrators | <https://ministryofjustice.github.io/itpolicycontent/content/system-users-and-application-administrators.html> | <https://intranet.justice.gov.uk/?page_id=112730> |
