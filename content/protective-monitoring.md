@@ -177,6 +177,8 @@ Where a minimum control objective cannot be met (for example, due to an implemen
 
 It is important to ensure that there is a mechanism in place to review, update or extend the protective monitoring controls once an ICT system is in live operation. This will occur when an ICT system undergoes the re-accreditation process, further details of which can be found in the [Accreditation Framework][accreditation-framework].
 
+<a id="minimum-audit-requirements"></a>
+
 ### Minimum audit requirements
 
 The minimum audit requirement is specified in [CESG GPG No.13][gpg13] where the following provides the audit criteria which **must be** captured in the protective monitoring schema (a template table is provided in [here](#audit-regime) ):
@@ -186,6 +188,8 @@ The minimum audit requirement is specified in [CESG GPG No.13][gpg13] where the 
 - Details on when the protective monitoring system is to be manned;
 - Details on when the system is to be subject to compliance review;
 - Details on the reporting structure (see [Reporting Structure](#reporting-structure) ), which should be specified in terms of a weekly, monthly or annual report.
+
+<a id="baseline-control-set-and-implementation-of-controls-objectives"></a>
 
 ### Baseline Control Set and implementation of controls objectives
 
@@ -638,229 +642,424 @@ For PMC 7 the following is to be implemented:
 </tr>
 </table>
 
-
-Detail
-Notes/Statement of Compliance
-Control
- 
-Recording on session activity by user and workstation.
-[Insert additional notes/test as required.]
-Control Description
- 
-Monitor user activity and access to ensure they can be made accountable for their actions.
-[Insert additional notes/test as required.]
-Objective
- 
-Detect unauthorised activity and access that is either suspicious or is in violation of security policy.
-[Insert additional notes/test as required.]
-Risk Level
- 
-VERY LOW/LOW/MEDIUM
-Insert Risk level
-Service Description
-Report
-Alert
-Proposed control/implementation
-[Insert controls to be applied and any additional controls identified as part of analysis.]
-[Insert R to denote report]
-[Insert A to denote alert]
-[Insert additional notes/test as required.]
- 	 	 	 	 
- 
 Minimum control objective for PMC 8
+
 For PMC 8 the following is to be implemented:
-Detail
-Notes/Statement of Compliance
-Control
- 
-Recording on data backup status.
-[Insert additional notes/test as required.]
-Control Description
- 
-Provide for a previously known working state of information assets to be identified and recovered.
-[Insert additional notes/test as required.]
-Objective
- 
-Implement and audit backup and recovery procedures.
-[Insert additional notes/test as required.]
-Risk Level
- 
-VERY LOW/LOW/MEDIUM
-Insert Risk level
-Service Description
-Report
-Alert
-Proposed control/implementation
-[Insert controls to be applied and any additional controls identified as part of analysis.]
-[Insert R to denote report]
-[Insert A to denote alert]
-[Insert additional notes/test as required.]
- 	 	 	 	 
- 
+
+<table border='1'>
+<tr valign='top'>
+<td>Detail</td>
+<td colspan='3'>Notes/Statement of Compliance</td>
+</tr>
+<tr valign='top'>
+<td>Control</td>
+<td colspan='3'>&nbsp;</td>
+</tr>
+<tr valign='top'>
+<td>Recording on data backup status.</td>
+<td colspan='3'>[Insert additional notes/test as required.]</td>
+</tr>
+<tr valign='top'>
+<td>Control Description</td>
+<td colspan='3'>&nbsp;</td>
+</tr>
+<tr valign='top'>
+<td>Provide for a previously known working state of information assets to be identified and recovered.</td>
+<td colspan='3'>[Insert additional notes/test as required.]</td>
+</tr>
+<tr valign='top'>
+<td>Objective</td>
+<td colspan='3'>&nbsp;</td>
+</tr>
+<tr valign='top'>
+<td>Implement and audit backup and recovery procedures.</td>
+<td colspan='3'>[Insert additional notes/test as required.]</td>
+</tr>
+<tr valign='top'>
+<td>Risk Level</td>
+<td colspan='3'>&nbsp;</td>
+</tr>
+<tr valign='top'>
+<td>VERY LOW/LOW/MEDIUM</td>
+<td colspan='3'><i>Insert Risk level</i></td>
+</tr>
+<tr valign='top'>
+<td>Service Description</td>
+<td>Report</td>
+<td>Alert</td>
+<td>Proposed control/implementation</td>
+</tr>
+<tr valign='top'>
+<td>[Insert controls to be applied and any additional controls identified as part of analysis.]</td>
+<td>[Insert R to denote report]</td>
+<td>[Insert A to denote alert]</td>
+<td>[Insert additional notes/test as required.]</td>
+</tr>
+</table>
+
 Minimum control objective for PMC 9
+
 For PMC 9 the following is to be implemented:
-Detail
-Notes/Statement of Compliance
-Control
- 
-Reporting on the status of the audit system.
-[Insert additional notes/test as required.]
-Control Description
- 
-Event reporting.
-[Insert additional notes/test as required.]
-Objective
- 
-Provide a mechanism for reporting in near real-time.
-[Insert additional notes/test as required.]
-Risk Level
- 
-VERY LOW/LOW/MEDIUM
-Insert Risk level
-Service Description
-Report
-Alert
-Proposed control/implementation
-[Insert controls to be applied and any additional controls identified as part of analysis.]
-[Insert R to denote report]
-[Insert A to denote alert]
-[Insert additional notes/test as required.]
- 	 	 	 	 
- 
+
+<table border='1'>
+<tr valign='top'>
+<td>Detail</td>
+<td colspan='3'>Notes/Statement of Compliance</td>
+</tr>
+<tr valign='top'>
+<td>Control</td>
+<td colspan='3'>&nbsp;</td>
+</tr>
+<tr valign='top'>
+<td>Reporting on the status of the audit system.</td>
+<td colspan='3'>[Insert additional notes/test as required.]</td>
+</tr>
+<tr valign='top'>
+<td>Control Description</td>
+<td colspan='3'>&nbsp;</td>
+</tr>
+<tr valign='top'>
+<td>Event reporting.</td>
+<td colspan='3'>[Insert additional notes/test as required.]</td>
+</tr>
+<tr valign='top'>
+<td>Objective</td>
+<td colspan='3'>&nbsp;</td>
+</tr>
+<tr valign='top'>
+<td>Provide a mechanism for reporting in near real-time.</td>
+<td colspan='3'>[Insert additional notes/test as required.]</td>
+</tr>
+<tr valign='top'>
+<td>Risk Level</td>
+<td colspan='3'>&nbsp;</td>
+</tr>
+<tr valign='top'>
+<td>VERY LOW/LOW/MEDIUM</td>
+<td colspan='3'><i>Insert Risk level</i></td>
+</tr>
+<tr valign='top'>
+<td>Service Description</td>
+<td>Report</td>
+<td>Alert</td>
+<td>Proposed control/implementation</td>
+</tr>
+<tr valign='top'>
+<td>[Insert controls to be applied and any additional controls identified as part of analysis.]</td>
+<td>[Insert R to denote report]</td>
+<td>[Insert A to denote alert]</td>
+<td>[Insert additional notes/test as required.]</td>
+</tr>
+</table>
+
 Minimum control objective for PMC 10
+
 For PMC 10 the following is to be implemented:
-Detail
-Notes/Statement of Compliance
-Control
- 
-Alerting critical events.
-[Insert additional notes/test as required.]
-Control Description
- 
-Maintain status of the protective monitoring system and its collected accounting data.
-[Insert additional notes/test as required.]
-Objective
- 
-Ensure the integrity and proper management of the protective monitoring system.
-[Insert additional notes/test as required.]
-Risk Level
- 
-VERY LOW/LOW/MEDIUM
-Insert Risk level
-Service Description
-Report
-Alert
-Proposed control/implementation
-[Insert controls to be applied and any additional controls identified as part of analysis.]
-[Insert R to denote report]
-[Insert A to denote alert]
-[Insert additional notes/test as required.]
- 	 	 	 	 
- 
+
+<table border='1'>
+<tr valign='top'>
+<td>Detail</td>
+<td colspan='3'>Notes/Statement of Compliance</td>
+</tr>
+<tr valign='top'>
+<td>Control</td>
+<td colspan='3'>&nbsp;</td>
+</tr>
+<tr valign='top'>
+<td>Alerting critical events.</td>
+<td colspan='3'>[Insert additional notes/test as required.]</td>
+</tr>
+<tr valign='top'>
+<td>Control Description</td>
+<td colspan='3'>&nbsp;</td>
+</tr>
+<tr valign='top'>
+<td>Maintain status of the protective monitoring system and its collected accounting data.</td>
+<td colspan='3'>[Insert additional notes/test as required.]</td>
+</tr>
+<tr valign='top'>
+<td>Objective</td>
+<td colspan='3'>&nbsp;</td>
+</tr>
+<tr valign='top'>
+<td>Ensure the integrity and proper management of the protective monitoring system.</td>
+<td colspan='3'>[Insert additional notes/test as required.]</td>
+</tr>
+<tr valign='top'>
+<td>Risk Level</td>
+<td colspan='3'>&nbsp;</td>
+</tr>
+<tr valign='top'>
+<td>VERY LOW/LOW/MEDIUM</td>
+<td colspan='3'><i>Insert Risk level</i></td>
+</tr>
+<tr valign='top'>
+<td>Service Description</td>
+<td>Report</td>
+<td>Alert</td>
+<td>Proposed control/implementation</td>
+</tr>
+<tr valign='top'>
+<td>[Insert controls to be applied and any additional controls identified as part of analysis.]</td>
+<td>[Insert R to denote report]</td>
+<td>[Insert A to denote alert]</td>
+<td>[Insert additional notes/test as required.]</td>
+</tr>
+</table>
+
 Minimum control objective for PMC 11
+
 For PMC 11 the following is to be implemented:
-Detail
-Notes/Statement of Compliance
-Control
- 
-Alerting critical events.
-[Insert additional notes/test as required.]
-Control Description
- 
-Maintain status of the protective monitoring system and its collected accounting data.
-[Insert additional notes/test as required.]
-Objective
- 
-Ensure the integrity and proper management of the protective monitoring system.
-[Insert additional notes/test as required.]
-Risk Level
- 
-VERY LOW/LOW/MEDIUM
-Insert Risk level
-Service Description
-Report
-Alert
-Proposed control/implementation
-[Insert controls to be applied and any additional controls identified as part of analysis.]
-[Insert R to denote report]
-[Insert A to denote alert]
-[Insert additional notes/test as required.]
- 	 	 	 	 
- 
+
+<table border='1'>
+<tr valign='top'>
+<td>Detail</td>
+<td colspan='3'>Notes/Statement of Compliance</td>
+</tr>
+<tr valign='top'>
+<td>Control</td>
+<td colspan='3'>&nbsp;</td>
+</tr>
+<tr valign='top'>
+<td>Alerting critical events.</td>
+<td colspan='3'>[Insert additional notes/test as required.]</td>
+</tr>
+<tr valign='top'>
+<td>Control Description</td>
+<td colspan='3'>&nbsp;</td>
+</tr>
+<tr valign='top'>
+<td>Maintain status of the protective monitoring system and its collected accounting data.</td>
+<td colspan='3'>[Insert additional notes/test as required.]</td>
+</tr>
+<tr valign='top'>
+<td>Objective</td>
+<td colspan='3'>&nbsp;</td>
+</tr>
+<tr valign='top'>
+<td>Ensure the integrity and proper management of the protective monitoring system.</td>
+<td colspan='3'>[Insert additional notes/test as required.]</td>
+</tr>
+<tr valign='top'>
+<td>Risk Level</td>
+<td colspan='3'>&nbsp;</td>
+</tr>
+<tr valign='top'>
+<td>VERY LOW/LOW/MEDIUM</td>
+<td colspan='3'><i>Insert Risk level</i></td>
+</tr>
+<tr valign='top'>
+<td>Service Description</td>
+<td>Report</td>
+<td>Alert</td>
+<td>Proposed control/implementation</td>
+</tr>
+<tr valign='top'>
+<td>[Insert controls to be applied and any additional controls identified as part of analysis.]</td>
+<td>[Insert R to denote report]</td>
+<td>[Insert A to denote alert]</td>
+<td>[Insert additional notes/test as required.]</td>
+</tr>
+</table>
+
 Minimum control objective for PMC 12
+
 For PMC 12 the following is to be implemented:
-Detail
-Notes/Statement of Compliance
-Control
- 
-Providing a legal framework for Protective Monitoring activities.
-[Insert additional notes/test as required.]
-Control Description
- 
-Ensure that all monitoring and interception of communications is conducted lawfully and that accounting data collected by the system is treated as a sensitive information asset in its own right.
-[Insert additional notes/test as required.]
-Objective
- 
-Maintain legal and statutory obligations.
-[Insert additional notes/test as required.]
-Risk Level
- 
-VERY LOW/LOW/MEDIUM
-Insert Risk level
-Service Description
-Report
-Alert
-Proposed control/implementation
-[Insert controls to be applied and any additional controls identified as part of analysis.]
-[Insert R to denote report]
-[Insert A to denote alert]
-[Insert additional notes/test as required.]
- 	 	 	 	 
+
+<table border='1'>
+<tr valign='top'>
+<td>Detail</td>
+<td colspan='3'>Notes/Statement of Compliance</td>
+</tr>
+<tr valign='top'>
+<td>Control</td>
+<td colspan='3'>&nbsp;</td>
+</tr>
+<tr valign='top'>
+<td>Providing a legal framework for Protective Monitoring activities.</td>
+<td colspan='3'>[Insert additional notes/test as required.]</td>
+</tr>
+<tr valign='top'>
+<td>Control Description</td>
+<td colspan='3'>&nbsp;</td>
+</tr>
+<tr valign='top'>
+<td>Ensure that all monitoring and interception of communications is conducted lawfully and that accounting data collected by the system is treated as a sensitive information asset in its own right.</td>
+<td colspan='3'>[Insert additional notes/test as required.]</td>
+</tr>
+<tr valign='top'>
+<td>Objective</td>
+<td colspan='3'>&nbsp;</td>
+</tr>
+<tr valign='top'>
+<td>Maintain legal and statutory obligations.</td>
+<td colspan='3'>[Insert additional notes/test as required.]</td>
+</tr>
+<tr valign='top'>
+<td>Risk Level</td>
+<td colspan='3'>&nbsp;</td>
+</tr>
+<tr valign='top'>
+<td>VERY LOW/LOW/MEDIUM</td>
+<td colspan='3'><i>Insert Risk level</i></td>
+</tr>
+<tr valign='top'>
+<td>Service Description</td>
+<td>Report</td>
+<td>Alert</td>
+<td>Proposed control/implementation</td>
+</tr>
+<tr valign='top'>
+<td>[Insert controls to be applied and any additional controls identified as part of analysis.]</td>
+<td>[Insert R to denote report]</td>
+<td>[Insert A to denote alert]</td>
+<td>[Insert additional notes/test as required.]</td>
+</tr>
+</table>
 
 <a id="exceptions"></a>
 
-A.2    Exceptions
-The exceptions to the minimum baseline requirements must be recorded (see section 4.4), a template table is provided below.
-Serial
-Protective Monitoring Control
-Control Detail
-Reason for non-compliance
-[Insert details of those controls that will not be implemented as a result of reviewing the protective monitoring controls for each of the defined levels to show which controls either cannot be implemented for technical reasons, or as a result of a risk management decision. Delete this row on completion of table.]
- 
+### Exceptions
+
+The exceptions to the minimum baseline requirements [must be recorded](#minimum-control-objectives), a template table is provided below.
+
+<table border='1'>
+<tr valign='top'>
+<th>Serial</th>
+<th>Protective Monitoring Control</th>
+<th>Control Detail</th>
+<th>Reason for non-compliance</th>
+</tr>
+<tr valign='top'>
+<td colspan='4'>[Insert details of those controls that will not be implemented as a result of reviewing the protective monitoring controls for each of the defined levels to show which controls either cannot be implemented for technical reasons, or as a result of a risk management decision. Delete this row on completion of table.]</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</table>
+
 <a id="audit-regime"></a>
 
-A.3    Audit regime
-The audit regime which forms part of the protective marking solution must be recorded (see section 4.5); a template table is provided below:
-Risk Level
-Log Retention Period
-Log Checks
-Console Manning
-Compliance Review Period
-Report Production
+### Audit regime
+
+The audit regime which forms part of the protective marking solution [must be recorded](#minimum-audit-requirements); a template table is provided below:
+
+<table border='1'>
+<tr valign='top'>
+<th>Risk Level</th>
+<th>Log Retention Period</th>
+<th>Log Checks</th>
+<th>Console Manning</th>
+<th>Compliance Review Period</th>
+<th>Report Production</th>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</table>
  
 <a id="accounting-items"></a>
 
-A.4    Accounting items
-The table below provides a template to capture all the accounting items to be collect in an ICT system, its source and alerting details (see section 4.6).
-PMC
-#
-Cat
-Ref
-Recordable events
-Include in report
-Alert on event
-Method
-Notes in Environment PM policy
-Accounting items (defined in GPG13)
-Sources and notes
-Logging application requirement
-Tags
-Predicate
-Specific Events
-Audit
-Errors & Warnings
-Protocol errors
- 
+### Accounting items
+
+The table below provides a template to capture [all the accounting items to be collected](#baseline-control-set-and-implementation-of-controls-objectives) in an ICT system, its source and alerting details.
+
+<table border='1'>
+<tr valign='top'>
+<th rowspan='2'>PMC</th>
+<th rowspan='2'>#</th>
+<th rowspan='2'>Cat</th>
+<th rowspan='2'>Ref</th>
+<th rowspan='2'>Recordable events</th>
+<th rowspan='2'>Include in report</th>
+<th rowspan='2'>Alert on event</th>
+<th rowspan='2'>Method</th>
+<th rowspan='2'>Notes in Environment PM policy</th>
+<th rowspan='2'>Accounting items (defined in GPG13)</th>
+<th rowspan='2'>Sources and notes</th>
+<th rowspan='2'>Logging application requirement</th>
+<th rowspan='2'>Tags</th>
+<th rowspan='2'>Predicate</th>
+<th colspan='3'>Specific Events</th>
+</tr>
+<tr>
+<th><i>Audit</i></th>
+<th><i>Errors &amp; Warnings</i></th>
+<th><i>Protocol errors</i></th>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</table>
+
 <table border='1'>
 <tr valign='top'>
 <td>This policy is dated October 2017, and is an update of the Protective Monitoring Guide, v1.0, May 2015.<br/>
