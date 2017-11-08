@@ -8,7 +8,7 @@ title: Protective Monitoring Guide
 ## About this document
 
 <table border='1'>
-<tr>
+<tr valign='top'>
 <td>This policy applies to all staff and contractors who work for the MOJ.</td>
 </tr>
 </table>
@@ -252,23 +252,23 @@ Minimum control objective for PMC 1
 For PMC 1 the following is to be implemented:
 
 <table border='1'>
-<tr>
+<tr valign='top'>
 <td>Detail</td>
 <td colspan='3'>Notes/Statement of Compliance</td>
 </tr>
-<tr>
+<tr valign='top'>
 <td>Control</td>
 <td colspan='3'>&nbsp;</td>
 </tr>
-<tr>
+<tr valign='top'>
 <td>Accurate time in logs.</td>
 <td colspan='3'>[Insert additional notes/test as required.]</td>
 </tr>
-<tr>
+<tr valign='top'>
 <td>Control Description</td>
 <td colspan='3'>&nbsp;</td>
 </tr>
-<tr>
+<tr valign='top'>
 <td>Provide a means of providing accurate time in logs and synchronisation between system components to facilitate collation of events between those components.<br/><br/>The error margin for time accuracy is to be specified.</td>
 <td colspan='3'>[Use any of the following:
 <ul>
@@ -278,187 +278,367 @@ For PMC 1 the following is to be implemented:
 </ul>
 </td>
 </tr>
-<tr>
+<tr valign='top'>
 <td>Objective</td>
 <td colspan='3'>&nbsp;</td>
 </tr>
-<tr>
+<tr valign='top'>
 <td>Provide a centralised, single time reference for all components that are subject to monitoring.</td>
 <td colspan='3'>Any of the above may be used and an existing clock source within the support environment should be used where possible.</td>
 </tr>
-<tr>
+<tr valign='top'>
 <td>Risk Level</td>
 <td colspan='3'>&nbsp;</td>
 </tr>
-<tr>
+<tr valign='top'>
 <td>VERY LOW/LOW/MEDIUM</td>
 <td colspan='3'>[Insert Risk level]</td>
 </tr>
-<tr>
+<tr valign='top'>
 <td>Service Description</td>
 <td>Report</td>
 <td>Alert</td>
 <td>Proposed control/implementation</td>
 </tr>
-<tr>
+<tr valign='top'>
 <td>[Insert controls to be applied and any additional controls identified as part of analysis.]</td>
 <td>[Insert R to denote report]</td>
 <td>[Insert A to denote alert]</td>
 <td>[Insert additional notes/test as required.]</td>
 </tr>
-
-
 </table>
- 
+
 Minimum control objective for PMC 2
+
 For PMC 2 the following is to be implemented:
-Detail
-Notes/Statement of Compliance
-Control
- 
-Recording of business traffic crossing a boundary.
-[Insert additional notes/test as required.]
-Control Description
- 
-Provide reports, monitoring, recording and analysis of business traffic crossing a boundary with a view to ensuring traffic exchanges are authorised, conform to security policy, transport of malicious content is prevented and alerted, and that other forms of attack by manipulation of business traffic are detected or prevented.
-[Insert additional notes/test as required.]
-Objective
- 
-Ensure only authorised traffic is passed into and out of the PM environment.
-[Insert additional notes/test as required.]
-Risk Level
- 
-VERY LOW/LOW/MEDIUM
-Insert Risk level
-Service Description
-Report
-Alert
-Proposed control/implementation
-[Insert controls to be applied and any additional controls identified as part of analysis.]
-[Insert R to denote report]
-[Insert A to denote alert]
-[Insert additional notes/test as required.]
- 
+
+<table border='1'>
+<tr valign='top'>
+<td>Detail</td>
+<td colspan='3'>Notes/Statement of Compliance</td>
+</tr>
+<tr valign='top'>
+<td>Control</td>
+<td colspan='3'>&nbsp;</td>
+</tr>
+<tr valign='top'>
+<td>Recording of business traffic crossing a boundary.</td>
+<td colspan='3'>[Insert additional notes/test as required.]</td>
+</tr>
+<tr valign='top'>
+<td>Control Description</td>
+<td colspan='3'>&nbsp;</td>
+</tr>
+<tr valign='top'>
+<td>Provide reports, monitoring, recording and analysis of business traffic crossing a boundary with a view to ensuring traffic exchanges are authorised, conform to security policy, transport of malicious content is prevented and alerted, and that other forms of attack by manipulation of business traffic are detected or prevented.</td>
+<td colspan='3'>[Insert additional notes/test as required.]</td>
+</tr>
+<tr valign='top'>
+<td>Objective</td>
+<td colspan='3'>&nbsp;</td>
+</tr>
+<tr valign='top'>
+<td>Ensure only authorised traffic is passed into and out of the PM environment.</td>
+<td colspan='3'>[Insert additional notes/test as required.]</td>
+</tr>
+<tr valign='top'>
+<td>Risk Level</td>
+<td colspan='3'>&nbsp;</td>
+</tr>
+<tr valign='top'>
+<td>VERY LOW/LOW/MEDIUM</td>
+<td colspan='3'>Insert Risk level</td>
+</tr>
+<tr valign='top'>
+<td>Service Description</td>
+<td>Report</td>
+<td>Alert</td>
+<td>Proposed control/implementation</td>
+</tr>
+<tr valign='top'>
+<td>[Insert controls to be applied and any additional controls identified as part of analysis.]</td>
+<td>[Insert R to denote report]</td>
+<td>[Insert A to denote alert]</td>
+<td>[Insert additional notes/test as required.]</td>
+</tr>
+</table>
+
 Minimum control objective for PMC 3
+
 For PMC 3 the following is to be implemented:
-Detail
-Notes/Statement of Compliance
-Control
- 
-Recording relating to suspicious activity at the boundary.
-[Insert additional notes/test as required.]
-Control Description
- 
-Provide reports, monitoring, recording and analysis of network activity at the boundary with a view to detecting suspect activity that would be indicative of the actions of an attacker attempting to breach the system boundary or other deviation from normal business behaviour.
-[Insert additional notes/test as required.]
-Objective
- 
-Identify potential or actual attempts to access the ICT System  environment by an unauthorised individual who is external to the environment
-[Insert additional notes/test as required.]
-Risk Level
- 
-VERY LOW/LOW/MEDIUM
-[Insert Risk level]
-Service Description
-Report
-Alert
-Proposed control/implementation
-[Insert controls to be applied and any additional controls identified as part of analysis.]
-[Insert R to denote report]
-[Insert A to denote alert]
-[Insert additional notes/test as required.]
- 
+
+<table border='1'>
+<tr valign='top'>
+<td>Detail</td>
+<td colspan='3'>Notes/Statement of Compliance</td>
+</tr>
+<tr valign='top'>
+<td>Control</td>
+<td colspan='3'>&nbsp;</td>
+</tr>
+<tr valign='top'>
+<td>Recording relating to suspicious activity at the boundary.</td>
+<td colspan='3'>[Insert additional notes/test as required.]</td>
+</tr>
+<tr valign='top'>
+<td>Control Description</td>
+<td colspan='3'>&nbsp;</td>
+</tr>
+<tr valign='top'>
+<td>Provide reports, monitoring, recording and analysis of network activity at the boundary with a view to detecting suspect activity that would be indicative of the actions of an attacker attempting to breach the system boundary or other deviation from normal business behaviour.</td>
+<td colspan='3'>[Insert additional notes/test as required.]</td>
+</tr>
+<tr valign='top'>
+<td>Objective</td>
+<td colspan='3'>&nbsp;</td>
+</tr>
+<tr valign='top'>
+<td>Identify potential or actual attempts to access the ICT System  environment by an unauthorised individual who is external to the environment</td>
+<td colspan='3'>[Insert additional notes/test as required.]</td>
+</tr>
+<tr valign='top'>
+<td>Risk Level</td>
+<td colspan='3'>&nbsp;</td>
+</tr>
+<tr valign='top'>
+<td>VERY LOW/LOW/MEDIUM</td>
+<td colspan='3'><i>[Insert Risk level]</i></td>
+</tr>
+<tr valign='top'>
+<td>Service Description</td>
+<td>Report</td>
+<td>Alert</td>
+<td>Proposed control/implementation</td>
+</tr>
+<tr valign='top'>
+<td>[Insert controls to be applied and any additional controls identified as part of analysis.]</td>
+<td>[Insert R to denote report]</td>
+<td>[Insert A to denote alert]</td>
+<td>[Insert additional notes/test as required.]</td>
+</tr>
+</table>
+
 Minimum control objective for PMC 4
+
 For PMC 4 the following is to be implemented:
-Detail
-Notes/Statement of Compliance
-Control
- 
-Recording on internal workstation, server or device status.
-[Insert additional notes/test as required.]
-Control Description
- 
-Detect changes to device status and configuration.
-[Insert additional notes/test as required.]
-Objective
- 
-Identify and report authorised and unauthorised changes to the configuration of devices in the environment.
-[Insert additional notes/test as required.]
-Risk Level
- 
-VERY LOW/LOW/MEDIUM
-Insert Risk level
-Service Description
-Report
-Alert
-Proposed control/implementation
-[Insert controls to be applied and any additional controls identified as part of analysis.]
-[Insert R to denote report]
-[Insert A to denote alert]
-[Insert additional notes/test as required.]
- 
+
+<table border='1'>
+<tr valign='top'>
+<td>Detail</td>
+<td colspan='3'>Notes/Statement of Compliance</td>
+</tr>
+<tr valign='top'>
+<td>Control</td>
+<td colspan='3'>&nbsp;</td>
+</tr>
+<tr valign='top'>
+<td>Recording on internal workstation, server or device status.</td>
+<td colspan='3'>[Insert additional notes/test as required.]</td>
+</tr>
+<tr valign='top'>
+<td>Control Description</td>
+<td colspan='3'>&nbsp;</td>
+</tr>
+<tr valign='top'>
+<td>Detect changes to device status and configuration.</td>
+<td colspan='3'>[Insert additional notes/test as required.]</td>
+</tr>
+<tr valign='top'>
+<td>Objective</td>
+<td colspan='3'>&nbsp;</td>
+</tr>
+<tr valign='top'>
+<td>Identify and report authorised and unauthorised changes to the configuration of devices in the environment.</td>
+<td colspan='3'>[Insert additional notes/test as required.]</td>
+</tr>
+<tr valign='top'>
+<td>Risk Level</td>
+<td colspan='3'>&nbsp;</td>
+</tr>
+<tr valign='top'>
+<td>VERY LOW/LOW/MEDIUM</td>
+<td colspan='3'><i>Insert Risk level</i></td>
+</tr>
+<tr valign='top'>
+<td>Service Description</td>
+<td>Report</td>
+<td>Alert</td>
+<td>Proposed control/implementation</td>
+</tr>
+<tr valign='top'>
+<td>[Insert controls to be applied and any additional controls identified as part of analysis.]</td>
+<td>[Insert R to denote report]</td>
+<td>[Insert A to denote alert]</td>
+<td>[Insert additional notes/test as required.]</td>
+</tr>
+</table>
+
 Minimum control objective for PMC 5
+
 For PMC 5 the following is to be implemented:
-Detail
-Notes/Statement of Compliance
-Control
- 
-Recording relating to suspicious internal network activity.
-[Insert additional notes/test as required.]
-Control Description
- 
-Monitor critical internal boundaries and resources within internal networks to detect suspicious activity that may indicate attacks either by internal users or by external attackers who have penetrated to the internal network.
-[Insert additional notes/test as required.]
-Objective
- 
-Identify internal and external attacks on the environment network.
-[Insert additional notes/test as required.]
-Risk Level
- 
-VERY LOW/LOW/MEDIUM
-Insert Risk level
-Service Description
-Report
-Alert
-Proposed control/implementation
-[Insert controls to be applied and any additional controls identified as part of analysis.]
-[Insert R to denote report]
-[Insert A to denote alert]
-[Insert additional notes/test as required.]
- 	 	 	 	 
- 
+
+<table border='1'>
+<tr valign='top'>
+<td>Detail</td>
+<td colspan='3'>Notes/Statement of Compliance</td>
+</tr>
+<tr valign='top'>
+<td>Control</td>
+<td colspan='3'>&nbsp;</td>
+</tr>
+<tr valign='top'>
+<td>Recording relating to suspicious internal network activity.</td>
+<td colspan='3'>[Insert additional notes/test as required.]</td>
+</tr>
+<tr valign='top'>
+<td>Control Description</td>
+<td colspan='3'>&nbsp;</td>
+</tr>
+<tr valign='top'>
+<td>Monitor critical internal boundaries and resources within internal networks to detect suspicious activity that may indicate attacks either by internal users or by external attackers who have penetrated to the internal network.</td>
+<td colspan='3'>[Insert additional notes/test as required.]</td>
+</tr>
+<tr valign='top'>
+<td>Objective</td>
+<td colspan='3'>&nbsp;</td>
+</tr>
+<tr valign='top'>
+<td>Identify internal and external attacks on the environment network.</td>
+<td colspan='3'>[Insert additional notes/test as required.]</td>
+</tr>
+<tr valign='top'>
+<td>Risk Level</td>
+<td colspan='3'>&nbsp;</td>
+</tr>
+<tr valign='top'>
+<td>VERY LOW/LOW/MEDIUM</td>
+<td colspan='3'><i>Insert Risk level</i></td>
+</tr>
+<tr valign='top'>
+<td>Service Description</td>
+<td>Report</td>
+<td>Alert</td>
+<td>Proposed control/implementation</td>
+</tr>
+<tr valign='top'>
+<td>[Insert controls to be applied and any additional controls identified as part of analysis.]</td>
+<td>[Insert R to denote report]</td>
+<td>[Insert A to denote alert]</td>
+<td>[Insert additional notes/test as required.]</td>
+</tr>
+</table>
+
 Minimum control objective for PMC 6
+
 For PMC 6 the following is to be implemented:
-Detail
-Notes/Statement of Compliance
-Control
- 
-Recording relating to network connections.
-[Insert additional notes/test as required.]
-Control Description
- 
-Monitor temporary connections to the network either made by remote access, virtual private networking, wireless or any other transient means of network connection.
-[Insert additional notes/test as required.]
-Objective
- 
-Identify, monitor and audit temporary connections to the environment.
-[Insert additional notes/test as required.]
-Risk Level
- 
-VERY LOW/LOW/MEDIUM
-Insert Risk level
-Service Description
-Report
-Alert
-Proposed control/implementation
-[Insert controls to be applied and any additional controls identified as part of analysis.]
-[Insert R to denote report]
-[Insert A to denote alert]
-[Insert additional notes/test as required.]
- 	 	 	 	 
- 
+
+<table border='1'>
+<tr valign='top'>
+<td>Detail</td>
+<td colspan='3'>Notes/Statement of Compliance</td>
+</tr>
+<tr valign='top'>
+<td>Control</td>
+<td colspan='3'>&nbsp;</td>
+</tr>
+<tr valign='top'>
+<td>Recording relating to network connections.</td>
+<td colspan='3'>[Insert additional notes/test as required.]</td>
+</tr>
+<tr valign='top'>
+<td>Control Description</td>
+<td colspan='3'>&nbsp;</td>
+</tr>
+<tr valign='top'>
+<td>Monitor temporary connections to the network either made by remote access, virtual private networking, wireless or any other transient means of network connection.</td>
+<td colspan='3'>[Insert additional notes/test as required.]</td>
+</tr>
+<tr valign='top'>
+<td>Objective</td>
+<td colspan='3'>&nbsp;</td>
+</tr>
+<tr valign='top'>
+<td>Identify, monitor and audit temporary connections to the environment.</td>
+<td colspan='3'>[Insert additional notes/test as required.]</td>
+</tr>
+<tr valign='top'>
+<td>Risk Level</td>
+<td colspan='3'>&nbsp;</td>
+</tr>
+<tr valign='top'>
+<td>VERY LOW/LOW/MEDIUM</td>
+<td colspan='3'><i>Insert Risk level</i></td>
+</tr>
+<tr valign='top'>
+<td>Service Description</td>
+<td>Report</td>
+<td>Alert</td>
+<td>Proposed control/implementation</td>
+</tr>
+<tr valign='top'>
+<td>[Insert controls to be applied and any additional controls identified as part of analysis.]</td>
+<td>[Insert R to denote report]</td>
+<td>[Insert A to denote alert]</td>
+<td>[Insert additional notes/test as required.]</td>
+</tr>
+</table>
+
 Minimum control objective for PMC 7
+
 For PMC 7 the following is to be implemented:
+
+<table border='1'>
+<tr valign='top'>
+<td>Detail</td>
+<td colspan='3'>Notes/Statement of Compliance</td>
+</tr>
+<tr valign='top'>
+<td>Control</td>
+<td colspan='3'>&nbsp;</td>
+</tr>
+<tr valign='top'>
+<td>Recording on session activity by user and workstation.</td>
+<td colspan='3'>[Insert additional notes/test as required.]</td>
+</tr>
+<tr valign='top'>
+<td>Control Description</td>
+<td colspan='3'>&nbsp;</td>
+</tr>
+<tr valign='top'>
+<td>Monitor user activity and access to ensure they can be made accountable for their actions.</td>
+<td colspan='3'>[Insert additional notes/test as required.]</td>
+</tr>
+<tr valign='top'>
+<td>Objective</td>
+<td colspan='3'>&nbsp;</td>
+</tr>
+<tr valign='top'>
+<td>Detect unauthorised activity and access that is either suspicious or is in violation of security policy.</td>
+<td colspan='3'>[Insert additional notes/test as required.]</td>
+</tr>
+<tr valign='top'>
+<td>Risk Level</td>
+<td colspan='3'>&nbsp;</td>
+</tr>
+<tr valign='top'>
+<td>VERY LOW/LOW/MEDIUM</td>
+<td colspan='3'><i>Insert Risk level</i></td>
+</tr>
+<tr valign='top'>
+<td>Service Description</td>
+<td>Report</td>
+<td>Alert</td>
+<td>Proposed control/implementation</td>
+</tr>
+<tr valign='top'>
+<td>[Insert controls to be applied and any additional controls identified as part of analysis.]</td>
+<td>[Insert R to denote report]</td>
+<td>[Insert A to denote alert]</td>
+<td>[Insert additional notes/test as required.]</td>
+</tr>
+</table>
+
+
 Detail
 Notes/Statement of Compliance
 Control
@@ -682,7 +862,7 @@ Errors & Warnings
 Protocol errors
  
 <table border='1'>
-<tr>
+<tr valign='top'>
 <td>This policy is dated October 2017, and is an update of the Protective Monitoring Guide, v1.0, May 2015.<br/>
 To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=protective-monitoring-guide">itpolicycontent@digital.justice.gov.uk</a>.</td>
 </tr>
