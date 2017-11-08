@@ -93,6 +93,16 @@ You should also [ask](https://intranet.justice.gov.uk/guidance/security/it-compu
 
 Removable media like memory sticks are portable and easy-to-use. Unfortunately, this makes them a security risk, so [avoid using them](https://intranet.justice.gov.uk/guidance/security/it-computer-security/removable-media/). If however they are essential to your work, please follow the [Use of Removable Media policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/removable-media/).
 
+## And finally...
+
+There are five simple things we can all do to protect ourselves online:
+
+1. Use a strong password to protect your laptop, computer and mobile devices, following [NCSC guidance](https://www.cyberaware.gov.uk/passwords).
+2. Think before clicking on links or attachments within emails - if you are unsure if an email is genuine, [contact your IT or security team](mailto:itservicedesk@justice.gsi.gov.uk). By hovering your cursor over the link you can see the actual URL.
+3. Do not use your work email address to register for accounts on websites for personal use, such as shopping websites. This could open up your work email account to spam and fraudulent emails which could harm your department’s IT system.
+4. Protect your online identity - do not disclose sensitive information regarding your work on social media or online professional networks.
+5. Do not disclose your level of vetting on social media or online professional networks. By disclosing your level of vetting you are advertising the level of information you have access to and could make yourself a target of malicious individuals.
+
 <table border='1'>
 <tr>
 <td>This policy is dated October 2017, and is an update of the IT Acceptable Use Policy, v1.0, May 2013.<br/>
