@@ -1,5 +1,5 @@
 ﻿---
-Corporate Security Policy
+title: Corporate Security Policy
 ---
 
 ## Policy Statement
