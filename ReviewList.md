@@ -4,7 +4,7 @@ title: Review list
 
 # Ministry of Justice
 
-Last updated: 8 Nov 2017
+Last updated: 9 Nov 2017
 
 ## **Draft** IT Policy Content
 
@@ -18,6 +18,7 @@ Last updated: 8 Nov 2017
 | Forensic Readiness Guide | <https://ministryofjustice.github.io/itpolicycontent/content/forensic-readiness-guide.html> | <https://intranet.justice.gov.uk/?page_id=106976> |
 | IT Incident Management Policy | <https://ministryofjustice.github.io/itpolicycontent/content/it-incident-management-policy.html> | <https://intranet.justice.gov.uk/?page_id=107825> |
 | Principles for IT Policy and Guidance | <https://ministryofjustice.github.io/itpolicycontent/content/principles-for-it-policy-and-guidance.html> | <https://intranet.justice.gov.uk/?page_id=106453> |
+| Web browsing security | <https://ministryofjustice.github.io/itpolicycontent/content/web-browsing-security.html> | <https://intranet.justice.gov.uk/?page_id=113278> |
 
 ## **Draft** Migrated Policy Content, Confluence -> Intranet
 
