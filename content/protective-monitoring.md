@@ -181,7 +181,7 @@ It is important to ensure that there is a mechanism in place to review, update o
 
 ### Minimum audit requirements
 
-The minimum audit requirement is specified in [CESG GPG No.13][gpg13] where the following provides the audit criteria which **must be** captured in the protective monitoring schema (a template table is provided in [here](#audit-regime) ):
+The minimum audit requirement is specified in [CESG GPG No.13][gpg13] where the following provides the audit criteria which **must be** captured in the protective monitoring schema (a template table is provided [here](#audit-regime) ):
 
 - The retention period of any protective monitoring data captured;
 - Details on when log checks are to be carried;
@@ -210,6 +210,7 @@ Table 2 defines the minimum controls which **must be** implemented to achieve th
 Table 2 - Baseline controls to achieve protective monitoring
 
 With Table 2 in mind [CESG GPG No.13][gpg13] outlines a number of options which should be consider when translating the identified control objectives into a protective monitoring solution which can be implemented in an ICT system.
+
 The following provides the typical list of components which can be put together to deliver a protective monitoring solution:
 
 - Security Information and Event Management (SIEM) system, which includes:
@@ -1059,6 +1060,8 @@ The table below provides a template to capture [all the accounting items to be c
 <td>&nbsp;</td>
 </tr>
 </table>
+
+<p></p>
 
 <table border='1'>
 <tr valign='top'>
