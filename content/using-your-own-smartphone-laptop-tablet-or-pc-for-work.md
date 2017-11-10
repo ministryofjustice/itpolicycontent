@@ -67,7 +67,7 @@ In general, sensitive information can only be accessed, used or shared on approv
 
 Guidance on classifying information is available [here](https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/classifying-information/).
 
-Only information classified as `OFFICIAL` or `OFFICIAL-SENSITIVE` can be used on your device.
+Only information classified as `OFFICIAL` can be used on your device. This includes `OFFICIAL` data with the `SENSITIVE` protective marking.
 
 If you are not sure whether the information is sensitive, assume that it is sensitive.
 
