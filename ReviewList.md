@@ -4,7 +4,7 @@ title: Review list
 
 # Ministry of Justice
 
-Last updated: 9 Nov 2017
+Last updated: 10 Nov 2017
 
 ## **Draft** IT Policy Content
 
@@ -20,6 +20,7 @@ Last updated: 9 Nov 2017
 | Principles for IT Policy and Guidance | <https://ministryofjustice.github.io/itpolicycontent/content/principles-for-it-policy-and-guidance.html> | <https://intranet.justice.gov.uk/?page_id=106453> |
 | Web browsing security | <https://ministryofjustice.github.io/itpolicycontent/content/web-browsing-security.html> | <https://intranet.justice.gov.uk/?page_id=113278> |
 | Web browsing security policy profiles | <https://ministryofjustice.github.io/itpolicycontent/content/web-browsing-security-policy-profiles.html> | <https://intranet.justice.gov.uk/?page_id=113318> |
+| Web browsing security policy profiles (Original) | <https://ministryofjustice.github.io/itpolicycontent/content/web-browsing-security-policy-profiles-original.html> | <https://intranet.justice.gov.uk/?page_id=113362> |
 
 ## **Draft** Migrated Policy Content, Confluence -> Intranet
 
