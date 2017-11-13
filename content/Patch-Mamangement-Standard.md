@@ -152,7 +152,6 @@ There are three main categories of patch and vulnerability metrics: susceptibili
 
 #### System Details
 
-| | |
 | --- | --- |
 | **System Name** | [Enter the name of the ICT system.] |
 | **System Description and Scope** | [This section should describe the name and purpose of the system, including the protective marking level of the information it holds. Diagrams may prove useful where there is a complex interaction between systems covered in this statement/standard. It is important to include notes of where a part of a system is excluded from the scope of this plan e.g. an application is managed by another function.] |
