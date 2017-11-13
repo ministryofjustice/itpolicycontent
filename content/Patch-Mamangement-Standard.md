@@ -137,7 +137,6 @@ There are three main categories of patch and vulnerability metrics: susceptibili
 | Criticality | Description | Implementation Timescales |
 | --- | --- | --- |
 | Routine patches/updates | Standard patches and updates that are issued periodically by the manufacturer e.g. Microsoft’s “patch Tuesday” where on the second Tuesday of each month Microsoft issue patches; | Patches will be fully tested as per the system testing plan and will be administered. |
-
 | | | **Timescale:** |
 | | | Important: 15 days. |
 | | | Medium: 30-60 days. |
