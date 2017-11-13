@@ -153,6 +153,7 @@ There are three main categories of patch and vulnerability metrics: susceptibili
 #### System Details
 
 | | |
+| --- | --- |
 | **System Name** | [Enter the name of the ICT system.] |
 | **System Description and Scope** | [This section should describe the name and purpose of the system, including the protective marking level of the information it holds. Diagrams may prove useful where there is a complex interaction between systems covered in this statement/standard. It is important to include notes of where a part of a system is excluded from the scope of this plan e.g. an application is managed by another function.] |
 | **Responsibilities and Ownership** | [Complete a statement detailing who has ownership and who will be responsible for the administration of the system. Where a third-party or managed service provider is responsible for all or just a component of the system, a clear reference should be made to contractual responsibilities and points of contact regarding patching. Details of the hours worked by IT administration staff are required.] |
@@ -160,21 +161,27 @@ There are three main categories of patch and vulnerability metrics: susceptibili
 
 #### Description of the System’s Patching Process
 
+| | |
+| --- | --- |
 | **Asset Inventory** | [Complete a statement detailing how the inventory of current system components is managed and updated. It is important this is as complete as possible and is frequently updated to ensure the current patching level is listed. All security patch requests, progress and resolutions must be logged and tracked within this management system.] |
 | **Vulnerability and Patch Identification** | [The section must include a description of how security vulnerabilities and patches will be identified. This will include a source of the vulnerability information, the source of security patches and the process for updating the asset register.] |
 | | [A description must also be provided of how this information is managed and stored. It is recommended that a register containing all security patches and vulnerabilities identified is maintained by the person (or party) responsible for testing and installing security patches.] |
-
 | **Patch Classification** | [Complete a statement describing how patches are going to be prioritised in terms of Routine, Critical and Emergency (see Appendix A). It is also essential to identify the level of testing that will be applied to each level of criticality and include target timescales for full.] |
 | **Deployment Plan**| [A statement is required outlining the deployment plan for testing and deploying security patches. It must cover each patch classification.]  |
 
 #### Target timescales for the installation of Security Patches
- 
+
+| | |
+| --- | --- | 
 | **Emergency Patches** | [Enter target timescale for the testing and installation of Emergency patches based on the IT Security Patching Criticality Matrix (see Appendix A)] |
 | **Critical Patches** | Enter target timescale for the testing and installation of Critical patches based on the IT Security Patching Criticality Matrix (see Appendix A)] |
 | **Routine Patches/Updates** | [Enter target timescale for the testing and installation of Routine patches/updates patches based on the IT Security Patching Criticality Matrix (see Appendix A)] |
 | **Reporting and Compliance** | [A statement is required detailing how the installation of patches are checked against the identification patches including maintain a record of whether a patch (or other fix) is applied within the target timescale.] |
 
 #### Plan Approval
+
+| | |
+| --- | --- |
 | **ICT System Manager** | [Enter the name of the ICT System Manager.] |
 | | [DATE OF APPROVAL] |
 | **Responsibility for applying security patches** | [Enter the name of the person or party who is responsible for testing and applying security patches.] |
