@@ -166,7 +166,6 @@ There are three main categories of patch and vulnerability metrics: susceptibili
 | **Asset Inventory** | [Complete a statement detailing how the inventory of current system components is managed and updated. It is important this is as complete as possible and is frequently updated to ensure the current patching level is listed. All security patch requests, progress and resolutions must be logged and tracked within this management system.] |
 | **Vulnerability and Patch Identification** | [The section must include a description of how security vulnerabilities and patches will be identified. This will include a source of the vulnerability information, the source of security patches and the process for updating the asset register.] |
 | | [A description must also be provided of how this information is managed and stored. It is recommended that a register containing all security patches and vulnerabilities identified is maintained by the person (or party) responsible for testing and installing security patches.] |
-
 | **Patch Classification** | [Complete a statement describing how patches are going to be prioritised in terms of Routine, Critical and Emergency (see Appendix A). It is also essential to identify the level of testing that will be applied to each level of criticality and include target timescales for full.] |
 | **Deployment Plan**| [A statement is required outlining the deployment plan for testing and deploying security patches. It must cover each patch classification.]  |
 
