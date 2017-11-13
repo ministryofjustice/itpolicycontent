@@ -141,7 +141,12 @@ There are three main categories of patch and vulnerability metrics: susceptibili
 | | | Important: 15 days. |
 | | | Medium: 30-60 days. |
 | | | Low: 3 months. |
-
+| Critical patches | Critical patches are security software releases in response to a specific new vulnerability. Usually critical patches are released before the vulnerability is exploited and they may be released outside of the usual vendor patch cycle. | Critical patches should be evaluated in relation to the threat. If the vulnerability can be contained by other methods, such as adjustments to the firewall policy, full testing should take place. Each critical release must have a documented implementation plan. |
+| | | **Timescale:** |
+| | | The target for deployment of Critical patches is 7-15 days. |
+| Emergency patches | Where the existence, extent, and spread of worms, viruses, or exploits poses a very high likelihood of damage to business critical systems, such as unauthorised system access, information disclosure, arbitrary code execution, or denial of service. Patches should be applied upon the advice of MoJ Operational Security Team and as a matter of priority. | For patches deemed as Emergency, the Incident Management plan, based upon the MoJ Incident Management Policy should be used. |
+| | | **Timescale:** |
+| | | The target timescale for deployment is 24 hours - 4 days. 
 
 
 
