@@ -118,16 +118,32 @@ The MoJ must consistently measure the effectiveness of this standard and apply c
 
 There are three main categories of patch and vulnerability metrics: susceptibility to attack, mitigation response time, and cost, of which each category is described below:
 
-Susceptibility to Attack - Over a given period the number of vulnerabilities and patches applicable to each system must be measured. Complex systems are likely to be exposed to more vulnerabilities and therefore require particular vigilance in identifying and applying patching. Measuring the susceptibility to attack is a useful metric for judging the level of risk that system is exposed to.
+**Susceptibility to Attack** - Over a given period the number of vulnerabilities and patches applicable to each system must be measured. Complex systems are likely to be exposed to more vulnerabilities and therefore require particular vigilance in identifying and applying patching. Measuring the susceptibility to attack is a useful metric for judging the level of risk that system is exposed to.
 
-Mitigation Response Time – It is essential for the MoJ to measure how quickly it can identify, classify, and respond to a new vulnerability and mitigate the potential impact within the organisation. As a minimum the following must be measured:
+**Mitigation Response Time** – It is essential for the MoJ to measure how quickly it can identify, classify, and respond to a new vulnerability and mitigate the potential impact within the organisation. As a minimum the following must be measured:
 
 *   How long it took to learn about a new vulnerability or patch and assess its criticality;
 *   How long it took to apply a patch to all relevant IT devices within the system from time of release;
 *   How long it took to respond to patches assessed as critical or emergency.
 
-Cost – It is useful to measure the costs associated with patching each system. Each system should record:
+**Cost** – It is useful to measure the costs associated with patching each system. Each system should record:
 
 *   The cost of implementation;
 *   The cost of an automated patching solution;
 *   Any costs associated with failure to patch systems in time to prevent damage.
+
+## Appendix A - IT Security Patching Criticality Matrix
+
+| Criticality | Description | Implementation Timescales |
+| --- | --- | --- |
+| Routine patches/updates | Standard patches and updates that are issued periodically by the manufacturer e.g. Microsoft’s “patch Tuesday” where on the second Tuesday of each month Microsoft issue patches; | Patches will be fully tested as per the system testing plan and will be administered. |
+
+| | | **Timescale:** |
+| | | Important: 15 days. |
+| | | Medium: 30-60 days. |
+| | | Low: 3 months. |
+
+
+
+
+
