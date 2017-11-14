@@ -398,7 +398,7 @@ Table 4 - Staff training requirements
 <td>[For each role outlined in the IT Security – IT Disaster Recovery Policy [Ref, 2], a named individual must be entered here.]</td>
 </tr>
 <tr valign='top'>
-<td colspan='2'>Dependencies</td>
+<th colspan='2' align='center'>Dependencies</th>
 </tr>
 <tr valign='top'>
 <td>Internal Dependencies</td>
@@ -421,7 +421,7 @@ See <a href="#internal-dependencies">here</a>]</td>
 See <a href="#external-dependencies">here</a>]</td>
 </tr>
 <tr valign='top'>
-<td colspan='2'>Recovery Procedures</td>
+<th colspan='2' align='center'>Recovery Procedures</th>
 </tr>
 <tr valign='top'>
 <td>Primary Functions</td>
@@ -448,7 +448,7 @@ See <a href="#secondary-functions">here</a>]</td>
 <td>[For each step outlined in <a href="#itdr-incident-management">ITDR Incident Management</a>, list the corresponding recovery procedures in this section; see <a href="#recovery-procedures">Recovery procedures</a> for further details.]</td>
 </tr>
 <tr valign='top'>
-<td colspan='2'>Recovery Actions and Review</td>
+<th colspan='2' align='center'>Recovery Actions and Review</th>
 </tr>
 <tr valign='top'>
 <td>Recovery Actions</td>
@@ -459,7 +459,7 @@ See <a href="#secondary-functions">here</a>]</td>
 <td>[See <a href="#review">here</a>]</td>
 </tr>
 <tr valign='top'>
-<td colspan='2'>Plan Approval</td>
+<th colspan='2' align='center'>Plan Approval</th>
 </tr>
 <tr valign='top'>
 <td>Business Group SIRO</td>
