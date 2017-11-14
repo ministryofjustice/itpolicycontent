@@ -375,23 +375,23 @@ Table 4 - Staff training requirements
 </tr>
 <tr valign='top'>
 <td>System Description and Scope</td>
-<td>[This section must describe the scope of the ITDR plan. Diagrams may prove useful where there is a complex interaction between systems and business processes covered by this plan. See [here](#ict-system-description) for further details]</td>
+<td>[This section must describe the scope of the ITDR plan. Diagrams may prove useful where there is a complex interaction between systems and business processes covered by this plan. See <a href="#ict-system-description">here</a> for further details]</td>
 </tr>
 <tr valign='top'>
 <td>Site List</td>
-<td>[See [here](#site-list) ]</td>
+<td>[See <a href="#site-list">here</a>]</td>
 </tr>
 <tr valign='top'>
 <td>Definition of a 'Disaster'</td>
-<td>[See [here](#definition-of-a-disaster) ]</td>
+<td>[See <a href="#definition-of-a-disaster">here</a>]</td>
 </tr>
 <tr valign='top'>
 <td>Authorised to invoke the plan</td>
-<td>[See [here](#invocation) ]</td>
+<td>[See <a href="#invocation">here</a>]</td>
 </tr>
 <tr valign='top'>
 <td>Staff notification</td>
-<td>[Include details of how staff and IT suppliers are notified that ITDR plan has been invoked, see [here](#staff-notification) ]</td>
+<td>[Include details of how staff and IT suppliers are notified that ITDR plan has been invoked, see <a href="#staff-notification">here</a>]</td>
 </tr>
 <tr valign='top'>
 <td>Roles and responsibilities</td>
@@ -408,7 +408,7 @@ Table 4 - Staff training requirements
 <li>Description;</li>
 <li>Impact (time, resource, effort).</li>
 </ul>
-See [here](#internal-dependencies) ]</td>
+See <a href="#internal-dependencies">here</a>]</td>
 </tr>
 <tr valign='top'>
 <td>External Dependencies</td>
@@ -418,7 +418,7 @@ See [here](#internal-dependencies) ]</td>
 <li>Description;</li>
 <li>Impact (time, resource, effort).</li>
 </ul>
-See [here](#external-dependencies) ]</td>
+See <a href="#external-dependencies">here</a>]</td>
 </tr>
 <tr valign='top'>
 <td colspan='2'>Recovery Procedures</td>
@@ -431,7 +431,7 @@ See [here](#external-dependencies) ]</td>
 <li>Function;</li>
 <li>Description.</li>
 </ul>
-See [here](#primary-functions) ]</td>
+See <a href="#primary-functions">here</a>]</td>
 </tr>
 <tr valign='top'>
 <td>Secondary Functions</td>
@@ -441,22 +441,22 @@ See [here](#primary-functions) ]</td>
 <li>Function;</li>
 <li>Description.</li>
 </ul>
-See [here](#secondary-functions) ]</td>
+See <a href="#secondary-functions">here</a>]</td>
 </tr>
 <tr valign='top'>
 <td>Step [X]</td>
-<td>[For each step outlined in [ITDR Incident Management](#itdr-incident-management), list the corresponding recovery procedures in this section; see [Recovery procedures](#recovery-procedures) for further details.]</td>
+<td>[For each step outlined in <a href="#itdr-incident-management">ITDR Incident Management</a>, list the corresponding recovery procedures in this section; see <a href="#recovery-procedures">Recovery procedures</a> for further details.]</td>
 </tr>
 <tr valign='top'>
 <td colspan='2'>Recovery Actions and Review</td>
 </tr>
 <tr valign='top'>
 <td>Recovery Actions</td>
-<td>[See [here](#recovery-actions) ]</td>
+<td>[See <a href="#recovery-actions">here</a>]</td>
 </tr>
 <tr valign='top'>
 <td>Review</td>
-<td>[See [here](#review) ]</td>
+<td>[See <a href="#review">here</a>]</td>
 </tr>
 <tr valign='top'>
 <td colspan='2'>Plan Approval</td>
