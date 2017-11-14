@@ -141,12 +141,16 @@ A list of dependencies (internal and external) must be included in the ITDR plan
 
 This information can be used in a disaster event to provide an accurate estimate time for recovery.
 
+<a id="internal-dependencies"></a>
+
 ##### Internal Dependencies
 
 Internal dependencies are those which may materialise as part of the recovery actions of the ITDR plan itself, for example:
 
 - When a step in the plan must be completed before a subsequent step can be taken, such as restoring access to a database before conducting login testing.
 - If the data centre is in a remote part of the country, and so it may take time for staff to reach the location.
+
+<a id="external-dependencies"></a>
 
 ##### External Dependencies
 
@@ -187,14 +191,20 @@ IT supplier staff may require a different form of notification, and therefore th
 
 This section of the ITDR plan should detail the individuals who currently hold the roles listed in the previous section. As mentioned above, this information may be better kept in an annex.
 
+<a id="recovery-procedures"></a>
+
 ### Recovery procedures
 
 This section of the ITDR plan must list the functions of the ICT system and the business processes it supports, and relate them to a specific set of recovery actions.  Functions should be categorised (into primary and secondary functions) allowing for critical business processes to be restored ahead of others.
 A generic set of ITDR incident management steps is [provided](#itdr-incident-management) which should be used as the basis to structure the more granular recovery actions (see [here](#recovery-actions) ).
 
+<a id="primary-functions"></a>
+
 #### Primary functions
 
 Primary functions are those which **must be** restored in the event of a disaster. The primary functions are the business-centric and mandated processes which must be restored for the business to successfully complete its work.
+
+<a id="secondary-functions"></a>
 
 #### Secondary functions
 
@@ -205,6 +215,8 @@ Secondary functions are those which **should be** restored in the event of a dis
 #### Recovery actions
 
 This section of the ITDR plan should list any actions which are to be used in the recovery effort and where possible should be cross-referenced with the relevant primary and secondary functions. It is recommended that the ITDR plan contains a high level set of actions (e.g. recover file server) with technical details contained in a referenced work instruction or pre-existing operational procedures document.
+
+<a id="review"></a>
 
 ### Review
 
@@ -385,52 +397,80 @@ Table 4 - Staff training requirements
 <td>Roles and responsibilities</td>
 <td>[For each role outlined in the IT Security – IT Disaster Recovery Policy [Ref, 2], a named individual must be entered here.]</td>
 </tr>
+<tr valign='top'>
+<td colspan='2'>Dependencies</td>
+</tr>
+<tr valign='top'>
+<td>Internal Dependencies</td>
+<td>[Include each dependency, recommend the following format:
+<ul>
+<li>Dependency ID;</li>
+<li>Description;</li>
+<li>Impact (time, resource, effort).</li>
+</ul>
+See [here](#internal-dependencies) ]</td>
+</tr>
+<tr valign='top'>
+<td>External Dependencies</td>
+<td>[Include each dependency, recommend the following format:
+<ul>
+<li>Dependency ID;</li>
+<li>Description;</li>
+<li>Impact (time, resource, effort).</li>
+</ul>
+See [here](#external-dependencies) ]</td>
+</tr>
+<tr valign='top'>
+<td colspan='2'>Recovery Procedures</td>
+</tr>
+<tr valign='top'>
+<td>Primary Functions</td>
+<td>[Include each primary function, recommend the following format:
+<ul>
+<li>Function ID;</li>
+<li>Function;</li>
+<li>Description.</li>
+</ul>
+See [here](#primary-functions) ]</td>
+</tr>
+<tr valign='top'>
+<td>Secondary Functions</td>
+<td>[Include each primary function, recommend the following format:
+<ul>
+<li>Function ID;</li>
+<li>Function;</li>
+<li>Description.</li>
+</ul>
+See [here](#secondary-functions) ]</td>
+</tr>
+<tr valign='top'>
+<td>Step [X]</td>
+<td>[For each step outlined in [ITDR Incident Management](#itdr-incident-management), list the corresponding recovery procedures in this section; see [Recovery procedures](#recovery-procedures) for further details.]</td>
+</tr>
+<tr valign='top'>
+<td colspan='2'>Recovery Actions and Review</td>
+</tr>
+<tr valign='top'>
+<td>Recovery Actions</td>
+<td>[See [here](#recovery-actions) ]</td>
+</tr>
+<tr valign='top'>
+<td>Review</td>
+<td>[See [here](#review) ]</td>
+</tr>
+<tr valign='top'>
+<td colspan='2'>Plan Approval</td>
+</tr>
+<tr valign='top'>
+<td>Business Group SIRO</td>
+<td>[Enter the name of the Business Group SIRO]<br/>
+[DATE OF APPROVAL]</td>
+</tr>
+<tr valign='top'>
+<td>IT Security Officer</td>
+<td>[Enter the name of the IT Security Officer (ITSO)]<br/>
+[DATE OF APPROVAL]</td>
+</tr>
 </table>
 
-
-Dependencies
-Internal Dependencies
-[Include each dependency, recommend the following format:
-Dependency ID;
-Description;
-Impact (time, resource, effort).
-See section 5.1.3.1]
-External Dependencies
-[Include each dependency, recommend the following format:
-Dependency ID;
-Description;
-Impact (time, resource, effort).
-See section 5.1.3.2]
-Recovery Procedures
-Primary Functions
-[Include each primary function, recommend the following format:
-Function ID;
-Function;
-Description.
-See section 5.3.1]
-Secondary Functions
-[Include each primary function, recommend the following format:
-Function ID;
-Function;
-Description.
-See section 5.3.2]
-Step [X]
-[For each step outlined in section 7, list the corresponding recovery procedures in this section; see section 5.3 for further details.]
-Recovery Actions and Review
-Recovery Actions
-[See section 5.3.3]
-Review
-[See section 5.4]
-Plan Approval
-Business Group SIRO
-[Enter the name of the Business Group SIRO]
-[DATE OF APPROVAL]
-IT Security Officer
-[Enter the name of the IT Security Officer (ITSO)]
-[DATE OF APPROVAL]
- 
 Completing this plan can form part of the Accreditation process and must be included and maintained as part of the relevant RMADS.
-LikeBe the first to like this
-No labelsEdit Labels
-User icon
-Write a comment…
