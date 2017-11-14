@@ -1,6 +1,13 @@
+﻿---
+title: Data Handling and Information Sharing Guide
 ---
-title: Data handling and information sharing guide
----
+
+<table border='1'>
+<tr>
+<td>This content is a version of the Data Handling and Information Sharing Guide, August 2013.<br/>
+This is Legacy IA Policy. It is under review and likely to be withdrawn or substantially revised soon. Please contact us before using this on a new project: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=Data Handling and Information Sharing Guide">itpolicycontent@digital.justice.gov.uk</a>.</td>
+</tr>
+</table>
 
 This guide is designed to help protect MoJ information (held on MoJ ICT systems) by providing guidance on how it should be handled and shared in a safe and secure manner.
 
