@@ -1,6 +1,13 @@
+﻿---
+title: ICT Security Policy
 ---
-title: IT Security Policy
----
+
+<table border='1'>
+<tr>
+<td>This content is a version of the ICT Security Policy, November 2012.<br/>
+This is Legacy IA Policy. It is under review and likely to be withdrawn or substantially revised soon. Please contact us before using this on a new project: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=ICT Security Policy">itpolicycontent@digital.justice.gov.uk</a>.</td>
+</tr>
+</table>
 
 The objective of ICT security is to ensure business continuity and minimise damage by preventing and reducing the impact of ICT security incidents. This policy applies to all MoJ’s ICT systems, including those managed by ICT service providers. It covers:
 

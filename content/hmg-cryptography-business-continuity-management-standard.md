@@ -1,6 +1,13 @@
----
+﻿---
 title: HMG Cryptography Business Continuity Management Standard
 ---
+
+<table border='1'>
+<tr>
+<td>This content is a version of the HMG Cryptography Business Continuity Management Standard, August 2013.<br/>
+This is Legacy IA Policy. It is under review and likely to be withdrawn or substantially revised soon. Please contact us before using this on a new project: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=HMG Cryptography Business Continuity Management Standard">itpolicycontent@digital.justice.gov.uk</a>.</td>
+</tr>
+</table>
 
 All HMG encryption is procured from CESG which is the National Technical Authority for Information Assurance and is based in GCHQ. It is typically produced to support a CAPS product which means that it has gone through rigorous testing to give HMG assurance that it is secure. HMG Cryptography is produced under special circumstances to provide additional assurance and that process, distribution and storage of this material is protected and secure.
 
