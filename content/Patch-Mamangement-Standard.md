@@ -2,6 +2,13 @@
 title: Patch Management Standard
 ---
 
+<table border='1'>
+<tr>
+<td>This content is a version of the Patch Management Standard, August 2013.<br/>
+This is Legacy IA Policy. It is under review and likely to be withdrawn or substantially revised soon. Please contact us before using this on a new project: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=Patch Management Standard">itpolicycontent@digital.justice.gov.uk</a>.</td>
+</tr>
+</table>
+
 A patch is a piece of software applied to an ICT asset (operating system, hardware module or application) to update its capabilities, fix compatibility problems or remove a discovered security weakness. Manufacturers typically release regular software patches for their product and occasional “Service Packs”, which are major updates to an ICT asset’s software or firmware. Security patches are specialist patch releases that are used to correct vulnerabilities identified which may compromise the Confidentiality, Integrity or Availability of that asset. This corrective action will prevent successful exploitation by removing or mitigating the specific vulnerability identified.
 
 The HMG Security Policy Framework mandatory requirement 39 states that:
