@@ -1,6 +1,13 @@
----
+﻿---
 title: Protective Monitoring Guide
 ---
+
+<table border='1'>
+<tr>
+<td>This content is a version of the Protective Monitoring Guide, May 2015.<br/>
+This is Legacy IA Policy. It is under review and likely to be withdrawn or substantially revised soon. Please contact us before using this on a new project: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=code-of-connection-standard">itpolicycontent@digital.justice.gov.uk</a>.</td>
+</tr>
+</table>
 
 [gpg13]: https://www.ncsc.gov.uk/guidance/protective-monitoring-hmg-ict-systems-gpg-13
 [accreditation-framework]: https://intranet.justice.gov.uk/documents/2015/04/accreditation-framework.pdf
@@ -1062,10 +1069,3 @@ The table below provides a template to capture [all the accounting items to be c
 </table>
 
 <p></p>
-
-<table border='1'>
-<tr valign='top'>
-<td>This policy is dated October 2017, and is an update of the Protective Monitoring Guide, v1.0, May 2015.<br/>
-To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=protective-monitoring-guide">itpolicycontent@digital.justice.gov.uk</a>.</td>
-</tr>
-</table>
