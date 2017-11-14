@@ -5,7 +5,7 @@ title: Protective Monitoring Guide
 <table border='1'>
 <tr>
 <td>This content is a version of the Protective Monitoring Guide, May 2015.<br/>
-This is Legacy IA Policy. It is under review and likely to be withdrawn or substantially revised soon. Please contact us before using this on a new project: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=code-of-connection-standard">itpolicycontent@digital.justice.gov.uk</a>.</td>
+This is Legacy IA Policy. It is under review and likely to be withdrawn or substantially revised soon. Please contact us before using this on a new project: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=Protective Monitoring Guide">itpolicycontent@digital.justice.gov.uk</a>.</td>
 </tr>
 </table>
 
