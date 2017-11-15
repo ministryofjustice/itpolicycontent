@@ -12,9 +12,9 @@ But before you travel, consider:
 
 As a government official travelling overseas, you should consider that you may be of interest to hostile parties regardless of your role. By following MOJ policies and processes, you can help reduce the risk to yourself and limit the damage of exposure of sensitive information.
 
-Special case: If you are national security cleared to ‘Enhanced SC’ or DV levels, you must also contact [Corporate Security](mailto:corporatesecuritybranch@justice.gsi.gov.uk) branch before travelling, regardless of whether the trip is for business or personal reasons.
+**Special case:** If you are national security cleared to 'Enhanced SC' or DV levels, you must also contact [Corporate Security](mailto:corporatesecuritybranch@justice.gsi.gov.uk) branch before travelling, regardless of whether the trip is for business or personal reasons.
  
-If you need to access MOJ services from abroad and visiting one of the following countries, you must seek permission from your line manager and SCS/Governor first. If they approve, submit your request to [Operational Security](mailto:operationalsecurityteam@justice.gsi.gov.uk), giving at least 14 days’ notice. This is because it may be necessary to apply additional technical controls to protect you, your device, and any data they can access.	
+If you need to access MOJ services from abroad and visiting one of the following countries, you must seek permission from your line manager and SCS/Governor first. If they approve, submit your request to [Operational Security](mailto:operationalsecurityteam@justice.gsi.gov.uk), giving at least 14 days' notice. This is because it may be necessary to apply additional technical controls to protect you, your device, and any data they can access.	
 
 *   China
 *   Cyprus
@@ -85,7 +85,7 @@ MOJ-issued phones might still have some functionality, to let you make phone cal
 
 #### Related pages
 
-*   General advice on taking Equipment abroad - link to follow
+*   [General advice on taking Equipment abroad](https://www.ncsc.gov.uk/guidance/safe-use-mobile-devices-and-internet)
 *   [Travelling abroad - business or personal](https://intranet.justice.gov.uk/guidance/security/staff-security-and-responsibilities/travelling-abroad-business-or-personal)
 *   [Staff security and responsibilities – during employment](https://intranet.justice.gov.uk/guidance/security/staff-security-and-responsibilities/during-employment)
 
