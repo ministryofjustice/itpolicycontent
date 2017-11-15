@@ -2,6 +2,12 @@
 title: General advice on taking equipment abroad
 ---
 
+<table border='1'>
+<tr>
+<td>This guidance information applies to all staff, contractors and agency staff who work for the MOJ.</td>
+</tr>
+</table>
+
 ## Personal safety
 
 As a government official, when you travel overseas, you might be of interest to a range of hostile parties. It doesn't matter what role you have or how senior you are.
@@ -65,18 +71,24 @@ If you are on official business:
 - Produce a letter of introduction from the overseas organisation or individuals you are visiting.
 - Carry the names and telephone numbers of the people you are visiting in your visit. Invite the officials to contact them to confirm that you are who you claim to be.
 
-It is possible that you might lose sight of a device, for example if a customs official removes it. The device is immediately considered compromised. Contact the IT Service Desk at once, and report the device as compromised.
+It is possible that you might lose sight of a device, for example if a customs official removes it. The device is immediately considered compromised. Contact the Service Desk at once, and report the device as compromised.
+
+## If you have any problem when using MOJ equipment abroad
 
 When calling from abroad, the contact telephone numbers you need are:
 
-1. Technology Service Desk: +44 (0)1270 612 618
-2. NICTs Service Desk: +44 (0)191 587 8388
+1. Technology Service Desk (DOM1): +44 (0)1270 612 618
+2. NICT Service Desk: +44 (0)191 587 8388
  
-- If any security-related incident occurs overseas, you should contact [Corporate Security Branch](mailto:corporatesecuritybranch@justice.gsi.gov.uk) as soon as possible.
+If any security-related incident occurs overseas, regardless of whether it involves MOJ equipment, you should contact [Corporate Security Branch](mailto:corporatesecuritybranch@justice.gsi.gov.uk) as soon as possible.
 
-- If there is any emergency outside normal UK business hours, contact the Duty Security Officer on +44 (0)20 3334 5577, or email: [dutysecurityofficer@justice.gsi.gov.uk](mailto:dutysecurityofficer@justice.gsi.gov.uk)
+For any emergency outside normal UK business hours, contact the Duty Security Officer on +44 (0)20 3334 5577, or email: [dutysecurityofficer@justice.gsi.gov.uk](mailto:dutysecurityofficer@justice.gsi.gov.uk)
  
-It might be necessary to disable your ability to connect to the MOJ network or services from your device. Service Desk will do this if required.
+If there is a problem with your MOJ equipment, it might be necessary to disable your ability to connect to the MOJ network or services from your device. The Service Desk will do this if required. MOJ-issued phones might still have some functionality, to let you make phone calls, but the device should be treated as compromised and not used any more for any MOJ business.
 
-MOJ-issued phones might still have some functionality, to let you make phone calls, but the device should be treated as compromised and not used any more for any MOJ business.
-
+<table border='1'>
+<tr>
+<td>This document is dated November 2017, and is an updated version of the 'Taking IT equipment abroad (business or personal)' guidance, dated April 2015.<br/>
+To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=general-advice-on-taking-equipment-abroad">itpolicycontent@digital.justice.gov.uk</a>.</td>
+</tr>
+</table>

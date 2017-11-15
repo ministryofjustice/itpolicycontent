@@ -2,9 +2,15 @@
 title: Using your own smartphone, laptop, tablet or PC for work
 ---
 
+<table border='1'>
+<tr>
+<td>This guidance information applies to all staff, contractors and agency staff who work for the MOJ.</td>
+</tr>
+</table>
+
 The MOJ provides the IT equipment you need for your work. But you might prefer to use your own smartphone, laptop, tablet, or PC. It can even be cheaper for the MOJ.
 
-Using your own device is often acceptable as long as you take some precautions first. Remember that you are responsible for the MOJ information held on, or accessed by, your device. It might be your equipment, but you have the same obligations and responsibilities for protecting MOJ information and resources.
+Using your personally-owned device is often acceptable as long as you take some precautions first. Remember that you are responsible for the MOJ information held on, or accessed by, your device. It might be your equipment, but you have the same obligations and responsibilities for protecting MOJ information and resources. In particular, the policies, standards and guidance that apply to MOJ-issued devices will also apply to your device.
 
 You must always:
 
@@ -13,7 +19,7 @@ You must always:
 - be able to show a specific business benefit for using your own device
 - be clear as to what work you can, or cannot do, on your equipment
 
-**Note:** There is no technical support for your device. However, any problem or issue regarding an MOJ capability or service should be [reported](#if-something-goes-wrong).
+**Note:** There is no MOJ technical support for your device. However, any problems or issues regarding an MOJ capability or service should be [reported](#if-something-goes-wrong).
 
 ## Before you start using your device
 
@@ -30,7 +36,7 @@ To stop other people accessing MOJ systems or information, your device must:
 - ask for a [strong password](https://www.cyberaware.gov.uk/passwords), PIN, fingerprint or other ID verification whenever you log on
 - lock the screen if you don’t use it for 10 minutes
 
-Ensure that your device is completely up-to-date with security patches and antivirus/anti-malware tools.
+Ensure that your device is completely up-to-date with security patches as well as antivirus and anti-malware tools.
 
 Remember that some devices have automatic and continuous backup tools installed; these might grab and store sensitive MOJ information.
 
@@ -90,3 +96,10 @@ If you are not sure whether the information is sensitive, assume that it is sens
 You might be allowed to use other services for working on your own device.
 
 To find out if you can, email [itservicedesk@justice.gsi.gov.uk](mailto:itservicedesk@justice.gsi.gov.uk) with the subject "`Access to a new service on my own device`" and details of the service you'd like to use.
+
+<table border='1'>
+<tr>
+<td>This document is dated November 2017.<br/>
+To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=using-your-own-smartphone-laptop-tablet-or-pc-for-work">itpolicycontent@digital.justice.gov.uk</a>.</td>
+</tr>
+</table>
