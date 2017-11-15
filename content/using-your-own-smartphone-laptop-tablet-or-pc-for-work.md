@@ -1,6 +1,5 @@
 ---
 title: Using your own smartphone, laptop, tablet or PC for work
-date: 2017-10-26 13:46
 ---
 
 The MOJ provides the IT equipment you need for your work. But you might prefer to use your own smartphone, laptop, tablet, or PC. It can even be cheaper for the MOJ.
@@ -13,6 +12,8 @@ You must always:
 - maintain the corporate 'memory'. This means being able to respond fully to Freedom of Information or Data Protection Act requests
 - be able to show a specific business benefit for using your own device
 - be clear as to what work you can, or cannot do, on your equipment
+
+**Note:** There is no technical support for your device. However, any problem or issue regarding an MOJ capability or service should be [reported](#if-something-goes-wrong).
 
 ## Before you start using your device
 
@@ -43,13 +44,15 @@ Always install the [latest security updates](https://www.cyberaware.gov.uk/softw
 
 Make sure everything is stored and up-to-date within the MOJ approved services you’re using. If you are working with MOJ G-Suite (Google Apps), or MOJ Office 365, the information must stay in those systems, not somewhere else on your device.
 
-If you really must store information on the device, for example because you are remote working and have no network access, delete the information from the device as soon as possible, after you have finished.
+If you really must store information on the device, for example because you are remote working and have no network access, delete the information from the device as soon as possible after you have finished.
 
 Be especially careful of backup tools on the device, which might store data and therefore stop you complying with data protection requirements.
 
 ### Be careful when sharing the device
 
 If a family member borrows your tablet or laptop (for example), make sure they cannot use the MOJ applications, or access any of the work information.
+
+<a id="if-something-goes-wrong"></a>
 
 ## If something goes wrong
 
@@ -58,6 +61,8 @@ If your device is lost, stolen or 'hacked', you must:
 - tell your line manager straight away
 - fill in a [security incident form](https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/)
 - email the form to: [itservicedesk@justice.gsi.gov.uk](mailto:itservicedesk@justice.gsi.gov.uk)
+
+If MOJ data or information is lost or compromised, [report it as a data loss](https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/report-a-data-loss/).
 
 Find out more about [how to report a security incident](https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/).
 

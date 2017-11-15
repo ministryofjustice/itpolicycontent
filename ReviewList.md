@@ -4,7 +4,7 @@ title: Review list
 
 # Ministry of Justice
 
-Last updated: 10 Nov 2017
+Last updated: 15 Nov 2017
 
 ## **Draft** IT Policy Content
 
@@ -12,12 +12,13 @@ Last updated: 10 Nov 2017
 |---|---|---|
 | Acceptable use | <https://ministryofjustice.github.io/itpolicycontent/content/acceptable-use.html> | <https://intranet.justice.gov.uk/?page_id=106474> |
 | Accessing MOJ IT Systems from Abroad | <https://ministryofjustice.github.io/itpolicycontent/content/accessing-MoJ-IT-Systems-From-abroad.html> | <https://intranet.justice.gov.uk/?page_id=112533> |
-| BYOD | <https://ministryofjustice.github.io/itpolicycontent/content/using-your-own-smartphone-laptop-tablet-or-pc-for-work.html> | <https://intranet.justice.gov.uk/?page_id=108816> |
 | Forensic Readiness Policy | <https://ministryofjustice.github.io/itpolicycontent/content/forensic-readiness-policy.html> | <https://intranet.justice.gov.uk/?page_id=106576> |
 | Forensic Readiness Standard | <https://ministryofjustice.github.io/itpolicycontent/content/forensic-readiness-standard.html> | <https://intranet.justice.gov.uk/?page_id=106621> |
 | Forensic Readiness Guide | <https://ministryofjustice.github.io/itpolicycontent/content/forensic-readiness-guide.html> | <https://intranet.justice.gov.uk/?page_id=106976> |
+| General advice on taking equipment abroad | <https://ministryofjustice.github.io/itpolicycontent/content/general-advice-on-taking-equipment-abroad.html> | <https://intranet.justice.gov.uk/?page_id=114075> |
 | IT Incident Management Policy | <https://ministryofjustice.github.io/itpolicycontent/content/it-incident-management-policy.html> | <https://intranet.justice.gov.uk/?page_id=107825> |
 | Principles for IT Policy and Guidance | <https://ministryofjustice.github.io/itpolicycontent/content/principles-for-it-policy-and-guidance.html> | <https://intranet.justice.gov.uk/?page_id=106453> |
+| Using your own device | <https://ministryofjustice.github.io/itpolicycontent/content/using-your-own-smartphone-laptop-tablet-or-pc-for-work.html> | <https://intranet.justice.gov.uk/?page_id=108816> |
 | Web browsing security | <https://ministryofjustice.github.io/itpolicycontent/content/web-browsing-security.html> | <https://intranet.justice.gov.uk/?page_id=113278> |
 | Web browsing security policy profiles | <https://ministryofjustice.github.io/itpolicycontent/content/web-browsing-security-policy-profiles.html> | <https://intranet.justice.gov.uk/?page_id=113318> |
 | Web browsing security policy profiles (Original) | <https://ministryofjustice.github.io/itpolicycontent/content/web-browsing-security-policy-profiles-original.html> | <https://intranet.justice.gov.uk/?page_id=113362> |
