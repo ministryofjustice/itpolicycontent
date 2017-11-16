@@ -5,7 +5,7 @@ title: Forensic Readiness Guide
 <table border='1'>
 <tr>
 <td>This content is a version of the Forensic Readiness Guide, August 2013.<br/>
-This is Legacy IA Policy. It is under review and likely to be withdrawn or substantially revised soon. Please contact us before using this on a new project: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=Forensic Readiness Guide">itpolicycontent@digital.justice.gov.uk</a>.</td>
+This is Legacy IA Policy. It is under review and likely to be withdrawn or substantially revised soon. Please contact us before using this on a new project: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=forensic-readiness-guide">itpolicycontent@digital.justice.gov.uk</a>.</td>
 </tr>
 </table>
 

@@ -1,11 +1,11 @@
-﻿---
+---
 title: Forensic Readiness Policy
 ---
 
 <table border='1'>
 <tr>
 <td>This content is a version of the Forensic Readiness Policy, September 2015.<br/>
-This is Legacy IA Policy. It is under review and likely to be withdrawn or substantially revised soon. Please contact us before using this on a new project: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=Forensic Readiness Policy">itpolicycontent@digital.justice.gov.uk</a>.</td>
+This is Legacy IA Policy. It is under review and likely to be withdrawn or substantially revised soon. Please contact us before using this on a new project: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=forensic-readiness-policy">itpolicycontent@digital.justice.gov.uk</a>.</td>
 </tr>
 </table>
 

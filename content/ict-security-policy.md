@@ -1,11 +1,11 @@
-﻿---
+---
 title: ICT Security Policy
 ---
 
 <table border='1'>
 <tr>
 <td>This content is a version of the ICT Security Policy, November 2012.<br/>
-This is Legacy IA Policy. It is under review and likely to be withdrawn or substantially revised soon. Please contact us before using this on a new project: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=ICT Security Policy">itpolicycontent@digital.justice.gov.uk</a>.</td>
+This is Legacy IA Policy. It is under review and likely to be withdrawn or substantially revised soon. Please contact us before using this on a new project: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=ict-security-policy">itpolicycontent@digital.justice.gov.uk</a>.</td>
 </tr>
 </table>
 
@@ -69,7 +69,7 @@ Assessment and the risk management decisions made must be recorded in a Risk Man
 
 As part of the MoJ approach to risk management, the potential impact of a successful attack on the Confidentiality, Integrity and Availability of the asset/s supported or processed by an ICT system is assessed in terms of business impact. The definition of an asset is taken from HMG Information Assurance Standard No.1 & 2:
 
-<blockquote>Anything that has value to the organisation, its business operations and its continuity.</blockquote>
+> Anything that has value to the organisation, its business operations and its continuity.
 
 In the context of an ICT system, this includes (but not limited to) data, hardware, software and business services provided by the system.
 
@@ -108,6 +108,7 @@ The Permanent Secretary, as Accounting Officer, has overall responsibility for a
 Identification, authentication and authorisation security controls are implemented by both technical controls within the ICT system and by procedural controls which are followed by users and administrators of that ICT System.
 
 Where these security controls are implemented within the ICT system, the ICT Security – Technical Controls Policy provides further detail on the MoJ policy in this area.
+
 For procedural controls, the ICT Security - Acceptable Use Policy provides details on the MoJ policy with regards to the usage of ICT systems.
 
 For both technical and procedural controls, the ICT Security - Information Classification and Handling Policy sets the MoJ policy on how information assets must be handled by ICT systems (including users of those systems) and provides the context for the application of those controls.
@@ -139,7 +140,7 @@ Some ICT systems at the MoJ make use of HMG supplied cryptographic material. The
 *   all ICT systems which require cryptographic controls must conform to Information Assurance Standard No. 4
 *   there are strict controls around the use of this material. Any use of HMG cryptographic material or products must conform to the MoJ ICT Security – Use of HMG Cryptography Policy
 
-<strong>Note:</strong> Information Assurance Standard No. 4 states that if HMG cryptographic material is handled, Departments and Agencies must appoint a Communications Security Officer (COMSO). The COMSO is responsible to the SIRO and DSO for ensuring the MoJ’s compliance with the minimum HMG Comsec and cryptography requirements, and developing, implementing and maintaining organisational communications. For further details on the use of HMG cryptographic material can be found in the MoJ ICT Security – Use of HMG Cryptography Policy.
+**Note:** Information Assurance Standard No. 4 states that if HMG cryptographic material is handled, Departments and Agencies must appoint a Communications Security Officer (COMSO). The COMSO is responsible to the SIRO and DSO for ensuring the MoJ’s compliance with the minimum HMG Comsec and cryptography requirements, and developing, implementing and maintaining organisational communications. For further details on the use of HMG cryptographic material can be found in the MoJ ICT Security – Use of HMG Cryptography Policy.
 
 ### Remote Working and Mobile Computing
 
@@ -207,7 +208,7 @@ The MoJ Information Security Education and Awareness strategy is to ensure that 
 *   minimising the disruption caused by actual breaches/incidents
 *   all MoJ ICT users (including contractors, agency staff and consultants) must be made aware of, understand and adhere to MoJ ICT Security Policies and security operating procedures as defined in ICT Security – Acceptable Use Policy
 
-<strong>Note:</strong> The MoJ Information Security Education and Awareness strategy is the responsibility of the Corporate Security and Business Continuity Branch. The Central IA Branch leads on Information Assurance training; Corporate Security provides training for security liaison officers in HQ and ALBs which includes aspects of physical, personnel and information security.
+**Note:** The MoJ Information Security Education and Awareness strategy is the responsibility of the Corporate Security and Business Continuity Branch. The Central IA Branch leads on Information Assurance training; Corporate Security provides training for security liaison officers in HQ and ALBs which includes aspects of physical, personnel and information security.
 
 ## CISO Terms of Reference
 

@@ -1,11 +1,11 @@
-﻿---
+---
 title: HMG Cryptography Business Continuity Management Standard
 ---
 
 <table border='1'>
 <tr>
 <td>This content is a version of the HMG Cryptography Business Continuity Management Standard, August 2013.<br/>
-This is Legacy IA Policy. It is under review and likely to be withdrawn or substantially revised soon. Please contact us before using this on a new project: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=HMG Cryptography Business Continuity Management Standard">itpolicycontent@digital.justice.gov.uk</a>.</td>
+This is Legacy IA Policy. It is under review and likely to be withdrawn or substantially revised soon. Please contact us before using this on a new project: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=hmg-cryptography-business-continuity-management-standard">itpolicycontent@digital.justice.gov.uk</a>.</td>
 </tr>
 </table>
 
