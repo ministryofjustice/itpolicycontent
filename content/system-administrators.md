@@ -103,12 +103,3 @@ By signing below I acknowledge that I have read the System Administrator Securit
 <tr valign='top'><td>Date:</td><td>&nbsp;</td></tr>
 <tr valign='top'><td>Signature:</td><td>&nbsp;</td></tr>
 </table>
-
-<p>&nbsp;</p>
-
-<table border='1'>
-<tr valign='top'>
-<td>This policy is dated October 2017, and is an update of the System Administrator Security Operating Procedures (SyOps), v1.0, May 2015.<br/>
-To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=system-administrators">itpolicycontent@digital.justice.gov.uk</a>.</td>
-</tr>
-</table>
