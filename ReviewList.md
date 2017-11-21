@@ -33,6 +33,8 @@ Last updated: 21 Nov 2017
 | Code of Connection Standard | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/enterprise/code-of-connection-standard.html> | <https://intranet.justice.gov.uk/?page_id=107373> |
 | Data Handling and Information Sharing Guide | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/enterprise/data-handling-and-information-sharing-guide.html> | <https://intranet.justice.gov.uk/?page_id=106420> |
 | Forensic Principles | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/enterprise/forensic-principles.html> |  |
+| Forensic Readiness Guide | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/enterprise/forensic-readiness-guide.html> |  |
+| Forensic Readiness Policy | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/enterprise/forensic-readiness-policy.html> |  |
 | Governance and Accountability | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/governance-and-accountability.html> |  |
 | Government Classification Scheme | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/government-classification-scheme.html> |  |
 | HMG Cryptography Business Continuity Management Standard | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/enterprise/hmg-cryptography-business-continuity-management-standard.html> | <https://intranet.justice.gov.uk/?page_id=109705> |
