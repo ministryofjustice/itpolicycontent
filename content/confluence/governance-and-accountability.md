@@ -4,7 +4,7 @@ title: Governance and Accountability
 
 <table border='1'>
 <tr>
-<td>This content is a version of the Governance and Accountability guide, May 2015.<br/>
+<td>This content is a version of the Governance and Accountability statement, May 2015.<br/>
 This is Legacy IA Policy. It is under review and likely to be withdrawn or substantially revised soon. Please contact us before using this on a new project: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=governance-and-accountability">itpolicycontent@digital.justice.gov.uk</a>.</td>
 </tr>
 </table>
