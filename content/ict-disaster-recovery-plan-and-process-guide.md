@@ -84,7 +84,7 @@ The process for developing a good ITDR plan can be summarised into two stages:
 
 Figure 2 is outlines this process.
 
-![IT Disaster Recovery flowchart for planning, execution, and feedback.](ict-disaster-recovery-plan-and-process-guide-diagram-2.png)
+![IT Disaster Recovery flowchart for planning, execution, and feedback.](https://intranet.justice.gov.uk/app/uploads/2017/11/ict-disaster-recovery-plan-and-process-guide-diagram-2.png)
 
 Figure 2 - ITDR planning and Execution
 
