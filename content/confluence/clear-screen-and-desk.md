@@ -1,7 +1,11 @@
-﻿<table border='1'>
+---
+title: Clear Screen and Desk
+---
+
+<table border='1'>
 <tr>
-<td>This content is a version of the Code of Connection Standard, August 2013.<br/>
-This is Legacy IA Policy. It is under review and likely to be withdrawn or substantially revised soon. Please contact us before using this on a new project: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=access-control">itpolicycontent@digital.justice.gov.uk</a>.</td>
+<td>This content is a version of the Clear Screen &amp; Desk Policy, May 2015.<br/>
+This is Legacy IA Policy. It is under review and likely to be withdrawn or substantially revised soon. Please contact us before using this on a new project: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=clear-screen-and-desk">itpolicycontent@digital.justice.gov.uk</a>.</td>
 </tr>
 </table>
 
