@@ -1,6 +1,10 @@
-﻿<table border='1'>
+---
+title: Access Control
+---
+
+<table border='1'>
 <tr>
-<td>This content is a version of the Code of Connection Standard, August 2013.<br/>
+<td>This content is a version of the Access Control guide, May 2015.<br/>
 This is Legacy IA Policy. It is under review and likely to be withdrawn or substantially revised soon. Please contact us before using this on a new project: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=access-control">itpolicycontent@digital.justice.gov.uk</a>.</td>
 </tr>
 </table>
@@ -13,9 +17,9 @@ All MoJ staff (including contractors and agency staff) are entitled to be grante
 
 Access control is primarily about enforcing three information security principles:
 
-*   The **‘need-to-know’** principle – restricting access to information based on a business requirement;
+*   The **'need-to-know'** principle – restricting access to information based on a business requirement;
 *   **Non-repudiation** of User actions –holding a User accountable for their actions on an ICT system; and,
-*   The **‘least privilege’** principle – assigning the least number of privileges required to fulfil their work. 
+*   The **'least privilege'** principle – assigning the least number of privileges required to fulfil their work. 
 
 ## User registration and account creation
 
@@ -36,7 +40,7 @@ An IT System Owner or Information Asset Owner (IAO) is responsible for managing 
 
 An individuals User account and any associated access rights must be removed once that individual has either left the organisation or no longer requires access to the IT system (or application) that the account was created for.
 
-Account removal must be authorised by MoJ HR. The leavers process can be found on the HR intranet page, see [http://intranet.justice.gsi.gov.uk/guidance-support/my-services/index.htm](http://intranet.justice.gsi.gov.uk/guidance-support/my-services/index.htm). 
+Account removal must be authorised by MoJ HR. The leavers process can be found on the HR intranet page, see <https://myservices.justice.gov.uk/moj/my-services>.
 
 ## Audit
 
