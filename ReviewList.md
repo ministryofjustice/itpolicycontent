@@ -4,7 +4,7 @@ title: Review list
 
 # Ministry of Justice
 
-Last updated: 20 Nov 2017
+Last updated: 21 Nov 2017
 
 ## **Draft** IT Policy Content
 
@@ -29,7 +29,7 @@ Last updated: 20 Nov 2017
 |---|---|---|
 | Code of Connection Standard | <https://ministryofjustice.github.io/itpolicycontent/content/code-of-connection-standard.html> | <https://intranet.justice.gov.uk/?page_id=107373> |
 | Data Handling and Information Sharing Guide | <https://ministryofjustice.github.io/itpolicycontent/content/data-handling-and-information-sharing-guide.html> | <https://intranet.justice.gov.uk/?page_id=106420> |
-| ICT Disaster Recovery Plan and Process Guide | <https://ministryofjustice.github.io/itpolicycontent/content/ict-disaster-recovery-plan-and-process-guide.html> | |
+| ICT Disaster Recovery Plan and Process Guide | <https://ministryofjustice.github.io/itpolicycontent/content/ict-disaster-recovery-plan-and-process-guide.html> | <https://intranet.justice.gov.uk/?page_id=115053> |
 | ICT Security Policy | <https://ministryofjustice.github.io/itpolicycontent/content/ict-security-policy.html> | <https://intranet.justice.gov.uk/?page_id=108966> |
 | HMG Cryptography Business Continuity Management Standard | <https://ministryofjustice.github.io/itpolicycontent/content/hmg-cryptography-business-continuity-management-standard.html> | <https://intranet.justice.gov.uk/?page_id=109705> |
 | Offshoring Guide | <https://ministryofjustice.github.io/itpolicycontent/content/offshoring-guide.html> | <https://intranet.justice.gov.uk/?page_id=112350> |
