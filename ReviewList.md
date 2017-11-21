@@ -31,10 +31,13 @@ Last updated: 21 Nov 2017
 | Access Control | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/access-control.html> | <https://intranet.justice.gov.uk/?page_id=115117>
 | Clear Screen &amp; Desk | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/clear-screen-and-desk.html> | <https://intranet.justice.gov.uk/?page_id=115132>
 | Code of Connection Standard | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/enterprise/code-of-connection-standard.html> | <https://intranet.justice.gov.uk/?page_id=107373> |
-| Data Handling and Information Sharing Guide | <https://ministryofjustice.github.io/itpolicycontent/content/data-handling-and-information-sharing-guide.html> | <https://intranet.justice.gov.uk/?page_id=106420> |
+| Data Handling and Information Sharing Guide | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/enterprise/data-handling-and-information-sharing-guide.html> | <https://intranet.justice.gov.uk/?page_id=106420> |
+| Forensic Principles | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/enterprise/forensic-principles.html> |  |
+| Governance and Accountability | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/governance-and-accountability.html> |  |
+| Government Classification Scheme | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/government-classification-scheme.html> |  |
+| HMG Cryptography Business Continuity Management Standard | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/enterprise/hmg-cryptography-business-continuity-management-standard.html> | <https://intranet.justice.gov.uk/?page_id=109705> |
 | ICT Disaster Recovery Plan and Process Guide | <https://ministryofjustice.github.io/itpolicycontent/content/ict-disaster-recovery-plan-and-process-guide.html> | <https://intranet.justice.gov.uk/?page_id=115053> |
 | ICT Security Policy | <https://ministryofjustice.github.io/itpolicycontent/content/ict-security-policy.html> | <https://intranet.justice.gov.uk/?page_id=108966> |
-| HMG Cryptography Business Continuity Management Standard | <https://ministryofjustice.github.io/itpolicycontent/content/hmg-cryptography-business-continuity-management-standard.html> | <https://intranet.justice.gov.uk/?page_id=109705> |
 | Offshoring Guide | <https://ministryofjustice.github.io/itpolicycontent/content/offshoring-guide.html> | <https://intranet.justice.gov.uk/?page_id=112350> |
 | Patch Management Standard | <https://ministryofjustice.github.io/itpolicycontent/content/patch-management-standard.html> | <https://intranet.justice.gov.uk/?page_id=114822> |
 | Policies for Google Apps administrators | <https://ministryofjustice.github.io/itpolicycontent/content/policies-for-google-apps-administrators.html> | <https://intranet.justice.gov.uk/?page_id=114818> |

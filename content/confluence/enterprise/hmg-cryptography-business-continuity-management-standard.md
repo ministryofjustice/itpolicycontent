@@ -4,10 +4,22 @@ title: HMG Cryptography Business Continuity Management Standard
 
 <table border='1'>
 <tr>
-<td>This content is a version of the HMG Cryptography Business Continuity Management Standard, August 2013.<br/>
+<td>This content is a version of the HMG Cryptography Business Continuity Management Standard, May 2015.<br/>
 This is Legacy IA Policy. It is under review and likely to be withdrawn or substantially revised soon. Please contact us before using this on a new project: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=hmg-cryptography-business-continuity-management-standard">itpolicycontent@digital.justice.gov.uk</a>.</td>
 </tr>
 </table>
+
+## Introduction
+
+### Scope
+
+This Business continuity plan is limited to all HMG cryptographic material procured by the MoJ Crypto Custodian for and on behalf of any part of the MoJ with the exception of BRENT encryption requirements.
+
+### Who needs to read this document
+
+This document is for the MoJ Crypto Custodian, the Alternate Crypto Custodian and any authorised signatories and or people who have access to the safes where encryption that is managed by the MoJ Crypto Custodian is stored.
+
+### Background
 
 All HMG encryption is procured from CESG which is the National Technical Authority for Information Assurance and is based in GCHQ. It is typically produced to support a CAPS product which means that it has gone through rigorous testing to give HMG assurance that it is secure. HMG Cryptography is produced under special circumstances to provide additional assurance and that process, distribution and storage of this material is protected and secure.
 
