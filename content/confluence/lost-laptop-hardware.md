@@ -1,6 +1,10 @@
-﻿<table border='1'>
+---
+title: Lost Laptop/Hardware
+---
+
+<table border='1'>
 <tr>
-<td>This content is a version of the Lost Laptop/Hardware, September 2015.<br/>
+<td>This content is a version of the Lost Laptop/Hardware guide, September 2015.<br/>
 This is Legacy IA Policy. It is under review and likely to be withdrawn or substantially revised soon. Please contact us before using this on a new project: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=lost-laptop-hardware">itpolicycontent@digital.justice.gov.uk</a>.</td>
 </tr>
 </table>
@@ -9,7 +13,7 @@ This is Legacy IA Policy. It is under review and likely to be withdrawn or subst
  
 What should the person do themselves? -  **Report the loss to MOJ Digital and the Police (request incident number)**
 
-Who should they contact? - Contact the Incident Response and Tuning Team at [incidents@digital.justice.gov.uk](incidents@digital.justice.gov.uk). **If you do not have access to email call:**
+Who should they contact? - Contact the Incident Response and Tuning Team at [incidents@digital.justice.gov.uk](mailto:incidents@digital.justice.gov.uk). **If you do not have access to email call:**
 
 *   **In hours calls: 07500127062**
 *   **Out of hours call: 07534255700 (best efforts)**
