@@ -42,6 +42,8 @@ Last updated: 22 Nov 2017
 | ICT Disaster Recovery Plan and Process Guide | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/enterprise/ict-disaster-recovery-plan-and-process-guide.html> | <https://intranet.justice.gov.uk/?page_id=115053> |
 | Incident Reporting | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/incident-reporting.html> | <https://intranet.justice.gov.uk/?page_id=115435> |
 | Lost Laptop/Hardware | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/lost-laptop-hardware.html> | <https://intranet.justice.gov.uk/?page_id=115095> |
+| Malware Protection Guide | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/enterprise/malware-protection-guide.html> | <https://intranet.justice.gov.uk/?page_id=115648> |
+| Malware threat | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/malware-threat.html> | <https://intranet.justice.gov.uk/?page_id=115090> |
 | Offshoring Guide | <https://ministryofjustice.github.io/itpolicycontent/content/offshoring-guide.html> | <https://intranet.justice.gov.uk/?page_id=112350> |
 | Patch Management Standard | <https://ministryofjustice.github.io/itpolicycontent/content/patch-management-standard.html> | <https://intranet.justice.gov.uk/?page_id=114822> |
 | Policies for Google Apps administrators | <https://ministryofjustice.github.io/itpolicycontent/content/policies-for-google-apps-administrators.html> | <https://intranet.justice.gov.uk/?page_id=114818> |
