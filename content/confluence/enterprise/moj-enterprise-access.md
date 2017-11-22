@@ -55,6 +55,7 @@ Most MoJ ICT systems operate at IL3 where information with a protective marking 
 For the purposes of this standard, access rights have been broken down into three User account types. Table 1 provide a description for each type and the minimum clearance required.
 
 | User account type | Description | Minimum Clearance Required |
+| --- | --- | --- |
 | Normal User | Include all Users with entry-level access; includes read/write and read-only Users. | BPSS |
 | Application Administrator / Privileged User | Typically an application system manager, i.e. those with the rights to create/remove user accounts, and provide internal support. | BPSS |
 | Systems Administrator | A systems administrator does not necessarily have a ‘need-to-know’ over any of the business information held on the systems they support however they do have administrative privileges which allows them to view data held on those systems and change their configuration. | SC |
