@@ -4,7 +4,7 @@ title: Review list
 
 # Ministry of Justice
 
-Last updated: 21 Nov 2017
+Last updated: 22 Nov 2017
 
 ## **Draft** IT Policy Content
 
@@ -40,6 +40,8 @@ Last updated: 21 Nov 2017
 | Government Classification Scheme | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/government-classification-scheme.html> |  |
 | HMG Cryptography Business Continuity Management Standard | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/enterprise/hmg-cryptography-business-continuity-management-standard.html> | <https://intranet.justice.gov.uk/?page_id=109705> |
 | ICT Disaster Recovery Plan and Process Guide | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/enterprise/ict-disaster-recovery-plan-and-process-guide.html> | <https://intranet.justice.gov.uk/?page_id=115053> |
+| Incident Reporting | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/incident-reporting.html> | <https://intranet.justice.gov.uk/?page_id=115435> |
+| Lost Laptop/Hardware | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/lost-laptop-hardware.html> | <https://intranet.justice.gov.uk/?page_id=115095> |
 | Offshoring Guide | <https://ministryofjustice.github.io/itpolicycontent/content/offshoring-guide.html> | <https://intranet.justice.gov.uk/?page_id=112350> |
 | Patch Management Standard | <https://ministryofjustice.github.io/itpolicycontent/content/patch-management-standard.html> | <https://intranet.justice.gov.uk/?page_id=114822> |
 | Policies for Google Apps administrators | <https://ministryofjustice.github.io/itpolicycontent/content/policies-for-google-apps-administrators.html> | <https://intranet.justice.gov.uk/?page_id=114818> |

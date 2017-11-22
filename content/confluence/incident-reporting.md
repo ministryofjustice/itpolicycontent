@@ -1,6 +1,10 @@
-﻿<table border='1'>
+---
+title: Incident Reporting
+---
+
+<table border='1'>
 <tr>
-<td>This content is a version of the Incident Reporting, May 2015.<br/>
+<td>This content is a version of the Incident Reporting guidance, May 2015.<br/>
 This is Legacy IA Policy. It is under review and likely to be withdrawn or substantially revised soon. Please contact us before using this on a new project: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=incident-reporting">itpolicycontent@digital.justice.gov.uk</a>.</td>
 </tr>
 </table>
@@ -16,4 +20,4 @@ ITDR management is the ability to react to ITDR events in a controlled, pre-plan
 ## Source
 
 Further information is available on the MoJ intranet at the following location:
-[http://intranet.justice.gsi.gov.uk/guidance-support/security/report-security-incidents/index.htm](http://intranet.justice.gsi.gov.uk/guidance-support/security/report-security-incidents/index.htm)
+<https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/>
