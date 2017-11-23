@@ -4,7 +4,7 @@ title: moj-enterprise-access
 
 <table border='1'>
 <tr>
-<td>This content is a version of the Code of Connection Standard, May 2013.<br/>
+<td>This content is a version of the MoJ Enterprise Access, May 2015.<br/>
 This is Legacy IA Policy. It is under review and likely to be withdrawn or substantially revised soon. Please contact us before using this on a new project: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=moj-enterprise-access">itpolicycontent@digital.justice.gov.uk</a>.</td>
 </tr>
 </table>
@@ -127,9 +127,9 @@ Note: It is anticipated that most MoJ ICT system will be able to comply with thi
 
 | Activity | Description | Schedule |
 | --- | --- | --- |
-| *Review existing user accounts* | Review all the user (and system user) accounts and identify accounts which have not been used in the last 3 months.The list of identified accounts must be reviewed with MoJ HR to identify which accounts can be removed (as the User has left the MoJ) or require deactivation (as the User is on long term leave). | Every 3 months |
-| *Review of user access / authentication tokens* | Review the usages of remote access authentication tokens (e.g. RSA token) and identify accounts where a token has not been used in the last 3 months. These token must be disabled. | Every 3 months |
-| *Review of user account privileges* | Review the roles and privileges assigned to a User and remove any which are no longer required. | Every 6-12 months (exact review period to be agreed with the system Accreditor and MoJ ITSO) |
+| **Review existing user accounts** | Review all the user (and system user) accounts and identify accounts which have not been used in the last 3 months.The list of identified accounts must be reviewed with MoJ HR to identify which accounts can be removed (as the User has left the MoJ) or require deactivation (as the User is on long term leave). | Every 3 months |
+| **Review of user access / authentication tokens** | Review the usages of remote access authentication tokens (e.g. RSA token) and identify accounts where a token has not been used in the last 3 months. These token must be disabled. | Every 3 months |
+| **Review of user account privileges** | Review the roles and privileges assigned to a User and remove any which are no longer required. | Every 6-12 months (exact review period to be agreed with the system Accreditor and MoJ ITSO) |
 
 Table 2 - Review of User privileges and accounts schedule
 
