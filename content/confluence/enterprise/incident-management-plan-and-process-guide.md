@@ -377,100 +377,85 @@ When an IT system has had a significant compromise, that system may require a re
 
 ## Lessons learnt and continuous improvement
 
-Adequate information relating to security incidents, such as types, volumes and costs must be recorded in order to identify recurring or high impact incidents or malfunctions.  This may indicate the need for additional or enhanced security controls to limit the frequency, damage and cost of future occurrences or may indicate the need for a change in policy, the design of an IT system or implementation of SyOPs.
+Adequate information relating to security incidents, such as types, volumes and costs must be recorded in order to identify recurring or high impact incidents or malfunctions. This may indicate the need for additional or enhanced security controls to limit the frequency, damage and cost of future occurrences or may indicate the need for a change in policy, the design of an IT system or implementation of SyOPs.
 
 IT security incident statistics must be presented in conjunction with an assessment of top security risks and details of any significant compliance gaps on a monthly basis to the ITSO to assist risk management. Each ITSIM plan must be reviewed on a yearly basis and re-approved by the SIRO and ITSO.
 
 <a id='appendix-a'></a>
 
-# Appendix A – IT Security Incident Management Plan - Template
+## Appendix A – IT Security Incident Management Plan - Template
 
-IT Security Incident Management Plan
+<table>
+<tr>
+<th colspan='3' align='center'>IT Security Incident Management Plan</th>
+</tr>
+<tr>
+<th colspan='3' align='center'>Overview</th>
+</tr>
+<tr>
+<td colspan='2'>MoJ Business Group</td>
+<td>\[Enter the name of the MoJ Business Group.\]</td>
+</tr>
+<tr>
+<td colspan='2'>System Description and Scope</td>
+<td>\[This section must describe the scope of the ITSIM plan. Diagrams may prove useful where there is a complex interaction between systems and business processes covered by this plan.\]</td>
+</tr>
+<tr>
+<td colspan='2'>Escalation Path</td>
+<td>\[This section must describe the escalation path for an IT security
+incident (see Figure 5).\]</td>
+</tr>
+<tr>
+<th colspan='3' align='center'>Incident Categorisation</th>
+</tr>
+<tr>
+<td rowspan='2'>Low Impact Incident</td>
+<td>Description</td>
+<td>\[Provide a description of what a Low impact incident constitutes; see section 6.3.1 for further details.\]</td>
+</tr>
+<tr>
+<td>Priority and escalation</td>
+<td>\[Provide details of the priority and standard SLAs which will be applied to incidents at this impact level. Consultant the OST and ITSO when completing this section.\]</td>
+</tr>
+<tr>
+<td rowspan='2'>Medium Impact Incident</td>
+<td>Description</td>
+<td>\[Provide a description of what a Medium impact incident constitutes; see section 6.3.2 for further details.\]</td>
+</tr>
+<tr>
+<td>Priority and escalation</td>
+<td>\[Provide details of the priority and standard SLAs which will be applied to incidents at this impact level. Consultant the OST and ITSO when completing this section.\]</td>
+</tr>
+<tr>
+<td rowspan='2'>High Impact Incident</td>
+<td>Description</td>
+<td>\[Provide a description of what a High impact incident constitutes; see section 6.3.3 for further details.\]</td>
+</tr>
+<tr>
+<td>Priority and escalation</td>
+<td>\[Provide details of the priority and standard SLAs which will be applied to incidents at this impact level. Consultant the OST and ITSO when completing this section.\]</td>
+</tr>
+<tr>
+<th colspan='3' align='center'>Plan Approval</th>
+</tr>
+<tr>
+<td colspan='2'>Business Group SIRO</td>
+<td>\[Enter the name of the Business Group SIRO\]
+<br/>
+\[DATE OF APPROVAL\]</td>
+</tr>
+<tr>
+<td colspan='2'>IT Security Officer</td>
+<td>\[Enter the name of the ITSO\]
+<br/>
+\[DATE OF APPROVAL\]</td>
+</tr>
+</table>
 
-Overview
+Completing this plan can form part of the Accreditation process and must be included and maintained as part of the relevant RMADS.
 
-MoJ Business Group
-
-\[Enter the name of the MoJ Business Group.\]
-
-System Description and Scope
-
-\[This section must describe the scope of the ITSIM plan. Diagrams may
-prove useful where there is a complex interaction between systems and
-business processes covered by this plan.\]
-
-Escalation Path
-
-\[This section must describe the escalation path for an IT security
-incident (see Figure 5).\]
-
-Incident Categorisation
-
-Low Impact Incident
-
-Description
-
-\[Provide a description of what a Low impact incident constitutes; see
-section 6.3.1 for further details.\]
-
-Priority and escalation
-
-\[Provide details of the priority and standard SLAs which will be
-applied to incidents at this impact level. Consultant the OST and ITSO
-when completing this section.\]
-
-Medium Impact Incident
-
-Description
-
-\[Provide a description of what a Medium impact incident constitutes;
-see section 6.3.2 for further details.\]
-
-Priority and escalation
-
-\[Provide details of the priority and standard SLAs which will be
-applied to incidents at this impact level. Consultant the OST and ITSO
-when completing this section.\]
-
-High Impact Incident
-
-Description
-
-\[Provide a description of what a High impact incident constitutes; see
-section 6.3.3 for further details.\]
-
-Priority and escalation
-
-\[Provide details of the priority and standard SLAs which will be
-applied to incidents at this impact level. Consultant the OST and ITSO
-when completing this section.\]
-
-Plan Approval
-
-Business Group SIRO
-
-\[Enter the name of the Business Group SIRO\]
-
-\[DATE OF APPROVAL\]
-
-IT Security Officer
-
-\[Enter the name of the ITSO\]
-
-\[DATE OF APPROVAL\]
-
-Completing this plan can form part of the Accreditation process and must
-be included and maintained as part of the relevant RMADS.
-
------
-
-# Appendix B – Escalation path
+## Appendix B – Escalation path
 
 ![](images/image4.jpg)
 
 Figure 5 – ITSIM Escalation path
-
-PROTECT - POLICY
-
-1-00 -
-RELEASE
