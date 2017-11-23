@@ -17,9 +17,9 @@ Access control mechanisms provide the ability for MoJ ICT systems to control the
 
 Access control is primarily about enforcing three information security principles:
 
-- The ‘need-to-know’ principle – restricting access to information based on a business requirement.
-- Non-repudiation of User actions –holding a User accountable for their actions on an ICT system.
-- The ‘least privilege’ principle – assigning the least number of privileges required to fulfil their work.
+- The *‘need-to-know’* principle – restricting access to information based on a business requirement.
+- *Non-repudiation* of User actions –holding a User accountable for their actions on an ICT system.
+- The *‘least privilege’* principle – assigning the least number of privileges required to fulfil their work.
 
 At a high level, access control in MoJ is based on Role Based Access Control (RBAC). Each user is assigned a role (or set of roles) and access to a piece of information is granted on a per role basis. In general, information will either be subject to RBAC or classified as open access (for example, a HR policy document made available on the MoJ intranet).
 
@@ -28,8 +28,6 @@ Information made available on an open access basis (i.e. not subject to any RBAC
 ## Management of User access control
 
 Figure 2 depicts the 4 stage management lifecycle for managing User access control.
-
- 
 
 Figure 2 - Management lifecycle
 
@@ -44,7 +42,7 @@ The following activities must be undertaken for each new User registration:
 - The identity of the new User must be confirmed – for an MoJ member of staff this is confirmed by MoJ HR;
 - The access rights required must be supplied (for example, the list of RBAC groups and/or applications);
 - Confirmation of clearance level (see section 4.2.1.1 for further details);
-- The application for User registration must be authorised by a MoJ senior manager – Note: This authorisation is used as confirmation of the Users identity and the access rights requested are correct.
+- The application for User registration must be authorised by a MoJ senior manager – *Note:* This authorisation is used as confirmation of the Users identity and the access rights requested are correct.
 
 In general, individuals who are MoJ staff (including contractors and agency staff) will be provisioned with a User account and a number of roles applicable to the nature of their work so that they can access the relevant MoJ ICT systems, application and information. Temporary use of a MoJ ICT system may be permitted where a specific business need exists (e.g. to allow an external trainer to train MoJ staff in a new application) subject to clearance checks and a Non-Disclosure Agreement (NDA). A MoJ senior manager must assume total responsibility for the actions undertaken by that temporary User while they are using a MoJ ICT system using a temporary account.
 
@@ -62,7 +60,7 @@ For the purposes of this standard, access rights have been broken down into thre
 
 Table 1 - User account type and clearance required
 
-Note: The clearance level indicated in Table 1 is separate to the clearance level required for a particular job role and sets the minimum requirement for access to a MoJ ICT system. Most job roles at the MoJ require an individual to attain BPSS however; some job roles require an individual to have a higher clearance such as SC or DV.
+*Note:* The clearance level indicated in Table 1 is separate to the clearance level required for a particular job role and sets the minimum requirement for access to a MoJ ICT system. Most job roles at the MoJ require an individual to attain BPSS however; some job roles require an individual to have a higher clearance such as SC or DV.
 
 ## Privilege management and review of user access rights
 
@@ -128,9 +126,10 @@ Table 2 outlines the review schedule which must be applied to all MoJ ICT system
 Note: It is anticipated that most MoJ ICT system will be able to comply with this schedule, however it is recognised that this may not be feasible on some. Any deviation from this schedule must be approved by the system Accreditor and MoJ ITSO (for example a copy of Table 2 with revised schedule can be placed within the relevant system RMADS).
 
 | Activity | Description | Schedule |
-| Review existing user accounts | Review all the user (and system user) accounts and identify accounts which have not been used in the last 3 months.The list of identified accounts must be reviewed with MoJ HR to identify which accounts can be removed (as the User has left the MoJ) or require deactivation (as the User is on long term leave). | Every 3 months |
-| Review of user access / authentication tokens | Review the usages of remote access authentication tokens (e.g. RSA token) and identify accounts where a token has not been used in the last 3 months. These token must be disabled. | Every 3 months |
-| Review of user account privileges | Review the roles and privileges assigned to a User and remove any which are no longer required. | Every 6-12 months (exact review period to be agreed with the system Accreditor and MoJ ITSO) |
+| --- | --- | --- |
+| *Review existing user accounts* | Review all the user (and system user) accounts and identify accounts which have not been used in the last 3 months.The list of identified accounts must be reviewed with MoJ HR to identify which accounts can be removed (as the User has left the MoJ) or require deactivation (as the User is on long term leave). | Every 3 months |
+| *Review of user access / authentication tokens* | Review the usages of remote access authentication tokens (e.g. RSA token) and identify accounts where a token has not been used in the last 3 months. These token must be disabled. | Every 3 months |
+| *Review of user account privileges* | Review the roles and privileges assigned to a User and remove any which are no longer required. | Every 6-12 months (exact review period to be agreed with the system Accreditor and MoJ ITSO) |
 
 Table 2 - Review of User privileges and accounts schedule
 
