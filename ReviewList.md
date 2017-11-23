@@ -44,6 +44,7 @@ Last updated: 22 Nov 2017
 | Lost Laptop/Hardware | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/lost-laptop-hardware.html> | <https://intranet.justice.gov.uk/?page_id=115095> |
 | Malware Protection Guide | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/enterprise/malware-protection-guide.html> | <https://intranet.justice.gov.uk/?page_id=115648> |
 | Malware threat | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/malware-threat.html> | <https://intranet.justice.gov.uk/?page_id=115090> |
+| MoJ Enterprise Access Control Policy | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/enterprise/moj-enterprise-access.html> | <https://intranet.justice.gov.uk/?page_id=115684> |
 | Offshoring Guide | <https://ministryofjustice.github.io/itpolicycontent/content/offshoring-guide.html> | <https://intranet.justice.gov.uk/?page_id=112350> |
 | Patch Management Standard | <https://ministryofjustice.github.io/itpolicycontent/content/patch-management-standard.html> | <https://intranet.justice.gov.uk/?page_id=114822> |
 | Policies for Google Apps administrators | <https://ministryofjustice.github.io/itpolicycontent/content/policies-for-google-apps-administrators.html> | <https://intranet.justice.gov.uk/?page_id=114818> |
