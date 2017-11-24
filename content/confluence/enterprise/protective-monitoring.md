@@ -35,13 +35,18 @@ The purpose of this document is to provide guidance on developing a protective m
 Protective Monitoring is a set of business processes, with essential support technology, that oversees how ICT systems are used and to assure user accountability for their use of ICT facilities. Protective monitoring places mechanisms for collecting ICT log information to provide an audit trail of defined security relevant events which can be used for reporting and alerting.
 [HMG Security Policy Framework (SPF)](https://www.gov.uk/government/publications/security-policy-framework) Mandatory Requirement 9 states that:
 
-> "Departments and Agencies must put in place an appropriate range of technical controls for all ICT systems, proportionate to the value, importance and sensitivity of the information held and the requirements of any interconnected systems."
+> Departments and Agencies must put in place an appropriate range of technical controls for all ICT systems, proportionate to the value, importance and sensitivity of the information held and the requirements of any interconnected systems.
 
 In order to meet that requirement, the SPF stipulates that ICT systems must:
 
-> Put in place a proportionate risk based suite of technical policies and controls including:
-  …
-  IV. Protective Monitoring;"
+<blockquote>Put in place a proportionate risk based suite of technical policies and controls including:
+<br/>
+<br/>
+...
+<br/>
+<br/>
+IV. Protective Monitoring;
+</blockquote>
 
 Policy statements on protective monitoring are covered in IT Security – Technical Controls Policy [Link to follow], while this document sets out the MoJ guidance for its implementation.
 
