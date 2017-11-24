@@ -82,11 +82,13 @@ incident. ITSIM at the MoJ follows the following principles:
 <td>All MoJ staff (including contractors and agency staff)</td>
 <td>All MoJ staff (including contractors and agency staff) play a role in identifying and reporting IT security incidents.
 <br/>
+<br/>
 All staff must report any concerns especially when the IT security policy is not being adhered to, or where suspicious activity may indicate a security incident is being (or highly likely to be) committed. Moreover, if there is a strong likelihood that a security incident may occur, this must also be reported.</td>
 </tr>
 <tr>
 <td>MoJ Senior Managers</td>
 <td>MoJ Senior Managers hold a position of responsibility and can form part of the decision making process during the management of a live IT security incident.
+<br/>
 <br/>
 MoJ Senior Managers must ensure that all IT security incidents or personal data breaches are taken seriously and sufficiently investigated, and where necessary, corrective, disciplinary and or legal proceedings are actively pursued.</td>
 </tr>
@@ -94,7 +96,8 @@ MoJ Senior Managers must ensure that all IT security incidents or personal data 
 <td>Senior Information Risk Owner (SIRO)</td>
 <td>MoJ Business Group SIROs are responsible for implementing and managing information risk in their respective business groups and, reviewing the application of policy and guidance regularly thereafter to ensure it remains appropriate to their business objectives and risk environment.
 <br/>
-In the context of ITSIM, the SIRO forms part of the escalation path where incidents which are categorised as having a high impact or involve personal data (see section 6.3) are reported to the SIRO as a matter of course. They are also responsible for ensuring that their business group has an ITSIM plan.</td>
+<br/>
+In the context of ITSIM, the SIRO forms part of the escalation path where incidents which are categorised as having a high impact or involve personal data (see <a href='#categorisation-of-incidents'>here</a>) are reported to the SIRO as a matter of course. They are also responsible for ensuring that their business group has an ITSIM plan.</td>
 </tr>
 <tr>
 <td>Information Asset Owner (IAO)</td>
@@ -107,6 +110,7 @@ In the context of ITSIM, the SIRO forms part of the escalation path where incide
 <tr>
 <td>MoJ Operational Security Team (OST)</td>
 <td>The MoJ OST forms the core of the MoJ ITSIM response mechanism. They act as a co-ordinator managing all IT security incidents across the MoJ estate.
+<br/>
 <br/>
 The OST are responsible for:
 <ul>
@@ -163,10 +167,10 @@ A good ITSIM plan requires a good understanding of the business, the information
 </tr>
 <tr>
 <td>Incident Categorisation </td>
-<td>The IT Security – IT Incident Management Policy [Ref, 2] and this guide (see section 6.3) provides a generic incident categorisation schema. This generic scheme should be used to develop final schema contained within the ITSIM plan. The aim at this phase of developing the ITSIM plan is to:
+<td>The IT Security – IT Incident Management Policy [Ref, 2] and this guide (see <a href='#categorisation-of-incidents'>here</a>) provides a generic incident categorisation schema. This generic scheme should be used to develop final schema contained within the ITSIM plan. The aim at this phase of developing the ITSIM plan is to:
 <ul>
 <li>Explore the different types of incidents which could or have occurred. For example a good starting point is a review of relevant system RMADS to identify possible incident types.</li>
-<li>Compare the incident types identified with the information assets and services which could be impacted and broadly align each type to impact category (high impact, medium impact or low impact, see section 6.3 for further details on the response level for each category).</li>
+<li>Compare the incident types identified with the information assets and services which could be impacted and broadly align each type to impact category (high impact, medium impact or low impact, see <a href='#categorisation-of-incidents'>here</a> for further details on the response level for each category).</li>
 </ul></td>
 </tr>
 <tr>
@@ -280,11 +284,15 @@ The MoJ Operational Security Team (OST) is responsible for maintaining a central
 
 This database and the effective reporting of security incidents which populate it are important in managing the MoJ's overall risk exposure. This is both in the short term, to identify any major deficiencies with an IT system which requires immediate remedial action and in the long term, to capture lessons learnt to improve Information Assurance maturity and the ITSIM plan itself.
 
+<a id='categorisation-of-incidents'></a>
+
 ### Categorisation of Incidents
 
 Incidents need to be categorised to assess their impact and the required level of escalation and reporting. This is mainly done to manage resources and make investigations cost effective. The initial assessment for all IT security incidents will be made by the OST with support from the ITSO and the relevant system Accreditor as required. The assessment will be in terms of the potential impact of the incident with each incident categorised in terms of Low, Medium or High impact.
 
 The three sub-sections below provides a description for each category, it is expected that the business group ITSIM plan will contain a tailored version of this description and confirm the escalation route which will be followed.
+
+<a id='low-impact-incident'></a>
 
 #### Low Impact Incident
 
@@ -293,6 +301,8 @@ These would typically be minor such as low level breaches in security through an
 A low impact personal data incident would typically include an incident where no loss has occurred but a weakness in a system may potentially have led to a loss, and with a small amount of remedial action the weakness in a process can easily be addressed.
 
 Incident categorised as low will be typically managed by the MoJ OST who will engage with the relevant parties within the business and IT supplier community to resolve the incident. Any escalation (see Figure 5) will be predominantly to the level of the MOJ ITSO and relevant system Accreditor.
+
+<a id='medium-impact-incident'></a>
 
 #### Medium Impact Incident
 
@@ -315,6 +325,8 @@ Examples of medium impact incidents include (but not limited to):
 - The theft or loss of HMG cryptographic material.
 
 Medium impact incidents require escalation to the MoJ ITSO who will determine whether the IAO and relevant system Accreditor also need to be informed. In the case of personal or sensitive personal data, the MoJ Data Access and Compliance Unit (DACU) also need to be informed. If deemed appropriate, a forensic investigation will be requested by the MoJ ITSO in line with the IT Security – Forensic Readiness Policy \[Ref, 3\].
+
+<a id='high-impact-incident'></a>
 
 #### High Impact Incident
 
@@ -393,62 +405,62 @@ IT security incident statistics must be presented in conjunction with an assessm
 <th colspan='3' align='center'>Overview</th>
 </tr>
 <tr>
-<td colspan='2'>MoJ Business Group</td>
-<td>\[Enter the name of the MoJ Business Group.\]</td>
+<th colspan='2'>MoJ Business Group</th>
+<td>[Enter the name of the MoJ Business Group.]</td>
 </tr>
 <tr>
-<td colspan='2'>System Description and Scope</td>
-<td>\[This section must describe the scope of the ITSIM plan. Diagrams may prove useful where there is a complex interaction between systems and business processes covered by this plan.\]</td>
+<th colspan='2'>System Description and Scope</th>
+<td>[This section must describe the scope of the ITSIM plan. Diagrams may prove useful where there is a complex interaction between systems and business processes covered by this plan.]</td>
 </tr>
 <tr>
-<td colspan='2'>Escalation Path</td>
-<td>\[This section must describe the escalation path for an IT security
-incident (see Figure 5).\]</td>
+<th colspan='2'>Escalation Path</th>
+<td>[This section must describe the escalation path for an IT security
+incident (see Figure 5).]</td>
 </tr>
 <tr>
 <th colspan='3' align='center'>Incident Categorisation</th>
 </tr>
 <tr>
-<td rowspan='2'>Low Impact Incident</td>
-<td>Description</td>
-<td>\[Provide a description of what a Low impact incident constitutes; see section 6.3.1 for further details.\]</td>
+<th rowspan='2'>Low Impact Incident</th>
+<th>Description</th>
+<td>[Provide a description of what a Low impact incident constitutes; see <a href='#low-impact-incident'>here</a> for further details.]</td>
 </tr>
 <tr>
-<td>Priority and escalation</td>
-<td>\[Provide details of the priority and standard SLAs which will be applied to incidents at this impact level. Consultant the OST and ITSO when completing this section.\]</td>
+<th>Priority and escalation</th>
+<td>[Provide details of the priority and standard SLAs which will be applied to incidents at this impact level. Consultant the OST and ITSO when completing this section.]</td>
 </tr>
 <tr>
-<td rowspan='2'>Medium Impact Incident</td>
-<td>Description</td>
-<td>\[Provide a description of what a Medium impact incident constitutes; see section 6.3.2 for further details.\]</td>
+<th rowspan='2'>Medium Impact Incident</th>
+<th>Description</th>
+<td>[Provide a description of what a Medium impact incident constitutes; see <a href='#medium-impact-incident'>here</a> for further details.]</td>
 </tr>
 <tr>
-<td>Priority and escalation</td>
-<td>\[Provide details of the priority and standard SLAs which will be applied to incidents at this impact level. Consultant the OST and ITSO when completing this section.\]</td>
+<th>Priority and escalation</th>
+<td>[Provide details of the priority and standard SLAs which will be applied to incidents at this impact level. Consultant the OST and ITSO when completing this section.]</td>
 </tr>
 <tr>
-<td rowspan='2'>High Impact Incident</td>
-<td>Description</td>
-<td>\[Provide a description of what a High impact incident constitutes; see section 6.3.3 for further details.\]</td>
+<th rowspan='2'>High Impact Incident</th>
+<th>Description</th>
+<td>[Provide a description of what a High impact incident constitutes; see <a href='#high-impact-incident'>here</a> for further details.]</td>
 </tr>
 <tr>
-<td>Priority and escalation</td>
-<td>\[Provide details of the priority and standard SLAs which will be applied to incidents at this impact level. Consultant the OST and ITSO when completing this section.\]</td>
+<th>Priority and escalation</th>
+<td>[Provide details of the priority and standard SLAs which will be applied to incidents at this impact level. Consultant the OST and ITSO when completing this section.]</td>
 </tr>
 <tr>
 <th colspan='3' align='center'>Plan Approval</th>
 </tr>
 <tr>
-<td colspan='2'>Business Group SIRO</td>
-<td>\[Enter the name of the Business Group SIRO\]
+<th colspan='2'>Business Group SIRO</th>
+<td>[Enter the name of the Business Group SIRO]
 <br/>
-\[DATE OF APPROVAL\]</td>
+[DATE OF APPROVAL]</td>
 </tr>
 <tr>
-<td colspan='2'>IT Security Officer</td>
-<td>\[Enter the name of the ITSO\]
+<th colspan='2'>IT Security Officer</th>
+<td>[Enter the name of the ITSO]
 <br/>
-\[DATE OF APPROVAL\]</td>
+[DATE OF APPROVAL]</td>
 </tr>
 </table>
 
@@ -456,6 +468,6 @@ Completing this plan can form part of the Accreditation process and must be incl
 
 ## Appendix B – Escalation path
 
-![](images/image4.jpg)
+![ITSIM Escalation path](https://intranet.justice.gov.uk/app/uploads/2017/11/incident-management-plan-and-process-guide-diagram-4.png)
 
 Figure 5 – ITSIM Escalation path
