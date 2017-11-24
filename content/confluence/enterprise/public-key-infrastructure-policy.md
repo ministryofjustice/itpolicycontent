@@ -46,7 +46,7 @@ Certificates used for authentication of users or organisations used in token or 
 </tr>
 <tr>
 <td>Certificate Authority (CA)</td>
-<td>An entity that issues digital certificates. Certificate Authorities are hierarchical, with subordinate CAs being authorised to issue certificates by a trusted, top level, “Root” CA.</td>
+<td>An entity that issues digital certificates. Certificate Authorities are hierarchical, with subordinate CAs being authorised to issue certificates by a trusted, top level, "Root" CA.</td>
 </tr>
 <tr>
 <td>Registration Authority (RA)</td>
@@ -58,19 +58,19 @@ Certificates used for authentication of users or organisations used in token or 
 </tr>
 <tr>
 <td>Certificate Policy (CP)</td>
-<td>A document that states the different actors of a public key infrastructure (PKI), specifying their roles and their duties. Its content and structure is described in <a href="https://www.google.com/url?q=http://tools.ietf.org/html/rfc3647&amp;sa=D&amp;ust=1511528238479000&amp;usg=AFQjCNFMsjGhJ07-eBa3EtHJgXJUt52B_g">IETF RFC3647</a> [Ref.16]. This is often a legal document forming part of a contract.</td>
+<td>A document that states the different actors of a public key infrastructure (PKI), specifying their roles and their duties. Its content and structure is described in <a href="https://tools.ietf.org/html/rfc3647">IETF RFC3647</a> [Ref.16]. This is often a legal document forming part of a contract.</td>
 </tr>
 <tr>
 <td>Certificate Practice Statement (CPS)</td>
-<td>A document from a Certificate Authority which describes their practice for issuing and managing public key certificates in line with the root CA Certificate Policy. . Its content and structure is described in <a href="https://www.google.com/url?q=http://tools.ietf.org/html/rfc3647&amp;sa=D&amp;ust=1511528238480000&amp;usg=AFQjCNF1JTt2EMR0p2Fm6Pr8LyyARataAA">IETF RFC3647</a> [Ref.16].</td>
+<td>A document from a Certificate Authority which describes their practice for issuing and managing public key certificates in line with the root CA Certificate Policy. . Its content and structure is described in <a href="https://tools.ietf.org/html/rfc3647">IETF RFC3647</a> [Ref.16].</td>
 </tr>
 <tr>
 <td>Certificate Revocation List (CRL)</td>
-<td>A signed list of certificates (or more specifically, a list of serial numbers for certificates) that have been revoked before they expire, and therefore, entities presenting those (revoked) certificates should no longer be trusted. CRL is described in IETF RFC5280 [Ref.17].</td>
+<td>A signed list of certificates (or more specifically, a list of serial numbers for certificates) that have been revoked before they expire, and therefore, entities presenting those (revoked) certificates should no longer be trusted. CRL is described in <a href="https://tools.ietf.org/html/rfc5280">IETF RFC5280</a> [Ref.17].</td>
 </tr>
 <tr>
 <td>Online Certificate Status Protocol (OCSP)</td>
-<td>An Internet protocol used for obtaining the revocation status of an X.509 digital certificate. It is described in <a href="https://www.google.com/url?q=http://tools.ietf.org/html/rfc6960&amp;sa=D&amp;ust=1511528238482000&amp;usg=AFQjCNF5b1vxJebOyRmrRtNooxqskPOoJg">IETF RFC 6960</a> [Ref.18]</td>
+<td>An Internet protocol used for obtaining the revocation status of an X.509 digital certificate. It is described in <a href="https://tools.ietf.org/html/rfc6960">IETF RFC 6960</a> [Ref.18]</td>
 </tr>
 <tr>
 <td>Trust Anchor</td>
@@ -78,11 +78,11 @@ Certificates used for authentication of users or organisations used in token or 
 </tr>
 <tr>
 <td>Certificate Signing Request (CSR)</td>
-<td>A message sent from an applicant to a certificate authority in order to apply for a digital identity certificate. Normally complies with PKCS #10 as defined in IETF RFC 2986 [Ref.24]</td>
+<td>A message sent from an applicant to a certificate authority in order to apply for a digital identity certificate. Normally complies with PKCS #10 as defined in <a href="https://tools.ietf.org/html/rfc2986">IETF RFC 2986</a> [Ref.24]</td>
 </tr>
 <tr>
 <td>Certificate Revocation Request (CRR)</td>
-<td>A message sent from the registered owner of a digital certificate to a certificate authority in order to revoke a compromised digital certificate. Normally complies with PKCS #10 as defined in IETF RFC 2986 [Ref.24].</td>
+<td>A message sent from the registered owner of a digital certificate to a certificate authority in order to revoke a compromised digital certificate. Normally complies with PKCS #10 as defined in <a href="https://tools.ietf.org/html/rfc2986">IETF RFC 2986</a> [Ref.24].</td>
 </tr>
 <tr>
 <td>Key</td>
@@ -129,8 +129,8 @@ This section describes the common PKI policy that applies regardless of the type
 
 - Senior Information Risk Owner (SIRO) – Responsible for all risks to do with the PKI Services. Final point of escalation for incidents.
 - Departmental Security Officer (DSO) – Responsible for the operational governance of the PKI Services and the report line for the ComSO.
-- Communication Security Officer (ComSO) – Responsible for day to day management of the PKI Services, relationship management with CESG and UKKPA (GCHQ’s UK key production authority), mustering and other formal processes. First point of escalation for incidents and managing initial incident response.
-- Crypto Custodians – Responsible for day to day operation of the PKI services, including the distribution of keys from the UKKPA. Where keymat is provided from the UKKPA they shall be formally trained and authorised Crypto Custodians. For other services they should be formally trained. Note that the Authority’s Crypto Custodian may delegate key management responsibilities to Supplier Crypto Custodians.
+- Communication Security Officer (ComSO) – Responsible for day to day management of the PKI Services, relationship management with CESG and UKKPA (GCHQ's UK key production authority), mustering and other formal processes. First point of escalation for incidents and managing initial incident response.
+- Crypto Custodians – Responsible for day to day operation of the PKI services, including the distribution of keys from the UKKPA. Where keymat is provided from the UKKPA they shall be formally trained and authorised Crypto Custodians. For other services they should be formally trained. Note that the Authority's Crypto Custodian may delegate key management responsibilities to Supplier Crypto Custodians.
 - IT Security Officer (ITSO) – Responsible for operational IT security management.
 - Administrators – Responsible for configuration, maintenance and support of the PKI services
 - Auditors – Internal and external auditors including UKKPA and MoJ Information Assurance who ensure that the PKI Services are running within specification and comply with legal and regulatory requirements, HMG Policy and MoJ Policy.
@@ -161,32 +161,14 @@ This section describes the common PKI policy that applies regardless of the type
 
 #### Accounting
 
-<!-- end list -->
+1. Auditing and accounting of all PKI functions must be carried out in accordance with HMG Good Practice Guide 13 \[Ref.3\]. The integrity and confidentiality of accounting logs must maintained to British Standard BS 10008 \[Ref.25\] as appropriate for legal admissibility of evidence, in the event that disputes need to be heard in a court of law.
+2. Internal audit by authorised auditors shall take place at least every quarter
+3. Where PKI Services are subordinate to external services, e.g. UKKPA or PSNA, then the audit and accounting regime must comply with the policies of the relevant authority.
+4. Audit reports shall be provided to the DSO and SIRO quarterly.
 
-1.  Auditing and accounting of all PKI functions must be carried out in
-    accordance with HMG Good Practice Guide 13 \[Ref.3\]. The integrity
-    and confidentiality of accounting logs must maintained to British
-    Standard BS 10008 \[Ref.25\] as appropriate for legal admissibility
-    of evidence, in the event that disputes need to be heard in a court
-    of law.
-2.  Internal audit by authorised auditors shall take place at least
-    every quarter
-3.  Where PKI Services are subordinate to external services, e.g. UKKPA
-    or PSNA, then the audit and accounting regime must comply with the
-    policies of the relevant authority.
-4.  Audit reports shall be provided to the DSO and SIRO quarterly.
+#### Compliance
 
-<!-- end list -->
-
-5.  ### Compliance
-
-<!-- end list -->
-
-1.  The PKI Services shall at all times comply with Legal and Regulatory
-    requirements including (but not limited to): 
-
-<!-- end list -->
-
+1. The PKI Services shall at all times comply with Legal and Regulatory requirements including (but not limited to):
   - Data Protection Act (1998 and 2003)
   - Official Secrets Act (1989)
   - Cryptography Export Regulations
@@ -194,303 +176,105 @@ This section describes the common PKI policy that applies regardless of the type
   - Export Controls Act (2002)
   - Electronic Communications Act 2000
   - SI 2002/318 The Electronic Signatures Regulations 2002
-
-2.  The PKI Services shall at all times comply with HMG Policy
-    including:
-
-<!-- end list -->
-
+2. The PKI Services shall at all times comply with HMG Policy including:
   - Security Policy Framework \[Ref.1\]
   - HMG IA Standard 4 \[Refs.4-15\]
   - HMG IA Standard 5 \[Ref.22\]
-
-<!-- end list -->
-
-1.  The PKI Services shall at all times comply with any Code of
-    Connection, Memorandum of Understanding or other connection criteria
-    that applies to the environment in which the services are deployed.
-    These shall include as a minimum:
-
-<!-- end list -->
-
+3. The PKI Services shall at all times comply with any Code of Connection, Memorandum of Understanding or other connection criteria that applies to the environment in which the services are deployed. These shall include as a minimum:
   - PSN Code of Connection
   - GSI Code of Connection (while GSI connections remain)
+4. Technical Architecture
 
-2.  Technical Architecture
+#### Technical Design Considerations
 
-<!-- end list -->
-
-1.  ### Technical Design Considerations
-
-<!-- end list -->
-
-1.  The design of PKI systems must ensure:
-
-<!-- end list -->
-
+1. The design of PKI systems must ensure:
   - Resilience
-
-<!-- end list -->
-
-  - Redundancy
-  - Business Continuity
-  - Disaster Recovery
-
-<!-- end list -->
-
+    - Redundancy
+    - Business Continuity
+    - Disaster Recovery
   - Accessibility
-
-<!-- end list -->
-
-  - Availability of Registration; Enrolment; and Validation services
-
-<!-- end list -->
-
+    - Availability of Registration; Enrolment; and Validation services
   - Security
-
-<!-- end list -->
-
-  - Confidentiality of system assets (hardware, operating systems, and
-    software)
-  - Confidentiality of PKI assets (private keys, authentication
-    credentials etc)
-  - Integrity of PKI assets
-  - Availability of PKI services
-  - Confidentiality, Integrity and Availability of information assets
-    that are protected by PKI assets
-
-<!-- end list -->
-
+    - Confidentiality of system assets (hardware, operating systems, and software)
+    - Confidentiality of PKI assets (private keys, authentication credentials etc)
+    - Integrity of PKI assets
+    - Availability of PKI services
+    - Confidentiality, Integrity and Availability of information assets that are protected by PKI assets
   - Assurance
+    - System and Product Assurance: Products should be assured to a formal evaluation recognised by the Authority and appropriate to the sensitivity of the material being processed. For cryptographic material this is normally CESG Assisted Products Scheme (CAPS) or CESG Product Assurance (CPA). Other assurances, such as FIPS 140-2 (Level 2 or better) may be permitted in some cases and, in exceptional circumstances, other forms of assurance may be considered. Where system assurance is required, at the discretion of the Accreditor, then a formalised process will be necessary, e.g. Bespoke Assurance by a CESG approved company. In some cases, again at the discretion of the Accreditor, an IT Health Check may be scoped to provide the necessary assurance.
+    - Service Assurance: The security aspects of the service e.g. forensic readiness, auditing, accounting, processes and procedures will be assured through the formal process of accreditation.
 
-<!-- end list -->
+### Operational Policies
 
-  - System and Product Assurance: Products should be assured to a formal
-    evaluation recognised by the Authority and appropriate to the
-    sensitivity of the material being processed. For cryptographic
-    material this is normally CESG Assisted Products Scheme (CAPS) or
-    CESG Product Assurance (CPA). Other assurances, such as FIPS 140-2
-    (Level 2 or better) may be permitted in some cases and, in
-    exceptional circumstances, other forms of assurance may be
-    considered. Where system assurance is required, at the discretion of
-    the Accreditor, then a formalised process will be necessary, e.g.
-    Bespoke Assurance by a CESG approved company. In some cases, again
-    at the discretion of the Accreditor, an IT Health Check may be
-    scoped to provide the necessary assurance.
-  - Service Assurance: The security aspects of the service e.g. forensic
-    readiness, auditing, accounting, processes and procedures will be
-    assured through the formal process of accreditation.
+<a id='general-operational-policy'></a>
 
-<!-- end list -->
+#### General Operational Policy
 
-3.  Operational Policies
-
-<!-- end list -->
-
-1.  ### General Operational Policy
-
-<!-- end list -->
-
-1.  The MoJ Crypto Custodian must be informed of any ICT system deployed
-    in support of PKI Services including:
-
-<!-- end list -->
-
+1. The MoJ Crypto Custodian must be informed of any ICT system deployed in support of PKI Services including:
   - Certificate Authority devices and software
   - Key generating devices
-  - Random number generating devices used to create entropy for
-    cryptographic components
+  - Random number generating devices used to create entropy for cryptographic components
   - Removable media used to transport Certificates and Signing Requests
   - Certificate Revocation List services, including OCSP responders
+2. The MoJ Crypto Custodian reserves the right to audit equipment and processes used in the delivery of PKI Services. The MoJ Crypto Custodian requires that all cryptographic components are managed and processed in accordance with HMG Standard IAS4 \[Refs.4-15\].
+3. Any remedial action required by the MoJ Crypto Custodian, to meet the requirements of HMG IAS4 \[Refs.4-15\]. must be agreed and implemented within reasonable timescales set by the MoJ Crypto Custodian. "Reasonable timescales" means with sufficient time for the supplier to assess the remediation impact, acquire materials for compliance, test the remediation, and to schedule and deploy the remediation on the production equipment with minimum disruption to MoJ business.
+4. The Crypto Custodian may require key escrow of private keys for lawful purposes. The Crypto Custodian will specify the means by which key material may be exported, stored and transported.
 
-<!-- end list -->
+Key escrow may be used for encryption keys but shall under no circumstances be used for signing keys, especially those for use with digital signatures.
 
-1.  The MoJ Crypto Custodian reserves the right to audit equipment and
-    processes used in the delivery of PKI Services. The MoJ Crypto
-    Custodian requires that all cryptographic components are managed and
-    processed in accordance with HMG Standard IAS4 \[Refs.4-15\].
-2.  Any remedial action required by the MoJ Crypto Custodian, to meet
-    the requirements of HMG IAS4 \[Refs.4-15\]. must be agreed and
-    implemented within reasonable timescales set by the MoJ Crypto
-    Custodian. “Reasonable timescales” means with sufficient time for
-    the supplier to assess the remediation impact, acquire materials for
-    compliance, test the remediation, and to schedule and deploy the
-    remediation on the production equipment with minimum disruption to
-    MoJ business.
-3.  The Crypto Custodian may require key escrow of private keys for
-    lawful purposes. The Crypto Custodian will specify the means by
-    which key material may be exported, stored and transported.
+#### Trust Anchor Operational Policy
 
-Key escrow may be used for encryption keys but shall under no
-circumstances be used for signing keys, especially those for use with
-digital signatures.
 
-2.  ### Trust Anchor Operational Policy
-
-<!-- end list -->
-
-1.  Root CAs for services shared with other parties must be appropriate
-    for the other parties. Trust Anchors for PKI used to deliver
-    services to external parties may be provided by external
-    authorities, e.g. commercial roots, PSN or UKKPA. 
-2.  Root CAs must be off-line to prevent direct attack against the top
-    level trust anchor. Root CAs shall have appropriate controls, as
-    agreed with the Crypto Custodian and reviewed every six months, to
-    protect the signing functions when in operation. 
-3.  The Trust Anchor or root Certificate Authority for all FITS services
-    shall be one of the following, as applicable for the specific use
-    case(s) for each FITS service:
-
-<!-- end list -->
-
+1. Root CAs for services shared with other parties must be appropriate for the other parties. Trust Anchors for PKI used to deliver services to external parties may be provided by external authorities, e.g. commercial roots, PSN or UKKPA.
+2. Root CAs must be off-line to prevent direct attack against the top level trust anchor. Root CAs shall have appropriate controls, as agreed with the Crypto Custodian and reviewed every six months, to protect the signing functions when in operation.
+3. The Trust Anchor or root Certificate Authority for all FITS services shall be one of the following, as applicable for the specific use case(s) for each FITS service:
   - Provided by UKKPA where required; or
-  - Provided as a standalone/offline capability as the default for most
-    FITS services; or
-  - Provided by a suitable Commercial CA, as agreed with the Authority,
-    where appropriate for external-facing services.
-
-<!-- end list -->
-
-1.  The Trust Anchor shall only be used for signing Sub-CA or Issuing CA
-    certificates and related CRLs.
-2.  Assurance of the Trust Anchor CA shall be appropriate to the data
-    assets protected by the digital certificates, as agreed with the
-    Crypto Custodian and Accreditor. For OFFICIAL and OFFICIAL-SENSITIVE
-    material, recognised assurances are stated below:
-
-<!-- end list -->
-
+  - Provided as a standalone/offline capability as the default for most FITS services; or
+  - Provided by a suitable Commercial CA, as agreed with the Authority, where appropriate for external-facing services.
+4. The Trust Anchor shall only be used for signing Sub-CA or Issuing CA certificates and related CRLs.
+5. Assurance of the Trust Anchor CA shall be appropriate to the data assets protected by the digital certificates, as agreed with the Crypto Custodian and Accreditor. For OFFICIAL and OFFICIAL-SENSITIVE material, recognised assurances are stated below:
   - CAPS Baseline
   - CPA Foundation
   - FIPS140-2 (Level 2)
-  - Other assurance (permitted in exceptional circumstances when other
-    assurances are not available, and must be supported by a business
-    case, agreed with Accreditor, and signed off by the IAO or SIRO)
+  - Other assurance (permitted in exceptional circumstances when other assurances are not available, and must be supported by a business case, agreed with Accreditor, and signed off by the IAO or SIRO)
 
-<!-- end list -->
+#### Registration Authority Operational Policy
 
-1.  ### Registration Authority Operational Policy
+1. The Registration Authority (RA) shall identify, validate and authorise PKI Customers, i.e. organisations that are permitted to make certificate signing requests of the PKI Service. The RA shall also identify, validate and authorise nominated representatives of the PKI Customer, i.e. individuals who are authorised to represent the PKI Customer in respect of the PKI Services. Authorisation will be dependent upon a mutual agreement between the Authority and the PKI Customer specifying the conditions for registration. This may be in the form of a Memo of Understanding or a formal contract.
+2. Subordinate Registration Authorities, i.e. those that register entities at a lower level in the trust authority than the root, must comply with any obligations set by the root authority, including the right of the root authority to audit compliance.
+3. Identity validation shall comply, where possible, with HMG Good Practice Guide 45 (Identity Proofing and Verification of an Individual) \[Ref.20\] and Good Practice Guide 46 (Organisational Identity) \[Ref.21\].
+4. A Registration Authority shall register each authorised organisation requesting certificates for subordinate CAs. On registration, the Registration Authority shall ensure that the registered party is provided with the Certificate Policy of the required service. The registered party shall provide a Certificate Practice Statement in response.
+5. The PKI Customer shall at all times have at least two nominated representatives registered with the RA that can act on behalf of the Customer and are authorised to submit CSRs, CRRs and perform other formal tasks.
+6. The PKI Customer must notify the RA when any of their nominated representatives are no longer authorised to access the services. Individuals will become unauthorised if their security clearance is expired or revoked, if their employment is terminated, if they are under investigation for malpractice, or if they no longer work on the MoJ account.
+7. The RA must notify the appropriate Crypto Custodian for potential escalation in respect of the incidents specified at para 2.4.3.6 or any other relevant security incident.
+8. Certificates issued to PKI Customers must be revoked when the business relationship is ended. It may be permitted to transfer ownership of certificates in some cases where responsibility is transferred to another party, e.g. contract novation, but each case must be individually agreed with the MoJ Crypto Custodian.
+9. Auditing and accounting of RA functions must be carried out in accordance with HMG Good Practice Guide 13 \[Ref.3\]. The integrity and confidentiality of accounting logs must maintained to British Standard BS 10008 \[Ref.19\] as appropriate for legal admissibility of evidence, in the event that disputes need to be heard in a court of law.
+10. For online submission of CSR and CRR the RA shall use two-factor authentication to authenticate and authorise enrolled users.
+11. The CSR/CRR form shall have fields for all mandatory information and attachment of a public key in PKCS\#10 format.
+12. The CSR/CRR shall be approved by one person (e.g. ComSO) and actioned by another (e.g. Crypto Custodian), except in cases where this process is automated. For automated process, e.g. automated generation of device certificates for EUCS client devices, the MoJ Crypto Custodian and ComSo must approve the automation process.
+13. The CA shall distribute certificates in PKCS \#7 format to the requestor and VA as appropriate.
 
-<!-- end list -->
+#### Certificate Authority Operational Policy
 
-1.  The Registration Authority (RA) shall identify, validate and
-    authorise PKI Customers, i.e. organisations that are permitted to
-    make certificate signing requests of the PKI Service. The RA shall
-    also identify, validate and authorise nominated representatives of
-    the PKI Customer, i.e. individuals who are authorised to represent
-    the PKI Customer in respect of the PKI Services. Authorisation will
-    be dependent upon a mutual agreement between the Authority and the
-    PKI Customer specifying the conditions for registration. This may be
-    in the form of a Memo of Understanding or a formal contract.
-2.  Subordinate Registration Authorities, i.e. those that register
-    entities at a lower level in the trust authority than the root, must
-    comply with any obligations set by the root authority, including the
-    right of the root authority to audit compliance.
-3.  Identity validation shall comply, where possible, with HMG Good
-    Practice Guide 45 (Identity Proofing and Verification of an
-    Individual) \[Ref.20\] and Good Practice Guide 46 (Organisational
-    Identity) \[Ref.21\].
-4.  A Registration Authority shall register each authorised organisation
-    requesting certificates for subordinate CAs. On registration, the
-    Registration Authority shall ensure that the registered party is
-    provided with the Certificate Policy of the required service. The
-    registered party shall provide a Certificate Practice Statement in
-    response. 
-5.  The PKI Customer shall at all times have at least two nominated
-    representatives registered with the RA that can act on behalf of the
-    Customer and are authorised to submit CSRs, CRRs and perform other
-    formal tasks.
-6.  The PKI Customer must notify the RA when any of their nominated
-    representatives are no longer authorised to access the services.
-    Individuals will become unauthorised if their security clearance is
-    expired or revoked, if their employment is terminated, if they are
-    under investigation for malpractice, or if they no longer work on
-    the MoJ account.
-7.  The RA must notify the appropriate Crypto Custodian for potential
-    escalation in respect of the incidents specified at para 2.4.3.6 or
-    any other relevant security incident.
-8.  Certificates issued to PKI Customers must be revoked when the
-    business relationship is ended. It may be permitted to transfer
-    ownership of certificates in some cases where responsibility is
-    transferred to another party, e.g. contract novation, but each case
-    must be individually agreed with the MoJ Crypto Custodian.
-9.  Auditing and accounting of RA functions must be carried out in
-    accordance with HMG Good Practice Guide 13 \[Ref.3\]. The integrity
-    and confidentiality of accounting logs must maintained to British
-    Standard BS 10008 \[Ref.19\] as appropriate for legal admissibility
-    of evidence, in the event that disputes need to be heard in a court
-    of law.
-10. For online submission of CSR and CRR the RA shall use two-factor
-    authentication to authenticate and authorise enrolled users. 
-11. The CSR/CRR form shall have fields for all mandatory information and
-    attachment of a public key in PKCS\#10 format.
-12. The CSR/CRR shall be approved by one person (e.g. ComSO) and
-    actioned by another (e.g. Crypto Custodian), except in cases where
-    this process is automated. For automated process, e.g. automated
-    generation of device certificates for EUCS client devices, the MoJ
-    Crypto Custodian and ComSo must approve the automation process.
-13. The CA shall distribute certificates in PKCS \#7 format to the
-    requestor and VA as appropriate.
-
-2.  ### Certificate Authority Operational Policy
-
-<!-- end list -->
-
-1.  This section is applicable to root and subordinate CAs. For policy
-    that is specific to Trust Anchor CAs, see section 2.4.1.
-2.  Any CA shall be patched against all known vulnerabilities for which
-    a vendor-published patch is available, in accordance with the
-    Authority’s patching policy. The operating system supporting the CA
-    must be less than five (5) years old and must have three (3) or more
-    years of vendor support remaining (5/3 rule).
-3.  Assurance of CA shall be appropriate to the data assets protected by
-    the digital certificates, as agreed with the Crypto Custodian and
-    Accreditor. For OFFICIAL and OFFICIAL-SENSITIVE material, assurance
-    preferences are stated below:
-
-<!-- end list -->
-
+1. This section is applicable to root and subordinate CAs. For policy that is specific to Trust Anchor CAs, see [here](#general-operational-policy).
+2. Any CA shall be patched against all known vulnerabilities for which a vendor-published patch is available, in accordance with the Authority's patching policy. The operating system supporting the CA must be less than five (5) years old and must have three (3) or more years of vendor support remaining (5/3 rule).
+3. Assurance of CA shall be appropriate to the data assets protected by the digital certificates, as agreed with the Crypto Custodian and Accreditor. For OFFICIAL and OFFICIAL-SENSITIVE material, assurance preferences are stated below:
   - CAPS Baseline
   - CPA Foundation
   - FIPS140-2 (Level 2)
-  - Other assurance (permitted in exceptional circumstances when other
-    assurances are not available, and must be supported by a business
-    case, agreed with Accreditor, and signed off by the IAO or SIRO)
+  - Other assurance (permitted in exceptional circumstances when other assurances are not available, and must be supported by a business case, agreed with Accreditor, and signed off by the IAO or SIRO)
+4. Any CA connected to a network shall be protected from unauthorised access by a security Gateway that minimises the exposure of the CA to attack.
+5. Auditing and accounting of RA functions must be carried out in accordance with HMG Good Practice Guide 13 \[Ref.3\]. The integrity and confidentiality of accounting logs must maintained to British Standard BS 10008 \[Ref.19\] as appropriate for legal admissibility of evidence, in the event that disputes need to be heard in a courtof law.
+6. The CA shall be operated in accordance with HMG IS4 \[Refs.4-15\].
 
-<!-- end list -->
+#### Validation Authority Operational Policy
 
-1.  Any CA connected to a network shall be protected from unauthorised
-    access by a security Gateway that minimises the exposure of the CA
-    to attack.
-2.  Auditing and accounting of RA functions must be carried out in
-    accordance with HMG Good Practice Guide 13 \[Ref.3\]. The integrity
-    and confidentiality of accounting logs must maintained to British
-    Standard BS 10008 \[Ref.19\] as appropriate for legal admissibility
-    of evidence, in the event that disputes need to be heard in a court
-    of law.
-3.  The CA shall be operated in accordance with HMG IS4 \[Refs.4-15\].
+1. Any VA shall provide authorised access to Certificates and the CRL for the associated CA. This should be automated as far as possible with a Public Key Directory (PKD).
+2. The VA shall ensure that the Certificates and CRL are properly signed and authentic before they are published.
+3. The VA shall operate a certificate repository that is visible to all authorised users.
+4. Auditing and accounting of VA functions must be carried out in accordance with HMG Good Practice Guide 13 \[Ref.3\]. The integrity and confidentiality of accounting logs must maintained to British Standard BS 10008 \[Ref.25\] as appropriate for legal admissibility of evidence, in the event that disputes need to be heard in a court of law.
 
-<!-- end list -->
-
-3.  ### Validation Authority Operational Policy
-
-<!-- end list -->
-
-1.  Any VA shall provide authorised access to Certificates and the CRL
-    for the associated CA. This should be automated as far as possible
-    with a Public Key Directory (PKD).
-2.  The VA shall ensure that the Certificates and CRL are properly
-    signed and authentic before they are published.
-3.  The VA shall operate a certificate repository that is visible to all
-    authorised users.
-4.  Auditing and accounting of VA functions must be carried out in
-    accordance with HMG Good Practice Guide 13 \[Ref.3\]. The integrity
-    and confidentiality of accounting logs must maintained to British
-    Standard BS 10008 \[Ref.25\] as appropriate for legal admissibility
-    of evidence, in the event that disputes need to be heard in a court
-    of law.
-
-4.  ### Audit, Accounting and Mustering Policy
+#### Audit, Accounting and Mustering Policy
 
 <!-- end list -->
 
@@ -525,7 +309,7 @@ digital signatures.
 
 1.  The PKI Services shall be located in an HMG Government building or
     Supplier building with appropriate physical controls for
-    OFFICIAL-SENSITIVE information, as assessed by the Authority’s DSO
+    OFFICIAL-SENSITIVE information, as assessed by the Authority's DSO
     or delegated representative.
 2.  PKI Services are critical to the security of the information they
     protect, and therefore should not be housed in open or shared areas.
