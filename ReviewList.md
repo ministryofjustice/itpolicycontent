@@ -48,9 +48,9 @@ Last updated: 24 Nov 2017
 | MoJ Enterprise Access Control Policy | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/enterprise/moj-enterprise-access.html> | <https://intranet.justice.gov.uk/?page_id=115684> |
 | Offshoring Guide | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/enterprise/offshoring-guide.html> | <https://intranet.justice.gov.uk/?page_id=112350> |
 | Patch Management Standard | <https://ministryofjustice.github.io/itpolicycontent/content/patch-management-standard.html> | <https://intranet.justice.gov.uk/?page_id=114822> |
-| Policies for Google Apps administrators | <https://ministryofjustice.github.io/itpolicycontent/content/policies-for-google-apps-administrators.html> | <https://intranet.justice.gov.uk/?page_id=114818> |
-| Policies for Macbook Administrators | <https://ministryofjustice.github.io/itpolicycontent/content/policies-for-macbook-administrators.html> | <https://intranet.justice.gov.uk/?page_id=114816> |
-| Policies for Macbook Users | <https://ministryofjustice.github.io/itpolicycontent/content/policies-for-macbook-users.html> | <https://intranet.justice.gov.uk/?page_id=114814> |
+| Policies for Google Apps administrators | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/policies-for-google-apps-administrators.html> | <https://intranet.justice.gov.uk/?page_id=114818> |
+| Policies for Macbook Administrators | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/policies-for-macbook-administrators.html> | <https://intranet.justice.gov.uk/?page_id=114816> |
+| Policies for Macbook Users | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/policies-for-macbook-users.html> | <https://intranet.justice.gov.uk/?page_id=114814> |
 | Protective Monitoring | <https://ministryofjustice.github.io/itpolicycontent/content/protective-monitoring.html> | <https://intranet.justice.gov.uk/?page_id=112998> |
 | Remote Working | <https://ministryofjustice.github.io/itpolicycontent/content/remote-working.html> | <https://intranet.justice.gov.uk/?page_id=112617> |
 | Risk Management | <https://ministryofjustice.github.io/itpolicycontent/content/risk-management.html> | <https://intranet.justice.gov.uk/?page_id=114807> |
