@@ -11,7 +11,7 @@ This is Legacy IA Policy. It is under review and likely to be withdrawn or subst
 
 ## Abstract
 
-This document serves as a guide for making decisions on whether to publish a project’s source code.
+This document serves as a guide for making decisions on whether to publish a project's source code.
 
 It provides justification about why MoJ Digital Service source code should be published by default but also when it should not be published.
 
@@ -48,8 +48,8 @@ In accordance with [point 8](https://www.gov.uk/service-manual/service-standard#
 
 Code that contain security enforcing functions, including but not limited to authentication, access control, encryption, etc
 
-Don’t publish configuration data, especially credentials including keys, IDs, etc.
+Don't publish configuration data, especially credentials including keys, IDs, etc.
 
 Some source code might contain sensitive or bespoke algorithms i.e. avoid exposing the details of a particular risk-assessment algorithm to the public.
 
-Sometimes software is developed by third parties that retain ownership of the ‘intellectual property’ (IP) and it’s not possible to share the software.
+Sometimes software is developed by third parties that retain ownership of the 'intellectual property' (IP) and it's not possible to share the software.
