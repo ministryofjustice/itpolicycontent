@@ -149,7 +149,7 @@ This section describes the common PKI policy that applies regardless of the type
 #### User Registration
 
 1. Any individual who requires access to the ICT Systems providing PKI Services shall be subject to stringent background checks shall be vetted to at least Security Check (SC) before any access to the system is permitted.
-2. Important: Interim access pending security clearance must not be allowed under any circumstances. The impact of allowing such access in the event that the individual is not subsequently cleared would be to revoke and reissue all certificates signed by the PKI Services.
+2. **Important:** Interim access pending security clearance must not be allowed under any circumstances. The impact of allowing such access in the event that the individual is not subsequently cleared would be to revoke and reissue all certificates signed by the PKI Services.
 3. When clearance is confirmed and identity is validated by MoJ, the user shall be enrolled in the services required and shall be issued with the relevant credentials for access.
 4. Users shall be removed from the systems and their credentials revoked as soon as they leave the role related to the PKI Services. The relevant HR Processes must be reviewed, and updated if necessary, to account for this policy.
 
@@ -183,26 +183,28 @@ This section describes the common PKI policy that applies regardless of the type
 3. The PKI Services shall at all times comply with any Code of Connection, Memorandum of Understanding or other connection criteria that applies to the environment in which the services are deployed. These shall include as a minimum:
   - PSN Code of Connection
   - GSI Code of Connection (while GSI connections remain)
-4. Technical Architecture
+
+### Technical Architecture
 
 #### Technical Design Considerations
 
-1. The design of PKI systems must ensure:
-  - Resilience
-    - Redundancy
-    - Business Continuity
-    - Disaster Recovery
-  - Accessibility
-    - Availability of Registration; Enrolment; and Validation services
-  - Security
-    - Confidentiality of system assets (hardware, operating systems, and software)
-    - Confidentiality of PKI assets (private keys, authentication credentials etc)
-    - Integrity of PKI assets
-    - Availability of PKI services
-    - Confidentiality, Integrity and Availability of information assets that are protected by PKI assets
-  - Assurance
-    - System and Product Assurance: Products should be assured to a formal evaluation recognised by the Authority and appropriate to the sensitivity of the material being processed. For cryptographic material this is normally CESG Assisted Products Scheme (CAPS) or CESG Product Assurance (CPA). Other assurances, such as FIPS 140-2 (Level 2 or better) may be permitted in some cases and, in exceptional circumstances, other forms of assurance may be considered. Where system assurance is required, at the discretion of the Accreditor, then a formalised process will be necessary, e.g. Bespoke Assurance by a CESG approved company. In some cases, again at the discretion of the Accreditor, an IT Health Check may be scoped to provide the necessary assurance.
-    - Service Assurance: The security aspects of the service e.g. forensic readiness, auditing, accounting, processes and procedures will be assured through the formal process of accreditation.
+The design of PKI systems must ensure:
+
+- Resilience
+  - Redundancy
+  - Business Continuity
+  - Disaster Recovery
+- Accessibility
+  - Availability of Registration; Enrolment; and Validation services
+- Security
+  - Confidentiality of system assets (hardware, operating systems, and software)
+  - Confidentiality of PKI assets (private keys, authentication credentials etc)
+  - Integrity of PKI assets
+  - Availability of PKI services
+  - Confidentiality, Integrity and Availability of information assets that are protected by PKI assets
+- Assurance
+  - System and Product Assurance: Products should be assured to a formal evaluation recognised by the Authority and appropriate to the sensitivity of the material being processed. For cryptographic material this is normally CESG Assisted Products Scheme (CAPS) or CESG Product Assurance (CPA). Other assurances, such as FIPS 140-2 (Level 2 or better) may be permitted in some cases and, in exceptional circumstances, other forms of assurance may be considered. Where system assurance is required, at the discretion of the Accreditor, then a formalised process will be necessary, e.g. Bespoke Assurance by a CESG approved company. In some cases, again at the discretion of the Accreditor, an IT Health Check may be scoped to provide the necessary assurance.
+  - Service Assurance: The security aspects of the service e.g. forensic readiness, auditing, accounting, processes and procedures will be assured through the formal process of accreditation.
 
 ### Operational Policies
 
@@ -223,7 +225,6 @@ This section describes the common PKI policy that applies regardless of the type
 Key escrow may be used for encryption keys but shall under no circumstances be used for signing keys, especially those for use with digital signatures.
 
 #### Trust Anchor Operational Policy
-
 
 1. Root CAs for services shared with other parties must be appropriate for the other parties. Trust Anchors for PKI used to deliver services to external parties may be provided by external authorities, e.g. commercial roots, PSN or UKKPA.
 2. Root CAs must be off-line to prevent direct attack against the top level trust anchor. Root CAs shall have appropriate controls, as agreed with the Crypto Custodian and reviewed every six months, to protect the signing functions when in operation.
@@ -276,164 +277,84 @@ Key escrow may be used for encryption keys but shall under no circumstances be u
 
 #### Audit, Accounting and Mustering Policy
 
-<!-- end list -->
+1.  All requests (CSR/CRR) shall be logged: on receipt; on processing, on certificate/CRL issue and on destruction
+2.  All access to the systems and use of credentials including failures shall be logged
+3.  All keymat sub-classified as ACCSEC or CRYPTO shall be mustered quarterly, and in accordance with the individual keymat procedures.
+4.  Audit and accounting logs shall be managed in accordance with BS 10008 \[Ref.19\]
 
-1.  All requests (CSR/CRR) shall be logged: on receipt; on processing,
-    on certificate/CRL issue and on destruction
-2.  All access to the systems and use of credentials including failures
-    shall be logged
-3.  All keymat sub-classified as ACCSEC or CRYPTO shall be mustered
-    quarterly, and in accordance with the individual keymat procedures.
-4.  Audit and accounting logs shall be managed in accordance with BS
-    10008 \[Ref.19\]
+#### Change Control Policy
 
-5.  ### Change Control Policy
+1. All software shall be patched with the latest security patches. Such patches shall be regression tested before implementation on the live system.
+2. All software version updates and hardware changes, including configuration changes shall be approved by the ComSO and implemented by the Administrator.
+3. All patches and other minor changes shall be approved by a Crypto Custodian or ComSO and implemented via the change control process.
+4. All changes to a trust anchor or standalone/offline root CA shall also be witnessed and signed off by any two of: Crypto Custodians, ComSO, DSO.
 
-<!-- end list -->
+#### Physical Security Policy
 
-1.  All software shall be patched with the latest security patches. Such
-    patches shall be regression tested before implementation on the live
-    system.
-2.  All software version updates and hardware changes, including
-    configuration changes shall be approved by the ComSO and implemented
-    by the Administrator.
-3.  All patches and other minor changes shall be approved by a Crypto
-    Custodian or ComSO and implemented via the change control process.
-4.  All changes to a trust anchor or standalone/offline root CA shall
-    also be witnessed and signed off by any two of: Crypto Custodians,
-    ComSO, DSO.
+1. The PKI Services shall be located in an HMG Government building or Supplier building with appropriate physical controls for OFFICIAL-SENSITIVE information, as assessed by the Authority's DSO or delegated representative.
+2. PKI Services are critical to the security of the information they protect, and therefore should not be housed in open or shared areas. The PKI Services shall be in a room or cage or locked cabinet that has strictly controlled access to named individuals. The strength of the physical controls will depend on the sensitivity of the specific service.
+3. The Trust Anchors and any standalone/offline Root CAs shall be kept in a safe or security cabinet protected by a CPNI Class 2 lock or equivalent when not in use. Only the ComSO and DSO, and their delegated representatives, shall know the combination. The ComSO and DSO shall not have credentials to operate the CA devices.
+4. The combination code must be changed at least annually, and immediately on permanent departure of any personnel who know the code.
 
-6.  ### Physical Security Policy
+#### Personnel Security Policy
 
-<!-- end list -->
+1. The DSO, ComSO, Crypto Custodians, Administrator(s), and individuals holding other key PKI roles shall have been subjected to BPSS checking and shall maintain a current and valid SC clearance as a minimum. Evidence of clearance will be maintained in an up-to-date register in a format agreed with the MoJ and made available to the MoJ.
+2.  The Crypto Custodians shall have formal training from CESG or MoD on key management and PKI operation.
+3.  No other person shall have access to the PKI infrastructure without prior written permission of the DSO.
 
-1.  The PKI Services shall be located in an HMG Government building or
-    Supplier building with appropriate physical controls for
-    OFFICIAL-SENSITIVE information, as assessed by the Authority's DSO
-    or delegated representative.
-2.  PKI Services are critical to the security of the information they
-    protect, and therefore should not be housed in open or shared areas.
-    The PKI Services shall be in a room or cage or locked cabinet that
-    has strictly controlled access to named individuals. The strength of
-    the physical controls will depend on the sensitivity of the specific
-    service.
-3.  The Trust Anchors and any standalone/offline Root CAs shall be kept
-    in a safe or security cabinet protected by a CPNI Class 2 lock or
-    equivalent when not in use. Only the ComSO and DSO, and their
-    delegated representatives, shall know the combination. The ComSO and
-    DSO shall not have credentials to operate the CA devices.
-4.  The combination code must be changed at least annually, and
-    immediately on permanent departure of any personnel who know the
-    code.
+### Process Requirements
 
-7.  ### Personnel Security Policy
+#### Required Processes
 
-<!-- end list -->
+<ol>
+<li>The following formal processes shall be written and implemented:
+<ul>
+<li>Registration and de-registration of an organisation</li>
+<li>Registration and de-registration of an authorised user of the PKI Services
+<ul>
+<li>Including identification according to GPG45 \[Ref.20\] and GPG46 \[Ref.21\]</li>
+<li>Audit trail of identification, role allocation and access rights</li>
+</ul></li>
+<li>Registration of a nominated individual by a registered organisation by the RA</li>
+<li>Enrolment</li>
+<li>Certificate Expiration and Renewal</li>
+<li>Management of requests (CSR/CRR) by the RA</li>
+<li>Trust Anchor and root CA operation including signing functions</li>
+<li>Incident Response, escalation, digital forensics and aftercare</li>
+</ul></li>
+<li>Other processes should also be formalised and documented</li>
+</ol>
 
-1.  The DSO, ComSO, Crypto Custodians, Administrator(s), and individuals
-    holding other key PKI roles shall have been subjected to BPSS
-    checking and shall maintain a current and valid SC clearance as a
-    minimum. Evidence of clearance will be maintained in an up-to-date
-    register in a format agreed with the MoJ and made available to the
-    MoJ.
-2.  The Crypto Custodians shall have formal training from CESG or MoD on
-    key management and PKI operation.
-3.  No other person shall have access to the PKI infrastructure without
-    prior written permission of the DSO.
+#### Required Standards for each function
 
-4.  Process Requirements
+1. Certificates shall comply with ITU-T Recommendation X.509 \[Ref.23\] and RFC 5280 \[Ref.17\] unless required for a specific application in which case written approval from the SIRO will be required
+2. CRLs shall comply with X.509 Version 2 and RFC 5280. \[Ref.17\]
+3. All key material management and PKI operations shall be performed in accordance with all relevant HMG standards.
 
-<!-- end list -->
+#### Certificate Policy requirements
 
-1.  ### Required Processes
+1. The CP shall be written by the supplier providing the issuing Certificate Authority in line with RFC3647, Internet X.509 Public Key Infrastructure Certificate Policy and Certification Practices Framework \[Ref.16\]
+2. The PKI service shall not re-sign any public key into a certificate. All public keys shall be new and unique.
+3. There shall be a CP for each certificate hierarchy where the scope (including user base), use or liability model is different
 
-<!-- end list -->
+#### Certification Practices Statement requirements
 
-1.  The following formal processes shall be written and implemented:
+1. The CPS shall be written by the supplier providing the issuing Certificate Authority in line with RFC3647, Internet X.509 Public Key Infrastructure Certificate Policy and Certification Practices Framework. \[Ref.16\]
+2. There shall be a CPS for each signing certificate.
 
-<!-- end list -->
+## References
 
-  - Registration and de-registration of an organisation
-  - Registration and de-registration of an authorised user of the PKI
-    Services
-
-<!-- end list -->
-
-  - Including identification according to GPG45 \[Ref.20\] and GPG46
-    \[Ref.21\]
-  - Audit trail of identification, role allocation and access rights
-
-<!-- end list -->
-
-  - Registration of a nominated individual by a registered organisation
-    by the RA
-  - Enrolment
-  - Certificate Expiration and Renewal
-  - Management of requests (CSR/CRR) by the RA
-  - Trust Anchor and root CA operation including signing functions
-  - Incident Response, escalation, digital forensics and aftercare
-
-<!-- end list -->
-
-1.  Other processes should also be formalised and documented
-
-<!-- end list -->
-
-2.  ### Required Standards for each function
-
-<!-- end list -->
-
-1.  Certificates shall comply with ITU-T Recommendation X.509
-    \[Ref.23\] and RFC 5280 \[Ref.17\] unless required for a specific
-    application in which case written approval from the SIRO will be
-    required
-2.  CRLs shall comply with X.509 Version 2 and RFC 5280. \[Ref.17\]
-3.  All key material management and PKI operations shall be performed in
-    accordance with all relevant HMG standards.
-
-<!-- end list -->
-
-3.  ### Certificate Policy requirements
-
-<!-- end list -->
-
-1.  The CP shall be written by the supplier providing the issuing
-    Certificate Authority in line with RFC3647, Internet X.509 Public
-    Key Infrastructure Certificate Policy and Certification Practices
-    Framework \[Ref.16\]
-2.  The PKI service shall not re-sign any public key into a certificate.
-    All public keys shall be new and unique. 
-3.  There shall be a CP for each certificate hierarchy where the scope
-    (including user base), use or liability model is different
-
-<!-- end list -->
-
-4.  ### Certification Practices Statement requirements
-
-<!-- end list -->
-
-1.  The CPS shall be written by the supplier providing the issuing
-    Certificate Authority in line with RFC3647, Internet X.509 Public
-    Key Infrastructure Certificate Policy and Certification Practices
-    Framework. \[Ref.16\]
-2.  There shall be a CPS for each signing certificate.
-
------
-
-1.  References
-
-The following are FITS PKI Policy specific references used within this
-document.
+The following are FITS PKI Policy specific references used within this document.
 
 <table>
 <tr>
-<td>Ref:</td>
-<td>Title &amp; Location</td>
+<th>Ref:</th>
+<th>Title &amp; Location</th>
 </tr>
 <tr>
 <td>1</td>
 <td>HMG Security Policy Framework (SPF) v11.0 Nov 2013
-<a href="https://www.google.com/url?q=https://www.gov.uk/government/publications/security-policy-framework&amp;sa=D&amp;ust=1511528238507000&amp;usg=AFQjCNG2jw5NltxnIAW7ZjNJdDSZDW0LCg">https://www.gov.uk/government/publications/security-policy-framework</a></td>
+<a href="https://www.gov.uk/government/publications/security-policy-framework">https://www.gov.uk/government/publications/security-policy-framework</a></td>
 </tr>
 <tr>
 <td>2</td>
@@ -493,22 +414,25 @@ document.
 </tr>
 <tr>
 <td>16</td>
-<td>RFC 3647 - Internet X.509 Public Key Infrastructure Certificate Policy and Certification Practices Framework        <a href="https://www.google.com/url?q=http://datatracker.ietf.org/doc/rfc3647/&amp;sa=D&amp;ust=1511528238516000&amp;usg=AFQjCNEuFus-rMrElkIkfGVlkuM5_pUtrA">http://datatracker.ietf.org/doc/rfc3647/</a></td>
+<td>RFC 3647 - Internet X.509 Public Key Infrastructure Certificate Policy and Certification Practices Framework <a href="http://datatracker.ietf.org/doc/rfc3647/">http://datatracker.ietf.org/doc/rfc3647/</a></td>
 </tr>
 <tr>
 <td>17</td>
-<td>RFC 5280 - Internet X.509 Public Key Infrastructure Certificate and Certificate Revocation List (CRL) Profile     <a href="https://www.google.com/url?q=http://datatracker.ietf.org/doc/rfc5280/&amp;sa=D&amp;ust=1511528238516000&amp;usg=AFQjCNGUyditzX8PS0v68_RMuMz_G22--g">http://datatracker.ietf.org/doc/rfc5280/</a></td>
+<td>RFC 5280 - Internet X.509 Public Key Infrastructure Certificate and Certificate Revocation List (CRL) Profile <a href="http://datatracker.ietf.org/doc/rfc5280/">http://datatracker.ietf.org/doc/rfc5280/</a></td>
 </tr>
 <tr>
 <td>18</td>
-<td>RFC 6960 - Internet X.509 Public Key Infrastructure Online Certificate Status Protocol – OCSP <a href="https://www.google.com/url?q=http://datatracker.ietf.org/doc/rfc6960/&amp;sa=D&amp;ust=1511528238517000&amp;usg=AFQjCNEq8SVYA1fp-hk3_ZKD48yHsEJKcA">http://datatracker.ietf.org/doc/rfc6960/</a></td>
+<td>RFC 6960 - Internet X.509 Public Key Infrastructure Online Certificate Status Protocol – OCSP <a href="http://datatracker.ietf.org/doc/rfc6960/">http://datatracker.ietf.org/doc/rfc6960/</a></td>
 </tr>
 <tr>
 <td>19</td>
 <td>BIP 0008-1:2008 Evidential weight and legal admissibility of information stored electronically. Code of Practice for the implementation of BS 10008
+<br/>
 BIP 0008-2:2008 Evidential weight and legal admissibility of information transferred electronically. Code of practice for the implementation of BS 10008
+<br/>
 BIP 0008-3:2008 Evidential weight and legal admissibility of linking electronic identity to documents. Code of practice for the implementation of BS 10008
-<p><span class="c38 c45 c79"><a href="https://www.google.com/url?q=http://shop.bsigroup.com/en/ProductDetail/?pid%3D000000000030172973&amp;sa=D&amp;ust=1511528238519000&amp;usg=AFQjCNF00IDSb3wJRSe10d_UNgV6WY6PNA">http://shop.bsigroup.com/en/ProductDetail/?pid=000000000030172973</a></td>
+<br/>
+<a href="https://shop.bsigroup.com/SearchResults/?q=BIP%200008">https://shop.bsigroup.com/SearchResults/?q=BIP%200008</a></td>
 </tr>
 <tr>
 <td>20</td>
@@ -524,7 +448,7 @@ BIP 0008-3:2008 Evidential weight and legal admissibility of linking electronic 
 </tr>
 <tr>
 <td>23</td>
-<td>ITU-T Recommendation X.509 – Public-key and Attribute certificate frameworks [10/2012) <a href="https://www.google.com/url?q=http://www.itu.int/ITU-T/recommendations/rec.aspx?rec%3D11735&amp;sa=D&amp;ust=1511528238521000&amp;usg=AFQjCNG9Rv6Y5IakiRh4iA3tIAlctymieA">http://www.itu.int/ITU-T/recommendations/rec.aspx?rec=11735</a></td>
+<td>ITU-T Recommendation X.509 – Public-key and Attribute certificate frameworks [10/2012) <a href="http://www.itu.int/ITU-T/recommendations/rec.aspx?rec=11735">http://www.itu.int/ITU-T/recommendations/rec.aspx?rec=11735</a></td>
 </tr>
 <tr>
 <td>24</td>
