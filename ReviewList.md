@@ -4,7 +4,7 @@ title: Review list
 
 # Ministry of Justice
 
-Last updated: 24 Nov 2017
+Last updated: 27 Nov 2017
 
 ## **Draft** IT Policy Content
 
@@ -36,8 +36,8 @@ Last updated: 24 Nov 2017
 | Forensic Principles | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/enterprise/forensic-principles.html> |  |
 | Forensic Readiness Guide | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/enterprise/forensic-readiness-guide.html> |  |
 | Forensic Readiness Policy | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/enterprise/forensic-readiness-policy.html> |  |
-| Governance and Accountability | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/governance-and-accountability.html> |  |
-| Government Classification Scheme | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/government-classification-scheme.html> |  |
+| Governance and Accountability | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/governance-and-accountability.html> | <https://intranet.justice.gov.uk/?page_id=115127> |
+| Government Classification Scheme | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/government-classification-scheme.html> | <https://intranet.justice.gov.uk/?page_id=115116> |
 | HMG Cryptography Business Continuity Management Standard | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/enterprise/hmg-cryptography-business-continuity-management-standard.html> | <https://intranet.justice.gov.uk/?page_id=109705> |
 | ICT Disaster Recovery Plan and Process Guide | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/enterprise/ict-disaster-recovery-plan-and-process-guide.html> | <https://intranet.justice.gov.uk/?page_id=115053> |
 | Incident Management Plan and Process Guide | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/enterprise/incident-management-plan-and-process-guide.html> | <https://intranet.justice.gov.uk/?page_id=116047> |
@@ -47,6 +47,7 @@ Last updated: 24 Nov 2017
 | Malware threat | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/malware-threat.html> | <https://intranet.justice.gov.uk/?page_id=115090> |
 | MoJ Enterprise Access Control Policy | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/enterprise/moj-enterprise-access.html> | <https://intranet.justice.gov.uk/?page_id=115684> |
 | Offshoring Guide | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/enterprise/offshoring-guide.html> | <https://intranet.justice.gov.uk/?page_id=112350> |
+| Password Standard | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/enterprise/password-standard.html> | <https://intranet.justice.gov.uk/?page_id=116648> |
 | Patch Management Standard | <https://ministryofjustice.github.io/itpolicycontent/content/patch-management-standard.html> | <https://intranet.justice.gov.uk/?page_id=114822> |
 | Policies for Google Apps administrators | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/policies-for-google-apps-administrators.html> | <https://intranet.justice.gov.uk/?page_id=114818> |
 | Policies for Macbook Administrators | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/policies-for-macbook-administrators.html> | <https://intranet.justice.gov.uk/?page_id=114816> |
