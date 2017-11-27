@@ -17,13 +17,13 @@ This standard is designed to help protect MoJ ICT systems by providing a standar
 
 A Code of Connection (CoCo) is designed to provide a mechanism to record a formal agreement between a 3rd party organisation and the MoJ on the security measures to be applied by that 3rd party prior to and during any electronic connection with a MoJ ICT system, for example, to facilitate the exchange of data between two case management systems.
 
-<a href=https://www.gov.uk/government/publications/security-policy-framework/hmg-security-policy-framework>HMG Security Policy Framework (SPF)</a> mandatory requirements state that:
+[HMG Security Policy Framework (SPF)](https://www.gov.uk/government/publications/security-policy-framework/hmg-security-policy-framework) mandatory requirements state that:
 
-<blockquote>Departments and Agencies must put in place an appropriate range of technical controls for all ICT systems, proportionate to the value, importance and sensitivity of the information held and the requirements of any interconnected systems.</blockquote>
+>Departments and Agencies must put in place an appropriate range of technical controls for all ICT systems, proportionate to the value, importance and sensitivity of the information held and the requirements of any interconnected systems.
 
 In order to meet these requirements, the SPF stipulates that ICT systems must:
 
-<blockquote>Comply with the requirements of any codes of connection, multilateral or bilateral international agreements and community or shared services security policies to which they are signatories (e.g. Government Secure Intranet).</blockquote>
+> Comply with the requirements of any codes of connection, multilateral or bilateral international agreements and community or shared services security policies to which they are signatories (e.g. Government Secure Intranet).
 
 Policy statements on connecting 3rd party ICT systems and the requirements for a CoCo are covered in IT Security – Technical Controls Policy, while this document sets out the MoJ standard for its implementation.
 
@@ -41,14 +41,14 @@ The CESG Information Assurance Maturity Model (IAMM) sets out the minimum maturi
 
 A Code of Connection (CoCo) is designed to provide evidence to the MoJ that a connecting 3rd party understands the security controls and procedures required to connect to a MoJ ICT system and that those controls and procedures have been implemented. The aim here is to ensure that the risks associated with connecting ICT systems together are sufficiently mitigated in the technical solution and managed on an ongoing basis during live operation.
 
-<strong>Note:</strong> This standard is based on connecting a RESTRICTED-IL3 MoJ ICT system with an Accredited 3rd party RESTRICTED-IL3 ICT system where all electronic communication is over an Accredited RESTRICTED-IL3 network/s and/or RESTRICTED-IL3 communications channel. Where this is not the case, advice must be sort from the IT Security Officer (ITSO) and system Accreditor.
+**Note:** This standard is based on connecting a RESTRICTED-IL3 MoJ ICT system with an Accredited 3rd party RESTRICTED-IL3 ICT system where all electronic communication is over an Accredited RESTRICTED-IL3 network/s and/or RESTRICTED-IL3 communications channel. Where this is not the case, advice must be sort from the IT Security Officer (ITSO) and system Accreditor.
 
 A generic CoCo (based on the note above) is provided in Appendix A; it is split into two sections:
 
 *   basic requirement (see section A.1) – The section outlines the base set of CoCo requirement which need to be met by the connecting 3rd party
 *   supporting compliance statement (see section A.2) – This section contains a series of compliance statements based on ISO 27001 and the IAS 1&2 Baseline Controls Set (BCS) [Ref, 5]. It is designed to provide a mechanism for a connecting 3rd party to supply compliance evidence to the system Accreditor.  Section 3.2 provides details on how this compliance statement should be applied.
 
-<strong>Note:</strong> A signed CoCo between the MoJ and the connecting 3rd party is required before the connection can go into live operation.
+**Note:** A signed CoCo between the MoJ and the connecting 3rd party is required before the connection can go into live operation.
 
 ### Managing the risk of connectivity
 
@@ -56,17 +56,17 @@ In order to ensure that the connectivity and sharing of electronic data between 
 
 The need for a CoCo and its application will be determined by the MoJ system Accreditor who will consider the risks involved, this may require the production of a technical risk assessment and/or RMADS for the connection (further details on RMADS can be found in the Accreditation Framework, [Ref, 7]).
 
-The CoCo condition and compliance statement contained within the generic CoCo document (see A.1.3) provide a good platform to judge whether the assurance level of the connecting 3rd party ICT system is sufficient rather than just relying on its accreditation status. A risk based approach must be taken to the application of security controls associated with the connection. The generic CoCo (see Appendix A) provides a baseline by which a 3rd party ICT system’s connection to a MoJ ICT system will be assessed. The MoJ system Accreditor will provide a steer as to how this should be applied, where the default steer is that the guidance provided in IAS 1&2 Baseline Controls Set (BCS) [Ref, 5] at the DETER level should be applied.
+The CoCo condition and compliance statement contained within the generic CoCo document (see A.1.3) provide a good platform to judge whether the assurance level of the connecting 3rd party ICT system is sufficient rather than just relying on its accreditation status. A risk based approach must be taken to the application of security controls associated with the connection. The generic CoCo (see Appendix A) provides a baseline by which a 3rd party ICT system's connection to a MoJ ICT system will be assessed. The MoJ system Accreditor will provide a steer as to how this should be applied, where the default steer is that the guidance provided in IAS 1&2 Baseline Controls Set (BCS) [Ref, 5] at the DETER level should be applied.
 
 It is highly likely that the connection between the two systems will be over the GSi.  If so, the 3rd party organisation is likely to have completed the GSi Code of Connection for that system connection. The information requested in the generic CoCo is similar to that required for the GSi CoCo and as such should be readily available.
 
-<strong>Note:</strong> Depending on the protocols being used, the GSi authority may need to be contacted.
+**Note:** Depending on the protocols being used, the GSi authority may need to be contacted.
 
 ### Completing a Code of Connection
 
 The IT System Manager and/or ITSO for the connecting 3rd party organisation must review CoCo and submit the supporting compliance statement to the MoJ system Accreditor along with any supporting documentation.
 
-In completing the CoCo statement, the connecting 3rd party organisation confirms that they have implemented all the controls required, it should be noted that the adoption of these controls will not totally mitigate all the risks involved whether to the 3rd party’s own ICT system or to the connecting MoJ ICT system.
+In completing the CoCo statement, the connecting 3rd party organisation confirms that they have implemented all the controls required, it should be noted that the adoption of these controls will not totally mitigate all the risks involved whether to the 3rd party's own ICT system or to the connecting MoJ ICT system.
 
 Where the connecting 3rd party ICT system does not comply with the controls outlined in the CoCo, the IT System Manager and/or ITSO must provide supporting comments including a high-level plan that outlines the expected timeline to meet them.
 
@@ -111,7 +111,7 @@ The [NAME of 3rd PARTY ICT SYSTEM] must provide a gateway at the edge of their s
 
 | Condition | Description |
 | --- | --- |
-| CoCo-1 | The minimum standards applicable to the [NAME OF 3rd PARTY ICT SYSTEM] shall be the equivalent to application of the IAS 1&2 Baseline Controls Set (BCS) at the DETER level and ISO27001. The supporting compliance statement (see A.2) has been derived from IAS 1&2 Baseline Controls Set (BCS) and ISO27001 and provides a check list that [ORGANISATION NAME FOR 3rd PARTY ICT SYSTEM] should use to document their compliance to this CoCo. The completed compliance statement will allow the MoJ to determine whether the [NAME OF 3rd PARTY ICT SYSTEM]’s level of compliance is sufficient to meet the requirements outlined in this CoCo. |
+| CoCo-1 | The minimum standards applicable to the [NAME OF 3rd PARTY ICT SYSTEM] shall be the equivalent to application of the IAS 1&2 Baseline Controls Set (BCS) at the DETER level and ISO27001. The supporting compliance statement (see A.2) has been derived from IAS 1&2 Baseline Controls Set (BCS) and ISO27001 and provides a check list that [ORGANISATION NAME FOR 3rd PARTY ICT SYSTEM] should use to document their compliance to this CoCo. The completed compliance statement will allow the MoJ to determine whether the [NAME OF 3rd PARTY ICT SYSTEM]'s level of compliance is sufficient to meet the requirements outlined in this CoCo. |
 | CoCo-2 | The MoJ system Accreditor must be advised of any proposed changes (including configuration changes) to be made to the [NAME OF 3rd PARTY ICT SYSTEM] which will have an effect on its connection to the [NAME OF MoJ ICT SYSTEM]. |
 | CoCo-3 | All existing and planned onward connections to or from the [NAME OF 3rd PARTY ICT SYSTEM] must be brought to the attention of the MoJ system Accreditor prior to any live connection to the [NAME OF 3rd PARTY ICT SYSTEM] as this may represent a risk to the [NAME OF MoJ ICT SYSTEM] and its onward connections. All such connections must be identified in this document (see A.1.2.1). The information provided will be kept confidential and only used for the purpose of assuring the security of this connection. |
 | CoCo-4 | No data Protectively Marked above RESTRICTED should be exchanged over this connection. |
@@ -165,10 +165,10 @@ This compliance statement provides a check list which will enable the MoJ to ass
 
 Guidance on completion:
 
-*   Under the ‘Control’ column are a number of security controls which should be read and responded to in subsequent columns;
-*   Under the ‘Compliance’ column, answer **Yes**, if the control is fully met, **No**, if it is not fully met, **Partial**, if part of the control has been implemented or **N/A** if the control does not apply;
-*   Under the ‘Process Owner/References’ column, the name of an individual or group who is responsible for managing that control must be entered and any associated documents referenced;
-*   Under the ‘Solution/Comments’ column, enter a brief statement outlining how that control is met, why it is not met, only partially met or why it does not apply.
+*   Under the 'Control' column are a number of security controls which should be read and responded to in subsequent columns;
+*   Under the 'Compliance' column, answer **Yes**, if the control is fully met, **No**, if it is not fully met, **Partial**, if part of the control has been implemented or **N/A** if the control does not apply;
+*   Under the 'Process Owner/References' column, the name of an individual or group who is responsible for managing that control must be entered and any associated documents referenced;
+*   Under the 'Solution/Comments' column, enter a brief statement outlining how that control is met, why it is not met, only partially met or why it does not apply.
 
 **Note:** The notes (in blue and italics) under the “Solution/Comments” column are for guidance only.  These notes must be removed upon completion.
 
@@ -186,10 +186,10 @@ Guidance on completion:
 | **A.6.2** | **External Parties** | | | |
 | **A.6.2.1** | **Identification of Risks relating to External Parties** - Has the [ORGANISATION NAME FOR 3rd PARTY] conducted any form of risk assessment related to their IT systems and the data held on them?  Has the outcome of the risk assessment (e.g. risk treatment plan) been implemented? | | | *How do you assess risk to your organisation caused by the provision of access to a 3rd party?  Does it also take into account physical & logical access controls, etc* |
 | **A.6.2.2** | **Addressing Security when dealing with Customers** - Has the [ORGANISATION NAME FOR 3rd PARTY] identified security requirements which need to be adhered by other entities or organisations connecting into [NAME OF 3rd PARTY ICT SYSTEM] before they are given access? | | | *Need to provide detail of any security requirements?* |
-| **A.6.2.3** | **Addressing security in 3rd Party Agreements** - Does the [ORGANISATION NAME FOR 3rd PARTY] include security requirements in contracts with third parties that involve accessing, processing, communicating or managing the organisation’s information or information processing facilities? | | | *Do the 3rd party agreements include terms that assist meet the identified security requirements?  Examples of these terms or a copy of the 3rd party agreement should be provided.* |
+| **A.6.2.3** | **Addressing security in 3rd Party Agreements** - Does the [ORGANISATION NAME FOR 3rd PARTY] include security requirements in contracts with third parties that involve accessing, processing, communicating or managing the organisation's information or information processing facilities? | | | *Do the 3rd party agreements include terms that assist meet the identified security requirements?  Examples of these terms or a copy of the 3rd party agreement should be provided.* |
 | **A.7** | **Asset Classification and Control** | | | |
 | **A.7.1** | **Responsibility for Assets** | | | |
-| **A.7.1.3** | **Acceptable use of Assets** - Does the [ORGANISATION NAME FOR 3rd PARTY] have any documented policies on the acceptable use of information and assets associated with information processing, i.e. personal use, use of email, Internet access etc? | | | *Are there rules for the use of assets within the organisation, e.g. Acceptable use policies or “Do and Don’t” lists for Email & Internet, mobile devices, etc. If so, details should be provided.|
+| **A.7.1.3** | **Acceptable use of Assets** - Does the [ORGANISATION NAME FOR 3rd PARTY] have any documented policies on the acceptable use of information and assets associated with information processing, i.e. personal use, use of email, Internet access etc? | | | *Are there rules for the use of assets within the organisation, e.g. Acceptable use policies or “Do and Don't” lists for Email & Internet, mobile devices, etc. If so, details should be provided.|
 | **A.7.2** | **Information Classification** | | | | 
 | **A.7.2.1** | **Classification Guidelines** - Does the [ORGANISATION NAME FOR 3rd PARTY] use a data classification scheme (e.g. the Government Protective Marking Scheme) with defined protective controls for each classification or sensitive personal data? | | | *State the classification scheme applied and associated controls to protect personal data (if applicable).  Has this been documented and communicated to all staff?  Provide a copy of the guidance provided if possible.* |
 | **A.8** | **Human Resources Security** | | | |
@@ -197,14 +197,14 @@ Guidance on completion:
 | **A.8.1.1** | **Roles and Responsibilities** - Does the [ORGANISATION NAME FOR 3rd PARTY] identify security roles and responsibilities of employees, contractors and 3rd party users?  Are such roles/responsibilities documented? | | | *Are there defined, documented and communicated security roles and responsibilities?  State what these are at a high-level and provide documentation where possible to support this. E.g. role/function terms of reference.* |
 | **A.8.2** | **During Employment** | | | |
 | **A.8.2.1** | **Management Responsibilities** - Does [ORGANISATION NAME FOR 3rd PARTY] management ensure security requirements are enforced by employees, contractors and 3rd party users?  How is this achieved? | | | *How do management ensure that staff and contractors are aware and comply with their responsibilities for security?* |
-| **A.8.2.2** | **Information Security Awareness, Education and Training** - Do [ORGANISATION NAME FOR 3rd PARTY] employees and, where relevant, contractors and 3rd party users receive appropriate security awareness training and regular updates in [ORGANISATION NAME FOR 3rd PARTY] <security policies and procedures>, as relevant for their job function? | | | *Do all employees and contractors undergo security awareness training? How frequently is this awareness training conducted?  What does the security awareness training cover at a high-level.  How do you assess employees’ understanding of that training?* |
+| **A.8.2.2** | **Information Security Awareness, Education and Training** - Do [ORGANISATION NAME FOR 3rd PARTY] employees and, where relevant, contractors and 3rd party users receive appropriate security awareness training and regular updates in [ORGANISATION NAME FOR 3rd PARTY] <security policies and procedures>, as relevant for their job function? | | | *Do all employees and contractors undergo security awareness training? How frequently is this awareness training conducted?  What does the security awareness training cover at a high-level.  How do you assess employees' understanding of that training?* |
 | **A.8.3** | **Termination or Change of Employment** | | | |
 | **A.8.3.3** | **Removal of Access Rights** - Does the [ORGANISATION NAME FOR 3rd PARTY] remove access rights of all employees, contractors and 3rd party users to information and information processing facilities upon termination of their employment, contract or agreement?  How is this done? | | | *Details should be provided on the process for removing access rights on termination of employment.* |
 | **A.9** | **Physical and Environmental Security** | | | |
 | **A.9.1** | **Secure Areas** | | | |
 | **A.9.1.1** | **Physical Security Perimeters** - Does the [ORGANISATION NAME FOR 3rd PARTY] have a defined, effective, security perimeter to protect areas that contain information-processing facilities? | | | *Describe the physical security barriers, e.g. walls, alarm systems, doors/gates, fencing, etc, where applicable.* |
 | **A.9.1.2** | **Physical Entry Controls** - Are there secure areas within the [ORGANISATION NAME FOR 3rd PARTY] premises, protected by appropriate entry controls to ensure that only authorised personnel are allowed access? | | | *Describe any designated secure areas in the building.  Where will the servers/workstations/gateway used to support this connection be located?  What security controls are in place to limit access to those with a need-to-know?* |
-| **A.9.1.6** | **Public Access Delivery & Loading Areas** - Are access points such as delivery and loading areas and other points where unauthorised persons may enter the [ORGANISATION NAME FOR 3rd PARTY] premises controlled and, if possible, isolated from information processing facilities to avoid unauthorised access? | | | *Describe the controls limiting access from public access, delivery and loading areas to the areas housing the ICT services used to support this connection.*
+| **A.9.1.6** | **Public Access Delivery &amp; Loading Areas** - Are access points such as delivery and loading areas and other points where unauthorised persons may enter the [ORGANISATION NAME FOR 3rd PARTY] premises controlled and, if possible, isolated from information processing facilities to avoid unauthorised access? | | | *Describe the controls limiting access from public access, delivery and loading areas to the areas housing the ICT services used to support this connection.*
 | **A.9.2** | **Equipment Security** | | | |
 | **A.10** | **Communications and Operations Management** | | | |
 | **A.10.1** | **Operational Procedures and Responsibilities**  | | | |
@@ -231,7 +231,7 @@ Guidance on completion:
 | **A.11.2.1** | **User Registration** - Does the [NAME OF 3rd PARTY ICT SYSTEM] have a formal user registration and de-registration procedure in place for granting and revoking access to all information systems and services? | | | *Describe the registration and deregistration process. Are the user registration procedures documented?* |
 | **A.11.2.2** | **Privilege Management** - Does the [NAME OF 3rd PARTY ICT SYSTEM] restrict the allocation and use of privileges? | | | *Who has (or will be given) privileged access to the MoJ ICT System – roles will suffice?  How will this access be restricted to just those named roles?* |
 | **A.11.2.3** | **User Password Management** - What process is in place to allocate passwords to users? Is a password policy enforced and what technical controls are in place to support that enforcement? | | | *Describe the process for allocating new passwords, the password policy and any control used to enforce it?* |
-| **A.11.2.4** | **Review of User Access Rights** - Is there a review process that covers users’ access rights on the [NAME OF 3rd PARTY ICT SYSTEM]? | | | *Describe the process for regularly reviewing access rights* |
+| **A.11.2.4** | **Review of User Access Rights** - Is there a review process that covers users' access rights on the [NAME OF 3rd PARTY ICT SYSTEM]? | | | *Describe the process for regularly reviewing access rights* |
 | **A.11.3** | **User responsibilities** | | | |
 | **A.11.3.1** | **Password Use** - Do users follow good security practices in the selection and use of passwords? | | | *State the password policy.  What controls are in place to prevent users from selecting weak passwords? |
 | **A.11.3.2** | **Unattended User Equipment** - Is there a user timeout set on the [NAME OF 3rd PARTY ICT SYSTEM]? | | | *What is the timeout process?* |
@@ -258,14 +258,14 @@ Guidance on completion:
 | **A.13** | **Information Security Incident Management** | | | |
 | **A.13.1** | **Reporting Information Security Events and Weaknesses** | | | |
 | **A.13.1.1** | **Reporting Information Security Events** - Is there a documented process to ensure information security events affecting the [NAME OF 3rd PARTY ICT SYSTEM] are reported to MoJ ITSO and system Accreditor as soon as possible? | | | *Describe the Incident Management process applicable to the connecting system or supply documentation to support this.  It must include reporting of security incidents to the MoJ.* |
-| **A.13.2** | **Management of Information Security Incidents & Improvements** | | | |
-| **A.13.2.1** | **Responsibilities & Procedures** - Have assigned responsibilities and procedures to ensure a quick, effective, and orderly response to information security incidents been implemented?  This needs to include the requirement to report incidents associated with the [NAME OF 3rd PARTY ICT SYSTEM] to MoJ. | | | *All IT Security incidents should be reported to MoJ Operational Security Team.* |
+| **A.13.2** | **Management of Information Security Incidents &amp; Improvements** | | | |
+| **A.13.2.1** | **Responsibilities &amp; Procedures** - Have assigned responsibilities and procedures to ensure a quick, effective, and orderly response to information security incidents been implemented?  This needs to include the requirement to report incidents associated with the [NAME OF 3rd PARTY ICT SYSTEM] to MoJ. | | | *All IT Security incidents should be reported to MoJ Operational Security Team.* |
 | **A.14** | **Business Continuity Management** | | | |
 | **A.14.1** | **Aspects of business continuity management** | | | |
 | **A.15** | **Compliance** | | | |
 | **A.15.1** | **Compliance with legal requirements** | | | |
 | **A.15.1.4** | **Data Protection and Privacy of Personal Information** - Does the [ORGANISATION NAME FOR 3rd PARTY] have documented procedures covering data protection and privacy of personal information? | | | *Reference relevant documentation that details the procedures for adhering to privacy and protection of personal information.  Provide documentation to support this if available.* |
 | **A.15.2** | **Reviews of Security Policy and Technical compliance** | | | |
-| **A.15.2.1** | **Compliance with Security Policies & Standards** - Does the [ORGANISATION NAME FOR 3rd PARTY] conduct compliance audits to achieve compliance with security policies and standards, including the CoCo for this connection? | | | *What is the process to conduct a compliance audit against the processes and procedures employed to support this connection?  When was the last one conducted?  Were any gaps identified, if so is there a remediation plan in place?* |
+| **A.15.2.1** | **Compliance with Security Policies &amp; Standards** - Does the [ORGANISATION NAME FOR 3rd PARTY] conduct compliance audits to achieve compliance with security policies and standards, including the CoCo for this connection? | | | *What is the process to conduct a compliance audit against the processes and procedures employed to support this connection?  When was the last one conducted?  Were any gaps identified, if so is there a remediation plan in place?* |
 | **A.15.2.2** | **Technical Compliance Checking** | | | *Is the connecting system subject to a technical assessment (penetration test / ITHC? When was the last one done?  Were any vulnerabilities identified and if so have these been addressed/fixed?* |
 | **A.15.3** | **System Audit Consideration** | | | |
