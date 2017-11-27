@@ -57,7 +57,7 @@ Last updated: 27 Nov 2017
 | Protective Monitoring Guide | <https://ministryofjustice.github.io/itpolicycontent/content/enterprise/protective-monitoring.html> | <https://intranet.justice.gov.uk/?page_id=112998> |
 | Public Key Infrastructure Policy | <https://ministryofjustice.github.io/itpolicycontent/content/enterprise/public-key-infrastructure-policy.html> | <https://intranet.justice.gov.uk/?page_id=116686> |
 | Remote Working | <https://ministryofjustice.github.io/itpolicycontent/content/remote-working.html> | <https://intranet.justice.gov.uk/?page_id=112617> |
-| Risk Management | <https://ministryofjustice.github.io/itpolicycontent/content/risk-management.html> | <https://intranet.justice.gov.uk/?page_id=114807> |
+| Risk Management | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/risk-management.html> | <https://intranet.justice.gov.uk/?page_id=114807> |
 | Security Clearance | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/security-clearance.html> | <https://intranet.justice.gov.uk/?page_id=114805> |
 | Source Code Publishing | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/source-code-publishing.html> | <https://intranet.justice.gov.uk/?page_id=114803> |
 | System Administrators | <https://ministryofjustice.github.io/itpolicycontent/content/system-administrators.html> | <https://intranet.justice.gov.uk/?page_id=112703> |
