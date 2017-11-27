@@ -33,7 +33,7 @@ Last updated: 27 Nov 2017
 | Clear Screen &amp; Desk | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/clear-screen-and-desk.html> | <https://intranet.justice.gov.uk/?page_id=115132>
 | Code of Connection Standard | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/enterprise/code-of-connection-standard.html> | <https://intranet.justice.gov.uk/?page_id=107373> |
 | Data Handling and Information Sharing Guide | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/enterprise/data-handling-and-information-sharing-guide.html> | <https://intranet.justice.gov.uk/?page_id=106420> |
-| Forensic Principles | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/enterprise/forensic-principles.html> |  |
+| Forensic Principles | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/forensic-principles.html> | <https://intranet.justice.gov.uk/?page_id=116783> |
 | Forensic Readiness Guide | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/enterprise/forensic-readiness-guide.html> |  |
 | Forensic Readiness Policy | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/enterprise/forensic-readiness-policy.html> |  |
 | Governance and Accountability | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/governance-and-accountability.html> | <https://intranet.justice.gov.uk/?page_id=115127> |
