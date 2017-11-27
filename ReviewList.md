@@ -35,7 +35,7 @@ Last updated: 27 Nov 2017
 | Data Handling and Information Sharing Guide | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/enterprise/data-handling-and-information-sharing-guide.html> | <https://intranet.justice.gov.uk/?page_id=106420> |
 | Forensic Principles | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/forensic-principles.html> | <https://intranet.justice.gov.uk/?page_id=116783> |
 | Forensic Readiness Guide | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/enterprise/forensic-readiness-guide.html> |  |
-| Forensic Readiness Policy | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/enterprise/forensic-readiness-policy.html> |  |
+| Forensic Readiness Policy | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/forensic-readiness-policy.html> | <https://intranet.justice.gov.uk/?page_id=116793> |
 | Governance and Accountability | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/governance-and-accountability.html> | <https://intranet.justice.gov.uk/?page_id=115127> |
 | Government Classification Scheme | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/government-classification-scheme.html> | <https://intranet.justice.gov.uk/?page_id=115116> |
 | HMG Cryptography Business Continuity Management Standard | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/enterprise/hmg-cryptography-business-continuity-management-standard.html> | <https://intranet.justice.gov.uk/?page_id=109705> |
