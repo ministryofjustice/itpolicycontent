@@ -47,7 +47,9 @@ The frequency and extent of systems backups must be in accordance with the impac
 Generally, it is not practical for all backup to be kept indefinitely as such, it is important that each ICT system defines a:
 
 **Backup schedule** – This defines the frequency and type of backup (see section 4.2)
+
 **Retention schedule** – This defines how long an individual backup should be retained in a state ready for restoration from a live backup system or backup media (see section 4.3).
+
 **Archive schedule** – This defines how long a particular full system backup should be retained for and which full system backup should be kept in order to comply with the MoJ data retention schedule (see section 4.4).
 
 ### Backup schedule
