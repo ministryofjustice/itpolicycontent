@@ -1,10 +1,10 @@
-﻿---
-title: security-clearance
+---
+title: Security Clearance
 ---
 
 <table border='1'>
 <tr>
-<td>This content is a version of the Security Clearance, May 2014.<br/>
+<td>This content is a version of the Security Clearance guidance, May 2014.<br/>
 This is Legacy IA Policy. It is under review and likely to be withdrawn or substantially revised soon. Please contact us before using this on a new project: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=security-clearance">itpolicycontent@digital.justice.gov.uk</a>.</td>
 </tr>
 </table>
