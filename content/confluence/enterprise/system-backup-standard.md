@@ -65,6 +65,7 @@ Table 1 – Generic backup schedule
 The definition of each backup type used in Table 1 is as follows:
 
 **Incremental** – This is where only the ‘delta’ / changes to data from the last backup are stored. This type of backup is designed to support a short backup frequency (e.g. daily)
+
 **Full** – This constitutes a full system backup where that backup contains all the data necessary to restore the ICT system for example, after complete system failure.
 
 ### Retention schedule
