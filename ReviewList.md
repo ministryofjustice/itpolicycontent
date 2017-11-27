@@ -63,4 +63,4 @@ Last updated: 27 Nov 2017
 | System Administrators | <https://ministryofjustice.github.io/itpolicycontent/content/system-administrators.html> | <https://intranet.justice.gov.uk/?page_id=112703> |
 | System Test Standard | <https://ministryofjustice.github.io/itpolicycontent/content/system-test-standard.html> | <https://intranet.justice.gov.uk/?page_id=109963> |
 | System Users and Application Administrators | <https://ministryofjustice.github.io/itpolicycontent/content/system-users-and-application-administrators.html> | <https://intranet.justice.gov.uk/?page_id=112730> |
-| Training and Education | <https://ministryofjustice.github.io/itpolicycontent/content/training-and-education.html> | <https://intranet.justice.gov.uk/?page_id=114797> |
+| Training and Education | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/training-and-education.html> | <https://intranet.justice.gov.uk/?page_id=114797> |
