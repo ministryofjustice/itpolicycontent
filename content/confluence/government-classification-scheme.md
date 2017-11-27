@@ -21,3 +21,5 @@ These guidelines are based on “The Government Security Classification (GSC)”
 
 The link, below, provides handling guidance for Authority data covering OFFICIAL (which includes OFFICIAL – SENSITIVE).
 [https://www.gov.uk/government/publications/government-security-classifications](https://www.gov.uk/government/publications/government-security-classifications)
+
+Where appropriate they have been expanded to reference the systems generally available to Authority suppliers.
