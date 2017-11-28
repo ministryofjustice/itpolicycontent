@@ -60,7 +60,7 @@ Last updated: 28 Nov 2017
 | Policies for Macbook Administrators | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/policies-for-macbook-administrators.html> | <https://intranet.justice.gov.uk/?page_id=114816> |
 | Policies for Macbook Users | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/policies-for-macbook-users.html> | <https://intranet.justice.gov.uk/?page_id=114814> |
 | Protective Monitoring Guide | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/enterprise/protective-monitoring.html> | <https://intranet.justice.gov.uk/?page_id=112998> |
-| Public Key Infrastructure Policy | <https://ministryofjustice.github.io/itpolicycontent/content/enterprise/public-key-infrastructure-policy.html> | <https://intranet.justice.gov.uk/?page_id=116686> |
+| Public Key Infrastructure Policy | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/enterprise/public-key-infrastructure-policy.html> | <https://intranet.justice.gov.uk/?page_id=116686> |
 | Remote Working | <https://ministryofjustice.github.io/itpolicycontent/content/remote-working.html> | <https://intranet.justice.gov.uk/?page_id=112617> |
 | Risk Management | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/risk-management.html> | <https://intranet.justice.gov.uk/?page_id=114807> |
 | Security Clearance | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/security-clearance.html> | <https://intranet.justice.gov.uk/?page_id=114805> |
