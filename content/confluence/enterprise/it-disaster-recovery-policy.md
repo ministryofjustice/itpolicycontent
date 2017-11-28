@@ -1,5 +1,5 @@
-﻿---
-title: it-disaster-recovery-policy
+---
+title: IT Disaster Recovery Policy
 ---
 
 <table border='1'>
@@ -9,7 +9,7 @@ This is Legacy IA Policy. It is under review and likely to be withdrawn or subst
 </tr>
 </table>
 
-##Introduction
+## Introduction
 
 IT disaster recovery is a crucial element of the MoJ’s overall business continuity plans.
 
@@ -154,8 +154,7 @@ Each IT Disaster Recovery Plan **must contain** a pre-defined and tested process
 
 After each disaster incident, the following **must be** reviewed and any recommendations considered:
 
-- The IT Disaster Recovery Plan to consider lessons learnt and any
-improvements;
+- The IT Disaster Recovery Plan to consider lessons learnt and any improvements;
 - The design of the IT system and controls implements to reduce the impact of a disaster event or aid the restoration process;
 - Any changes to the relevant IT Security Incident Management Plan.
 
