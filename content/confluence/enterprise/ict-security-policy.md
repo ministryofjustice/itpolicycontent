@@ -64,7 +64,7 @@ The overarching Ministry of Justice policy states that:
 <tr>
 <td>POL.ITSEC.001:
 <br/>
-The IT security regime <b>must support</b> the outcomes of <b>the<b> HMG Security Policy Framework (SPF) [Ref, 8];</td>
+The IT security regime <b>must support</b> the outcomes of <b>the</b>b> HMG Security Policy Framework (SPF) [Ref, 8];</td>
 </tr>
 <tr><td>POL.ITSEC.002:
 <br/>
@@ -99,9 +99,10 @@ This policy is supported by policies, standards and guidance in the ICT Security
 <br/>
 All users of ICT systems <b>must be</b> made aware that the MoJ monitors and audits its ICT systems.</td>
 </tr>
-<tr>POL.ITSEC.010:
+<tr>
+<td>POL.ITSEC.010:
 <br/>
-MoJ and MoJ ICT service providers must ensure any system monitoring or auditing complies with relevant legislation.</td></tr>
+MoJ and MoJ ICT service providers <b>must ensure</b> any system monitoring or auditing complies with relevant legislation.</td></tr>
 </table>
 
 MoJ may require access to audit logs in investigating incidents (investigations may be of a purely technical nature such as a virus incident, but may also include investigations into malicious behaviour). MoJ will comply with all relevant legislation and MoJ HR policy in its monitoring and auditing activities. As such, the MoJ will exercise its rights to ensure that its computer equipment and systems are used in a legitimate and lawful manner. This applies equally to MoJ ICT service providers.
@@ -111,7 +112,7 @@ MoJ may require access to audit logs in investigating incidents (investigations 
 <table border='1'>
 <tr><td>POL.ITSEC.011:
 <br/>
-MoJ ICT Security Policies must be maintained and reviewed on a regular basis to a schedule determined by the ITSO – This is currently annually for all policies in this policy set.</td></tr>
+MoJ ICT Security Policies <b>must be</b> maintained and reviewed on a regular basis to a schedule determined by the ITSO – This is currently annually for all policies in this policy set.</td></tr>
 </table>
 
 The MoJ ICT security policy and any supporting ICT security guides will be reviewed by the ITSO according to the following schedule and criteria:
@@ -195,7 +196,7 @@ The ICT security management structure falls within the overall MoJ security mana
 
 The Permanent Secretary, as Accounting Officer, has overall responsibility for all aspects of security. The Departmental Security Officer (DSO) and MoJ SIRO support the Permanent Secretary by providing advice on personal, physical and information security policy and procedure. The IT Security Officer (ITSO) supports the DSO by providing advice on ICT security policy. This structure is depicted in Figure 2.
 
-HERE
+![ICT security management structure](https://intranet.justice.gov.uk/app/uploads/2017/11/ict-security-policy-diagram-1.png)
 
 Figure 2 - ICT security management structure
 

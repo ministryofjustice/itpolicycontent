@@ -40,6 +40,7 @@ Last updated: 27 Nov 2017
 | Government Classification Scheme | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/government-classification-scheme.html> | <https://intranet.justice.gov.uk/?page_id=115116> |
 | HMG Cryptography Business Continuity Management Standard | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/enterprise/hmg-cryptography-business-continuity-management-standard.html> | <https://intranet.justice.gov.uk/?page_id=109705> |
 | ICT Disaster Recovery Plan and Process Guide | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/enterprise/ict-disaster-recovery-plan-and-process-guide.html> | <https://intranet.justice.gov.uk/?page_id=115053> |
+| ICT Security Policy | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/enterprise/ict-security-policy.html> | <https://intranet.justice.gov.uk/?page_id=108966> |
 | Incident Management Plan and Process Guide | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/enterprise/incident-management-plan-and-process-guide.html> | <https://intranet.justice.gov.uk/?page_id=116047> |
 | Incident Reporting | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/incident-reporting.html> | <https://intranet.justice.gov.uk/?page_id=115435> |
 | Lost Laptop/Hardware | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/lost-laptop-hardware.html> | <https://intranet.justice.gov.uk/?page_id=115095> |
