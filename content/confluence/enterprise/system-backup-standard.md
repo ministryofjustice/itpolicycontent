@@ -1,5 +1,5 @@
-﻿---
-title: system-backup-standard
+---
+title: System Backup Standard
 ---
 
 <table border='1'>
@@ -17,7 +17,7 @@ The purpose of a system backup is to provide a means to restore the data integri
 
 The HMG Security Policy Framework [Ref, 6] mandatory requirements 9 states that:
 
-> “Departments and Agencies must put in place an appropriate range of technical controls for all ICT systems, proportionate to the value, importance and sensitivity of the information held and the requirements of any interconnected systems.”
+> Departments and Agencies must put in place an appropriate range of technical controls for all ICT systems, proportionate to the value, importance and sensitivity of the information held and the requirements of any interconnected systems.
 
 The backup policy is covered in IT Security – Technical Controls Policy [Ref, 1] where this document sets out the MoJ standard for its implementation.
 
@@ -104,7 +104,7 @@ The standard recommendation is that one full system backup per month is selected
 
 **Note:** The MoJ data retention schedule is managed by the Knowledge, Information and Records Management (KIM) team and is set by the Departmental Records Officer.  This schedule determines what the archive schedule is (i.e. how long an archive backup must be retained); see the following intranet site for further details:
 
-[http://intranet.justice.gsi.gov.uk/guidance-support/information-data/records-management-services/information-management.htm](http://intranet.justice.gsi.gov.uk/guidance-support/information-data/records-management-services/information-management.htm)
+<http://intranet.justice.gsi.gov.uk/guidance-support/information-data/records-management-services/information-management.htm>
  
 ## System backup procedures
 
@@ -168,9 +168,9 @@ It is important that each piece of backup media/job is tracked; as such the foll
 - Name of the ICT system manager;
 - Name of the Information Asset Owner (IAO);
 - Status (to capture schedule details and type of backup);
--- E.g. Daily – Incremental, Weekly – Full, Archive – Full.
+  - E.g. Daily – Incremental, Weekly – Full, Archive – Full.
 - Success status;
--- Yes to indicate that this backup was successful, No if the backup failed.
+  - Yes to indicate that this backup was successful, No if the backup failed.
 
 **Note:** Where available where hardware backup media is used, each unique media ID must be captured as a hardware device in the relevant configuration management database (CMDB).
 
