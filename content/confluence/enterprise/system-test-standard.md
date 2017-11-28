@@ -1,12 +1,33 @@
 ---
-title: System test standard
-date: 2017-10-26 13:45
+title: System Test Standard
 ---
+
+<table border='1'>
+<tr>
+<td>This content is a version of the System Test Standard, August 2013.<br/>
+This is Legacy IA Policy. It is under review and likely to be withdrawn or substantially revised soon. Please contact us before using this on a new project: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=system-lockdown-and-hardening-standard">itpolicycontent@digital.justice.gov.uk</a>.</td>
+</tr>
+</table>
 
 [accreditation-framework]: https://intranet.justice.gov.uk/documents/2015/04/accreditation-framework.pdf
 [GPG30]: https://www.ncsc.gov.uk/guidance/assurance-ict-systems-and-services-gpg-30
 
+## About this document
+
+This document is the MoJ IT Security – System Test Standard. It is designed to help protect MoJ ICT systems by providing a common standard for system security testing.
+
+## How to use this document
+
+The purpose of this standard is to provide a process around the security testing of MoJ ICT systems and outline what security issues should be considered at each stage of the process.  
+
+**Note:** This document focuses on the security aspects of system testing and is not intended to provide comprehensive information on general system testing.
+
+## Overview
+
+### Introduction
+
 The purpose of system testing is to ensure all the functional and non-functional requirements of the system are verified to be operating within specified bounds.
+
 [HMG Security Policy Framework](https://www.gov.uk/government/publications/security-policy-framework/hmg-security-policy-framework) mandatory requirements 9 states that:
 
 > Departments and Agencies must put in place an appropriate range of technical controls for all ICT systems, proportionate to the value, importance and sensitivity of the information held and the requirements of any interconnected systems.
@@ -78,8 +99,7 @@ In exceptional circumstances, the use of live system data may be permitted. Perm
 
 **Note:** The risk associated with the use of live personal data for testing may require Senior Information Risk Owner (SIRO) approval. See the following Intranet page for further details:
 
-[Policy on the use of live personal data for the
-testing of IT systems, processes or procedures](https://intranet.justice.gov.uk/documents/2015/04/live-personal-data-testing-systems.pdf)
+[Policy on the use of live personal data for the testing of IT systems, processes or procedures](https://intranet.justice.gov.uk/documents/2015/04/live-personal-data-testing-systems.pdf)
 
 ### Risk assessment and management
 

@@ -1,5 +1,5 @@
-﻿---
-title: it-incident-management-policy
+---
+title: IT Incident Management Policy
 ---
 
 <table border='1'>
@@ -298,7 +298,7 @@ For each Medium and High impact (see section 3.3) IT Security incident, a manage
 ## IT Security Incident Recording and Categorisation
 
 
-DIAGRAM
+![IT Security Incident Recording and Categorisation](https://intranet.justice.gov.uk/app/uploads/2017/11/incident-management-plan-and-process-guide-diagram-3.png)
 
 
 ## IT Security Incident Escalation Path
@@ -306,5 +306,5 @@ DIAGRAM
 Figure 3 is a generic IT Security incident escalation path which provides a starting point for the creation of a tailored version in an IT Security Incident Management Plan. Further information is provided in the ICT Security – Incident Management Plan and Process Guide [Ref, 11].
 
 
-DIAGRAM
+![IT Security Incident Escalation Path](https://intranet.justice.gov.uk/app/uploads/2017/11/incident-management-plan-and-process-guide-diagram-4.png)
 
