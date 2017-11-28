@@ -9,7 +9,7 @@ This is Legacy IA Policy. It is under review and likely to be withdrawn or subst
 </tr>
 </table>
 
-##Introduction
+## Introduction
 
 IT disaster recovery is a crucial element of the MoJ’s overall business continuity plans.
 
