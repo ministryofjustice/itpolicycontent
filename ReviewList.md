@@ -55,7 +55,7 @@ Last updated: 28 Nov 2017
 | Offshoring Guide | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/enterprise/offshoring-guide.html> | <https://intranet.justice.gov.uk/?page_id=112350> |
 | Password Standard | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/enterprise/password-standard.html> | <https://intranet.justice.gov.uk/?page_id=116648> |
 | Patching | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/patching.html> | <https://intranet.justice.gov.uk/?page_id=115136> |
-| Patch Management Standard | <https://ministryofjustice.github.io/itpolicycontent/content/patch-management-standard.html> | <https://intranet.justice.gov.uk/?page_id=114822> |
+| Patch Management Standard | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/enterprise/patch-management-standard.html> | <https://intranet.justice.gov.uk/?page_id=114822> |
 | Policies for Google Apps administrators | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/policies-for-google-apps-administrators.html> | <https://intranet.justice.gov.uk/?page_id=114818> |
 | Policies for Macbook Administrators | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/policies-for-macbook-administrators.html> | <https://intranet.justice.gov.uk/?page_id=114816> |
 | Policies for Macbook Users | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/policies-for-macbook-users.html> | <https://intranet.justice.gov.uk/?page_id=114814> |
