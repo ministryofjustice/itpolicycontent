@@ -194,7 +194,7 @@ Be the same as the password for their normal accounts (if the administrator hold
 <td>Passwords <b>must be</b> changed every 60 days.</td>
 </tr>
 <tr>
-<td>Password history</td>
+<th>Password history</th>
 <td>The system <b>must not</b> allow users to reuse passwords for 15 cycles (900 days).</td>
 </tr>
 </table>
