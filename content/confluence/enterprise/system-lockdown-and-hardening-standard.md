@@ -1,21 +1,28 @@
-﻿---
-title: system lockdown and hardening standard
 ---
+title: System Lockdown and Hardening Standard
+---
+
+<table border='1'>
+<tr>
+<td>This content is a version of the System Lockdown and Hardening Standard, August 2013.<br/>
+This is Legacy IA Policy. It is under review and likely to be withdrawn or substantially revised soon. Please contact us before using this on a new project: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=system-lockdown-and-hardening-standard">itpolicycontent@digital.justice.gov.uk</a>.</td>
+</tr>
+</table>
 
 This standard is designed to help protect MOJ ICT systems by providing basis configuration details for how ICT systems should be hardened to defend against malicious attack.
  
 ## Overview
  
-HMG Security Policy Frameworkmandatory requirement (MR) 9 concerns technical security controls. To comply with MR 7, the MoJ needs to ensure that it has:
+HMG Security Policy Framework mandatory requirement (MR) 9 concerns technical security controls. To comply with MR 7, the MoJ needs to ensure that it has:
 
-> “Lockdown policy to restrict unnecessary services;”
+> Lockdown policy to restrict unnecessary services;
 
 The lockdown policy itself is covered in the IT Security – Technical Controls Policy [Ref, 1] whilst this document sets out the MoJ standard for its application.
 
 ### Scope
 This standard provides some high level guidance on ICT system hardening with which applied to all MoJ ICT systems.
 
-Note: This standard is a generic standard designed to provide high level direction. This standard does not replace the Government Assurance Pack (GAP) which must be considered for MS Windows based systems. The hardening of an ICT system will be considered during the Accreditation process where the exact specification for the system will be considered and agreed. For further details on the Accreditation process see [Ref, 6].
+**Note:** This standard is a generic standard designed to provide high level direction. This standard does not replace the Government Assurance Pack (GAP) which must be considered for MS Windows based systems. The hardening of an ICT system will be considered during the Accreditation process where the exact specification for the system will be considered and agreed. For further details on the Accreditation process see [Ref, 6].
 
 This standard must be read in conjunction with CESG GPG No.35 [Ref, 8] and the MoJ Security Architecture Framework.
 
@@ -114,32 +121,42 @@ In addition to CESG GPG No.35 [Ref, 8], the following external reference sources
 
 ### CPNI
 CPNI provides general information on security ICT systems including advice on how to build secure systems.
+<br/>
 [External Link - CPNI] 
-http://www.cpni.gov.uk/advice/infosec/
+<br/><http://www.cpni.gov.uk/advice/infosec/>
 
 ### NIST
 
 NIST is a US standards body and provide a wealth of information which can be used to build secure systems.
+<br/>
 [External Link - NIST] 
-http://www.nist.gov/computer-security-portal.cfm
+<br/><http://www.nist.gov/computer-security-portal.cfm>
 
 ### SANS
 
 The SANS Institute provides a source of best practice advice for designing and configuring secure systems including Apple MAC OS and Linux based systems.
-[External Link - SANS] https://www.sans.org/reading_room/?utm_campaign=resources&utm_source=featured&utm_medium=web&utm_content=reading_room
+<br/>
+[External Link - SANS]
+<br/><https://www.sans.org/reading_room/?utm_campaign=resources&utm_source=featured&utm_medium=web&utm_content=reading_room>
 
 ### Microsoft
 
 Microsoft provides detailed information and configuration details covering the lockdown and hardening of Microsoft server and desktop products. In addition to general commercial advice, Microsoft also publish a hardening schema for HMG ICT systems called the Government Assurance Pack (GAP) (an overview of the GAP in provided in the link below)
-[External Link – Microsoft GAP] download.microsoft.com/documents/uk/publicsector/GSP_-_Datasheet.pdf
+
+<br/>
+[External Link – Microsoft GAP]
+<br/><http://download.microsoft.com/documents/uk/publicsector/GSP_-_Datasheet.pdf>
+<br/>
 [External Link – Microsoft security portal] 
-http://www.nist.gov/computer-security-portal.cfm
+<br/><http://www.nist.gov/computer-security-portal.cfm>
  
 ## Appendix A – Login banner
 
 The standard MoJ login banner must be displayed at login. A copy of the banner is provided in Figure 2.
 
-> THIS SYSTEM IS FOR AUTHORISED USERS ONLY.
-> This is a private system; only use this system if you have specific authority to do so. Otherwise you are liable to prosecution under the Computer Misuse Act 1990. If you do not have the express permission of the operator or owner of this system switch off now to avoid prosecution.
-
-
+<table border='1'>
+<tr>
+<td>THIS SYSTEM IS FOR AUTHORISED USERS ONLY.
+<br/>
+This is a private system; only use this system if you have specific authority to do so. Otherwise you are liable to prosecution under the Computer Misuse Act 1990. If you do not have the express permission of the operator or owner of this system switch off now to avoid prosecution.</td></tr>
+</table>
