@@ -9,6 +9,18 @@ This is Legacy IA Policy. It is under review and likely to be withdrawn or subst
 </tr>
 </table>
 
+## About this document
+
+This document is the MoJ IT Security – Patch Management Standard. It is designed to help protect MoJ ICT systems by providing a standard on the application of security patches.
+
+## How to use this document
+
+The purpose of this standard is to provide a consistent approach for the MoJ to identify vulnerabilities (to ICT systems), assess associated threats, rank them in terms of priority, and provide remediation via patch distribution using manual or automated methods.
+
+## Overview
+
+### Introduction
+
 A patch is a piece of software applied to an ICT asset (operating system, hardware module or application) to update its capabilities, fix compatibility problems or remove a discovered security weakness. Manufacturers typically release regular software patches for their product and occasional "Service Packs", which are major updates to an ICT asset's software or firmware. Security patches are specialist patch releases that are used to correct vulnerabilities identified which may compromise the Confidentiality, Integrity or Availability of that asset. This corrective action will prevent successful exploitation by removing or mitigating the specific vulnerability identified.
 
 The HMG Security Policy Framework mandatory requirement 39 states that:
@@ -142,60 +154,95 @@ There are three main categories of patch and vulnerability metrics: susceptibili
 
 ## Appendix A - IT Security Patching Criticality Matrix
 
-| Criticality | Description | Implementation Timescales |
-| --- | --- | --- |
-| Routine patches/updates | Standard patches and updates that are issued periodically by the manufacturer e.g. Microsoft's "patch Tuesday" where on the second Tuesday of each month Microsoft issue patches; | Patches will be fully tested as per the system testing plan and will be administered. |
-| | | **Timescale:** |
-| | | Important: 15 days. |
-| | | Medium: 30-60 days. |
-| | | Low: 3 months. |
-| Critical patches | Critical patches are security software releases in response to a specific new vulnerability. Usually critical patches are released before the vulnerability is exploited and they may be released outside of the usual vendor patch cycle. | Critical patches should be evaluated in relation to the threat. If the vulnerability can be contained by other methods, such as adjustments to the firewall policy, full testing should take place. Each critical release must have a documented implementation plan. |
-| | | **Timescale:** |
-| | | The target for deployment of Critical patches is 7-15 days. |
-| Emergency patches | Where the existence, extent, and spread of worms, viruses, or exploits poses a very high likelihood of damage to business critical systems, such as unauthorised system access, information disclosure, arbitrary code execution, or denial of service. Patches should be applied upon the advice of MoJ Operational Security Team and as a matter of priority. | For patches deemed as Emergency, the Incident Management plan, based upon the MoJ Incident Management Policy should be used. |
-| | | **Timescale:** |
-| | | The target timescale for deployment is 24 hours - 4 days.
+<table border='1'>
+<tr>
+<th>Criticality</th>
+<th>Description</th>
+<th>Implementation Timescales</th></tr>
+<tr>
+<td>Routine patches/updates</td>
+<td>Standard patches and updates that are issued periodically by the manufacturer e.g. Microsoft's "patch Tuesday" where on the second Tuesday of each month Microsoft issue patches; | Patches will be fully tested as per the system testing plan and will be administered.</td>
+<td><b>Timescale:</b>
+<br/>Important: 15 days.
+<br/>Medium: 30-60 days.
+<br/>Low: 3 months.</td></tr>
+<tr>
+<td>Critical patches</td>
+<td>Critical patches are security software releases in response to a specific new vulnerability.
+<br/>
+Usually critical patches are released before the vulnerability is exploited and they may be released outside of the usual vendor patch cycle.</td>
+<td>Critical patches should be evaluated in relation to the threat. If the vulnerability can be contained by other methods, such as adjustments to the firewall policy, full testing should take place. Each critical release must have a documented implementation plan.
+<br/><b>Timescale:</b>
+<br/>The target for deployment of Critical patches is 7-15 days.</td></tr>
+<tr>
+<td>Emergency patches</td>
+<td>Where the existence, extent, and spread of worms, viruses, or exploits poses a very high likelihood of damage to business critical systems, such as unauthorised system access, information disclosure, arbitrary code execution, or denial of service. Patches should be applied upon the advice of MoJ Operational Security Team and as a matter of priority.</td>
+<td>For patches deemed as Emergency, the Incident Management plan, based upon the MoJ Incident Management Policy should be used.
+<br/><b>Timescale:</b>
+<br/>The target timescale for deployment is 24 hours - 4 days.</td></tr>
+</table>
 
 ## Appendix B - IT Security Patch Management Plan - Template
 
-### System Details
-
-| | |
-| --- | --- |
-| **System Name** | [Enter the name of the ICT system.] |
-| **System Description and Scope** | [This section should describe the name and purpose of the system, including the protective marking level of the information it holds. Diagrams may prove useful where there is a complex interaction between systems covered in this statement/standard. It is important to include notes of where a part of a system is excluded from the scope of this plan e.g. an application is managed by another function.] |
-| **Responsibilities and Ownership** | [Complete a statement detailing who has ownership and who will be responsible for the administration of the system. Where a third-party or managed service provider is responsible for all or just a component of the system, a clear reference should be made to contractual responsibilities and points of contact regarding patching. Details of the hours worked by IT administration staff are required.] |
-| | [Details and responsibilities for patching should be referenced where they are included in separate documents. However, this does not exempt the System owner or their representative from completing a security patching standard for their system.] |
-
-### Description of the System's Patching Process
-
-| | |
-| --- | --- |
-| **Asset Inventory** | [Complete a statement detailing how the inventory of current system components is managed and updated. It is important this is as complete as possible and is frequently updated to ensure the current patching level is listed. All security patch requests, progress and resolutions must be logged and tracked within this management system.] |
-| **Vulnerability and Patch Identification** | [The section must include a description of how security vulnerabilities and patches will be identified. This will include a source of the vulnerability information, the source of security patches and the process for updating the asset register.] |
-| | [A description must also be provided of how this information is managed and stored. It is recommended that a register containing all security patches and vulnerabilities identified is maintained by the person (or party) responsible for testing and installing security patches.] |
-| **Patch Classification** | [Complete a statement describing how patches are going to be prioritised in terms of Routine, Critical and Emergency (see Appendix A). It is also essential to identify the level of testing that will be applied to each level of criticality and include target timescales for full.] |
-| **Deployment Plan**| [A statement is required outlining the deployment plan for testing and deploying security patches. It must cover each patch classification.]  |
-
-### Target timescales for the installation of Security Patches
-
-| | |
-| --- | --- |
-| **Emergency Patches** | [Enter target timescale for the testing and installation of Emergency patches based on the IT Security Patching Criticality Matrix (see Appendix A)] |
-| **Critical Patches** | Enter target timescale for the testing and installation of Critical patches based on the IT Security Patching Criticality Matrix (see Appendix A)] |
-| **Routine Patches/Updates** | [Enter target timescale for the testing and installation of Routine patches/updates patches based on the IT Security Patching Criticality Matrix (see Appendix A)] |
-| **Reporting and Compliance** | [A statement is required detailing how the installation of patches are checked against the identification patches including maintain a record of whether a patch (or other fix) is applied within the target timescale.] |
-
-### Plan Approval
-
-| | |
-| --- | --- |
-| **ICT System Manager** | [Enter the name of the ICT System Manager.] |
-| | [DATE OF APPROVAL] |
-| **Responsibility for applying security patches** | [Enter the name of the person or party who is responsible for testing and applying security patches.] |
-| | [DATE OF APPROVAL] |
-| **System Accreditor** | [Enter the name of the system Accreditor.] |
-| | [DATE OF APPROVAL] |
+<table border='1'>
+<tr>
+<th colspan='2' align='center'>IT Security – Patch Management Plan</th></tr>
+<tr>
+<th colspan='2' align='center'>System Details</th></tr>
+<tr>
+<th>System Name</th>
+<td>[Enter the name of the ICT system.]</td></tr>
+<tr>
+<th>System Description and Scope</th>
+<td>[This section should describe the name and purpose of the system, including the protective marking level of the information it holds. Diagrams may prove useful where there is a complex interaction between systems covered in this statement/standard. It is important to include notes of where a part of a system is excluded from the scope of this plan e.g. an application is managed by another function.]</td></tr>
+<tr>
+<th>Responsibilities and Ownership</th>
+<td>[Complete a statement detailing who has ownership and who will be responsible for the administration of the system. Where a third-party or managed service provider is responsible for all or just a component of the system, a clear reference should be made to contractual responsibilities and points of contact regarding patching. Details of the hours worked by IT administration staff are required.]
+<br/>[Details and responsibilities for patching should be referenced where they are included in separate documents. However, this does not exempt the System owner or their representative from completing a security patching standard for their system.]</td></tr>
+<tr>
+<th colspan='2' align='center'>Description of the System's Patching Process</th></tr>
+<tr>
+<th>Asset Inventory</th>
+<td>[Complete a statement detailing how the inventory of current system components is managed and updated. It is important this is as complete as possible and is frequently updated to ensure the current patching level is listed. All security patch requests, progress and resolutions must be logged and tracked within this management system.]</td></tr>
+<tr>
+<th>Vulnerability and Patch Identification</th>
+<td>[The section must include a description of how security vulnerabilities and patches will be identified. This will include a source of the vulnerability information, the source of security patches and the process for updating the asset register.]
+<br/>[A description must also be provided of how this information is managed and stored. It is recommended that a register containing all security patches and vulnerabilities identified is maintained by the person (or party) responsible for testing and installing security patches.]</td></tr>
+<tr>
+<th>Patch Classification</th>
+<td>[Complete a statement describing how patches are going to be prioritised in terms of Routine, Critical and Emergency (see Appendix A). It is also essential to identify the level of testing that will be applied to each level of criticality and include target timescales for full.]</td></tr>
+<tr>
+<th>Deployment Plan</th>
+<td>[A statement is required outlining the deployment plan for testing and deploying security patches. It must cover each patch classification.]</td></tr>
+<tr>
+<th colspan='2' align='center'>Target timescales for the installation of Security Patches</th></tr>
+<tr>
+<th>Emergency Patches</th>
+<td>[Enter target timescale for the testing and installation of Emergency patches based on the IT Security Patching Criticality Matrix (see Appendix A)]</td></tr>
+<tr>
+<th>Critical Patches</th>
+<td>Enter target timescale for the testing and installation of Critical patches based on the IT Security Patching Criticality Matrix (see Appendix A)]</td></tr>
+<tr>
+<th>Routine Patches/Updates</th>
+<td>[Enter target timescale for the testing and installation of Routine patches/updates patches based on the IT Security Patching Criticality Matrix (see Appendix A)]</td></tr>
+<tr>
+<th>Reporting and Compliance</th>
+<td>[A statement is required detailing how the installation of patches are checked against the identification patches including maintain a record of whether a patch (or other fix) is applied within the target timescale.]</td></tr>
+<tr>
+<th colspan='2' align='center'>Plan Approval</th></tr>
+<tr>
+<th>ICT System Manager</th>
+<td>[Enter the name of the ICT System Manager.]
+<br/>[DATE OF APPROVAL]</td></tr>
+<tr>
+<th>Responsibility for applying security patches</th>
+<td>[Enter the name of the person or party who is responsible for testing and applying security patches.]
+<br/>[DATE OF APPROVAL]</td></tr>
+<tr>
+<th>System Accreditor</th>
+<td>[Enter the name of the system Accreditor.]
+<br/>[DATE OF APPROVAL]</td></tr>
+</table>
  
 ICT System Managers should complete this template and discuss it with the system Accreditor and those responsible for the application of security patches. Once it is agreed and approved, it will become the Security Patch Standard for that ICT system.
 
