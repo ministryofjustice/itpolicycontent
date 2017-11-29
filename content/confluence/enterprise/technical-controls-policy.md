@@ -666,7 +666,7 @@ The retention period for historic back-ups **must align** to the retention perio
 
 All ICT systems **must conform** to the ICT Security – System Backup Standard [Ref, 24].
 
-##13 Electronic Messaging Policy
+## Electronic Messaging Policy
 
 ### Electronic mail (E-Mail)
 
