@@ -73,3 +73,4 @@ Last updated: 29 Nov 2017
 | System Users and Application Administrators | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/enterprise/system-users-and-application-administrators.html> | <https://intranet.justice.gov.uk/?page_id=112730> |
 | Technical Controls Policy | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/enterprise/technical-controls-policy.html> | <> |
 | Training and Education | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/training-and-education.html> | <https://intranet.justice.gov.uk/?page_id=114797> |
+| Use of HMG Cryptography Policy | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/enterprise/use-of-hmg-cryptography-policy.html> | <https://intranet.justice.gov.uk/?page_id=117412> |
