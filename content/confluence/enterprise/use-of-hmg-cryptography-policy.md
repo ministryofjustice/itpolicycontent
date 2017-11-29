@@ -72,10 +72,10 @@ The process requires that an applicant is appointed and that applicant is respon
 <table border='1'>
 <tr><td>POL.CRYPTO.003:
 <br/>
-The Project Manager <b>must appoint</b> an applicant.  Exceptionally, the applicant can be the Project Manager.  The applicant must contact the vendor of the encryption product and obtain the latest version of the CESG macro enabled word application form to complete.
-<br/>
-This form must be completed by the applicant with a full explanation of the requirement and attached with, if appropriate, a diagram (e.g. MS Visio diagram) which explains the solution and this must be sent to the COMSO, Accreditor and MCC for approval with the application form.</td></tr>
+The Project Manager <b>must appoint</b> an applicant.  Exceptionally, the applicant can be the Project Manager.  The applicant <b>must contact</b> the vendor of the encryption product and obtain the latest version of the CESG macro enabled word application form to complete.</td></tr>
 </table>
+
+This form must be completed by the applicant with a full explanation of the requirement and attached with, if appropriate, a diagram (e.g. MS Visio diagram) which explains the solution and this must be sent to the COMSO, Accreditor and MCC for approval with the application form.
 
 **Note:** The applicant is responsible for ensuring that the product is suitable and meets the desired business requirement.
 
