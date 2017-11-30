@@ -18,13 +18,13 @@ Being 'Forensic Ready' means that you can:
 
 This guide:
 
-- helps you understand and apply the Forensic Readiness Policy (FRP) [link to follow]
+- helps you understand and apply the [Forensic Readiness Policy (FRP)](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/moj-forensic-readiness-policy/)
 - provides details to support the Forensic Readiness Standard
 - provides additional guidance and materials to help you develop a Forensic Readiness Plan (FRPlan) that complies with the policy
 
 Useful material can be also be found in:
 
-- IT Security Incident Management Plan and Process Guide [Link to follow]
+- [IT Security Incident Management Plan and Process Guide](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/incident-management-plan-and-process-guide/)
 - [NCSC Good Practice Guide 18 on Forensic Readiness](https://www.ncsc.gov.uk/guidance/forensic-readiness-good-practice-guide-18)
 - [NCSC Implementation Guide 18 on Forensic Readiness Planning](https://www.ncsc.gov.uk/guidance/forensic-readiness-planning-implementation-guide-18)
 

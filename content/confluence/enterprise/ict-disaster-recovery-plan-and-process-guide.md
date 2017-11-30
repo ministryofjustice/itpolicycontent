@@ -11,13 +11,17 @@ This is Legacy IA Policy. It is under review and likely to be withdrawn or subst
 </tr>
 </table>
 
+[drp]: https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/it-disaster-recovery-policy/
+[gpg24]: https://www.ncsc.gov.uk/guidance/security-incident-management-good-practice-guide-24-0
+[imppg]: https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/incident-management-plan-and-process-guide/
+
 ## About this document
 
 This document is the Ministry of Justice (MoJ) IT Security – IT Disaster Recovery Plan and Process Guide. It is designed to help protect the information assets of the MoJ through the formal documentation of procedures surrounding the management of IT disaster events.
 
 ### How to use this document
 
-This document provides guidance on implementing the MoJ IT Security – IT Disaster Recovery Policy [Ref, 2]. It should be used to guide the development of a MoJ business group level IT Security Disaster Recovery Plan whose scope covers all IT systems used to support that business group.
+This document provides guidance on implementing the MoJ [IT Security – IT Disaster Recovery Policy][drp]. It should be used to guide the development of a MoJ business group level IT Security Disaster Recovery Plan whose scope covers all IT systems used to support that business group.
 
 For the purposes of this document, the following terms will be used:
 
@@ -32,13 +36,13 @@ The ability of the Ministry of Justice (MoJ) to react quickly to ITDR events wil
 
 ITDR management is the ability to react to ITDR events in a controlled, pre-planned manner. Preparation and planning are key factors to successful incident management and all MoJ systems will rely upon the development and implementation of an ITDR plan as described in this guide.
 
-The HMG Security Policy Framework [Ref, 6] Mandatory Requirement 4 states that:
+The [HMG Security Policy Framework](https://www.gov.uk/government/publications/security-policy-framework) Mandatory Requirement 4 states that:
 
 > Departments and Agencies must have robust and well tested policies, procedures and management arrangements in place to respond to, investigate and recover from security incidents or other disruptions to core business.
 
-The policy on IT Disaster Recovery is covered in IT Security Policy – IT Disaster Recovery Policy [Ref, 2] while this document set out the MoJ guidance for creating an ITDR plan. This guide must be read in conjunction with CESG GPG No. 24 – Security Incident Management [Ref, 7] and IT Security – Incident Management Plan and Process Guide [Ref, 4].
+The policy on IT Disaster Recovery is covered in [IT Security Policy – IT Disaster Recovery Policy][drp] while this document set out the MoJ guidance for creating an ITDR plan. This guide must be read in conjunction with [CESG GPG No. 24 – Security Incident Management][gpg24] and [IT Security – Incident Management Plan and Process Guide][imppg].
 
-Note: The IT Security Policy – IT Disaster Recovery Policy [Ref, 2] sets out the roles and responsibilities with respect to ITDR. It states that each ICT system must fall under the responsibility of an IT Disaster Recovery Team Leader (ITDRTL) who is responsible for maintaining the ITDR plan.
+Note: The [IT Security Policy – IT Disaster Recovery Policy][drp] sets out the roles and responsibilities with respect to ITDR. It states that each ICT system must fall under the responsibility of an IT Disaster Recovery Team Leader (ITDRTL) who is responsible for maintaining the ITDR plan.
 
 ### Aim of this guide
 
@@ -73,7 +77,7 @@ Therefore, an ITDR plans is created:
 
 ### Link to IT Security Incident Management
 
-The ITDR plan sits under an ITSIM plan. It is important to ensure that the steps encapsulated in the ITDR plan align to the ITSIM plan. Further information on the ITSIM plan can be found in IT Security – Incident Management Plan and Process Guide [Ref, 4].
+The ITDR plan sits under an ITSIM plan. It is important to ensure that the steps encapsulated in the ITDR plan align to the ITSIM plan. Further information on the ITSIM plan can be found in [IT Security – Incident Management Plan and Process Guide][imppg].
 
 ### Process
 
@@ -154,7 +158,7 @@ Internal dependencies are those which may materialise as part of the recovery ac
 
 ##### External Dependencies
 
-External dependencies are those which may affect the success of an ITDR plan and lie beyond the area of control of the ITDR Team Lead (see IT Security – IT Disaster Recovery Policy [Ref, 2] for a role description).
+External dependencies are those which may affect the success of an ITDR plan and lie beyond the area of control of the ITDR Team Lead (see [IT Security – IT Disaster Recovery Policy][drp] for a role description).
 
 For example:
 
@@ -395,7 +399,7 @@ Table 4 - Staff training requirements
 </tr>
 <tr valign='top'>
 <td>Roles and responsibilities</td>
-<td>[For each role outlined in the IT Security – IT Disaster Recovery Policy [Ref, 2], a named individual must be entered here.]</td>
+<td>[For each role outlined in the <a href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/it-disaster-recovery-policy/">IT Security – IT Disaster Recovery Policy</a>, a named individual must be entered here.]</td>
 </tr>
 <tr valign='top'>
 <th colspan='2' align='center'>Dependencies</th>

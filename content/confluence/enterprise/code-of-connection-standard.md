@@ -46,7 +46,7 @@ A Code of Connection (CoCo) is designed to provide evidence to the MoJ that a co
 A generic CoCo (based on the note above) is provided in Appendix A; it is split into two sections:
 
 *   basic requirement (see section A.1) – The section outlines the base set of CoCo requirement which need to be met by the connecting 3rd party
-*   supporting compliance statement (see section A.2) – This section contains a series of compliance statements based on ISO 27001 and the IAS 1&2 Baseline Controls Set (BCS) [Ref, 5]. It is designed to provide a mechanism for a connecting 3rd party to supply compliance evidence to the system Accreditor.  Section 3.2 provides details on how this compliance statement should be applied.
+*   supporting compliance statement (see section A.2) – This section contains a series of compliance statements based on ISO 27001 and the [IAS 1&2 Baseline Controls Set (BCS)](https://www.ncsc.gov.uk/guidance/information-risk-management-hmg-ia-standard-numbers-1-2). It is designed to provide a mechanism for a connecting 3rd party to supply compliance evidence to the system Accreditor.  Section 3.2 provides details on how this compliance statement should be applied.
 
 **Note:** A signed CoCo between the MoJ and the connecting 3rd party is required before the connection can go into live operation.
 
@@ -54,9 +54,9 @@ A generic CoCo (based on the note above) is provided in Appendix A; it is split 
 
 In order to ensure that the connectivity and sharing of electronic data between a MoJ ICT system and a 3rd party ICT system does not cause undue risk from one participating organisation to another, each organisation must reasonably comply with the code of connection to ensure any risks are managed effectively.
 
-The need for a CoCo and its application will be determined by the MoJ system Accreditor who will consider the risks involved, this may require the production of a technical risk assessment and/or RMADS for the connection (further details on RMADS can be found in the Accreditation Framework, [Ref, 7]).
+The need for a CoCo and its application will be determined by the MoJ system Accreditor who will consider the risks involved, this may require the production of a technical risk assessment and/or RMADS for the connection (further details on RMADS can be found in the [Accreditation Framework](https://intranet.justice.gov.uk/guidance/security/it-computer-security/infrastructure-system-accreditation/) ).
 
-The CoCo condition and compliance statement contained within the generic CoCo document (see A.1.3) provide a good platform to judge whether the assurance level of the connecting 3rd party ICT system is sufficient rather than just relying on its accreditation status. A risk based approach must be taken to the application of security controls associated with the connection. The generic CoCo (see Appendix A) provides a baseline by which a 3rd party ICT system's connection to a MoJ ICT system will be assessed. The MoJ system Accreditor will provide a steer as to how this should be applied, where the default steer is that the guidance provided in IAS 1&2 Baseline Controls Set (BCS) [Ref, 5] at the DETER level should be applied.
+The CoCo condition and compliance statement contained within the generic CoCo document (see A.1.3) provide a good platform to judge whether the assurance level of the connecting 3rd party ICT system is sufficient rather than just relying on its accreditation status. A risk based approach must be taken to the application of security controls associated with the connection. The generic CoCo (see Appendix A) provides a baseline by which a 3rd party ICT system's connection to a MoJ ICT system will be assessed. The MoJ system Accreditor will provide a steer as to how this should be applied, where the default steer is that the guidance provided in [IAS 1&2 Baseline Controls Set (BCS)](https://www.ncsc.gov.uk/guidance/information-risk-management-hmg-ia-standard-numbers-1-2) at the DETER level should be applied.
 
 It is highly likely that the connection between the two systems will be over the GSi.  If so, the 3rd party organisation is likely to have completed the GSi Code of Connection for that system connection. The information requested in the generic CoCo is similar to that required for the GSi CoCo and as such should be readily available.
 
@@ -86,7 +86,7 @@ This Code of Connection (CoCo) covers the connection of the [NAME OF MoJ ICT SYS
 
 The services to be provided by this connection are defined in section A.1.2.1.
 
-The MoJ ICT Security Policy [Ref, 1] and the IT Security Policy for the [ORGANISATION NAME FOR 3rd PARTY ICT SYSTEM] are the primary polices which apply to this CoCo.
+The [MoJ ICT Security Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/ict-security-policy/) and the IT Security Policy for the [ORGANISATION NAME FOR 3rd PARTY ICT SYSTEM] are the primary polices which apply to this CoCo.
 
 Any 3rd party ICT system connecting to a MoJ ICT system must have a current and relevant IT Security Policy which is accepted by the MoJ ITSO and system Accreditor.
 If any aspects of the data to be exchanged require special handling measures or are particularly sensitive, the MoJ system Accreditor must be informed an approach to handling that data must be agreed by both connecting parties in advance.

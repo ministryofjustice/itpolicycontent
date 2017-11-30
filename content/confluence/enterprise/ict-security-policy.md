@@ -33,7 +33,7 @@ The policies outlined in this document form the baseline standard. Where excepti
 
 ### Introduction
 
-The Ministry of Justice's ICT Security Policy supports the MoJ corporate security policy and has the same authority and applicability. The MoJ ICT Security Policy is based on HMG security policies, standards and guidance, as defined within the HMG Security Policy Framework [Ref, 8].
+The Ministry of Justice's ICT Security Policy supports the MoJ corporate security policy and has the same authority and applicability. The MoJ ICT Security Policy is based on HMG security policies, standards and guidance, as defined within the [HMG Security Policy Framework](https://www.gov.uk/government/publications/security-policy-framework).
 
 ICT systems are crucial to delivering MoJ's core business activities effectively. The objective of ICT security is to ensure business continuity and minimise damage by preventing and reducing the impact of ICT security incidents. This policy applies to all MoJ's ICT systems, including those managed by ICT service providers. It covers the use of ICT equipment, the information processed on those ICT systems and documentation about those systems, irrespective of location.
 
@@ -64,7 +64,7 @@ The overarching Ministry of Justice policy states that:
 <tr>
 <td>POL.ITSEC.001:
 <br/>
-The IT security regime <b>must support</b> the outcomes of <b>the</b>b> HMG Security Policy Framework (SPF) [Ref, 8];</td>
+The IT security regime <b>must support</b> the outcomes of <b>the</b> <a href="https://www.gov.uk/government/publications/security-policy-framework">HMG Security Policy Framework (SPF)</a>;</td>
 </tr>
 <tr><td>POL.ITSEC.002:
 <br/>
@@ -128,13 +128,13 @@ The MoJ ICT security policy and any supporting ICT security guides will be revie
 <table border='1'>
 <tr><td>POL.ITSEC.012:
 <br/>
-All ICT systems <b>must undergo</b> a technical risk assessment. The type of risk assessment and application criteria is available in the Accreditation Framework [Ref, 14].</td></tr>
+All ICT systems <b>must undergo</b> a technical risk assessment. The type of risk assessment and application criteria is available in the <a href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/infrastructure-system-accreditation/">Accreditation Framework</a>.</td></tr>
 <tr><td>POL.ITSEC.013:
 <br/>
 All ICT systems which process OFFICIAL data <b>must be</b> accredited in accordance with HMG Information Assurance Standards. This could include the production of an RMADS. Advice must be sought from the ITSO for systems processing data at SECRET or TOP SECRET.</td></tr>
 <tr><td>POL.ITSEC.014:
 <br/>
-All ICT systems which are subject to the accreditation process <b>must be</b> subject to (at least) an annual technical risk assessment in accordance to HMG Information Assurance Standard No. 1 & 2 [Ref, 9].</td></tr>
+All ICT systems which are subject to the accreditation process <b>must be</b> subject to (at least) an annual technical risk assessment in accordance to <a href="https://www.ncsc.gov.uk/guidance/information-risk-management-hmg-ia-standard-numbers-1-2">HMG Information Assurance Standard No. 1 &amp; 2</a>.</td></tr>
 <tr><td>POL.ITSEC.015:
 <br/>
 All risk management decisions <b>must be</b> recorded. For ICT systems undergoing accreditation, risk management decisions <b>must be</b> recorded in the RMADS.</td></tr>
@@ -155,13 +155,13 @@ At the direction of the system Accreditor, a Business Impact Assessment <b>must 
 All new ICT systems <b>must be</b> assessed as to whether a Privacy Impact Assessment (PIA) is required.</td></tr>
 </table>
 
-As part of the MoJ approach to risk management, the potential impact of a successful attack on the Confidentiality, Integrity and Availability of the asset/s supported or processed by an ICT system is assessed in terms of business impact. The definition of an asset is taken from HMG Information Assurance Standard No.1 & 2 [Ref, 9]:
+As part of the MoJ approach to risk management, the potential impact of a successful attack on the Confidentiality, Integrity and Availability of the asset/s supported or processed by an ICT system is assessed in terms of business impact. The definition of an asset is taken from [HMG Information Assurance Standard No.1 & 2](https://www.ncsc.gov.uk/guidance/information-risk-management-hmg-ia-standard-numbers-1-2):
 
 > Anything that has value to the organisation, its business operations and its continuity.
 
 In the context of an ICT system, this includes (but not limited to) data, hardware, software and business services provided by the system.
 
-HMG Business Impact Levels should be used as the bases for conducting a business impact assessment. The MoJ Accreditation Framework [Ref, 14] provides guidance and further information on how to conduct a business impact assessment and guidance on whether a PIA is required.
+HMG Business Impact Levels should be used as the bases for conducting a business impact assessment. The [MoJ Accreditation Framework](https://intranet.justice.gov.uk/guidance/security/it-computer-security/infrastructure-system-accreditation/) provides guidance and further information on how to conduct a business impact assessment and guidance on whether a PIA is required.
 
 ### Audit
 
@@ -292,19 +292,19 @@ Where users are provided with access credentials to confirm their identity and a
 
 Identification, authentication and authorisation security controls are implemented by both technical controls within the ICT system and by procedural controls which are followed by users and administrators of that ICT System.
 
-Where these security controls are implemented within the ICT system, the ICT Security – Technical Controls Policy [Ref, 1] provides further detail on the MoJ policy in this area.
+Where these security controls are implemented within the ICT system, the [ICT Security – Technical Controls Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/technical-controls-policy/) provides further detail on the MoJ policy in this area.
 
-For procedural controls, the ICT Security - Acceptable Use Policy [Ref, 2] provides details on the MoJ policy with regards to the usage of ICT systems.
+For procedural controls, the [ICT Security - Acceptable Use Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/it-acceptable-use-policy/) provides details on the MoJ policy with regards to the usage of ICT systems.
 
 ## Technical Controls and Codes of Connection
 
 <table border='1'>
 <tr><td>POL.ITSEC.027:
 <br/>
-The implementation of all ICT systems <b>must consider</b> technical security controls with respect to the ICT Security - Technical Controls Policy [Ref, 1] for any risks identified through the business impact assessment and/or accreditation process. This is subject to any risk management decisions taken as part of the accreditation process.</td></tr>
+The implementation of all ICT systems <b>must consider</b> technical security controls with respect to the <a href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/technical-controls-policy/">ICT Security - Technical Controls Policy</a> for any risks identified through the business impact assessment and/or accreditation process. This is subject to any risk management decisions taken as part of the accreditation process.</td></tr>
 <tr><td>POL.ITSEC.028:
 <br/>
-Where a MoJ ICT system shares services and/or data with; a) another system in different MOJ ICT business domain, b) another government department and/or c) a third party, technical Codes of Connection <b>must be</b> established and agreed with the relevant parties which include (but are not limited to): system Accreditor, ITSO, IAO and information sharing parties. Further details provided in ICT Security – Acceptable Use Policy [Ref, 2]</td></tr>
+Where a MoJ ICT system shares services and/or data with; a) another system in different MOJ ICT business domain, b) another government department and/or c) a third party, technical Codes of Connection <b>must be</b> established and agreed with the relevant parties which include (but are not limited to): system Accreditor, ITSO, IAO and information sharing parties. Further details provided in <a href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/it-acceptable-use-policy/">ICT Security – Acceptable Use Policy</a></td></tr>
 </table>
 
 ## ICT Security Incident Management
@@ -316,7 +316,7 @@ Forensic investigation is a component of incident management and allows the MoJ 
 <table border='1'>
 <tr><td>POL.ITSEC.029:
 <br/>
-All MoJ ICT domains <b>must have</b> an IT Security Incident Management Plan which conforms to the ICT Security – IT Incident Management Policy [Ref, 4].</td></tr>
+All MoJ ICT domains <b>must have</b> an IT Security Incident Management Plan which conforms to the <a href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/it-incident-management-policy/">ICT Security – IT Incident Management Policy</a>.</td></tr>
 <tr><td>POL.ITSEC.030:
 <br/>
 All ICT Security Incidents <b>must be</b> reported in accordance with the relevant IT Security Incident Management Plan.</td></tr>
@@ -325,7 +325,7 @@ All ICT Security Incidents <b>must be</b> reported in accordance with the releva
 All ICT systems <b>must make</b> provision for ICT Security incident management (including identifying budget lines which could be used to manage an incident) with reference to the MoJ ICT Security Management Plan. This provision must be documented and included as part of system accreditation.</td></tr>
 <tr><td>POL.ITSEC.032:
 <br/>
-All ICT systems <b>must consider</b> the collection of digital evidence as part of a forensic investigation in system design and operation where applicable, this in accordance to the ICT Security – Forensic Readiness Policy [Ref, 6]</td></tr>
+All ICT systems <b>must consider</b> the collection of digital evidence as part of a forensic investigation in system design and operation where applicable, this in accordance to the <a href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/moj-forensic-readiness-policy/">ICT Security – Forensic Readiness Policy</a></td></tr>
 </table>
 
 ## Use of Cryptography
@@ -335,13 +335,13 @@ Some ICT systems at the MoJ make use of HMG supplied cryptographic material. The
 <table border='1'>
 <tr><td>POL.ITSEC.033:
 <br/>
-All ICT systems which require cryptographic controls <b>must conform</b> to Information Assurance Standard No. 4 [Ref, 11].</td></tr>
+All ICT systems which require cryptographic controls <b>must conform</b> to Information Assurance Standard No. 4 [Issue 5.2, Nov 2012].</td></tr>
 <tr><td>POL.ITSEC.034:
 <br/>
-There are strict controls around the use of this material. Any use of HMG cryptographic material or products <b>must conform</b> to the MoJ ICT Security – Use of HMG Cryptography Policy [Ref, 7].</td></tr>
+There are strict controls around the use of this material. Any use of HMG cryptographic material or products <b>must conform</b> to the <a href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/use-of-hmg-cryptography-policy/">MoJ ICT Security – Use of HMG Cryptography Policy</a>.</td></tr>
 </table>
 
-**Note:** Information Assurance Standard No. 4 [Ref, 11] states that if HMG cryptographic material is handled, Departments and Agencies must appoint a Communications Security Officer (COMSO). The COMSO is responsible to the SIRO and DSO for ensuring the MoJ's compliance with the minimum HMG Comsec and cryptography requirements, and developing, implementing and maintaining organisational communications. For further details on the use of HMG cryptographic material can be found in the MoJ ICT Security – Use of HMG Cryptography Policy [Ref, 7].
+**Note:** Information Assurance Standard No. 4 [Issue 5.2, Nov 2012] states that if HMG cryptographic material is handled, Departments and Agencies must appoint a Communications Security Officer (COMSO). The COMSO is responsible to the SIRO and DSO for ensuring the MoJ's compliance with the minimum HMG Comsec and cryptography requirements, and developing, implementing and maintaining organisational communications. For further details on the use of HMG cryptographic material can be found in the [MoJ ICT Security – Use of HMG Cryptography Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/use-of-hmg-cryptography-policy/).
 
 ## Remote Working and Mobile Computing
 
@@ -358,7 +358,7 @@ All Users who use remote working and/or mobile computing <b>must be</b> aware of
 Mobile Computing equipment provided by the MoJ <b>must only</b> be used for authorised purposes and must be returned to the MoJ upon request by a line manager, or, when the user in receipt of the equipment leaves the MoJ or has no further remote working requirement.</td></tr>
 <tr><td>POL.ITSEC.037:
 <br/>
-Any request to take MoJ ICT equipment abroad <b>must be</b> authorised prior to being taken abroad. This authorisation <b>must be</b> provided by a member of the Senior Civil Service (SCS) or equivalent where approval is required from MoJ Corporate Security and MoJ ICT IA. Further details provided in ICT Security – Acceptable Use Policy [Ref, 2].</td></tr>
+Any request to take MoJ ICT equipment abroad <b>must be</b> authorised prior to being taken abroad. This authorisation <b>must be</b> provided by a member of the Senior Civil Service (SCS) or equivalent where approval is required from MoJ Corporate Security and MoJ ICT IA. Further details provided in <a href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/it-acceptable-use-policy/">ICT Security – Acceptable Use Policy</a>.</td></tr>
 </table>
 
 ## Procurement, Development, and Maintenance
@@ -381,16 +381,16 @@ All ICT assets (e.g. computers, laptop and removable media), must be appropriate
 <table border='1'>
 <tr><td>POL.ITSEC.040:
 <br/>
-All electronic media used to store OFFICIAL data <b>must be</b> securely deleted before being re-used or disposed of, or securely destroyed where re-use is not possible or required. This <b>must be</b> in accordance with ICT Security – Technical Controls Policy [Ref, 1].</td></tr>
+All electronic media used to store OFFICIAL data <b>must be</b> securely deleted before being re-used or disposed of, or securely destroyed where re-use is not possible or required. This <b>must be</b> in accordance with <a href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/technical-controls-policy/">ICT Security – Technical Controls Policy</a>.</td></tr>
 <tr><td>POL.ITSEC.041:
 <br/>
-Unless otherwise specified by MoJ ICT IA, all electronic media <b>must be</b> disposed of in accordance with HMG Information Assurance Standard No.5 [Ref, 12].</td></tr>
+Unless otherwise specified by MoJ ICT IA, all electronic media <b>must be</b> disposed of in accordance with HMG Information Assurance Standard No.5 [Issue 4.0, April 2011].</td></tr>
 <tr><td>POL.ITSEC.042:
 <br/>
 All ICT systems <b>must have</b> a documented asset disposal procedure.</td></tr>
 </table>
 
-Further information on asset disposal, in particular the procedural controls are provided in ICT Security - Acceptable Use Policy [Ref, 2].
+Further information on asset disposal, in particular the procedural controls are provided in [ICT Security - Acceptable Use Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/it-acceptable-use-policy/).
 
 ## Business Continuity
 
@@ -401,10 +401,10 @@ As ICT systems support the majority of MoJ business activities, business continu
 <table border='1'>
 <tr><td>POL.ITSEC.043:
 <br/>
-All MoJ Systems <b>must have</b> an ICT Disaster Recovery Plan. This plan must conform to the ICT Security – ICT Disaster Recovery Policy [Ref, 5].</td></tr>
+All MoJ Systems <b>must have</b> an ICT Disaster Recovery Plan. This plan must conform to the <a href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/it-disaster-recovery-policy/">ICT Security – ICT Disaster Recovery Policy</a>.</td></tr>
 </table>
 
-Further details can be found in the ICT Incident Management Policy [Ref, 4] and ICT Disaster Recovery Policy [Ref, 5].
+Further details can be found in the [ICT Incident Management Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/it-incident-management-policy/) and [ICT Disaster Recovery Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/it-disaster-recovery-policy/).
 
 ## Physical and Environment
 
@@ -419,7 +419,7 @@ The physical security controls required to maintain the Confidentiality, Integri
 The environmental risks (e.g. flood or fire) to an ICT system and services <b>must be</b> considered in order to maintain its Confidentiality, Integrity and Availability.</td></tr>
 </table>
 
-Further information is available from Corporate Security and Business Continuity Branch [Ref, 15].
+Further information is available from [Corporate Security and Business Continuity Branch](https://intranet.justice.gov.uk/guidance/security/).
 
 ## Personnel Security
 
@@ -447,7 +447,7 @@ The MoJ Information Security Education and Awareness strategy is to ensure that 
 <table border='1'>
 <tr><td>POL.ITSEC.047:
 <br/>
-All MoJ ICT users (including contractors, agency staff and consultants) <b>must be made aware of, understand and adhere to</b> MoJ ICT Security Policies and security operating procedures as defined in ICT Security – Acceptable Use Policy [Ref, 2].</td></tr>
+All MoJ ICT users (including contractors, agency staff and consultants) <b>must be made aware of, understand and adhere to</b> MoJ ICT Security Policies and security operating procedures as defined in <a href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/it-acceptable-use-policy/">ICT Security – Acceptable Use Policy</a>.</td></tr>
 </table>
 
 **Note:** The MoJ Information Security Education and Awareness strategy is the responsibility of the Corporate Security and Business Continuity Branch. The Central IA Branch leads on Information Assurance training; Corporate Security provides training for security liaison officers in HQ and ALBs which includes aspects of physical, personnel and information security.
