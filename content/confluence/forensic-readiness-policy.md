@@ -15,6 +15,6 @@ This is Legacy IA Policy. It is under review and likely to be withdrawn or subst
 
 ## Source
 
-The policy on forensic readiness is covered in the IT Security – Forensic Readiness Policy document, this document sets out the MoJ guidance on implementing that policy and developing a Forensic Readiness Plan.
+The policy on forensic readiness is covered in the [IT Security – Forensic Readiness Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/moj-forensic-readiness-policy/) document, this document sets out the MoJ guidance on implementing that policy and developing a Forensic Readiness Plan.
 
 The document is intended to provide guidance on the development of a Forensic Readiness Plan for MoJ ICT Systems, including ICT systems hosted by third party suppliers on behalf of the MoJ.

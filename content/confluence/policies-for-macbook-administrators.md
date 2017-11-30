@@ -26,9 +26,9 @@ These policies ensure two things:
 
 The following actions require formal authorisation (e.g. an email confirming that the action can proceed) from at least 2 of the following 3:
 
-- The Chief Digital Officer (David Dilley, [david.dilley@digital.justice.gov.uk](mailto:david.dilley@digital.justice.gov.uk) )
-- The Information Technology Security Officer for the MOJ (Andy Sheppard, [andrew.shephard@justice.gsi.gov.uk](mailto:andrew.shephard@justice.gsi.gov.uk) )
-- The MOJ Digital Information Assurance Lead (Ray Neal, [ray.neal@digital.justice.gov.uk](mailto:ray.neal@digital.justice.gov.uk) )
+- The Chief Digital Officer
+- The Information Technology Security Officer for the MOJ
+- The MOJ Digital Information Assurance Lead
 
 Actions:
 

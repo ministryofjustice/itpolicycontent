@@ -9,7 +9,7 @@ This is Legacy IA Policy. It is under review and likely to be withdrawn or subst
 </tr>
 </table>
 
-The IT Security – Forensic Readiness Policy [Ref, 1] states the MoJ requirements on the need for IT forensics; each MoJ ICT system or ICT domain must have or be explicitly covered by a Forensic Readiness Plan. The policy also outlines four principles which must be followed. For reference, these are:
+The [IT Security – Forensic Readiness Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/moj-forensic-readiness-policy/) states the MoJ requirements on the need for IT forensics; each MoJ ICT system or ICT domain must have or be explicitly covered by a Forensic Readiness Plan. The policy also outlines four principles which must be followed. For reference, these are:
 
 - Preservation of Evidence - the forensic investigation process shall preserve the integrity of original evidence by providing sufficient security, legal advice and procedural measures to ensure that evidential requirements are met. Any processes applied to copies of evidence must be repeatable and achieve the same results.
 - Aptitude for task - any task in a forensic investigation will be conducted by a person assessed to be suitably trained and competent to carry out that task.
@@ -22,8 +22,8 @@ The MoJ ICT Operational Security Team (OST) is responsible for the IT Security I
 
 The MoJ intends to use a mix of internal and external resources to ensure that its forensic investigation capability can quickly and efficiently react to potentially incidents thereby minimising disruption to business.
 
-**Note:** The IT Security – Forensic Readiness Policy [Ref, 1] states that each forensic investigation must have named Forensic Investigation Owner.
+**Note:** The [IT Security – Forensic Readiness Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/moj-forensic-readiness-policy/) states that each forensic investigation must have named Forensic Investigation Owner.
 
 ## Incident management and forensic investigation process
 
-The IT Security – Incident Management Policy [Ref, 2] sets out the MoJ requirement for incident management where forensics investigation form part of the incident management process. As such, the forensic incident management process is an extension of the overall incident management process.
+The [IT Security – Incident Management Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/it-incident-management-policy/) sets out the MoJ requirement for incident management where forensics investigation form part of the incident management process. As such, the forensic incident management process is an extension of the overall incident management process.
