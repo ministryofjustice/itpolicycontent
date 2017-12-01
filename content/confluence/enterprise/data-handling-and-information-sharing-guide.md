@@ -41,7 +41,7 @@ This guide is split into three sections:
 
 ### Demonstration of Compliance
 
-The CESG Information Assurance Maturity Model (IAMM) sets out the minimum maturity level Government departments should attain. Safeguarding data is captured as a basic requirement in Level 1 and the MoJ will need to demonstrate compliance against this requirement.
+The [CESG Information Assurance Maturity Model (IAMM)](https://www.ncsc.gov.uk/guidance/information-assurance-maturity-model-and-assessment-framework-gpg-40) sets out the minimum maturity level Government departments should attain. Safeguarding data is captured as a basic requirement in Level 1 and the MoJ will need to demonstrate compliance against this requirement.
 
 ## Handling data on MoJ ICT systems
 
@@ -50,7 +50,7 @@ This section covers how data must be handled on MoJ ICT systems, this includes b
 *   data in transit
 *   data at rest
 
-For the purposes of this guide, the term sensitive data / information refers to data or information which attracts a Government Protective Marking of up to and including IL3 REST*, see IT Security – Protective Marking Guide for further details.
+For the purposes of this guide, the term sensitive data / information refers to data or information which attracts a Government Protective Marking of up to and including IL3 REST*, see [IT Security – Protective Marking Guide](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/information-classification-and-handling-policy/) for further details.
 
 ### Ownership of information
 
@@ -104,7 +104,7 @@ The use of optical media (i.e. CD/DVD) is not recommended for data transfer espe
 Where there is a business need to use optical media:
 
 *   for data at IL3 REST*, a CESG approved product (using CESG provided cryptographic material) must be used, further information can be obtained from the MoJ OST
-*   for data marked at IL2 or below, then a commercial grade product certified to FIPS 140-2 can be used (see [Using commercial encryption products for low sensitivity information](using-commercial-encryption-products-for-low-sensitivity-information) section). Further information on suitable products can be obtained from the MoJ OST
+*   for data marked at IL2 or below, then a commercial grade product certified to FIPS 140-2 can be used (see [Using commercial encryption products for low sensitivity information](#using-commercial-encryption-products-for-low-sensitivity-information) section). Further information on suitable products can be obtained from the MoJ OST
 
 #### Data at rest on MoJ issued laptops
 
