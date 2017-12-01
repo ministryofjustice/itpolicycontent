@@ -9,6 +9,12 @@ This is Legacy IA Policy. It is under review and likely to be withdrawn or subst
 </tr>
 </table>
 
+[aup]: https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/it-acceptable-use-policy/
+[drp]: https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/it-disaster-recovery-policy/
+[frp]: https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/moj-forensic-readiness-policy/
+[imppg]: https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/incident-management-plan-and-process-guide/
+[sp]: https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/ict-security-policy/
+
 ## Introduction
 
 Incident management is the ability to react to security incidents in a controlled, pre-planned manner. Preparation and planning are key factors to successful information security management and all MoJ systems rely on Incident Management Plans for safe and secure operations.
@@ -19,7 +25,7 @@ The aim of this policy is to ensure best practice is followed by all IT systems 
 
 Each MoJ Business Group **must have** an IT Security Incident Management Plan which aligns to this policy. This plan must be common to all IT systems within a particular business group.
 
-A template plan and guidance on the construction of an IT Security Incident Management Plan is provided in ICT Security – Incident Management Plan and Process guide [Ref, 11].
+A template plan and guidance on the construction of an IT Security Incident Management Plan is provided in [ICT Security – Incident Management Plan and Process guide][imppg].
 
 ### Scope
 
@@ -27,7 +33,7 @@ This policy is concerned with IT related security incidents outlining the roles 
 
 ### Relationship with wider MoJ functions
 
-An IT system is one element of a number of supporting elements which sustain MoJ business functions and delivery of services. The MoJ Corporate Security and Business Continuity Branch [Ref, 8] is responsible for overall MoJ Incident Management policy and plan. This policy is designed to sit within the overall MoJ incident management structure.
+An IT system is one element of a number of supporting elements which sustain MoJ business functions and delivery of services. The MoJ [Corporate Security and Business Continuity Branch](https://intranet.justice.gov.uk/guidance/security/) is responsible for overall MoJ Incident Management policy and plan. This policy is designed to sit within the overall MoJ incident management structure.
 
 ## Incident Management Process
 
@@ -39,18 +45,17 @@ The incident management process supports the making of informed decisions follow
 
 For the purposes of this policy, an incident is defined as any event or action which results in an actual and/or potential compromise of a MoJ IT asset or MoJ Information Asset (including personal data).
 
-Such events will result in the MoJ, individuals or IT systems and/or the information held on them being exposed, or potentially exposed, to illegitimate access. As a result, incidents have the potential to compromise MoJ business delivery, the Data Protection Act, as well as the confidentiality, integrity and availability of IT systems and the information held on them. This may, in turn
-cause harm, distress or other damage to individuals or organisations, and result in operational disruption or reputation damage to the MoJ.
+Such events will result in the MoJ, individuals or IT systems and/or the information held on them being exposed, or potentially exposed, to illegitimate access. As a result, incidents have the potential to compromise MoJ business delivery, the Data Protection Act, as well as the confidentiality, integrity and availability of IT systems and the information held on them. This may, in turn cause harm, distress or other damage to individuals or organisations, and result in operational disruption or reputation damage to the MoJ.
 
 #### Types of Incidents
 
 IT Security related incidents include (but not limited to):
 
-- Breaches of the IT Security - Acceptable Use Policy [Ref, 3];
+- Breaches of the [IT Security - Acceptable Use Policy][aup];
 - Detection of malicious code (e.g. viruses and malware);
 - Network attacks or Denial of Service (DOS) attacks;
 - Scanning and probing of a network (where significant network resources are consumed);
-- In appropriate use of MoJ ICT assets as defined in the ICT Security – Acceptable Use Policy [Ref, 3];
+- In appropriate use of MoJ ICT assets as defined in the [IT Security - Acceptable Use Policy][aup];
 - The discovery of a new network vulnerability or release of a patch or software update which is considered critical or an emergency;
 - The results of a penetration test on a live operational IT system that reveals critical vulnerabilities;
 - Unauthorised access to an IT system;
@@ -63,7 +68,7 @@ IT Security related incidents include (but not limited to):
 
 Security Incidents may come to light from a variety of sources, including through protective monitoring solutions, reports filled by MoJ staff or breaches of the MoJ ICT Security Policy detected by an IT system.
 
-The MoJ ICT Security Policy [Ref, 1] defines the requirements for capturing and recording security events and monitoring them for suspected malicious activity or breaches of security.
+The [MoJ ICT Security Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/ict-security-policy/) defines the requirements for capturing and recording security events and monitoring them for suspected malicious activity or breaches of security.
 
 This section of the policy is concerned with taking those security events and ensuring that if an event relates to an actual IT Security incident, this incident is appropriately recorded.
 
@@ -73,11 +78,11 @@ All IT Security incidents or suspected incidents **must be** reported to the MoJ
 
 **POL.IMP.003:**
 
-For all incidents involving an IT Security incident, an IT Security Incident Report Form **must be** completed and submitted to the OST [Ref, 10]. This is irrespective of the reporting route (i.e. a User direct with OST or a user via the IT helpdesk).
+For all incidents involving an IT Security incident, an IT Security Incident Report Form **must be** completed and submitted to the OST ([Reporting an incident or breach](https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/) ). This is irrespective of the reporting route (i.e. a User direct with OST or a user via the IT helpdesk).
 
 **POL.IMP.004:**
 
-All IT Security incidents involving personal data (or other information assets) **must be** reported to MoJ Data Access and Compliance Unit [Ref, 9].
+All IT Security incidents involving personal data (or other information assets) **must be** reported to MoJ [Data Access and Compliance Unit](mailto:Data.access@justice.gsi.gov.uk).
 
 The MoJ Operation Security Team (OST) is responsible for maintaining a centralised database and view of all IT Security incidents across any MoJ IT system. This database contains information on:
 
@@ -87,15 +92,17 @@ The MoJ Operation Security Team (OST) is responsible for maintaining a centralis
 
 This database and the effective reporting of security incidents which populate it are important in managing the MoJ’s overall risk exposure. This is both in the short term, to identity any major deficiencies with an IT system which requires immediate remedial action and in the long term, to capture lessons learnt to improve Information Assurance maturity.
 
+<a id="categorisation-of-incidents"></a>
+
 ### Categorisation of incidents
 
 Security incidents are categorised in order to assess their impact and required level of escalation. This is to ensure that the appropriate resources can be allocated and incident resolution is conducted in a timely manner.
 
 The three categories are:
 
-- Low Impact (see section 3.3.1);
-- Medium Impact (see section 3.3.2);
-- High Impact (see section 3.3.3).
+- Low Impact (see [here](#low-impact-incident) );
+- Medium Impact (see [here](#medium-impact-incident) );
+- High Impact (see [here](#high-impact-incident) ).
 
 **POL.IMP.005:**
 
@@ -103,7 +110,9 @@ All IT Security incidents **must be** categorised in accordance with this policy
 
 The nature of an incident may not be immediately obvious when it is first reported; further assessments of its categorisation need to be made as more information is gathered. For example, through conducting an investigation (see Figure 2 which outlines this process flow).
 
-The sub-sections below provide an overview of the three categories with further guidance on its practical application provided in ICT Security – Incident Management Plan and Process Guide [Ref, 11].
+The sub-sections below provide an overview of the three categories with further guidance on its practical application provided in [ICT Security – Incident Management Plan and Process Guide][imppg].
+
+<a id="low-impact-incident"></a>
 
 #### Low impact incident
 
@@ -111,12 +120,14 @@ Low impact incidents would typically be minor internal infractions, such as, a l
 
 A low impact personal data incident would typically include an incident where no actually data had been lost but a weakness in an IT system which may have led to a potential loss is discovered where a relatively small amount of remedial action is required to address the vulnerability.
 
+<a id="medium-impact-incident"></a>
+
 #### Medium impact incident
 
 Examples of a medium level impact event include (but not limited to):
 
-- Deliberate disregard for the MoJ ICT Security Policy [Ref, 1] leading to minor breach in security or the potential of data loss;
-- Inappropriate use of MoJ ICT assets as defined in ICT Security - Acceptable Use Policy [Ref, 2];
+- Deliberate disregard for the MoJ [ICT Security Policy][sp] leading to minor breach in security or the potential of data loss;
+- Inappropriate use of MoJ ICT assets as defined in [ICT Security - Acceptable Use Policy][aup];
 - Loss of data or ICT asset (where the data or asset does not contain any personal data and is not protectively marked);
 - Theft of data or ICT asset (where the data or asset is does not contain any personal data and is not protectively marked);
 - Damage to any MoJ ICT asset;
@@ -131,9 +142,11 @@ Examples of a medium level impact event include (but not limited to):
 - Serious case of equipment theft;
 - The theft or loss of HMG cryptographic material.
 
+<a id="high-impact-incident"></a>
+
 #### High Impact Incident
 
-IT Security incidents at this level require immediate escalation to the relevant MoJ Business Group Senior Information Risk Owner (SIRO) in addition to the OST and where applicable, MoJ Data Access and Compliance Unit [Ref, 9]. Incident at this impact may warrant forensic investigation.
+IT Security incidents at this level require immediate escalation to the relevant MoJ Business Group Senior Information Risk Owner (SIRO) in addition to the OST and where applicable, MoJ [Data Access and Compliance Unit](mailto:Data.access@justice.gsi.gov.uk). Incident at this impact may warrant forensic investigation.
 
 Examples of incidents at the level include (but are not limited to):
 
@@ -153,8 +166,7 @@ The decisions to escalate an incident irrespective of its impact up through the 
 - If the incident has caused harm to a member of staff or public;
 - There is high likelihood that the MoJ has suffered reputational damage or been brought into disrepute;
 - Where there is a HMG requirement to report to another Department or central management function (e.g. GovCERT for network incidents or CINRAS for incidents involving HMG cryptographic material);
-- Where there is a significant actual or possible loss of personal information where the Information Commissioner’s Office and Cabinet
-Office need to be informed.
+- Where there is a significant actual or possible loss of personal information where the Information Commissioner’s Office and Cabinet Office need to be informed.
 
 ## Incident Management Stakeholders
 
@@ -166,11 +178,11 @@ It is important that all MoJ staff are aware of what a security incident is and 
 
 **POL.IMP.006:**
 
-All MoJ staff **must** report any concerns that the MoJ ICT Security Policy [Ref, 1] is not being followed to their line manager.
+All MoJ staff **must** report any concerns that the MoJ [ICT Security Policy][sp] is not being followed to their line manager.
 
 **POL.IMP.007:**
 
-All MoJ staff **must** report any breach of the MoJ ICT Security Policy [Ref, 1] as an IT Security incident.
+All MoJ staff **must** report any breach of the MoJ [ICT Security Policy][sp] as an IT Security incident.
 
 **POL.IMP.008:**
 
@@ -190,7 +202,7 @@ All MoJ Local Managers **must ensure** that all IT Security or personal data inc
 
 **POL.IMP.011:**
 
-Each MoJ business group SIRO **must ensure** that each ICT domain (e.g. DISC or OMNI) which fall under their remit has an IT Security Incident Management Plan which implements this policy. A template plan and guidance is available in ICT Security – Incident Management Plan and Process guide [Ref, 11].
+Each MoJ business group SIRO **must ensure** that each ICT domain (e.g. DISC or OMNI) which fall under their remit has an IT Security Incident Management Plan which implements this policy. A template plan and guidance is available in [ICT Security – Incident Management Plan and Process guide][imppg].
 
 **POL.IMP.012:**
 
@@ -212,7 +224,7 @@ The OST are responsible for:
 - Sanction enhanced monitoring on IT systems where appropriate
 - Update the incident management database with details of all incidents, any investigation conducted and actions undertaken
 - Carry out analysis of security incidents as required
-- Initiating a forensic investigation and commissioning forensic analysis (in accordance with IT Security – Forensic Readiness Policy [Ref, 6])
+- Initiating a forensic investigation and commissioning forensic analysis (in accordance with [IT Security – Forensic Readiness Policy][frp] )
 - Providing progress reports on specific incidents to relevant parties.
 
 ### Helpdesk
@@ -225,17 +237,17 @@ Where the IT helpdesk receives a report of a security incident, this **must be**
 
 ### Escalation Path
 
-As a rule, all IT Security incidents are reported to OST. As depicted in Figure 2, OST then progress the incident according to its categorisation (see section3.3). Depending on the category and nature of the incident, this can involve escalating the incident to other stakeholders.
+As a rule, all IT Security incidents are reported to OST. As depicted in Figure 2, OST then progress the incident according to its categorisation (see [here](#categorisation-of-incidents) ). Depending on the category and nature of the incident, this can involve escalating the incident to other stakeholders.
 
 **POL.IMP.015:**
 
 Each IT Security Incident Management Plan **must include** a pre-arranged escalation path where each stakeholder is named and aware of their role in the Incident Management Plan.
 
-A generic escalation path is provided in section 8. This generic path is intended to provide a starting point where further guidance on tailoring and customisation is provided in the ICT Security – Incident Management Plan and Process Guide [Ref, 11].
+A generic escalation path is provided [here](#it-security-incident-escalation-path). This generic path is intended to provide a starting point where further guidance on tailoring and customisation is provided in the [ICT Security – Incident Management Plan and Process Guide][imppg].
 
 ## Investigation and Diagnosis capability
 
-The OST is responsible for the investigation of all IT Security incidents. Where evidence gathering is required for possible disciplinary or legal proceedings, a forensic investigation may be required, further details are provided in ICT Security – Forensic Readiness Policy [Ref, 6].
+The OST is responsible for the investigation of all IT Security incidents. Where evidence gathering is required for possible disciplinary or legal proceedings, a forensic investigation may be required, further details are provided in [ICT Security – Forensic Readiness Policy][frp].
 
 In the course of investigation, the OST may:
 
@@ -259,7 +271,7 @@ Based on the investigation of an IT Security incident, remedial action may be re
 
 **POL.ITSEC.018:**
 
-An IT system which has a significant compromise (Medium or High impact, see section 3.3) **must be** reported to the system Accreditor and a review of that system’s risk assessment and accreditation must be conducted.
+An IT system which has a significant compromise (Medium or High impact, see [here](#categorisation-of-incidents) ) **must be** reported to the system Accreditor and a review of that system’s risk assessment and accreditation must be conducted.
 
 **POL.ITSEC.019:**
 
@@ -275,7 +287,7 @@ Checks must be made to ensure the IT system being restored pre-dates the inciden
 
 The IT Security Incident Management Plan for an IT System or overarching ICT Domain **must include** details on how that system or ICT domain IT services are restored (or recovered) following an IT Security incident.
 
-**Note** – The detail of how an IT system recovers from an incident event should be captured in that systems disaster recovery plan. See ICT Security – Disaster Recovery Policy [Ref, 5] for further information.
+**Note** – The detail of how an IT system recovers from an incident event should be captured in that systems disaster recovery plan. See [ICT Security – Disaster Recovery Policy][drp] for further information.
 
 ## Preventing re-occurrences
 
@@ -289,7 +301,7 @@ Copies of the report must be sent to the ITSO who has a responsibility for forwa
 
 **POL.ITSEC.021:**
 
-For each Medium and High impact (see section 3.3) IT Security incident, a management report **must be** prepared covering: 
+For each Medium and High impact (see [here](#categorisation-of-incidents) ) IT Security incident, a management report **must be** prepared covering: 
 - A description of the incident;
 - The outcome of the incident investigation;
 - Actions raised (or taken) with associated action owners;
@@ -300,10 +312,11 @@ For each Medium and High impact (see section 3.3) IT Security incident, a manage
 
 ![IT Security Incident Recording and Categorisation](https://intranet.justice.gov.uk/app/uploads/2017/11/incident-management-plan-and-process-guide-diagram-3.png)
 
+<a id="it-security-incident-escalation-path"></a>
 
 ## IT Security Incident Escalation Path
 
-Figure 3 is a generic IT Security incident escalation path which provides a starting point for the creation of a tailored version in an IT Security Incident Management Plan. Further information is provided in the ICT Security – Incident Management Plan and Process Guide [Ref, 11].
+Figure 3 is a generic IT Security incident escalation path which provides a starting point for the creation of a tailored version in an IT Security Incident Management Plan. Further information is provided in the [ICT Security – Incident Management Plan and Process Guide][imppg].
 
 
 ![IT Security Incident Escalation Path](https://intranet.justice.gov.uk/app/uploads/2017/11/incident-management-plan-and-process-guide-diagram-4.png)
