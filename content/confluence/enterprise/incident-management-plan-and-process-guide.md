@@ -9,13 +9,21 @@ This is Legacy IA Policy. It is under review and likely to be withdrawn or subst
 </tr>
 </table>
 
+[aup]: https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/it-acceptable-use-policy/
+[frp]: https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/moj-forensic-readiness-policy/
+[gpg24]: https://www.ncsc.gov.uk/guidance/security-incident-management-good-practice-guide-24-0
+[iamm]: https://www.ncsc.gov.uk/guidance/information-assurance-maturity-model-and-assessment-framework-gpg-40
+[imp]: https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/it-incident-management-policy/
+[sp]: https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/ict-security-policy/
+[spf]: https://www.gov.uk/government/publications/security-policy-framework
+
 ## About this document
 
 This document is the MoJ IT Security – Incident Management Plan and Process Guide. It is designed to help protect the information assets of the MoJ through the formal documentation of procedures surrounding the management of IT security incidents.
 
 ### How to use this document
 
-This document provides guidance on implementing the MoJ IT Security – Incident Management Policy \[Ref, 2\]. It should be used to guide the development of a MoJ business group level IT Security Incident Management Plan whose scope covers all IT systems used to support that business group.
+This document provides guidance on implementing the MoJ [IT Security – Incident Management Policy][imp]. It should be used to guide the development of a MoJ business group level IT Security Incident Management Plan whose scope covers all IT systems used to support that business group.
 
 For the purposes of this document, the following term will be used:
 
@@ -29,11 +37,11 @@ The ability of the Ministry of Justice (MoJ) to react quickly to IT security inc
 
 Incident management is the ability to react to security incidents in a controlled, pre-planned manner. Preparation and planning are key factors to successful incident management and all MoJ systems will rely upon the development and implementation of an IT Security Incident Management (ITSIM) plan as described in this guide.
 
-The HMG Security Policy Framework \[Ref, 5\] mandatory requirements 4 states that:
+The [HMG Security Policy Framework][spf] mandatory requirements 4 states that:
 
 > Departments and Agencies must have robust and well tested policies, procedures and management arrangements in place to respond to, investigate and recover from security incidents or other disruptions to core business.
 
-The policy on IT Security Incident Management is covered in IT Security Policy - IT Incident Management Policy \[Ref, 3\] while this document set outs the MoJ guidance for creating an ITSIM plan. This guide must be read in conjunction with CESG GPG No. 24 – Security Incident Management \[Ref, 6\].
+The policy on IT Security Incident Management is covered in [IT Security Policy - IT Incident Management Policy][imp] while this document set outs the MoJ guidance for creating an ITSIM plan. This guide must be read in conjunction with [CESG GPG No. 24 – Security Incident Management][gpg24].
 
 ### Aim of this guide
 
@@ -50,13 +58,11 @@ A template ITSIM plan is provided [here](#appendix-a), this is not designed to b
 
 ### Demonstration of Compliance
 
-The CESG Information Assurance Maturity Model (IAMM) sets out the minimum maturity level Government departments should attain. ICT asset disposal is captured as a basic requirement in Level 1 where the MoJ will need to demonstrate compliance.
+The [CESG Information Assurance Maturity Model (IAMM)][iamm] sets out the minimum maturity level Government departments should attain. ICT asset disposal is captured as a basic requirement in Level 1 where the MoJ will need to demonstrate compliance.
 
 ## Principles of IT Security Incident Management
 
-ITSIM is a combination of people, plans and predefined processes which
-enables the MoJ to deal with the consequences of an IT security
-incident. ITSIM at the MoJ follows the following principles:
+ITSIM is a combination of people, plans and predefined processes which enables the MoJ to deal with the consequences of an IT security incident. ITSIM at the MoJ follows the following principles:
 
 <dl>
 <dt>Consistency</dt>
@@ -118,7 +124,7 @@ The OST are responsible for:
 <li>Sanctioning enhanced monitoring on IT systems where appropriate</li>
 <li>Updating the incident management database with details of all incidents, any investigation conducted and actions undertaken</li>
 <li>Carrying out analysis of security incidents as required</li>
-<li>Initiating a forensic investigation and commissioning forensic analysis (in accordance with IT Security – Forensic Readiness Policy [Ref, 3])</li>
+<li>Initiating a forensic investigation and commissioning forensic analysis (in accordance with <a href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/moj-forensic-readiness-policy/">IT Security – Forensic Readiness Policy</a>)</li>
 <li>Providing progress reports on specific incidents to relevant parties.</li>
 </ul></td>
 </tr>
@@ -167,7 +173,7 @@ A good ITSIM plan requires a good understanding of the business, the information
 </tr>
 <tr>
 <td>Incident Categorisation </td>
-<td>The IT Security – IT Incident Management Policy [Ref, 2] and this guide (see <a href='#categorisation-of-incidents'>here</a>) provides a generic incident categorisation schema. This generic scheme should be used to develop final schema contained within the ITSIM plan. The aim at this phase of developing the ITSIM plan is to:
+<td>The <a href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/it-incident-management-policy/">IT Security – IT Incident Management Policy</a> and this guide (see <a href='#categorisation-of-incidents'>here</a>) provides a generic incident categorisation schema. This generic scheme should be used to develop final schema contained within the ITSIM plan. The aim at this phase of developing the ITSIM plan is to:
 <ul>
 <li>Explore the different types of incidents which could or have occurred. For example a good starting point is a review of relevant system RMADS to identify possible incident types.</li>
 <li>Compare the incident types identified with the information assets and services which could be impacted and broadly align each type to impact category (high impact, medium impact or low impact, see <a href='#categorisation-of-incidents'>here</a> for further details on the response level for each category).</li>
@@ -240,13 +246,13 @@ For the purpose of this document, an incident is defined as any event or action 
 
 #### Types of Incidents
 
-The list of incident types provided in this section is not exhaustive and mirrors the list provided in the IT Security – IT Incident Management Policy \[Ref, 2\]. Each ITSIM plan must contain a definition of what constitutes an incident which results in the plan being activated, this definition can solely refer to the list provided in the policy, however there may be incident types which are specific to a particular business area which need to capture. The list of incident types includes (but is not limited to):
+The list of incident types provided in this section is not exhaustive and mirrors the list provided in the [IT Security – IT Incident Management Policy][imp]. Each ITSIM plan must contain a definition of what constitutes an incident which results in the plan being activated, this definition can solely refer to the list provided in the policy, however there may be incident types which are specific to a particular business area which need to capture. The list of incident types includes (but is not limited to):
 
-- Breaches of the IT Security - Acceptable Use Policy \[Ref, 4\];
+- Breaches of the [IT Security - Acceptable Use Policy][aup];
 - Detection of malicious code (e.g. a piece of malware);
 - Network attacks or Denial of Service (DOS) attacks;
 - Scanning and probing of a network (where significant network resources are consumed);
-- Inappropriate use of MoJ ICT assets as defined in the IT Security – Acceptable Use Policy \[Ref, 4\];
+- Inappropriate use of MoJ ICT assets as defined in the [IT Security – Acceptable Use Policy][aup];
 - The discovery of a new network vulnerability or release of a patch or software update which is considered critical or an emergency;
 - The results of a penetration test on a live operational IT system that reveals critical vulnerabilities;
 - Unauthorised access to an IT system;
@@ -274,7 +280,7 @@ Security incidents may come to light from a variety of sources, including throug
 
 **Note** – All incidents involving personal data must also be reported to the MoJ Data Access and Compliance Unit (DACU).
 
-The MoJ IT Security Policy \[Ref, 1\] defines the requirements for capturing and recording security events and monitoring them for suspected malicious activity or breaches of security.
+The [MoJ IT Security Policy][sp] defines the requirements for capturing and recording security events and monitoring them for suspected malicious activity or breaches of security.
 
 The MoJ Operational Security Team (OST) is responsible for maintaining a centralised database and view of all IT security incidents across all MoJ IT systems. This database contains information on:
 
@@ -308,8 +314,8 @@ Incident categorised as low will be typically managed by the MoJ OST who will en
 
 Examples of medium impact incidents include (but not limited to):
 
-- Deliberate disregard for the IT Security Policy \[Ref, 1\] leading to minor breach in security or the potential of data loss;
-- Inappropriate use of MoJ ICT assets as defined in IT Security - Acceptable Use Policy \[Ref, 3\];
+- Deliberate disregard for the [IT Security Policy][sp] leading to minor breach in security or the potential of data loss;
+- Inappropriate use of MoJ ICT assets as defined in [IT Security - Acceptable Use Policy][aup];
 - Loss of data or ICT asset (where the data or asset does not contain any personal data and is not protectively marked);
 - Theft of data or ICT asset (where the data or asset does not contain any personal data and is not protectively marked);
 - Damage to any MoJ ICT asset;
@@ -324,7 +330,7 @@ Examples of medium impact incidents include (but not limited to):
 - Serious case of equipment theft;
 - The theft or loss of HMG cryptographic material.
 
-Medium impact incidents require escalation to the MoJ ITSO who will determine whether the IAO and relevant system Accreditor also need to be informed. In the case of personal or sensitive personal data, the MoJ Data Access and Compliance Unit (DACU) also need to be informed. If deemed appropriate, a forensic investigation will be requested by the MoJ ITSO in line with the IT Security – Forensic Readiness Policy \[Ref, 3\].
+Medium impact incidents require escalation to the MoJ ITSO who will determine whether the IAO and relevant system Accreditor also need to be informed. In the case of personal or sensitive personal data, the MoJ Data Access and Compliance Unit (DACU) also need to be informed. If deemed appropriate, a forensic investigation will be requested by the MoJ ITSO in line with the [IT Security – Forensic Readiness Policy][frp].
 
 <a id='high-impact-incident'></a>
 
