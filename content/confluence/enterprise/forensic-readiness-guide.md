@@ -48,7 +48,7 @@ Readers of this guide who are developing a Forensic Readiness Plan **must** ensu
 
 ### Demonstration of Compliance
 
-The CESG Information Assurance Maturity Model (IAMM) sets out the minimum maturity level Government departments should attain. Forensic readiness is captured as a basic requirement in Level 1 and the MoJ need to demonstrate compliance against this requirement.
+The [CESG Information Assurance Maturity Model (IAMM)](https://www.ncsc.gov.uk/guidance/information-assurance-maturity-model-and-assessment-framework-gpg-40) sets out the minimum maturity level Government departments should attain. Forensic readiness is captured as a basic requirement in Level 1 and the MoJ need to demonstrate compliance against this requirement.
 
 ### Outline
 
