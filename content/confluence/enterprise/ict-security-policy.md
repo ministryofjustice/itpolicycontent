@@ -435,7 +435,7 @@ Line managers are responsible for personnel security (of their staff/contractors
 All ICT systems <b>must consider</b> the personnel security controls (for example, security clearance) required in addition to ICT security controls. These should be recorded in a Security Aspects Letter (SAL) provided by the MoJ.</td></tr>
 </table>
 
-Further information is available from Corporate Security and Business Continuity Branch.
+Further information is available from [Corporate Security and Business Continuity Branch](https://intranet.justice.gov.uk/guidance/security/).
 
 ## Staff Education, Training and Awareness
 
