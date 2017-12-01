@@ -29,7 +29,7 @@ You must inform your Line Manager and MOJ Digital IA if you are subjected to any
 
 You must logoff or lock your Mac when leaving it unattended
 
-You must keep your MOJ Digital equipment close to you and in sight at all times when in public areas (Dan V to check with legal reimbursement possibilities and statement required)
+You must keep your MOJ Digital equipment close to you and in sight at all times when in public areas
 
 ## Top things to remember
 
