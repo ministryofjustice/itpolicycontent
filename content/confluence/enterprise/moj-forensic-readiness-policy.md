@@ -9,6 +9,12 @@ This is Legacy IA Policy. It is under review and likely to be withdrawn or subst
 </tr>
 </table>
 
+[aup]: https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/it-acceptable-use-policy/
+[bs10008]: https://www.bsigroup.com/en-GB/bs-10008-electronic-information-management/
+[frg]: https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/forensic-readiness-guide/
+[frp]: https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/moj-forensic-readiness-policy/
+[imp]: https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/it-incident-management-policy/
+
 ## About this document
 
 This document is the MoJ ICT Security – Forensic Readiness Policy. It provides the core set of ICT security principles, expectations, roles and responsibilities for the capture and preservation of digital evidence.
@@ -38,7 +44,7 @@ The aims of this policy are to:
 
 IT forensics is the application of techniques to detect and react to types of security incidents that require the collection, storage, analysis and preparation of digital evidence that may be required in legal or disciplinary proceedings.
 
-The use of IT forensics as a course of action is linked to decisions made during an IT security incident. As such, this policy is linked to, and should be read in conjunction with, the IT Security - IT Incident Management Policy \[Ref, 4\].
+The use of IT forensics as a course of action is linked to decisions made during an IT security incident. As such, this policy is linked to, and should be read in conjunction with, the [IT Security - IT Incident Management Policy][imp].
 
 This policy outlines the requirements to collect, preserve and analyse data in a systematic, standardised and legally compliant fashion to ensure the admissibility of evidence in a legal case, dispute or disciplinary hearing relating to an incident.
 
@@ -50,7 +56,7 @@ Each ICT system or ICT domain <b>must have</b> (or be explicitly covered by) a F
 
 **Note** – In general, where an ICT system (or ICT domain) has an IT Security Incident Management Plan, there should be a corresponding Forensic Readiness Plan.
 
-A template Forensic Readiness Plan is available (see \[Ref, 10\]) with further guidance provided in IT Security - Forensics Readiness Guide \[Ref, 10\].
+A template Forensic Readiness Plan is [available][frg] with further guidance provided in [IT Security - Forensics Readiness Guide][frg].
 
 ### Scope
 
@@ -70,7 +76,7 @@ The MoJ <b>must have</b> the capacity to conduct a forensic investigation (as re
 
 #### Deterrence
 
-IT Security awareness training ensures staff are aware of the ICT Security Acceptable Use Policy \[Ref, 2\] and that the MoJ has the right and ability to monitor all IT systems for conformance to this policy. This may deter staff from inappropriate, illegal or malicious actions. Additionally, external awareness of MoJ system monitoring capability may also deter unauthorised users from attempting to access or attack MoJ facilities and IT systems.
+IT Security awareness training ensures staff are aware of the [ICT Security Acceptable Use Policy][aup] and that the MoJ has the right and ability to monitor all IT systems for conformance to this policy. This may deter staff from inappropriate, illegal or malicious actions. Additionally, external awareness of MoJ system monitoring capability may also deter unauthorised users from attempting to access or attack MoJ facilities and IT systems.
 
 <table border='1'>
 <tr><td>POL.FRP.003:
@@ -124,7 +130,7 @@ In addition, responsibility for any evidence captured, by or passed to an extern
 Admissibility of evidence in a court of law varies with the method of capture. Advice <b>must be</b> sought from the MoJ legal team and forensic investigation provider prior to capture if required.</td></tr>
 <tr><td>POL.FRP.011:
 <br/>
-Each Forensic Readiness Plan must include details of how any ICT assets used or captured as part of a forensic investigation are securely disposed when they are no longer required. This must be in line with ICT Security – ICT Asset Disposal Guide [Ref, 11].</td></tr>
+Each Forensic Readiness Plan must include details of how any ICT assets used or captured as part of a forensic investigation are securely disposed when they are no longer required. This must be in line with ICT Security – ICT Asset Disposal Guide [IT Security – ICT Asset Disposal Guide].</td></tr>
 </table>
 
 #### Enforcement and escalation
@@ -146,21 +152,21 @@ Each Forensic Readiness Plan <b>must have</b> an escalation path to raise issues
 
 Consideration must be taken in account of the legal and regulatory constraints which apply to the MoJ, which may differ from region to region.
 
-BS 10008 \[Ref, 7\] is the British Standard regarding legal admissibility of evidence. This standard provides the foundation for the capture of evidential data (including capture from ICT systems).
+[BS 10008][bs10008] is the British Standard regarding legal admissibility of evidence. This standard provides the foundation for the capture of evidential data (including capture from ICT systems).
 
 <table border='1'>
 <tr><td>POL.FRP.013:
 <br/>
-All investigations <b>must be</b> conducted in line with MoJ ICT Security Policies, specifically IT Security - Acceptable Use Policy [Ref, 2].</td></tr>
+All investigations <b>must be</b> conducted in line with MoJ ICT Security Policies, specifically <a href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/it-acceptable-use-policy/">IT Security - Acceptable Use Policy</a>.</td></tr>
 <tr><td>POL.FRP.014:
 <br/>
-The capture of evidence during a forensic investigation <b>must be</b> in accordance to BS 10008 [Ref, 7].</td></tr>
+The capture of evidence during a forensic investigation <b>must be</b> in accordance to <a href="https://www.bsigroup.com/en-GB/bs-10008-electronic-information-management/">BS 10008</a>.</td></tr>
 <tr><td>POL.FRP.015:
 <br/>
-All IT systems <b>must consider</b>, in their design, the need to capture evidence in an evidential way following BS 10008 [Ref, 7].</td></tr>
+All IT systems <b>must consider</b>, in their design, the need to capture evidence in an evidential way following <a href="https://www.bsigroup.com/en-GB/bs-10008-electronic-information-management/">BS 10008</a>.</td></tr>
 </table>
 
-**Note** – Guidance on evidential capture in accordance to BS 10008 is provided in ICT Security - Forensics Readiness Guide \[Ref, 10\].
+**Note** – Guidance on evidential capture in accordance to [BS 10008][bs10008] is provided in [ICT Security - Forensics Readiness Guide][frg].
 
 ## The need for IT Forensics
 
@@ -187,8 +193,8 @@ Forensic investigations are only to be carried out under the following circumsta
 
 - Risk Management of a system has revealed a particularly sensitive/vulnerable area which needs to be proactively monitored. Any discovered security incidents would then be escalated through the IT security incident management process.
 - A business function has issued a request to gather forensic investigation evidence directly to the MoJ Operational Security Team (OST). Results of such an investigation will be handed back to the requesting business function. Any request will be processed through the appropriate incident management process and escalated to the ITSO, DSO or SIRO as required.
-- An investigation is requested as part of the IT security incident management process. Results of the investigation will be reported back through the incident management process, but other subsidiary processes may also be invoked. Further details available in the ICT Security – Forensic Readiness Guide \[Ref, 10\].
-- A forensic investigation is requested by the DSO as part of a leak investigation. Results of an investigation under these circumstances will be reported back to the DSO, who will report to the Permanent Secretary. Further information is available from the Corporate Security and Business Continuity Branch \[Ref, 8\].
+- An investigation is requested as part of the IT security incident management process. Results of the investigation will be reported back through the incident management process, but other subsidiary processes may also be invoked. Further details available in the [ICT Security – Forensic Readiness Guide][frg].
+- A forensic investigation is requested by the DSO as part of a leak investigation. Results of an investigation under these circumstances will be reported back to the DSO, who will report to the Permanent Secretary. Further information is available from the [Corporate Security and Business Continuity Branch](https://intranet.justice.gov.uk/guidance/security/).
 
 <table border='1'>
 <tr><td>POL.FRP.017:
@@ -208,7 +214,7 @@ Where a forensic investigation has been requested in response to a leak investig
 
 ### Ministry of Justice forensic principles
 
-The following forensic principles are based on ACPO guidelines \[Ref, 9\]:
+The following forensic principles are based on [ACPO guidelines](https://www.app.college.police.uk/app-content/investigations/linked-reference-material/):
 
 - Preservation of Evidence - The forensic investigation process needs to preserve the integrity of the original evidence by providing sufficient security, legal advice and procedural measures to ensure that evidential requirements are met. Any processes applied to copies of evidence must be repeatable and achieve the same results.
 - Aptitude for the task - Any task in a forensic investigation will need to be conducted by a person who is suitably trained and competent to carry out that task.
