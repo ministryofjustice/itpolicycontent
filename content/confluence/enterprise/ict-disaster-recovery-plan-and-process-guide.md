@@ -2,8 +2,6 @@
 title: ICT Disaster Recovery Plan and Process Guide
 ---
 
-[AppendixA]: #ict-disaster-recovery-plan-template
-
 <table border='1'>
 <tr>
 <td>This content is a version of the ICT Disaster Recovery Plan and Process Guide, May 2015.<br/>
@@ -11,6 +9,7 @@ This is Legacy IA Policy. It is under review and likely to be withdrawn or subst
 </tr>
 </table>
 
+[AppendixA]: #ict-disaster-recovery-plan-template
 [drp]: https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/it-disaster-recovery-policy/
 [gpg24]: https://www.ncsc.gov.uk/guidance/security-incident-management-good-practice-guide-24-0
 [imppg]: https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/incident-management-plan-and-process-guide/
@@ -58,7 +57,7 @@ A template ITDR plan is provided [here][AppendixA]; this is not designed to be a
 
 ### Demonstration of compliance
 
-The CESG Information Assurance Maturity Model (IAMM) sets out the minimum maturity level Government departments should attain. ICT asset disposal is captured as a basic requirement in Level 1 where the MoJ will need to demonstrate compliance against.
+The [CESG Information Assurance Maturity Model (IAMM)](https://www.ncsc.gov.uk/guidance/information-assurance-maturity-model-and-assessment-framework-gpg-40) sets out the minimum maturity level Government departments should attain. ICT asset disposal is captured as a basic requirement in Level 1 where the MoJ will need to demonstrate compliance against.
 
 ### Relationship to Business Continuity Planning
 
@@ -200,6 +199,7 @@ This section of the ITDR plan should detail the individuals who currently hold t
 ### Recovery procedures
 
 This section of the ITDR plan must list the functions of the ICT system and the business processes it supports, and relate them to a specific set of recovery actions.  Functions should be categorised (into primary and secondary functions) allowing for critical business processes to be restored ahead of others.
+
 A generic set of ITDR incident management steps is [provided](#itdr-incident-management) which should be used as the basis to structure the more granular recovery actions (see [here](#recovery-actions) ).
 
 <a id="primary-functions"></a>
