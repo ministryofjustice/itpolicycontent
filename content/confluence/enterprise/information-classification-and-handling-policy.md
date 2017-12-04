@@ -1,4 +1,4 @@
-﻿---
+---
 title: information-classification-and-handling-policy
 ---
 
@@ -8,6 +8,10 @@ title: information-classification-and-handling-policy
 This is Legacy IA Policy. It is under review and likely to be withdrawn or substantially revised soon. Please contact us before using this on a new project: <a href="mailto:itpolicycontent@digital.justice.gov.uk?information-classification-and-handling-policy">itpolicycontent@digital.justice.gov.uk</a>.</td>
 </tr>
 </table>
+
+[hmgia12]: https://www.ncsc.gov.uk/guidance/information-risk-management-hmg-ia-standard-numbers-1-2
+[hmgia6]: https://data.gov.uk/data/contracts-finder-archive/download/611325/439bbc8a-9249-4210-93a8-8c33edcba603
+[sp]: https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/ict-security-policy/
 
 This  document  is  the  MoJ  ICT  Security – Information Classification and Handling Policy. It provides the core set of ICT security principles and expectations on  the handling and classification of information on MoJ ICT systems.
 
@@ -21,11 +25,11 @@ This policy outlines the Information Classification and Handling Policy for all 
 
 This policy covers all staff (including contractors and agency staff) who use MoJ ICT systems.
 
-The overarching policy on information classification and handling is maintained by the MoJ Corporate Security and Business Continuity Branch [Ref, 9]. This document only contains IT specific policies which are in addition to the overarching policy.
+The overarching policy on information classification and handling is maintained by the [MoJ Corporate Security and Business Continuity Branch](https://intranet.justice.gov.uk/guidance/security/). This document only contains IT specific policies which are in addition to the overarching policy.
 
 The overarching policy can be found at the following location:
 
-[http://intranet.justice.gsi.gov.uk/guidance-support/security/informationsecurity/index.htm](http://intranet.justice.gsi.gov.uk/guidance-support/security/informationsecurity/index.htm)
+<https://intranet.justice.gov.uk/guidance/security/it-computer-security/government-classification-scheme/>
 
 **POL.ITICH.001:**
 
@@ -55,11 +59,11 @@ All MoJ business groups **must maintain** a list of information assets, their as
 
 ## Deriving a classification
 
-At the MoJ, all information assets are assessed against HMG guidance on business impact (contained within HMG IA Standard No.1 & 2 [Ref, 6]) and HMG guidance on the rotection of personal data (see [Ref, 7]). This assessment can be used to select the appropriate classification from the HMG protective marking scheme however a classification is primarily derived from the Government Protective Marking Scheme (GPMS).
+At the MoJ, all information assets are assessed against HMG guidance on business impact (contained within [HMG IA Standard No.1 & 2][hmgia12] ) and HMG guidance on the rotection of personal data (see HMG Information Assurance Standard No.6, [here][hmgia6] ). This assessment can be used to select the appropriate classification from the HMG protective marking scheme however a classification is primarily derived from the Government Protective Marking Scheme (GPMS).
 
 **POL.ITICH.004:**
 
-All information assets stored or processed on MoJ IT systems **must be** assessed against HMG IA Standard No.1 & 2 – Business Impact Levels [Ref, 6] and HMG IA Standard No.6 [Ref, 7] where an impact level for the Confidentiality, Integrity and Availability (for each asset) is derived.
+All information assets stored or processed on MoJ IT systems **must be** assessed against [HMG IA Standard No.1 & 2 – Business Impact Levels][hmgia12] and [HMG IA Standard No.6][hmgia6] where an impact level for the Confidentiality, Integrity and Availability (for each asset) is derived.
 
 **POL.ITICH.005:**
 
@@ -67,7 +71,7 @@ All Users are responsible for applying a protective marking (where
 appropriate) to information asset created or handled on an IT system where a
 pre-existing marking does not exist.
 
-**Note** – As outlined in MoJ IT Security Policy [Ref, 10], each ICT system is required to have a Business Impact Assessment (BIA). This BIA should be used to record the assessment rational and decision on the impact levels for Confidentiality, Integrity and Availability.
+**Note** – As outlined in [MoJ IT Security Policy][sp], each ICT system is required to have a Business Impact Assessment (BIA). This BIA should be used to record the assessment rational and decision on the impact levels for Confidentiality, Integrity and Availability.
 
 Further information on the criteria and derivation of an HMG protective marking can be found at:
 
@@ -99,6 +103,6 @@ The MoJ policy for handling protective marked material applied to all MoJ IT ass
 
 Further information on the MoJ handling instructions can be found at:
 
-[http://intranet.justice.gsi.gov.uk/guidance-support/security/informationsecurity/protectively-marked-information/index.htm](http://intranet.justice.gsi.gov.uk/guidance-support/security/informationsecurity/protectively-marked-information/index.htm)
+<https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/data-handling-and-information-sharing-guide/>
 
 
