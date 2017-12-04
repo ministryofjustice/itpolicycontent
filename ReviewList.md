@@ -4,7 +4,7 @@ title: Review list
 
 # Ministry of Justice
 
-Last updated: 29 Nov 2017
+Last updated: 04 Dec 2017
 
 ## **Draft** IT Policy Content
 
@@ -60,6 +60,7 @@ Last updated: 29 Nov 2017
 | Policies for Google Apps administrators | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/policies-for-google-apps-administrators.html> | <https://intranet.justice.gov.uk/?page_id=114818> |
 | Policies for Macbook Administrators | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/policies-for-macbook-administrators.html> | <https://intranet.justice.gov.uk/?page_id=114816> |
 | Policies for Macbook Users | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/policies-for-macbook-users.html> | <https://intranet.justice.gov.uk/?page_id=114814> |
+| Protective Marking Guide | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/enterprise/protective-marking-guide.html> | <https://intranet.justice.gov.uk/?page_id=118576> |
 | Protective Monitoring Guide | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/enterprise/protective-monitoring.html> | <https://intranet.justice.gov.uk/?page_id=112998> |
 | Public Key Infrastructure Policy | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/enterprise/public-key-infrastructure-policy.html> | <https://intranet.justice.gov.uk/?page_id=116686> |
 | Remote Working | <https://ministryofjustice.github.io/itpolicycontent/content/confluence/enterprise/remote-working.html> | <https://intranet.justice.gov.uk/?page_id=112617> |
