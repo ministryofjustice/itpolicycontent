@@ -35,7 +35,7 @@ All three categories will be kept minimal but all users who experience a blocked
 
 This document sets out MoJ's rule set applied to the DOM1 and Win10 and infrastructure, and describes the website categories that are either permitted or blocked.
 
-Internet policy group and blocked URL categories [Link to follow].
+Internet policy group and blocked URL categories are listed [here](https://intranet.justice.gov.uk/guidance/security/it-computer-security/web-browsing-security-policy-profiles/).
 
 The categories are based on the [Forcepoint definitions](https://www.forcepoint.com/master-database-url-categories).
 
@@ -75,7 +75,7 @@ Service Desks [Link to follow]
 
 <table border='1'>
 <tr valign='top'>
-<td>This policy is dated October 2017, and is an update of the Web Browsing Security guide.<br/>
-To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=web-browsing-security">itpolicycontent@digital.justice.gov.uk</a>.</td>
+<td>This policy is dated December 2017, and is an update of the Web browsing guidance.<br/>
+To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=web-browsing">itpolicycontent@digital.justice.gov.uk</a>.</td>
 </tr>
 </table>

@@ -188,7 +188,7 @@ Please see the table below for details of these policy profiles:
 
 <table border='1'>
 <tr valign='top'>
-<td>This policy is dated October 2017.<br/>
+<td>This policy is dated December 2017.<br/>
 To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=web-browsing-security-policy-profiles">itpolicycontent@digital.justice.gov.uk</a>.</td>
 </tr>
 </table>
