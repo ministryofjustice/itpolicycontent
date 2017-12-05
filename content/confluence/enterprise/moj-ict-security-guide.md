@@ -9,7 +9,9 @@ This is Legacy IA Policy. It is under review and likely to be withdrawn or subst
 </tr>
 </table>
 
-Contents
+[lc]: https://intranet.justice.gov.uk/documents/2015/04/leavers-checklist-for-managers.doc
+[remote]: https://intranet.justice.gov.uk/documents/2015/04/remote-working-and-mobile-computing-security-guide.pdf
+[spf]: https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/
 
 ## Introduction
 
@@ -28,8 +30,7 @@ Ministry of Justice (MoJ), is dependent upon computers to store, process and com
 - integrity: safeguarding the accuracy and completeness of information and processing methods; and
 - availability: ensuring that authorised users have access to information when required.
 
-The computers on which MoJ's business systems depend are also important business assets with a value of their own, separate to the value of the 
-information they hold, and are particularly vulnerable to loss and damage. Computers are usually high value, attractive to thieves, often easily carried, concealed and damaged.
+The computers on which MoJ's business systems depend are also important business assets with a value of their own, separate to the value of the information they hold, and are particularly vulnerable to loss and damage. Computers are usually high value, attractive to thieves, often easily carried, concealed and damaged.
 
 ### About this guide
 
@@ -47,7 +48,7 @@ You must adhere to legal and regulatory obligations in order to protect both you
 
 #### Government policy and standards
 
-The guide is based upon HMG security policy produced by the Cabinet Office and applicable to the Home Civil Service as well as other organisations. HMG security policy is supported by standards and guidance produced by CESG. CESG is a division of GCHQ and is the UK Government's National Technical Assurance authority for Information Assurance. HMG security policy is aligned with, and supports conformance to, the Standard for Information Security Management – the ISO/IEC 27000 family of standards. The ISO/IEC 27000 series includes standards on information security management system requirements, risk management, metrics and measurements and implementation guidance.
+The guide is based upon HMG security policy produced by the Cabinet Office and applicable to the Home Civil Service as well as other organisations. HMG security policy is supported by standards and guidance produced by CESG. CESG is a division of GCHQ and is the UK Government's National Technical Assurance authority for Information Assurance. HMG security policy is aligned with, and supports conformance to, the [Standard for Information Security Management – the ISO/IEC 27000](https://en.wikipedia.org/wiki/ISO/IEC_27000) family of standards. The ISO/IEC 27000 series includes standards on information security management system requirements, risk management, metrics and measurements and implementation guidance.
 
 #### Financial and operational impact and Ministry of Justice's reputation
 
@@ -94,8 +95,8 @@ The ICT security policy framework is designed to;
 
 ### ICT security policies
 
-- ICT security policy [LINK1]
-- ICT security policy - information assurance strategy statement {LINK2]
+- [ICT security policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/ict-security-policy/)
+- [ICT security policy - information assurance strategy statement](https://intranet.justice.gov.uk/documents/2015/04/ict-security-policy-information-assurance-strategy-statement.pdf)
 
 ### Privacy
 
@@ -103,7 +104,7 @@ MoJ may require access to audit logs in investigating incidents (which may be of
 
 More information about the Departments policy can be found here:
 
-HR - Conduct – IT usage guidance. {LINK3]
+[HR - Conduct – IT usage guidance.](https://intranet.justice.gov.uk/documents/2015/04/it-usage-policy.pdf)
 
 ## ICT security infrastructure
 
@@ -145,12 +146,12 @@ Managers are responsible for ensuring that all staff, including casuals and cont
 - receive appropriate induction and training covering the use of MoJ ICT equipment;
 - are aware of the ICT Security Policy and adhere to it;
 - have access to user guides for the computer systems and applications they use;
-- have access to a copy of the ICT Security Guide and any other ICT security guides relevant to their work. (any consultants, contractors or agency staff that use their own computer equipment or equipment provided by their parent company must be made aware of and given access to the policy in the Remote Working and Mobile Computing Security Guide); and
+- have access to a copy of the ICT Security Guide and any other ICT security guides relevant to their work. (any consultants, contractors or agency staff that use their own computer equipment or equipment provided by their parent company must be made aware of and given access to the policy in the [Remote Working and Mobile Computing Security Guide][remote]); and
 - are provided with the resources needed for ICT security within their business area.
 
 When a member of staff is known to be leaving, line managers have specific responsibilities. The manager is responsible for ensuring:
 
-- the Leaver's checklist [LINK7] is completed and actioned;
+- the [Leaver's checklist][lc] is completed and actioned;
 - access to ICT-based systems is removed; and
 - the appropriate handover of electronic data such as emails and MS Office files that may be required for business continuity – such data should be saved in an accessible location such as a shared drive so that information can be accessed when required.
 
@@ -171,13 +172,13 @@ You are responsible for all actions carried out on a computer under your 'user a
 
 The leaving employee is responsible for:
 
-- working with the manager to follow the Leaver's checklist,[LINK7] completing any tasks and returning any items requested in good time;
+- working with the manager to follow the [Leaver's checklist][lc] completing any tasks and returning any items requested in good time;
 - ensuring the leaver's personal data is deleted; and
 - placing an Out of Office Message on the account providing details of an appropriate alternative contact.
 
 #### MoJ ICT service providers
 
-ICT service providers are responsible for ensuring that their staff and Sub-contractors adhere to MoJ's ICT security policy, and that they deliver the security controls required for the systems they provide. More information can be found at ICT Security Policy Framework. [LINK4]
+ICT service providers are responsible for ensuring that their staff and Sub-contractors adhere to MoJ's ICT security policy, and that they deliver the security controls required for the systems they provide. More information can be found at [ICT Security Policy Framework][spf].
 
 ## Information Security
 
@@ -193,9 +194,7 @@ In this section:
 - Management of official records
 - Possible pitfalls of MS Word
 
-This section is to assist the end users understanding of the security controls. There are specific technical policies that are available on request, please see
-
-ICT Security Policy Framework [LINK4] 
+This section is to assist the end users understanding of the security controls. There are specific technical policies that are available on request, please see the [ICT Security Policy Framework][spf].
 
 ### Government Security Classification of MoJ systems
 
@@ -223,7 +222,7 @@ Backup copies are usually made overnight by ensuring that all of your data is st
 
 ### Information exchanges and data downloads
 
-If you need to move data the following link will explain that process and forms needed to do so securely Moving Data [LINK5].
+If you need to move data the following link will explain that process and forms needed to do so securely [Moving Data](https://intranet.justice.gov.uk/guidance/security/it-computer-security/removable-media/).
 
 ### Removable media
 
@@ -237,7 +236,7 @@ Unencrypted removable media holding OFFICIAL information must not be removed fro
 
 USB memory sticks are of particular concern because they pose a greater threat than other types of removable media due to their physical size and storage capacity. Only USB memory sticks authorised and supplied by MoJ may be connected to MoJ ICT systems.
 
-For information on laptops and personal electronic devices see Chapter 5 of the Remote Working and Mobile Computing Security Guide.
+For information on laptops and personal electronic devices see Chapter 5 of the [Remote Working and Mobile Computing Security Guide][remote].
 
 ### Secure deletion and disposal
 
@@ -245,7 +244,7 @@ All media should be securely disposed of. Electronic media that have been used t
 
 All computers, laptops and personal electronic devices, must be returned to the ICT service provider for re-use and disposal.
 
-For re-use and disposal of any locally purchased ICT equipment, contact OperationalSecurityTeam@justice.gsi.gov.uk for advice.
+For re-use and disposal of any locally purchased ICT equipment, contact [OperationalSecurityTeam@justice.gsi.gov.uk](mailto:OperationalSecurityTeam@justice.gsi.gov.uk) for advice.
 
 ## ICT Security Incidents
 
@@ -284,7 +283,7 @@ If you are in doubt as to whether a particular event constitutes a potential or 
 
 All actual or suspected ICT security incidents must be reported immediately. In general this will be to your ICT Service Desk, however your business area may have alternative arrangements for reporting misuse.
 
-- If the actual or suspected incident involves loss of data, then the data access and compliance unit's reporting procedures must be followed (see DACU Quick Guide [LINK5]
+- If the actual or suspected incident involves loss of data, then the data access and compliance unit's reporting procedures must be followed (see [here](https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/report-a-data-loss/) )
 - ICT security incidents need to be recorded as soon as possible so that:
 - their impact can be limited as soon as possible;
 - remedial action can be taken to fix the problem;
@@ -294,7 +293,7 @@ All actual or suspected ICT security incidents must be reported immediately. In 
 - we can prevent incidents happening again; and
 - we can have confidence that our information systems are working correctly when no incidents are being reported.
 
-Please see IT Incident Management Policy [LINK6] link for further information.
+Please see [IT Incident Management Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/it-incident-management-policy/) link for further information.
 
 ## Malicious software
 
@@ -380,7 +379,7 @@ You also need to be aware that unnecessary electronic messages or unnecessary co
 
 ### Using electronic messaging
 
-MoJ does monitor the use of electronic messaging on MoJ ICT systems and MoJ provided devices. Your manager can request reports detailing your activity if they suspect misuse of a MoJ ICT system that you use to send or receive electronic messages. The content of these reports will be considered by your manager and a nominated HR representative. More information can be found on the HR My Services page of the MoJ Intranet within the HR – Conduct – IT Usage Guidance. [LINK3]
+MoJ does monitor the use of electronic messaging on MoJ ICT systems and MoJ provided devices. Your manager can request reports detailing your activity if they suspect misuse of a MoJ ICT system that you use to send or receive electronic messages. The content of these reports will be considered by your manager and a nominated HR representative. More information can be found on the HR My Services page of the MoJ Intranet within the [HR – Conduct – IT Usage Guidance](https://intranet.justice.gov.uk/documents/2015/04/it-usage-policy.pdf).
 
 You must:
 
@@ -415,11 +414,11 @@ Also:
 
 ### Criminal Justice Exchange (CJX)
 
-The Criminal Justice Exchange (CJX) is a secure data network designed to interconnect police forces in England, Scotland and Wales. CJX electronic messaging addresses are in the format: username@organisation.pnn.police.uk. GSi communities may exchange email up to OFFICIAL with CJX users.
+The Criminal Justice Exchange (CJX) is a secure data network designed to interconnect police forces in England, Scotland and Wales. CJX electronic messaging addresses are in the format: `username@organisation.pnn.police.uk`. GSi communities may exchange email up to OFFICIAL with CJX users.
 
 ### Criminal Justice Secure Electronic messaging (CJSM)
 
-Criminal Justice Secure Email (CJSM) provides a secure electronic messaging system between Criminal Justice Organisations and practitioners. A CJSM email address will have either of the two following formats: username@organisation.co.uk.cjsm.net or username@organisation.cjsm.net. GSi organisations may exchange OFFICAL email with CJSM users.
+Criminal Justice Secure Email (CJSM) provides a secure electronic messaging system between Criminal Justice Organisations and practitioners. A CJSM email address will have either of the two following formats: `username@organisation.co.uk.cjsm.net` or `username@organisation.cjsm.net`. GSi organisations may exchange OFFICAL email with CJSM users.
 
 ### Additional measures for secure electronic messaging
 
@@ -497,11 +496,11 @@ Social networking sites often have functionality such as web mail and instant me
 - Do not disclose sensitive personal information about yourself or others.
 - Do not disclose details about your job or which Department you work for.
 - Do not make negative comments about Ministry of Justice.
-- For further information about social media policy see; Social Networking and Video Streaming. [LINK8]
+- For further information about social media policy see; [Social Networking and Video Streaming](https://intranet.justice.gov.uk/guidance/social-media/).
 
 ### Data and File transfers
 
-For the latest and up to date guidance on secure transfer of data see IT Security – Removable media. [LINK9]
+For the latest and up to date guidance on secure transfer of data see [IT Security – Removable media](https://intranet.justice.gov.uk/guidance/security/it-computer-security/removable-media/).
 
 ## Passwords
 
@@ -531,12 +530,5 @@ In order for a password to give an adequate level of security they must be corre
 - Choose passwords that are not easy to guess.
 - Use a mix of upper and lower case letters, numbers and symbols.
 - Do not use a recognisable word, though it can help with recall if the password is pronounceable.
-- Use the first letters of a phrase (e.g. 'This is now a Secure system for me!' would give a password of 'TinaSS4me!').
-- Do not make obvious letter / number substitutions to disguise recognisable words e.g. 0 for O, 5 for S, 1 for I, as this is a well known technique and therefore  offers little security.
-
-Produced by MoJ Technology IA
-
-April 2014
-
-If you would like the information in this booklet in an alternative format, please email operationalsecurityteam@justice.gsi.gov.uk or ring 0161 234 2046.
-
+- Use the first letters of a phrase (e.g. '`This is now a Secure system for me!`' would give a password of '`TinaSs4me!`').
+- Do not make obvious letter / number substitutions to disguise recognisable words e.g. `0` for `O`, `5` for `S`, `1` for `I`, as this is a well known technique and therefore offers little security.
