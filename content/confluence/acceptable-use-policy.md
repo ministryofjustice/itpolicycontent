@@ -1,55 +1,111 @@
 ---
-title: Acceptable use Policy
+title: Acceptable use of Information Technology at work
 ---
+
+## Acceptable use of Information Technology at work
 
 <table border='1'>
 <tr>
-<td>This content is a version of the Acceptable Use Policy, May 2015.<br/>
-This is Legacy IA Policy. It is under review and likely to be withdrawn or substantially revised soon. Please contact us before using this on a new project: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=access-control">itpolicycontent@digital.justice.gov.uk</a>.</td>
+<td>This policy applies to all staff and contractors who work for the MOJ.</td>
 </tr>
 </table>
 
-## General Use
+Everyone working at the MOJ has access to MOJ Information Technology (IT) resources. You must use them in an acceptable way. This policy explains what that means.
 
-As a general principle, you should only use Digital Services systems to view, download and process material for official purposes.  Use of the internet for purposes such as e.g. E-banking during your lunch break is acceptable, as long as it is kept to a reasonable minimum.  You must not use Digital Services systems in any way that is unlawful or illegal or in a way that impairs the effective use of the systems by other users, or for excessive private use during working time.
+## Summary
 
-Nobody may use Digital Services systems, either directly or indirectly (unless authorised to do so) for the following:
+Be sensible when using MOJ IT resources:
 
-- To transmit, publish, link to, make available, send or knowingly receive any material which is defamatory, abusive, obscene, indecent, racist, offensive to creed, gender, marital status, sexuality or religious beliefs, harmful, threatening, menacing or liable to incite such unacceptable behaviour;
-- In a way that will be a breach of any person's rights, including a breach of confidence, copyright, privacy, data protection or any other rights;
-- In breach of any instructions contained in the latest version of this policy document or other Digital Services rules or regulations. Personnel will be informed of any changes to the policy when they occur;
-- In a way that can be considered to constitute a criminal or civil offence;
-- In a way that does not conform with the acceptable use or anti-spam policies of any connected networks, the standards of the Advertising Standards Authority, or normal professional standards, including the acceptable use policy of the organisation to which a document or message is being sent, or any Internet standards for acceptable use. In short, all communications should be conducted in a professional and responsible manner;
-- To infringe by the use of any domain name, individual name or otherwise upon the rights of any other person in a trade mark or name whether in statute or common law;
-- To send email or any other type of electronic message with the intention or result of directly affecting the performance or functionality of any computer facilities. This means you must take reasonable care to ensure that your actions do not have an adverse affect on any other computer systems;
-- For storing personal data (subject to the exception given above) or installing unlicensed or unauthorised software, including games, free/shareware, screensavers, etc. or any other software for the purpose of customising your IT environment, without the express written permission of the Digital Services Director;
-- To connect unauthorised equipment (including PDAs) to the Digital Services network, the internet or other Digital Services systems; and,
-- To access, copy or alter files belonging to any other user without their express permission (e.g. in a share to which you have been granted access) or as part of your job.
+- the resources are for you to do MOJ work
+- protect the resources at all times, to help prevent unacceptable use
+- if the use would cause problems, upset, or embarrassment, it's probably not acceptable
+- context is important: remember that security risks can increase when working outside your normal workplace
+- be aware that your use of resources is monitored and that as part of an investigation into a security incident, IT forensic techniques might be used to capture evidence
+- if you have any doubt about whether something is acceptable, ask for clarification or permission first
+- above all, if you think there is a problem, [report it](mailto:itservicedesk@justice.gsi.gov.uk) or ask for help
 
-## Security
+The way you use IT is important, because it indicates your approach to work, and can be taken into account when assessing your behaviour and performance.
 
-It is your responsibility to ensure the security of your Digital Services hardware and the security of your username and password.
+## What is meant by IT?
 
-## Web and e-mail Content
+IT means the devices or services you use for creating, storing, or sharing information. This includes everything from devices (laptops, printers, USB 'memory sticks') through to online services (citizen-facing online services, staff tools, corporate email).
 
-Nobody may use the systems, either directly or indirectly:
+## Acceptable use of MOJ IT
 
-- To threaten, harass or cause distress, annoyance or discomfort to any other person or organisation;
-- To intentionally disrupt or adversely affect any other person or organisation's access to, or use of, the Internet or any features which form part of the Internet;
-- To transmit or cause to be transmitted personal communications, offensive material, executable code not written or approved by Digital Services, mail bombs, and chain letters or pyramid schemes;
-- To send any document or communication that could form a binding contract or could obligate Digital Services in any way unless authorised to do so;
-- To send any commercially sensitive data, confidential information, proprietary or intellectual property to external addressees unless authorised to do so;
-- To download, run or install any executable program or attachment, utility, freeware, shareware or otherwise, that has not been written in-house or in collaboration with a 3rd party under an approved agreement, without permission from the Head of IA; and,
-- To make sensitive information available over the Intranet or internet without permission from the Director.
+Acceptable use of IT is when you use it to do your work.
+
+IT helps you complete your tasks as efficiently and effectively as possible. Sometimes, you might need account details such as passwords to use the IT. Acceptable use means protecting this kind of information, too.
+
+Acceptable use can also vary according to context. For example, checking sensitive personal details might be perfectly normal within a secured office, but is not acceptable in a public space where anyone else might see those details.
+
+## Unacceptable use of MOJ IT
+
+Unacceptable use of IT prevents you or your colleagues from doing work, or  is unlawful or illegal, or does not take the context into account.
+
+There are many unacceptable uses of IT, making it impossible to provide a complete list. Examples of things to avoid include:
+
+- deliberately or accidentally sharing resources or information, such as passwords, with people who are not supposed to have them
+- using resources without permission
+- storing sensitive information where it could easily be lost or stolen
+- using your work email address for personal tasks
+- excessive private use during working time
+- installing unlicensed or unauthorised software
+
+## Why unacceptable use is a problem
+
+Unacceptable use of IT might affect the MOJ in several ways, such as:
+
+- bad publicity or embarrassment
+- increased or unexpected costs or delays
+- civil or legal action
+- reduced efficiency and effectiveness
+
+Unacceptable use might also affect you, too:
+
+- suspension of access, so that you cannot do your work
+- disciplinary proceedings, up to and including dismissal
+- termination of contract for contractors and agency staff
+
+## Keeping control
+
+You are responsible for protecting your MOJ IT resources. This includes keeping your usernames and passwords safe and secure.
+
+While you might be careful about acceptable use of MOJ IT, there are still risks from [malware](https://en.wikipedia.org/wiki/Malware), [ransomware](https://en.wikipedia.org/wiki/Ransomware), or [phishing](https://en.wikipedia.org/wiki/Phishing) attacks.
+
+If you get an email from anyone or anywhere that you are not sure about, remember:
+
+- don't open any attachments
+- don't click on any links in the email
+
+If there is any doubt, or you are worried that the [email might be malicious](https://intranet.justice.gov.uk/news/ntk-phishing-dont-take-the-bait/) or inappropriate, [report it immediately](mailto:itservicedesk@justice.gsi.gov.uk) as an IT security incident.
+
+## Personal use of MOJ IT
+
+Limited personal use of MOJ IT is acceptable as long as it does not cause a problem with your work or that of your colleagues. Context is important. For example, doing personal internet banking during your lunch break might be acceptable, but doing the same thing during a work meeting would not.
+
+## Using MOJ IT outside your usual workplace
+
+Some IT resources might be usable [away from your usual workplace](https://intranet.justice.gov.uk/documents/2015/04/remote-working-and-mobile-computing-security-guide.pdf), such as a laptop. Even outside the office, you must continue to ensure acceptable use of the IT resources.
+
+You should also [ask](https://intranet.justice.gov.uk/guidance/security/it-computer-security/taking-it-equipment-abroad-business-or-personal/) before taking MOJ IT equipment outside the UK.
+
+## Avoid using removable media
+
+Removable media like memory sticks are portable and easy-to-use. Unfortunately, this makes them a security risk, so [avoid using them](https://intranet.justice.gov.uk/guidance/security/it-computer-security/removable-media/). If however they are essential to your work, please follow the [Use of Removable Media policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/removable-media/).
+
+## And finally...
+
+There are five simple things we can all do to protect ourselves online:
+
+1. Use a strong password to protect your laptop, computer and mobile devices, following [NCSC guidance](https://www.cyberaware.gov.uk/passwords).
+2. Think before clicking on links or attachments within emails - if you are unsure if an email is genuine, [contact your IT or security team](mailto:itservicedesk@justice.gsi.gov.uk). By hovering your cursor over the link you can see the actual URL.
+3. Do not use your work email address to register for accounts on websites for personal use, such as shopping websites. This could open up your work email account to spam and fraudulent emails which could harm your department’s IT system.
+4. Protect your online identity - do not disclose sensitive information regarding your work on social media or online professional networks.
+5. Do not disclose your level of vetting on social media or online professional networks. By disclosing your level of vetting you are advertising the level of information you have access to and could make yourself a target of malicious individuals.
 
 <table border='1'>
-<tr align='center'>
-<td><b>Top things to remember</b>
-<p>Don't carry out any actions that may embarrass or bring into disrepute Digital Services, the wider MoJ or HMG as a whole.</p>
-<p>Do not transmit or process any material that is deemed unacceptable within this policy.</p>
-<p>Do not process or transmit any material that may have adverse affects on other systems.</p>
-<p>Don't allow other personnel to use your logon credentials.</p>
-<p>If in doubt about acceptable use seek further advice from your Line Manager or Head of IA.</p>
-</td>
+<tr>
+<td>This policy is dated December 2017, and is an update of the IT Acceptable Use Policy, v1.0, May 2015.<br/>
+To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=acceptable-use">itpolicycontent@digital.justice.gov.uk</a>.</td>
 </tr>
 </table>
