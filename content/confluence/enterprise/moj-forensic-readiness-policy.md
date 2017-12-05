@@ -141,9 +141,6 @@ Forensic investigations are closely related to MoJ IT security incident manageme
 <tr><td>POL.FRP.012:
 <br/>
 Each Forensic Readiness Plan <b>must have</b> an escalation path to raise issues identified as part of an investigation as required.</td></tr>
-<tr><td>
-<br/>
-</td></tr>
 </table>
 
 **Note** –The escalation path outlined in a Forensic Readiness Plan should align with the escalation path in the corresponding IT Security Incident Management Plan.
