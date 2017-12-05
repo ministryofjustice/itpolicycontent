@@ -11,7 +11,7 @@ This policy applies to all IT systems and services developed or procured by the 
 - server applications, and
 - digital services. 
 
-The policy applies to those designing, implementing, and operating MoJ systems. It is based on the NCSC recommendations for [Cyber Essentials](https://www.google.com/url?q=https://www.ncsc.gov.uk/information/requirements-it-infrastructure-cyber-essentials-scheme&sa=D&ust=1512485745674000&usg=AFQjCNEI1cTVCO0BkpkPBfPNyPY4Soqlcg), which requires that software must be:
+The policy applies to those designing, implementing, and operating MoJ systems. It is based on the NCSC recommendations for [Cyber Essentials](https://www.cyberessentials.ncsc.gov.uk/requirements-for-it-infrastructure.html), which requires that software must be:
 
 - licensed and supported
 - removed from devices when no longer supported
