@@ -1,6 +1,13 @@
----
+﻿---
 title: Public Key Infrastructure Policy
 ---
+
+<table border='1'>
+<tr>
+<td>This content is a version of the Public Key Infrastructure Policy, December 2014.<br/>
+This is Legacy IA Policy. It is under review and likely to be withdrawn or substantially revised soon. Please contact us before using this on a new project: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=public-key-infrastructure-policy">itpolicycontent@digital.justice.gov.uk</a>.</td>
+</tr>
+</table>
 
 <table border='1'>
 <tr>
@@ -62,15 +69,15 @@ Certificates used for authentication of users or organisations used in token or 
 </tr>
 <tr>
 <td>Certificate Practice Statement (CPS)</td>
-<td>A document from a Certificate Authority which describes their practice for issuing and managing public key certificates in line with the root CA Certificate Policy. . Its content and structure is described in <a href="https://tools.ietf.org/html/rfc3647">IETF RFC3647</a> [Ref.16].</td>
+<td>A document from a Certificate Authority which describes their practice for issuing and managing public key certificates in line with the root CA Certificate Policy. . Its content and structure is described in <a href="https://tools.ietf.org/html/rfc3647">IETF RFC3647</a>.</td>
 </tr>
 <tr>
 <td>Certificate Revocation List (CRL)</td>
-<td>A signed list of certificates (or more specifically, a list of serial numbers for certificates) that have been revoked before they expire, and therefore, entities presenting those (revoked) certificates should no longer be trusted. CRL is described in <a href="https://tools.ietf.org/html/rfc5280">IETF RFC5280</a> [Ref.17].</td>
+<td>A signed list of certificates (or more specifically, a list of serial numbers for certificates) that have been revoked before they expire, and therefore, entities presenting those (revoked) certificates should no longer be trusted. CRL is described in <a href="https://tools.ietf.org/html/rfc5280">IETF RFC5280</a>.</td>
 </tr>
 <tr>
 <td>Online Certificate Status Protocol (OCSP)</td>
-<td>An Internet protocol used for obtaining the revocation status of an X.509 digital certificate. It is described in <a href="https://tools.ietf.org/html/rfc6960">IETF RFC 6960</a> [Ref.18]</td>
+<td>An Internet protocol used for obtaining the revocation status of an X.509 digital certificate. It is described in <a href="https://tools.ietf.org/html/rfc6960">IETF RFC 6960</a></td>
 </tr>
 <tr>
 <td>Trust Anchor</td>
@@ -78,11 +85,11 @@ Certificates used for authentication of users or organisations used in token or 
 </tr>
 <tr>
 <td>Certificate Signing Request (CSR)</td>
-<td>A message sent from an applicant to a certificate authority in order to apply for a digital identity certificate. Normally complies with PKCS #10 as defined in <a href="https://tools.ietf.org/html/rfc2986">IETF RFC 2986</a> [Ref.24]</td>
+<td>A message sent from an applicant to a certificate authority in order to apply for a digital identity certificate. Normally complies with PKCS #10 as defined in <a href="https://tools.ietf.org/html/rfc2986">IETF RFC 2986</a></td>
 </tr>
 <tr>
 <td>Certificate Revocation Request (CRR)</td>
-<td>A message sent from the registered owner of a digital certificate to a certificate authority in order to revoke a compromised digital certificate. Normally complies with PKCS #10 as defined in <a href="https://tools.ietf.org/html/rfc2986">IETF RFC 2986</a> [Ref.24].</td>
+<td>A message sent from the registered owner of a digital certificate to a certificate authority in order to revoke a compromised digital certificate. Normally complies with PKCS #10 as defined in <a href="https://tools.ietf.org/html/rfc2986">IETF RFC 2986</a>.</td>
 </tr>
 <tr>
 <td>Key</td>
@@ -155,13 +162,13 @@ This section describes the common PKI policy that applies regardless of the type
 
 #### Authentication
 
-1. All Users of the PKI Services shall be authenticated beyond reasonable doubt for the purposes of legal admissibility of evidence in accordance with BS 10008 \[Ref.25\]. Password strength, complexity and expiry rules must comply with MoJ Password policy.
+1. All Users of the PKI Services shall be authenticated beyond reasonable doubt for the purposes of legal admissibility of evidence in accordance with BS 10008. Password strength, complexity and expiry rules must comply with MoJ Password policy.
 2. Access to Root CA Services must be subject to multi-factor authentication and subject to two-man rule.
 3. Access to specific signing functions shall be subject to specific authentication and access control policies including two man rule.
 
 #### Accounting
 
-1. Auditing and accounting of all PKI functions must be carried out in accordance with HMG Good Practice Guide 13 \[Ref.3\]. The integrity and confidentiality of accounting logs must maintained to British Standard BS 10008 \[Ref.25\] as appropriate for legal admissibility of evidence, in the event that disputes need to be heard in a court of law.
+1. Auditing and accounting of all PKI functions must be carried out in accordance with HMG Good Practice Guide 13. The integrity and confidentiality of accounting logs must maintained to British Standard BS 10008 as appropriate for legal admissibility of evidence, in the event that disputes need to be heard in a court of law.
 2. Internal audit by authorised auditors shall take place at least every quarter
 3. Where PKI Services are subordinate to external services, e.g. UKKPA or PSNA, then the audit and accounting regime must comply with the policies of the relevant authority.
 4. Audit reports shall be provided to the DSO and SIRO quarterly.
@@ -177,9 +184,9 @@ This section describes the common PKI policy that applies regardless of the type
   - Electronic Communications Act 2000
   - SI 2002/318 The Electronic Signatures Regulations 2002
 2. The PKI Services shall at all times comply with HMG Policy including:
-  - Security Policy Framework \[Ref.1\]
-  - HMG IA Standard 4 \[Refs.4-15\]
-  - HMG IA Standard 5 \[Ref.22\]
+  - Security Policy Framework
+  - HMG IA Standard 4
+  - HMG IA Standard 5
 3. The PKI Services shall at all times comply with any Code of Connection, Memorandum of Understanding or other connection criteria that applies to the environment in which the services are deployed. These shall include as a minimum:
   - PSN Code of Connection
   - GSI Code of Connection (while GSI connections remain)
@@ -218,8 +225,8 @@ The design of PKI systems must ensure:
   - Random number generating devices used to create entropy for cryptographic components
   - Removable media used to transport Certificates and Signing Requests
   - Certificate Revocation List services, including OCSP responders
-2. The MoJ Crypto Custodian reserves the right to audit equipment and processes used in the delivery of PKI Services. The MoJ Crypto Custodian requires that all cryptographic components are managed and processed in accordance with HMG Standard IAS4 \[Refs.4-15\].
-3. Any remedial action required by the MoJ Crypto Custodian, to meet the requirements of HMG IAS4 \[Refs.4-15\]. must be agreed and implemented within reasonable timescales set by the MoJ Crypto Custodian. "Reasonable timescales" means with sufficient time for the supplier to assess the remediation impact, acquire materials for compliance, test the remediation, and to schedule and deploy the remediation on the production equipment with minimum disruption to MoJ business.
+2. The MoJ Crypto Custodian reserves the right to audit equipment and processes used in the delivery of PKI Services. The MoJ Crypto Custodian requires that all cryptographic components are managed and processed in accordance with HMG Standard IAS4.
+3. Any remedial action required by the MoJ Crypto Custodian, to meet the requirements of HMG IAS4. must be agreed and implemented within reasonable timescales set by the MoJ Crypto Custodian. "Reasonable timescales" means with sufficient time for the supplier to assess the remediation impact, acquire materials for compliance, test the remediation, and to schedule and deploy the remediation on the production equipment with minimum disruption to MoJ business.
 4. The Crypto Custodian may require key escrow of private keys for lawful purposes. The Crypto Custodian will specify the means by which key material may be exported, stored and transported.
 
 Key escrow may be used for encryption keys but shall under no circumstances be used for signing keys, especially those for use with digital signatures.
@@ -243,13 +250,13 @@ Key escrow may be used for encryption keys but shall under no circumstances be u
 
 1. The Registration Authority (RA) shall identify, validate and authorise PKI Customers, i.e. organisations that are permitted to make certificate signing requests of the PKI Service. The RA shall also identify, validate and authorise nominated representatives of the PKI Customer, i.e. individuals who are authorised to represent the PKI Customer in respect of the PKI Services. Authorisation will be dependent upon a mutual agreement between the Authority and the PKI Customer specifying the conditions for registration. This may be in the form of a Memo of Understanding or a formal contract.
 2. Subordinate Registration Authorities, i.e. those that register entities at a lower level in the trust authority than the root, must comply with any obligations set by the root authority, including the right of the root authority to audit compliance.
-3. Identity validation shall comply, where possible, with HMG Good Practice Guide 45 (Identity Proofing and Verification of an Individual) \[Ref.20\] and Good Practice Guide 46 (Organisational Identity) \[Ref.21\].
+3. Identity validation shall comply, where possible, with HMG Good Practice Guide 45 (Identity Proofing and Verification of an Individual) and Good Practice Guide 46 (Organisational Identity).
 4. A Registration Authority shall register each authorised organisation requesting certificates for subordinate CAs. On registration, the Registration Authority shall ensure that the registered party is provided with the Certificate Policy of the required service. The registered party shall provide a Certificate Practice Statement in response.
 5. The PKI Customer shall at all times have at least two nominated representatives registered with the RA that can act on behalf of the Customer and are authorised to submit CSRs, CRRs and perform other formal tasks.
 6. The PKI Customer must notify the RA when any of their nominated representatives are no longer authorised to access the services. Individuals will become unauthorised if their security clearance is expired or revoked, if their employment is terminated, if they are under investigation for malpractice, or if they no longer work on the MoJ account.
 7. The RA must notify the appropriate Crypto Custodian for potential escalation in respect of the incidents specified at para 2.4.3.6 or any other relevant security incident.
 8. Certificates issued to PKI Customers must be revoked when the business relationship is ended. It may be permitted to transfer ownership of certificates in some cases where responsibility is transferred to another party, e.g. contract novation, but each case must be individually agreed with the MoJ Crypto Custodian.
-9. Auditing and accounting of RA functions must be carried out in accordance with HMG Good Practice Guide 13 \[Ref.3\]. The integrity and confidentiality of accounting logs must maintained to British Standard BS 10008 \[Ref.19\] as appropriate for legal admissibility of evidence, in the event that disputes need to be heard in a court of law.
+9. Auditing and accounting of RA functions must be carried out in accordance with HMG Good Practice Guide 13. The integrity and confidentiality of accounting logs must maintained to British Standard BS 10008 as appropriate for legal admissibility of evidence, in the event that disputes need to be heard in a court of law.
 10. For online submission of CSR and CRR the RA shall use two-factor authentication to authenticate and authorise enrolled users.
 11. The CSR/CRR form shall have fields for all mandatory information and attachment of a public key in PKCS\#10 format.
 12. The CSR/CRR shall be approved by one person (e.g. ComSO) and actioned by another (e.g. Crypto Custodian), except in cases where this process is automated. For automated process, e.g. automated generation of device certificates for EUCS client devices, the MoJ Crypto Custodian and ComSo must approve the automation process.
@@ -265,22 +272,22 @@ Key escrow may be used for encryption keys but shall under no circumstances be u
   - FIPS140-2 (Level 2)
   - Other assurance (permitted in exceptional circumstances when other assurances are not available, and must be supported by a business case, agreed with Accreditor, and signed off by the IAO or SIRO)
 4. Any CA connected to a network shall be protected from unauthorised access by a security Gateway that minimises the exposure of the CA to attack.
-5. Auditing and accounting of RA functions must be carried out in accordance with HMG Good Practice Guide 13 \[Ref.3\]. The integrity and confidentiality of accounting logs must maintained to British Standard BS 10008 \[Ref.19\] as appropriate for legal admissibility of evidence, in the event that disputes need to be heard in a courtof law.
-6. The CA shall be operated in accordance with HMG IS4 \[Refs.4-15\].
+5. Auditing and accounting of RA functions must be carried out in accordance with HMG Good Practice Guide 13. The integrity and confidentiality of accounting logs must maintained to British Standard BS 10008 as appropriate for legal admissibility of evidence, in the event that disputes need to be heard in a court of law.
+6. The CA shall be operated in accordance with HMG IS4.
 
 #### Validation Authority Operational Policy
 
 1. Any VA shall provide authorised access to Certificates and the CRL for the associated CA. This should be automated as far as possible with a Public Key Directory (PKD).
 2. The VA shall ensure that the Certificates and CRL are properly signed and authentic before they are published.
 3. The VA shall operate a certificate repository that is visible to all authorised users.
-4. Auditing and accounting of VA functions must be carried out in accordance with HMG Good Practice Guide 13 \[Ref.3\]. The integrity and confidentiality of accounting logs must maintained to British Standard BS 10008 \[Ref.25\] as appropriate for legal admissibility of evidence, in the event that disputes need to be heard in a court of law.
+4. Auditing and accounting of VA functions must be carried out in accordance with HMG Good Practice Guide 13. The integrity and confidentiality of accounting logs must maintained to British Standard BS 10008 as appropriate for legal admissibility of evidence, in the event that disputes need to be heard in a court of law.
 
 #### Audit, Accounting and Mustering Policy
 
 1.  All requests (CSR/CRR) shall be logged: on receipt; on processing, on certificate/CRL issue and on destruction
 2.  All access to the systems and use of credentials including failures shall be logged
-3.  All keymat sub-classified as ACCSEC or CRYPTO shall be mustered quarterly, and in accordance with the individual keymat procedures.
-4.  Audit and accounting logs shall be managed in accordance with BS 10008 \[Ref.19\]
+3.  All keymat sub-classified as ACCSEC or CRYPTO shall be mustered quarterly, and in accordance with the individual keymat procedures
+4.  Audit and accounting logs shall be managed in accordance with BS 10008
 
 #### Change Control Policy
 
@@ -312,7 +319,7 @@ Key escrow may be used for encryption keys but shall under no circumstances be u
 <li>Registration and de-registration of an organisation</li>
 <li>Registration and de-registration of an authorised user of the PKI Services
 <ul>
-<li>Including identification according to GPG45 \[Ref.20\] and GPG46 \[Ref.21\]</li>
+<li>Including identification according to GPG45 and GPG46</li>
 <li>Audit trail of identification, role allocation and access rights</li>
 </ul></li>
 <li>Registration of a nominated individual by a registered organisation by the RA</li>
@@ -327,19 +334,19 @@ Key escrow may be used for encryption keys but shall under no circumstances be u
 
 #### Required Standards for each function
 
-1. Certificates shall comply with ITU-T Recommendation X.509 \[Ref.23\] and RFC 5280 \[Ref.17\] unless required for a specific application in which case written approval from the SIRO will be required
-2. CRLs shall comply with X.509 Version 2 and RFC 5280. \[Ref.17\]
+1. Certificates shall comply with ITU-T Recommendation X.509 and RFC 5280 unless required for a specific application in which case written approval from the SIRO will be required
+2. CRLs shall comply with X.509 Version 2 and RFC 5280.
 3. All key material management and PKI operations shall be performed in accordance with all relevant HMG standards.
 
 #### Certificate Policy requirements
 
-1. The CP shall be written by the supplier providing the issuing Certificate Authority in line with RFC3647, Internet X.509 Public Key Infrastructure Certificate Policy and Certification Practices Framework \[Ref.16\]
+1. The CP shall be written by the supplier providing the issuing Certificate Authority in line with RFC3647, Internet X.509 Public Key Infrastructure Certificate Policy and Certification Practices Framework
 2. The PKI service shall not re-sign any public key into a certificate. All public keys shall be new and unique.
 3. There shall be a CP for each certificate hierarchy where the scope (including user base), use or liability model is different
 
 #### Certification Practices Statement requirements
 
-1. The CPS shall be written by the supplier providing the issuing Certificate Authority in line with RFC3647, Internet X.509 Public Key Infrastructure Certificate Policy and Certification Practices Framework. \[Ref.16\]
+1. The CPS shall be written by the supplier providing the issuing Certificate Authority in line with RFC3647, Internet X.509 Public Key Infrastructure Certificate Policy and Certification Practices Framework.
 2. There shall be a CPS for each signing certificate.
 
 ## References
@@ -456,4 +463,3 @@ BIP 0008-3:2008 Evidential weight and legal admissibility of linking electronic 
 http://datatracker.ietf.org/doc/rfc2986/</td>
 </tr>
 </table>
-

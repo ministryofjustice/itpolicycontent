@@ -1,4 +1,4 @@
----
+﻿---
 title: System Lockdown and Hardening Standard
 ---
 
@@ -13,18 +13,18 @@ This standard is designed to help protect MOJ ICT systems by providing basis con
  
 ## Overview
  
-HMG Security Policy Framework mandatory requirement (MR) 9 concerns technical security controls. To comply with MR 7, the MoJ needs to ensure that it has:
+[HMG Security Policy Framework](https://www.gov.uk/government/publications/security-policy-framework/hmg-security-policy-framework) mandatory requirement (MR) 9 concerns technical security controls. To comply with MR 7, the MoJ needs to ensure that it has:
 
 > Lockdown policy to restrict unnecessary services;
 
-The lockdown policy itself is covered in the IT Security – Technical Controls Policy [Ref, 1] whilst this document sets out the MoJ standard for its application.
+The lockdown policy itself is covered in the IT Security – Technical Controls Policy whilst this document sets out the MoJ standard for its application.
 
 ### Scope
 This standard provides some high level guidance on ICT system hardening with which applied to all MoJ ICT systems.
 
-**Note:** This standard is a generic standard designed to provide high level direction. This standard does not replace the Government Assurance Pack (GAP) which must be considered for MS Windows based systems. The hardening of an ICT system will be considered during the Accreditation process where the exact specification for the system will be considered and agreed. For further details on the Accreditation process see [Ref, 6].
+**Note:** This standard is a generic standard designed to provide high level direction. This standard does not replace the Government Assurance Pack (GAP) which must be considered for MS Windows based systems. The hardening of an ICT system will be considered during the Accreditation process where the exact specification for the system will be considered and agreed. For further details on the Accreditation process see.
 
-This standard must be read in conjunction with CESG GPG No.35 [Ref, 8] and the MoJ Security Architecture Framework.
+This standard must be read in conjunction with CESG GPG No.35 and the MoJ Security Architecture Framework.
 
 ### Demonstration of Compliance
 
@@ -34,11 +34,11 @@ The CESG Information Assurance Maturity Model (IAMM) sets out the minimum maturi
 
 Table 1 below provides a generic set of hardening procedures designed to guide ICT system development and supplement the IT Security – Technical Controls Policy.
 
-Those configuring MoJ ICT systems must consider additional sources of reference such as the Government Assurance Pack (GAP) for MS Windows based systems; Microsoft TechNet and NIST to ensure that specific systems (e.g. SQL server or a UNIX based server) are built to a secure standard. A selection of external reference sources can be found in section 4.1.
+Those configuring MoJ ICT systems must consider additional sources of reference such as the Government Assurance Pack (GAP) for MS Windows based systems; Microsoft TechNet and NIST to ensure that specific systems (e.g. SQL server or a UNIX based server) are built to a secure standard. A selection of external reference sources can be found below.
 
 Where this standard provides a generic set of hardening procedures, The MoJ Security Architecture Framework provides a set of vendor and system specific hardening guides which have been approved for use in MoJ ICT systems.
 
-The secure configuration of an ICT system will be examined during the Accreditation process (see [Ref, 6] for further details). This may include an IT Health Check (ITHC) and a review of the system’s build configuration.
+The secure configuration of an ICT system will be examined during the Accreditation process for further details). This may include an IT Health Check (ITHC) and a review of the system’s build configuration.
 
 Table 1 is split into 5 sections:
 
@@ -81,7 +81,7 @@ Table 1 is split into 5 sections:
 
 | Name | Description |
 | --- | --- | 
-| Passwords | All passwords must conform to the IT Security – Password Standard [Ref, 4]. |
+| Passwords | All passwords must conform to the IT Security – Password Standard. |
 | Guest and ‘null’ accounts | Guest and ‘null’ accounts (I.e. accounts with a blank username and password) must be disabled and removed where possible. |
 | Fast User Switching | Fast User Switching must be disabled. |
 | Login failure logging | Failed logins must be logged after the 1st failed attempt. |
@@ -117,13 +117,13 @@ Table 1 is split into 5 sections:
 
 ## External reference sources
 
-In addition to CESG GPG No.35 [Ref, 8], the following external reference sources provide a good source of information on ICT system hardening and secure system configuration.
+In addition to CESG GPG No.35, the following external reference sources provide a good source of information on ICT system hardening and secure system configuration.
 
 ### CPNI
 CPNI provides general information on security ICT systems including advice on how to build secure systems.
 <br/>
 [External Link - CPNI] 
-<br/><http://www.cpni.gov.uk/advice/infosec/>
+<br/><https://www.cpni.gov.uk/cyber-security>
 
 ### NIST
 
