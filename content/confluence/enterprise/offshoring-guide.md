@@ -9,13 +9,18 @@ This is Legacy IA Policy. It is under review and likely to be withdrawn or subst
 </tr>
 </table>
 
+[hmgis6]: https://data.gov.uk/data/contracts-finder-archive/download/611325/439bbc8a-9249-4210-93a8-8c33edcba603
+[hmgspf]: https://www.gov.uk/government/publications/security-policy-framework
+[iso25999]: https://shop.bsigroup.com/en/ProductDetail/?pid=000000000030157563
+[iso27001]: https://www.iso.org/standard/42103.html
+
 ## Introduction
 
 ### Document Purpose
 
 This document is the MoJ ICT Information Assurance (IA) Policy and Guidance for offshoring of MoJ Information Systems, development, or other support services. The document states the IA requirements that must be complied with for offshore developments, and presents considerations to be taken into account when deciding whether to offshore an element of MoJ capability.
 
-This document has not been developed in isolation. It draws heavily and intentionally on other guidance, particularly HMG Good Practice Guide (GPG) 6: Outsourcing & Offshoring: Managing the Security Risks. This document collates the high-level points from the CESG and CPNI guidance, and interprets these in the context of the MoJ.
+This document has not been developed in isolation. It draws heavily and intentionally on other guidance, particularly HMG Good Practice Guide (GPG) 6: Outsourcing & Offshoring: Managing the Security Risks[CESG Good Practice Guide 6: Outsourcing and Offshoring: Managing the Security Risks, Issue 2.1, September 2010]. This document collates the high-level points from the CESG and CPNI guidance, and interprets these in the context of the MoJ.
 
 The target audience for this document includes MoJ personnel with a requirement to make offshoring decisions; and MoJ suppliers who are considering, or currently engaged in, delivery of MoJ capabilities with an offshore element.
 
@@ -70,7 +75,7 @@ Exclusion 2: This document also does not address protection of individuals' pers
 
 With the exception of Landed Resources, deployment to locations within the UK does not count as offshoring and is therefore beyond the scope of this document. It is noted, however, that there will be other geographical factors to be taken into account even within the UK. For example, there are special security arrangements for Northern Ireland, and different freedom of information legislation between England and Scotland. These differences should in no way be considered as a justification not to outsource to other UK locations, but would need to be addressed in the local controls deployed.
 
-Outsourcing is beyond the scope of this document, except insofar as outsourcing arrangements are directly related to offshoring requirements (e.g. contractual obligations to be included in supplier contracts and subcontracts). Outsourcing is defined by HMG GPG6 [Ref, A] as: *"a contractual relationship with an external vendor that is usually characterised by the transfer of assets, such as facilities, staff or hardware. It can include facilities management (for data centres or networks), application development and maintenance functions, end-user computing, or business process services."*
+Outsourcing is beyond the scope of this document, except insofar as outsourcing arrangements are directly related to offshoring requirements (e.g. contractual obligations to be included in supplier contracts and subcontracts). Outsourcing is defined by HMG GPG6 [CESG Good Practice Guide 6: Outsourcing and Offshoring: Managing the Security Risks, Issue 2.1, September 2010] as: *"a contractual relationship with an external vendor that is usually characterised by the transfer of assets, such as facilities, staff or hardware. It can include facilities management (for data centres or networks), application development and maintenance functions, end-user computing, or business process services."*
 
 ### Document Overview
 
@@ -87,7 +92,7 @@ The remainder of this document is structured as follows:
 
 There are a number of specific IA Constraints which must be satisfied by any MoJ offshoring arrangements. There are also a number of key considerations that must be borne in mind in deciding whether to offshore a particular capability or service.
 
-This section of the document sets out the general IA requirements and constraints that must be complied with when offshoring MoJ capabilities. This document is derived from some of the good but generic CESG and CPNI documentation on the subject, outlined in the Further Reading section. This guidance should not be used as a substitute for engagement with the MoJ Accreditor or with MoJ ICT IA, who will be able to provide tailored guidance to support individual decisions; it is intended more as general guidance on MoJ policy, to support initial decision-making and project planning.
+This section of the document sets out the general IA requirements and constraints that must be complied with when offshoring MoJ capabilities. This document is derived from some of the good but generic CESG and CPNI documentation on the subject, outlined in the [Further Reading](#further-reading) section. This guidance should not be used as a substitute for engagement with the MoJ Accreditor or with MoJ ICT IA, who will be able to provide tailored guidance to support individual decisions; it is intended more as general guidance on MoJ policy, to support initial decision-making and project planning.
 
 ### Accountability
 
@@ -101,7 +106,7 @@ If a capability is delivered late, is substandard, fails completely or is compro
 
 The core function of the MoJ is to deliver services for the general good, rather than commercial commodities. As such, the impact of failure is not quantifiable in purely financial terms. Failure or compromise of MoJ services cannot therefore be fully remedied through financial penalties in supplier contracts, although financial penalty clauses can nonetheless serve as a motivation for suppliers to deliver on time and to quality.
 
-The responsibility of the MoJ for its own security and overall delivery is reinforced within the HMG SPF [Ref, A], at Paragraph 7, under Roles and Responsibilities: *"Accounting Officers (e.g. Head of Department/Permanent Secretary) have overall responsibility for ensuring that information risks are assessed and mitigated to an acceptable level. This responsibility must be supported by a Senior Information Risk Owner (SIRO) and the day-to-day duties may be delegated to the Departmental Security Officer (DSO), IT Security Officer (ITSO), Information Asset Owners (IAOs), supported by the Lead Accreditor."*
+The responsibility of the MoJ for its own security and overall delivery is reinforced within the [HMG SPF][hmgspf], at Paragraph 7, under Roles and Responsibilities: *"Accounting Officers (e.g. Head of Department/Permanent Secretary) have overall responsibility for ensuring that information risks are assessed and mitigated to an acceptable level. This responsibility must be supported by a Senior Information Risk Owner (SIRO) and the day-to-day duties may be delegated to the Departmental Security Officer (DSO), IT Security Officer (ITSO), Information Asset Owners (IAOs), supported by the Lead Accreditor."*
 
 <a id="requirement-2"></a>
 
@@ -109,9 +114,9 @@ The responsibility of the MoJ for its own security and overall delivery is reinf
 
 The MoJ will bear the main impact of any compromise of the Confidentiality, Integrity and/or Availability of public services that are delivered or managed on its behalf.
 
-The ultimate decision on whether the IA risk of outsourcing is acceptable will therefore be made by the SIRO, as advised by the IAO and the MoJ Accreditor. HMG security policy [Ref, A] requires that the SIRO must personal approve all large-scale information-related outsourcing and offshoring decisions. The SIRO is also required to approve the offshoring of personal data sets and, in some cases, submit plans for scrutiny by the Cabinet Office IA Delivery Group. The MoJ Accreditor, MoJ IA function and SIRO must be involved as soon as a potential offshoring proposal is identified, so that a decision on whether the proposal presents an acceptable level of information risk can be made at the earliest opportunity. This limits the likelihood of nugatory work by the project team.
+The ultimate decision on whether the IA risk of outsourcing is acceptable will therefore be made by the SIRO, as advised by the IAO and the MoJ Accreditor. [HMG security policy][hmgspf] requires that the SIRO must personal approve all large-scale information-related outsourcing and offshoring decisions. The SIRO is also required to approve the offshoring of personal data sets and, in some cases, submit plans for scrutiny by the Cabinet Office IA Delivery Group. The MoJ Accreditor, MoJ IA function and SIRO must be involved as soon as a potential offshoring proposal is identified, so that a decision on whether the proposal presents an acceptable level of information risk can be made at the earliest opportunity. This limits the likelihood of nugatory work by the project team.
 
-The requirement for early and ongoing engagement with the MoJ Accreditor and MoJ IA function is reinforced by HMG GPG6 [Ref, B]: *"The risk assessment and treatment plan must be reviewed by the Accreditor and presented to the SIRO at each stage of the procurement process."*
+The requirement for early and ongoing engagement with the MoJ Accreditor and MoJ IA function is reinforced by HMG GPG6 [CESG Good Practice Guide 6: Outsourcing and Offshoring: Managing the Security Risks, Issue 2.1, September 2010]: *"The risk assessment and treatment plan must be reviewed by the Accreditor and presented to the SIRO at each stage of the procurement process."*
 
 ### Risk Assessment
 
@@ -119,7 +124,7 @@ Before any sensible dialogue can be had around whether or not offshoring is acce
 
 <a id="requirement-3"></a>
 
-[REQUIREMENT 3](#requirement-3-assessment): All MoJ assets and/or activities to be offshored must be identified, and a Threat Assessment for those assets/activities at the proposed offshore location carried out. This includes not only physical and software assets but also information and service assets. The value and business impact of compromise for each information asset must be determined against the HMG Business Impact Table and MoJ Business Impact guidelines [Ref, G]; valuations must be agreed with the Information Asset Owner for each asset. A Privacy Impact Assessment (PIA) is also required, as discussed further in [Requirement 5](#requirement-5) below.
+[REQUIREMENT 3](#requirement-3-assessment): All MoJ assets and/or activities to be offshored must be identified, and a Threat Assessment for those assets/activities at the proposed offshore location carried out. This includes not only physical and software assets but also information and service assets. The value and business impact of compromise for each information asset must be determined against the [HMG Business Impact Table and MoJ Business Impact guidelines](https://www.ncsc.gov.uk/guidance/technical-risk-assessment-and-risk-treatment-is1-2-supplement); valuations must be agreed with the Information Asset Owner for each asset. A Privacy Impact Assessment (PIA) is also required, as discussed further in [Requirement 5](#requirement-5) below.
 
 The set of assets to be offshored not only includes any specific capabilities to be developed or managed, but will also include any incidental assets which are required to support these activities. For example:
 
@@ -154,9 +159,9 @@ Legal advice must be engaged, separately to IA advice, to identify any potential
 
 [REQUIREMENT 6](#requirement-6-assessment): An information risk assessment for each offshore location must be conducted by the Offshoring Company or organisation. This risk assessment must be subject to review and acceptance by MoJ IA. This should include an IS1 Risk Assessment, an assessment against ISO27001 controls, and a "Delta Assessment" setting out any HMG requirements that may be unenforceable, any variations to HMG policy that may be required, and how it is proposed to address these Deltas. A Privacy Impact Assessment (PIA), taking into account local legal considerations at the offshore location, must also be conducted. The risks, and the costs of mitigating the risks, must be balanced against the benefits to be gained from outsourcing. A Risk Management Plan must be developed and maintained to identify the mitigations required to address offshoring risks and estimate the costs of implementing these mitigations.
 
-An information risk assessment for the offshore location must be conducted. This must include an IS1 Risk Assessment in line with current HMG guidance. It must also include an assessment of physical, procedural, personnel and technical measures at the offshore location set against the ISO27001 requirements and highlighting the additional controls in place to address the concerns set out within HMG Good Practice Guide 6 [Ref, B] for specific ISO27001 controls. It must also include a "Delta Assessment" setting out any HMG requirements that may be unenforceable, any variations to HMG policy that may be required, and how it is proposed to address these deltas.
+An information risk assessment for the offshore location must be conducted. This must include an IS1 Risk Assessment in line with current HMG guidance. It must also include an assessment of physical, procedural, personnel and technical measures at the offshore location set against the ISO27001 requirements and highlighting the additional controls in place to address the concerns set out within HMG Good Practice Guide 6 [CESG Good Practice Guide 6: Outsourcing and Offshoring: Managing the Security Risks, Issue 2.1, September 2010] for specific ISO27001 controls. It must also include a "Delta Assessment" setting out any HMG requirements that may be unenforceable, any variations to HMG policy that may be required, and how it is proposed to address these deltas.
 
-The high-level information risk assessment is required at the proposal stage, prior to contract negotiations. This must be developed incrementally into a more detailed risk assessment as the project progresses. This risk assessment must take into account all assets to be offshored and the specific Threat Assessment for the offshore location and/or personnel. The risk assessment must meet the requirements of both HMG IS1 [Ref, G] and HMG GPG6 [Ref, B]. The requirements of HMG IS6 [Ref, C] relating to personal data can be more difficult to meet in an offshore context, so particular care must be taken to ensure that the PIA takes the offshore location into account and offshore elements of the contract are compliant with IS6.
+The high-level information risk assessment is required at the proposal stage, prior to contract negotiations. This must be developed incrementally into a more detailed risk assessment as the project progresses. This risk assessment must take into account all assets to be offshored and the specific Threat Assessment for the offshore location and/or personnel. The risk assessment must meet the requirements of both [HMG IS1](https://www.ncsc.gov.uk/guidance/technical-risk-assessment-and-risk-treatment-is1-2-supplement) and HMG GPG6 \[CESG Good Practice Guide 6: Outsourcing and Offshoring: Managing the Security Risks, Issue 2.1, September 2010\]. The requirements of [HMG IS6][hmgis6] relating to personal data can be more difficult to meet in an offshore context, so particular care must be taken to ensure that the PIA takes the offshore location into account and offshore elements of the contract are compliant with IS6.
 
 A Risk Management Plan is essential to address the risks identified through offshoring. As well as providing evidence that the supplier has adequately considered these risks, this will also provide the basis for estimating the cost overhead of mitigating offshoring risks, enabling a more accurate assessment of whether offshoring truly represents value for money. For example, the cost of provisioning a suitably segregated technical environment to support offshore development work; combined with the cost of providing a suitably secure link to enable remote access for offshore workers; and the cost of sending out suitably trained personnel for regular inspections of an overseas site; may significantly erode any cost savings.
 
@@ -180,7 +185,7 @@ The above issues with contractual flow-down of responsibilities and flow-up of o
 
 [REQUIREMENT 8](#requirement-8-assessment): Suppliers must ensure that offshore development is conducted according to UK and other relevant IA standards and legislation.
 
-The requirements of the HMG SPF [Ref, A] must be adhered to for offshore development. This may require significant changes to local working practices in some cases. The requirements of other relevant British and International standards must also be adhered to. Most notably for IA considerations, this specifically includes ISO27001 (Information Security Management System) [Ref, H] and ISO25999 (Business Continuity) [Ref, I]. Offshore sites and processes must be demonstrably compliant with ISO27001, and must be subject to a combination of scheduled and snap audits to ensure this. In addition to all of the usual ISO27001 conditions, particular considerations for offshore development are set out within HMG GPG6 [Ref, B]. Any issues found during audit must be addressed over timescales that are agreeable to MoJ ICT IA, with formal progress tracking of issues as they are addressed and resolved. Business Continuity can introduce particular issues in some offshore contexts, where events such as natural disasters, pandemics, criminal activity, acts of war, etc. may be sufficiently probable to merit more rigorous mitigations than for UK development. Factors such as staff turnover may also present particular issues in an offshore context, particularly where Landed Resources are used.
+The requirements of the [HMG SPF][hmgspf] must be adhered to for offshore development. This may require significant changes to local working practices in some cases. The requirements of other relevant British and International standards must also be adhered to. Most notably for IA considerations, this specifically includes [ISO27001 (Information Security Management System)][iso27001] and [ISO25999 (Business Continuity)][iso25999]. Offshore sites and processes must be demonstrably compliant with ISO27001, and must be subject to a combination of scheduled and snap audits to ensure this. In addition to all of the usual ISO27001 conditions, particular considerations for offshore development are set out within HMG GPG6 [CESG Good Practice Guide 6: Outsourcing and Offshoring: Managing the Security Risks, Issue 2.1, September 2010]. Any issues found during audit must be addressed over timescales that are agreeable to MoJ ICT IA, with formal progress tracking of issues as they are addressed and resolved. Business Continuity can introduce particular issues in some offshore contexts, where events such as natural disasters, pandemics, criminal activity, acts of war, etc. may be sufficiently probable to merit more rigorous mitigations than for UK development. Factors such as staff turnover may also present particular issues in an offshore context, particularly where Landed Resources are used.
 
 <a id="requirement-9"></a>
 
@@ -204,7 +209,7 @@ In some cases, the additional testing overhead required will outweigh the benefi
 
 [REQUIREMENT 11](#requirement-11-assessment): Where landed resources are used to support project activities they must be vetted to a level appropriate for the value of the information assets and collateral assets that will potentially be available to them. Where it is not possible to meet some BPSS evidence requirements, suitable alternative evidence must be obtained and compensating controls such as technical lockdown, supervision and monitoring must be applied. If it is not possible to lock down the physical environment to the satisfaction of MoJ ICT IA then landed resources must not be used. For higher levels of clearance such as SC, if a landed resource cannot achieve the required level of clearance or if there are prohibitive conditions on the individual's clearance, then that landed resource must not be used.
 
-The most basic level of Government security checking, the Baseline Personnel Security Standard (BPSS) check [Ref, F], is designed to provide an assessment of three key features of the individual to be vetted: their identity; their right to work; and the reliability, integrity and honesty of those individuals.
+The most basic level of Government security checking, the [Baseline Personnel Security Standard (BPSS) check](https://www.gov.uk/government/publications/government-baseline-personnel-security-standard), is designed to provide an assessment of three key features of the individual to be vetted: their identity; their right to work; and the reliability, integrity and honesty of those individuals.
 
 The BPSS requires that an individual's identity be confirmed, by matching some evidence of identity such as a passport or drivers licence, with evidence of address and activity in the community such as bills and bank statements. This provides a level of information that can be followed up for UK applicants if an individual raises any particular concerns. Further checks can be cheaply and easily conducted, to provide additional evidence that an individual with the asserted identity and address exists, and to confirm that the individual asserting that identity and address is not attempting identity theft. Where individuals originate from outside of the UK, and have not been in the UK for a suitably [\[5\]](#note5) long period of time, it can be more difficult to obtain a suitably reliable history for those individuals (long-term footprint) to support effective screening. Even confirming an individual's true identity may be problematic in some non-EU locations, where proofs of identity may be non-existent or considerably less reliable. It should also be noted that, for countries where record-keeping is managed locally rather than centrally, engagement at a local level to support checks can very quickly become prohibitively expensive for a moderately-sized workforce and/or where there is a high rate of staff turnover.
 
@@ -537,7 +542,7 @@ MoJ Accreditor/IA:
 
 Supplier:
 
-- Ensure that proposals include an explicit assessment of compliance (including any points of non-compliance) of offshoring elements of proposals with relevant Legislation and Standards. This includes: the DPA and other relevant legislation; the HMG SPF [Ref, A] and supporting documentation (specifically, but not exclusively, HMG IS6 [Ref, C], HMG GPG6 [Ref, B] and the SPF MRs themselves); relevant ISO standards (most notably ISO27001 [Ref, H] and ISO25999 [Ref, I]); Cabinet Office Guidance on ICT Offshoring [Ref, E]; and local MoJ IA Requirements.
+- Ensure that proposals include an explicit assessment of compliance (including any points of non-compliance) of offshoring elements of proposals with relevant Legislation and Standards. This includes: the DPA and other relevant legislation; the [HMG SPF][hmgspf] and supporting documentation (specifically, but not exclusively, [HMG IS6][hmgis6], HMG GPG6 [CESG Good Practice Guide 6: Outsourcing and Offshoring: Managing the Security Risks, Issue 2.1, September 2010] and the SPF MRs themselves); relevant ISO standards (most notably [ISO27001][iso27001] and [ISO25999][iso25999] ); Cabinet Office Guidance on ICT Offshoring [CIO Council Government ICT Offshoring (International Sourcing) Guidance, Issue 1.0, 07/2011]; and local MoJ IA Requirements.
 - Ensure that named CLAS Consultant resources are used on the supplier proposal to ensure that this proposal addresses all relevant HMG IA requirements and documentation (including offshoring requirements), and is compliant wit these.
 
 MoJ Project Team:
@@ -699,9 +704,18 @@ MoJ Service Management:
 
 - Ensure that the supplier is kept fully informed of any change in Threat Assessment relating to landed resources and of the impact on project delivery.
 
-## Notes
+<a id="further-reading"></a>
 
-9 The additional costs for offshore proposals will include potentially significant additional costs for IA and Accreditor resources to support bid assessment, solution review, initial Accreditation, re-accreditation and through-life support. An increased requirement for IA engagement and design scrutiny will be inevitable, and would need to be determined by IA. Activities such as audit and remediation are likely to involve an increased time overhead and travel expenses (e.g. for physical site visits to remote sites at overseas locations to conduct audits and follow-up remediation). Other additional project and in-service assurance is almost certain to be necessary.
+## Further Reading
+
+| Title | Version / Issue |
+|---|---|
+| [CPNI Personnel Security in Offshore Centres](https://www.cpni.gov.uk/system/files/documents/f4/75/personnel-security-in-offshore-centres-guidance.pdf) | 04/2009 |
+| CPNI Good Practice Guide: Outsourcing: Security Governance Framework for IT Managed Service Provision | 02/08/2006 |
+| CESG Good Practice Guide 16: Taking and Using Cryptographic Items Overseas | Issue 1.0, 08/2009 |
+| CESG Good Practice Guide 23: Assessing the Threat of Technical Attack Against ICT Systems | Issue 1.0, 04/2010 |
+
+## Notes
 
 <a id="note1"></a>
 
@@ -709,7 +723,7 @@ MoJ Service Management:
 
 <a id="note2"></a>
 
-[2] Wherever it is considered that there may be a requirement to use real or anonymised data, rather than synthetic data, the MoJ "Policy on the use of live personal data for the testing of IT systems, processes or procedures" must be complied with. This may be downloaded from <http://intranet.justice.gsi.gov.uk/guidance-support/security/information-security/downloads/live-personal-data-testing-systems.pdf>
+[2] Wherever it is considered that there may be a requirement to use real or anonymised data, rather than synthetic data, the MoJ "Policy on the use of live personal data for the testing of IT systems, processes or procedures" must be complied with. This may be downloaded from <https://intranet.justice.gov.uk/documents/2015/04/live-personal-data-testing-systems.pdf>
 
 <a id="note3"></a>
 
@@ -734,3 +748,7 @@ MoJ Service Management:
 <a id="note8"></a>
 
 [8] MoJ IA includes both MoJ ICT IA and the MoJ Central IA team. Both IA functions should be kept informed and engaged about offshoring proposals.
+
+<a id="note9"></a>
+
+[9] The additional costs for offshore proposals will include potentially significant additional costs for IA and Accreditor resources to support bid assessment, solution review, initial Accreditation, re-accreditation and through-life support. An increased requirement for IA engagement and design scrutiny will be inevitable, and would need to be determined by IA. Activities such as audit and remediation are likely to involve an increased time overhead and travel expenses (e.g. for physical site visits to remote sites at overseas locations to conduct audits and follow-up remediation). Other additional project and in-service assurance is almost certain to be necessary.
