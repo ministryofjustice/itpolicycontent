@@ -9,6 +9,13 @@ This is Legacy IA Policy. It is under review and likely to be withdrawn or subst
 </tr>
 </table>
 
+<table border='1'>
+<tr>
+<td>This content is a version of the Remote Working policy, May 2015.<br/>
+This is Legacy IA Policy. It is under review and likely to be withdrawn or substantially revised soon. Please contact us before using this on a new project: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=remote-working">itpolicycontent@digital.justice.gov.uk</a>.</td>
+</tr>
+</table>
+
 ## How to use this document
 
 <table border='1'>
@@ -35,9 +42,9 @@ In this guide remote working means any working away from the office using comput
 
 Users should read this document prior to using any [ORGANISATION] ICT Systems for the first time, and revisit it every six (6) months to remind themselves of the procedures. Regular audits will check that these procedures are being followed. Remote working users should also be compliant with:
 
-- System User Security Operating Procedures (SyOPs), [Ref, 2].
+- System User Security Operating Procedures (SyOPs).
 
-Users must understand that they are responsible for maintaining the security of [ORGANISATION] systems, and that failure to comply with these SyOPs could lead to compromise of the [ORGANISATION]'s infrastructure or even the entire GSI. Users must note further that either failure to comply with this SyOPs or failure to return the security sign off form would be considered a breach of the [ORGANISATION] IT Security Policy [Ref, 1].
+Users must understand that they are responsible for maintaining the security of [ORGANISATION] systems, and that failure to comply with these SyOPs could lead to compromise of the [ORGANISATION]'s infrastructure or even the entire GSI. Users must note further that either failure to comply with this SyOPs or failure to return the security sign off form would be considered a breach of the [ORGANISATION] [IT Security Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/ict-security-policy/).
 
 For other security related information, please refer to:
 
@@ -86,7 +93,7 @@ For other security related information, please refer to:
 </tr>
 <tr valign='top'>
 <td>Passwords</td>
-<td><ul><li>Passwords used on the system must be created in line with the [ORGANISATION] Password Standard [Ref, 3]. Passwords must be a minimum of 9 characters long and use a mix of lower case, upper case, numbers and special characters.</li>
+<td><ul><li>Passwords used on the system must be created in line with the [ORGANISATION] Password Standard. Passwords must be a minimum of 9 characters long and use a mix of lower case, upper case, numbers and special characters.</li>
 <li>Users must never keep a record of any password with the laptop.</li>
 <li>Where access to a departmental system is available remotely there are sometimes constraints on whether passwords must be changed remotely or when directly connected to the network and the correct procedures must be followed to prevent being locked out of the system;</li></ul></td>
 </tr>

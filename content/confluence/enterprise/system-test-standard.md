@@ -1,4 +1,4 @@
----
+﻿---
 title: System Test Standard
 ---
 
@@ -32,7 +32,7 @@ The purpose of system testing is to ensure all the functional and non-functional
 
 > Departments and Agencies must put in place an appropriate range of technical controls for all ICT systems, proportionate to the value, importance and sensitivity of the information held and the requirements of any interconnected systems.
 
-Policy statements on system testing are covered in [IT Security – Technical Controls Policy](https://intranet.justice.gov.uk/documents/2015/04/technical-controls-policy.pdf) where this document sets out the MoJ standard for its implementation.
+Policy statements on system testing are covered in [IT Security – Technical Controls Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/technical-controls-policy/) where this document sets out the MoJ standard for its implementation.
 
 ### Scope
 

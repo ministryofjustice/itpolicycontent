@@ -1,4 +1,4 @@
----
+﻿---
 title: Use of HMG Cryptography Policy
 ---
 
@@ -32,7 +32,7 @@ The policies outlined in this document form the baseline standard. However this 
 <table border='1'>
 <tr><td>POL.CRYPTO.001:
 <br/>
-It is the policy of the Ministry of Justice to follow the policy of HMG Information Assurance Standard 4 [Ref, 2].  This document endorses and augments that policy.  Where the local policy contained herein, if different to HMG Policy, the local policy overrides HMG policy and must be adhered to.</td></tr>
+It is the policy of the Ministry of Justice to follow the policy of HMG Information Assurance Standard 4.  This document endorses and augments that policy.  Where the local policy contained herein, if different to HMG Policy, the local policy overrides HMG policy and must be adhered to.</td></tr>
 </table>
 
 ### Scope
