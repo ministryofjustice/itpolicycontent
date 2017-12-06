@@ -65,7 +65,12 @@ HMPPS Probation - Log an incident with the Service Desk.
 
 [Operational Security Team](mailto:OperationalSecurityTeam@justice.gsi.gov.uk)
 
-Service Desks [Link to follow]
+Service Desks:
+
+<ul>
+<li>DOM1, WIN10, and HMPPS Probation:<br/><img src="https://intranet.justice.gov.uk/app/uploads/2017/12/74015bc20bb1c38fb4249c4ef6d3cfed.gif">&nbsp;</li>
+<li>HMPPS Prison: Catalog request through Quantum.</li>
+</ul>
 
 ## Related Pages
 
