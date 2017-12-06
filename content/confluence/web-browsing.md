@@ -19,7 +19,7 @@ Reasonable personal use is allowed, provided that:
 
 You and your manager are responsible for ensuring that you use these systems responsibly.
 
-If you accidentally connect to a website that contains unsuitable, illegal or offensive material, you must disconnect from the site immediately and inform the [IT Service Desk](mailto:ITservicedesk@justice.gsi.gov.uk).
+If you accidentally connect to a website that contains unsuitable, illegal or offensive material, you must disconnect from the site immediately and inform your [Service Desk](#service-desks).
 
 The Department will monitor the use of electronic communications and web-browsing. Your manager can request reports detailing your activity if they suspect inappropriate use of email or web-browsing facilities.
 
@@ -43,7 +43,7 @@ The categories are based on the [Forcepoint definitions](https://www.forcepoint.
 
 ### What to do if a website is blocked?
 
-Log an incident with the [IT Service Desk](mailto:itservicedesk@justice.gsi.gov.uk).
+Log an incident with your [Service Desk](#service-desks).
 
 Provide the following details:
 
@@ -57,28 +57,26 @@ Where there has been a system error or fault, remedial action will be taken to r
 
 If the block is due to one of the restrictions, Operational Security will review whether access to the site should be permitted or not.
 
-### Special note
-
-HMPPS Prison - All requests should be directed to the HP Service Desk via a local or area IT Manager.
-
-HMPPS Probation - Log an incident with the Service Desk.
-
 ## Contacts
 
 [Operational Security Team](mailto:OperationalSecurityTeam@justice.gsi.gov.uk)
 
-Service Desks:
+HMPPS Prison - All requests should be directed to the HP Service Desk via a local or area IT Manager.
 
+HMPPS Probation - Log an incident with your [Service Desk](#service-desks).
+
+<a id="service-desks"></a>
+
+Service Desks:
 <ul>
-<li>DOM1, WIN10, and HMPPS Probation:<br/><img src="https://intranet.justice.gov.uk/app/uploads/2017/12/74015bc20bb1c38fb4249c4ef6d3cfed.gif">&nbsp;</li>
-<li>HMPPS Prison: Catalog request through Quantum.</li>
+<li>For DOM1, WIN10, and HMPPS Probation, call:<br/><img src="https://intranet.justice.gov.uk/app/uploads/2017/12/74015bc20bb1c38fb4249c4ef6d3cfed.gif">&nbsp;</li>
+<li>For HMPPS Prison, open a catalog request through Quantum.</li>
+<li>For all others, contact the <a href="mailto:ITservicedesk@justice.gsi.gov.uk">IT Service Desk</a>.</li>
 </ul>
 
 ## Related Pages
 
 [IT Portal](https://intranet.justice.gov.uk/guidance-and-support/it-services/it-portal/)
-
-<p>&nbsp;</p>
 
 <table border='1'>
 <tr valign='top'>
