@@ -69,7 +69,7 @@ HMPPS Probation - Log an incident with the Service Desk.
 
 Service Desks:
 
-- DOM1, WIN10, and HMPPS Probation: 0800 917 5148.
+- DOM1, WIN10, and HMPPS Probation:<br/>![](https://intranet.justice.gov.uk/app/uploads/2017/12/74015bc20bb1c38fb4249c4ef6d3cfed.gif)&nbsp;
 - HMPPS Prison: Catalog request through Quantum.
 
 ## Related Pages
