@@ -67,7 +67,9 @@ HMPPS Probation - Log an incident with the Service Desk.
 
 [Operational Security Team](mailto:OperationalSecurityTeam@justice.gsi.gov.uk)
 
-Service Desks [Link to follow]
+Service Desks:
+DOM1, WIN10, and HMPPS Probation: 0800 917 5148.
+HMPPS Prison: Catalog request through Quantum.
 
 ## Related Pages
 
