@@ -37,7 +37,9 @@ This document sets out MoJ's rule set applied to the DOM1 and Win10 and infrastr
 
 Internet policy group and blocked URL categories are listed [here](https://intranet.justice.gov.uk/guidance/security/it-computer-security/web-browsing-security-policy-profiles/).
 
+<!--
 The categories are based on the [Forcepoint definitions](https://www.forcepoint.com/master-database-url-categories).
+-->
 
 ### What to do if a website is blocked?
 

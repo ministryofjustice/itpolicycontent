@@ -1,8 +1,8 @@
 ---
-title: Web browsing security policy profiles
+title: Web browsing security policy profiles (Original)
 ---
 
-## Web browsing security policy profiles
+## Web browsing security policy profiles (Original)
 
 <table border='1'>
 <tr valign='top'>
@@ -10,179 +10,66 @@ title: Web browsing security policy profiles
 </tr>
 </table>
 
-There are two default policy profiles, one for all staff and the other for the Judiciary.
+There are 5 different policy groups including a default for the Judiciary and a Standard Internet profile. A further 3 groups have been specifically set up to allow different access levels to the Internet depending on business need. An audit exercise has been undertaken by Operational Security to obtain business case approvals for any user requiring access to any group other than the Standard Internet profile and this has resulted in everyone being mapped to the appropriate group prior to the Trustwave implementation.
 
-Please see the table below for details of these policy profiles:
+If you have not completed a business case form and had this approved, you will have been mapped to the Standard Internet group.
 
-| Profile No. | User community | Web restriction | Activity logged | Activity reported |
-|---|---|---|---|---|
-| 1 | Judiciary | No restrictions in place | Yes | No - by default. Reporting is permitted by appropriate judicial sanction |
-| 2 | Standard | Limited restrictions in place | Yes | Yes |
- 
-### Category breakdown by profile
+Please see the table below for details of all the policy groups:
 
-| Category | Standard | Judicial |
-|---|---|---|
-| Abortion | &check; | &check; |
-| Abused Drugs | &check; | &check; |
-| Adult Content | &cross; | &check; |
-| Adult Material | &cross; | &check; |
-| Advanced Malware Command and Control | &cross; | &cross; |
-| Advanced Malware Payloads | &cross; | &cross; |
-| Advertisements | &check; | &check; |
-| Advocacy Groups | &check; | &check; |
-| Alcohol and Tobacco | &check; | &check; |
-| Alternative Journals | &check; | &check; |
-| Application and Software Download | &cross; | &check; |
-| Bandwidth | &check; | &check; |
-| Blog Commenting | &check; | &check; |
-| Blog Posting | &check; | &check; |
-| Blogs and Personal Sites | &check; | &check; |
-| Botnets | &cross; | &cross; |
-| Business and Economy | &check; | &check; |
-| Classifieds Posting | &check; | &check; |
-| Compromised Websites | &cross; | &cross; |
-| Computer Security | &check; | &check; |
-| Content Delivery Networks | &check; | &check; |
-| Cultural Institutions | &check; | &check; |
-| Custom-Encrypted Uploads | &cross; | &cross; |
-| Drugs | &check; | &check; |
-| Dynamic Content | &check; | &check; |
-| Dynamic DNS | &cross; | &cross; |
-| Education | &check; | &check; |
-| Educational Institutions | &check; | &check; |
-| Educational Materials | &check; | &check; |
-| Educational Video | &check; | &check; |
-| Elevated Exposure | &cross; | &cross; |
-| Emerging Exploits | &cross; | &cross; |
-| Entertainment | &check; | &check; |
-| Entertainment Video | &check; | &check; |
-| Extended Protection | &cross; | &cross; |
-| Facebook Apps | &check; | &check; |
-| Facebook Chat | &check; | &check; |
-| Facebook Commenting | &check; | &check; |
-| Facebook Events | &check; | &check; |
-| Facebook Friends | &check; | &check; |
-| Facebook Games | &check; | &check; |
-| Facebook Groups | &check; | &check; |
-| Facebook Mail | &check; | &check; |
-| Facebook Photo Upload | &check; | &check; |
-| Facebook Posting | &check; | &check; |
-| Facebook Questions | &check; | &check; |
-| Facebook Video Upload | &check; | &check; |
-| File Download Servers | &check; | &check; |
-| Files Containing Passwords | &cross; | &cross; |
-| Financial Data and Services | &check; | &check; |
-| Gambling | &check; | &check; |
-| Games | &check; | &check; |
-| Gay or Lesbian or Bisexual Interest | &check; | &check; |
-| General Email | &check; | &check; |
-| Government | &check; | &check; |
-| Hacking | &check; | &check; |
-| Health | &check; | &check; |
-| Hobbies | &check; | &check; |
-| Hosted Business Applications | &check; | &check; |
-| Illegal or Questionable | &check; | &check; |
-| Information Technology | &check; | &check; |
-| Instant Messaging | &check; | &check; |
-| Internet Auctions | &check; | &check; |
-| Internet Communication | &check; | &check; |
-| Internet Radio and TV | &check; | &check; |
-| Internet Telephony | &check; | &check; |
-| Intolerance | &check; | &check; |
-| Job Search | &check; | &check; |
-| Keyloggers | &cross; | &cross; |
-| Lingerie and Swimsuit | &check; | &check; |
-| LinkedIn Connections | &check; | &check; |
-| LinkedIn Jobs | &check; | &check; |
-| LinkedIn Mail | &check; | &check; |
-| LinkedIn Updates | &check; | &check; |
-| Malicious Embedded iFrame | &cross; | &cross; |
-| Malicious Embedded Link | &cross; | &cross; |
-| Malicious Web Sites | &cross; | &cross; |
-| Marijuana | &check; | &check; |
-| Media File Download | &check; | &check; |
-| Message Boards and Forums | &check; | &check; |
-| Militancy and Extremist | &check; | &check; |
-| Military | &check; | &check; |
-| Miscellaneous | &check; | &check; |
-| Mobile Malware | &cross; | &cross; |
-| Network Errors | &check; | &check; |
-| Newly Registered Websites | &cross; | &cross; |
-| News and Media | &check; | &check; |
-| Non-Traditional Religions | &check; | &check; |
-| Nudity | &check; | &check; |
-| Nutrition | &check; | &check; |
-| Online Brokerage and Trading | &check; | &check; |
-| Organizational Email | &check; | &check; |
-| Parked Domain | &check; | &check; |
-| Pay-to-Surf | &check; | &check; |
-| Peer-to-Peer File Sharing | &check; | &check; |
-| Personal Network Storage and Backup | &check; | &check; |
-| Personals and Dating | &check; | &check; |
-| Phishing and Other Frauds | &cross; | &cross; |
-| Political Organizations | &check; | &check; |
-| Potentially Exploited Documents | &cross; | &cross; |
-| Potentially Unwanted Software | &cross; | &cross; |
-| Prescribed Medications | &check; | &check; |
-| Private IP Addresses | &check; | &check; |
-| Pro-Choice | &check; | &check; |
-| Productivity | &check; | &check; |
-| Professional and Worker Organizations | &check; | &check; |
-| Pro-Life | &check; | &check; |
-| Proxy Avoidance | &check; | &check; |
-| Real Estate | &check; | &check; |
-| Reference Materials | &check; | &check; |
-| Religion | &check; | &check; |
-| Restaurants and Dining | &check; | &check; |
-| Search Engines and Portals | &check; | &check; |
-| Security | &cross; | &cross; |
-| Service and Philanthropic Organizations | &check; | &check; |
-| Sex | &cross; | &cross; |
-| Sex Education | &check; | &check; |
-| Shopping | &check; | &check; |
-| Social and Affiliation Organizations | &check; | &check; |
-| Social Networking | &check; | &check; |
-| Social Organizations | &check; | &check; |
-| Social Web - Facebook | &check; | &check; |
-| Social Web - LinkedIn | &check; | &check; |
-| Social Web - Twitter | &check; | &check; |
-| Social Web - Various | &check; | &check; |
-| Social Web - YouTube | &check; | &check; |
-| Society and Lifestyles | &check; | &check; |
-| Special Events | &check; | &check; |
-| Sport Hunting and Gun Clubs | &check; | &check; |
-| Sports | &check; | &check; |
-| Spyware | &cross; | &cross; |
-| Streaming Media | &check; | &check; |
-| Surveillance | &check; | &check; |
-| Suspicious Content | &cross; | &cross; |
-| Suspicious Embedded Link | &cross; | &cross; |
-| Tasteless | &check; | &check; |
-| Text and Media Messaging | &check; | &check; |
-| Traditional Religions | &check; | &check; |
-| Travel | &check; | &check; |
-| Twitter Follow | &check; | &check; |
-| Twitter Mail | &check; | &check; |
-| Twitter Posting | &check; | &check; |
-| Unauthorized Mobile Marketplaces | &cross; | &cross; |
-| Uncategorized | &check; | &check; |
-| User-Defined - Master blacklist | &cross; | &cross; |
-| User-Defined - Master whitelist | &check; | &check; |
-| Vehicles | &check; | &check; |
-| Violence | &check; | &check; |
-| Viral Video | &check; | &check; |
-| Weapons | &check; | &check; |
-| Web and Email Spam | &check; | &check; |
-| Web Chat | &check; | &check; |
-| Web Collaboration | &check; | &check; |
-| Web Hosting | &check; | &check; |
-| Web Images | &check; | &check; |
-| Web Infrastructure | &check; | &check; |
-| Website Translation | &check; | &check; |
-| YouTube Commenting | &check; | &check; |
-| YouTube Sharing | &check; | &check; |
-| YouTube Video Upload | &check; | &check; |
+| Group No | User community | Web restriction policy group | Webmail permitted | Activity logged | Activity reported |
+|---|---|---|---|---|---|
+| 1 | Judiciary | No Restrictions in place | Y – By default | Y | N- By default Reporting is permitted by appropriate judicial sanction |
+| 2 | Unrestricted with webmail | No Restrictions in place | Y- By default | Y | Y |
+| 3 | Unrestricted without webmail  | Limited Restrictions in place | N | Y | Y |
+| 4 | Social networking | Limited Restrictions in place | N | Y | Y |
+| 5 | All Users | Standard Internet profile | N | Y | Y |
+
+### URL blocked/permitted categories
+
+| Category | Action Unrestricted with webmail | Action Unrestricted without Webmail | Action Social Networking | Action Standard User | Action Judicial User |
+|---|---|---|---|---|---|
+| Adult/Sexually Explicit | &check; | &check; | &cross; | &cross; | &check; |
+| Advertisements | &check; | &check; | &cross; | &cross; | &check; |
+| Arts and Entertainment | &check; | &check; | &check; | &check; | &check; |
+| Chat | &check; | &check; | &cross; | &cross; | &check; |
+| Computing and Internet | &check; | &check; | &check; | &check; | &check; |
+| Criminal Skills | &check; | &check; | &cross; | &cross; | &check; |
+| Drugs, Alcohol and Tobacco | &check; | &check; | &check; | &check; | &check; |
+| Education | &check; | &check; | &check; | &check; | &check; |
+| Finance and Investment | &check; | &check; | &check; | &check; | &check; |
+| Food and Drink | &check; | &check; | &check; | &check; | &check; |
+| Gambling | &check; | &check; | &cross; | &cross; | &check; |
+| Games | &check; | &check; | &cross; | &cross; | &check; |
+| Glamour and Intimate Apparel | &check; | &check; | &cross; | &cross; | &check; |
+| Government and Politics | &check; | &check; | &check; | &check; | &check; |
+| Hacking | &cross; | &cross; | &cross; | &cross; | &check; |
+| Hate Speech | &check; | &check; | &cross; | &cross; | &check; |
+| Health and Medicine | &check; | &check; | &check; | &check; | &check; |
+| Hobbies and Recreation | &check; | &check; | &check; | &check; | &check; |
+| Hosting Sites | &check; | &check; | &cross; | &cross; | &check; |
+| Job Search and Career Development | &check; | &check; | &check; | &check; | &check; |
+| Kids Sites | &check; | &check; | &check; | &check; | &check; |
+| Lifestyle and Culture | &check; | &check; | &check; | &check; | &check; |
+| Motor Vehicles | &check; | &check; | &check; | &check; | &check; |
+| News  | &check; | &check; | &check; | &check; | &check; |
+| Other | &check; | &check; | &check; | &check; | &check; |
+| Personals and Dating | &check; | &check; | &cross; | &cross; | &check; |
+| Photo Searches | &check; | &check; | &check; | &check; | &check; |
+| Real Estate | &check; | &check; | &check; | &check; | &check; |
+| Reference | &check; | &check; | &check; | &check; | &check; |
+| Religion | &check; | &check; | &check; | &check; | &check; |
+| Remote Proxies | &cross; | &cross; | &cross; | &cross; | &cross; |
+| Search Engines | &check; | &check; | &check; | &check; | &check; |
+| Sex Education | &check; | &check; | &check; | &check; | &check; |
+| Shopping | &check; | &check; | &check; | &check; | &check; |
+| Sports | &check; | &check; | &check; | &check; | &check; |
+| Streaming Media | &check; | &check; | &check; | &cross; | &check; |
+| Travel | &check; | &check; | &check; | &check; | &check; |
+| Unscannable | &cross; | &cross; | &cross; | &cross; | &cross; |
+| Usenet News | &check; | &check; | &check; | &check; | &check; |
+| Violence | &check; | &check; | &cross; | &cross; | &check; |
+| Weapons | &check; | &check; | &cross; | &cross; | &check; |
+| Web-based Email | &check; | &cross; | &cross; | &cross; | &check; |
 
 <p>&nbsp;</p>
 
