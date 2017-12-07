@@ -59,20 +59,21 @@ If the block is due to one of the restrictions, Operational Security will review
 
 ## Contacts
 
-[Operational Security Team](mailto:OperationalSecurityTeam@justice.gsi.gov.uk)
-
-HMPPS Prison - All requests should be directed to the HP Service Desk via a local or area IT Manager.
-
-HMPPS Probation - Log an incident with your [Service Desk](#service-desks).
-
 <a id="service-desks"></a>
 
-Service Desks:
+### Service Desks
+
 <ul>
 <li>For DOM1, WIN10, and HMPPS Probation, call:<br/><img src="https://intranet.justice.gov.uk/app/uploads/2017/12/74015bc20bb1c38fb4249c4ef6d3cfed.gif">&nbsp;</li>
 <li>For HMPPS Prison, open a catalog request through Quantum.</li>
 <li>For all others, contact the <a href="mailto:ITservicedesk@justice.gsi.gov.uk">IT Service Desk</a>.</li>
 </ul>
+
+### Other help
+
+- HMPPS Prison - All requests should be directed to the HP Service Desk via a local or area IT Manager.
+- HMPPS Probation - Log an incident with your [Service Desk](#service-desks).
+- All other teams, contact the [Operational Security Team](mailto:OperationalSecurityTeam@justice.gsi.gov.uk)
 
 ## Related Pages
 
