@@ -9,6 +9,11 @@ This is Legacy IA Policy. It is under review and likely to be withdrawn or subst
 </tr>
 </table>
 
+[hmgias1]: https://www.ncsc.gov.uk/guidance/information-risk-management-hmg-ia-standard-numbers-1-2
+[hmgspf]: https://www.gov.uk/government/publications/security-policy-framework
+[iamm]: https://www.ncsc.gov.uk/guidance/information-assurance-maturity-model-and-assessment-framework-gpg-40
+[tcp]: https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/technical-controls-policy/
+
 ## About this document
 
 This document is the MoJ IT Security – Patch Management Standard. It is designed to help protect MoJ ICT systems by providing a standard on the application of security patches.
@@ -23,11 +28,11 @@ The purpose of this standard is to provide a consistent approach for the MoJ to 
 
 A patch is a piece of software applied to an ICT asset (operating system, hardware module or application) to update its capabilities, fix compatibility problems or remove a discovered security weakness. Manufacturers typically release regular software patches for their product and occasional "Service Packs", which are major updates to an ICT asset's software or firmware. Security patches are specialist patch releases that are used to correct vulnerabilities identified which may compromise the Confidentiality, Integrity or Availability of that asset. This corrective action will prevent successful exploitation by removing or mitigating the specific vulnerability identified.
 
-The HMG Security Policy Framework mandatory requirement 39 states that:
+The [HMG Security Policy Framework][hmgspf] mandatory requirement 39 states that:
 
 > A Patching policy, covering all ICT systems including Operating System and applications, to reduce the risk from known vulnerabilities is included in the requirements of any codes of connection, multilateral or bilateral international agreements and community or shared services security policies to which they are signatories (for example Government Secure Intranet - GSi).
 
-The patching policy is covered in IT Security – Technical Controls Policy where this document set outs the MoJ standard for its implementation.
+The patching policy is covered in [IT Security – Technical Controls Policy][tcp] where this document set outs the MoJ standard for its implementation.
 
 Though patches and service packs are the primary method of fixing security vulnerabilities in an ICT system they can also pose a risk as they may introduce new vulnerabilities or affect the usability of that system.
 
@@ -62,19 +67,19 @@ The nature of the MoJ operation means that responsibility for multiple systems i
 
 ### Cost Saving
 
-The requirement for a documented IT Security – Patch Management Plan for each system will reduce the complexity and time taken to conduct the Risk Management Accreditation Document Set (RMADS) exercise.
+The requirement for a documented [IT Security – Patch Management Plan](#appendixb) for each system will reduce the complexity and time taken to conduct the Risk Management Accreditation Document Set (RMADS) exercise.
 
 ## Demonstration of Compliance
 
-The CESG Information Assurance Maturity Model (IAMM) sets out the minimum maturity level Government departments should attain. Patching is captured as a basic requirement in Level 1 where the MoJ will need to demonstrate compliance against.
+The [CESG Information Assurance Maturity Model (IAMM)][iamm] sets out the minimum maturity level Government departments should attain. Patching is captured as a basic requirement in Level 1 where the MoJ will need to demonstrate compliance against.
 
 ## IT Security Patching Process
 
-The IT Security patching process described in this section it intended to be generic and applicable to all MoJ ICT Systems. It is expected that each individual ICT system will either maintain or be covered by an IT Security – Patch Management Plan which describes in detail how this process is applied. A template plan is provided in Appendix B.
+The IT Security patching process described in this section it intended to be generic and applicable to all MoJ ICT Systems. It is expected that each individual ICT system will either maintain or be covered by an [IT Security – Patch Management Plan](#appendixb) which describes in detail how this process is applied. A template plan is provided in [Appendix B](#appendixb).
 
-This process refers to the management of deploying software patches and service packs to operational ICT systems. All MoJ ICT systems must have or be covered by IT Security - Patching Management Plan describing how the patching process is managed for that particular system. It should be noted that operational management and patch compliance is managed by the MoJ Service Management Team.
+This process refers to the management of deploying software patches and service packs to operational ICT systems. All MoJ ICT systems must have or be covered by [IT Security – Patch Management Plan](#appendixb) describing how the patching process is managed for that particular system. It should be noted that operational management and patch compliance is managed by the MoJ Service Management Team.
 
-For the purpose of this standard, a Business Critical System is defined as one that requires an RMADS and Accreditation as defined in HMG IA Standard No.1. In all cases, the Security Patching Standard must cover the following principles of the patching process:
+For the purpose of this standard, a Business Critical System is defined as one that requires an RMADS and Accreditation as defined in [HMG IA Standard No.1][hmgias1]. In all cases, the Security Patching Standard must cover the following principles of the patching process:
 
 *   Asset Inventory;
 *   Vulnerability and Patch Identification;
@@ -101,7 +106,7 @@ Keeping track of this information and patch release dates usually involves a Sys
 
 ### Patch Classification
 
-For each patch identified, its criticality in terms of its potential affect on business operations and the level of exposure the vulnerability poses needs to be determined. Each ICT system's IT Security – Patch Management Plan defines the criticality of patches in terms of routine, critical or emergency using the criticality matrix in Appendix A.
+For each patch identified, its criticality in terms of its potential affect on business operations and the level of exposure the vulnerability poses needs to be determined. Each ICT system's [IT Security – Patch Management Plan](#appendixb) defines the criticality of patches in terms of routine, critical or emergency using the criticality matrix in [Appendix A](#appendixa).
 
 The criticality level applied to each patch will determine the timescale and level of testing required before it is applied. For example, if a worm, virus or exploit is actively attacking systems, a decision has to be made on the risk to the business of applying a not fully tested patch; switching the system off until a patch has been tested; or running the system un-patched until full testing is complete. In many cases, an interim remedy may be possible by changing the configuration of other devices, such as firewalls or web screening software, which will allow full testing of a patch to be completed before it is deployed.
 
@@ -109,7 +114,7 @@ All patches that are determined to be an emergency patch must be recorded and ha
 
 ### Patch Planning and Testing
 
-The purpose of this phase of the process is to plan how and when deployment will take place, and to test the software update in a realistic operational environment to confirm that it does not compromise business critical systems and applications. The process and facilities for testing a patch prior to deployment should be defined within the system's IT Security – Patch Management Plan. All major systems should have a non-live test environment available that corresponds with the operational model.
+The purpose of this phase of the process is to plan how and when deployment will take place, and to test the software update in a realistic operational environment to confirm that it does not compromise business critical systems and applications. The process and facilities for testing a patch prior to deployment should be defined within the system's [IT Security – Patch Management Plan](#appendixb). All major systems should have a non-live test environment available that corresponds with the operational model.
 
 As well as testing a security patch in a test environment, testing should include the following activities:
 
@@ -124,13 +129,13 @@ Problems discovered in patch testing should be documented and the system's busin
 
 The purpose of this phase is to successfully roll out the approved security patch into the operational environment whilst minimising impact to the business through downtime.
 
-Applying patches to multiple systems can be an administrative challenge that may be demanding when applied to a large number of devices. The IT Security - Patch Management Plan should specify how patching will be achieved. The task can be made easier with the use of automated distribution tools though it may be necessary to administer patches manually to certain types of device.
+Applying patches to multiple systems can be an administrative challenge that may be demanding when applied to a large number of devices. The [IT Security – Patch Management Plan](#appendixb) should specify how patching will be achieved. The task can be made easier with the use of automated distribution tools though it may be necessary to administer patches manually to certain types of device.
 
 Many updates and patches require equipment to be rebooted or users to be logged off at the time of the update. Scheduled maintenance windows and out of hours working should be considered in the planning stage.
 
 Many manufacturers include the ability to back-out or roll-back from a patch install, this should be considered when developing the plan.
 
-It is important to keep records of the patch status of each system and this information should be recorded, at least in an update, to the Asset Inventory. Log files are useful to keep track of the history of a system. Patch logs can assist the System Administrators with tracking and verifying installed patches. Administrators must maintain patch logs for their systems to assist in achieving consistency and compliance with the patching policy as stated within IT Security – Technical Controls Policy [Ref, 1]. It is important to include provision for checking standalone systems and laptops to ensure that the patching of these systems are kept up to date through patch audit.
+It is important to keep records of the patch status of each system and this information should be recorded, at least in an update, to the Asset Inventory. Log files are useful to keep track of the history of a system. Patch logs can assist the System Administrators with tracking and verifying installed patches. Administrators must maintain patch logs for their systems to assist in achieving consistency and compliance with the patching policy as stated within [IT Security – Technical Controls Policy][tcp]. It is important to include provision for checking standalone systems and laptops to ensure that the patching of these systems are kept up to date through patch audit.
 
 ### Patch Management Metrics and Audit
 
@@ -151,6 +156,8 @@ There are three main categories of patch and vulnerability metrics: susceptibili
 *   The cost of implementation;
 *   The cost of an automated patching solution;
 *   Any costs associated with failure to patch systems in time to prevent damage.
+
+<a id="appendixa"></a>
 
 ## Appendix A - IT Security Patching Criticality Matrix
 
@@ -177,10 +184,12 @@ Usually critical patches are released before the vulnerability is exploited and 
 <tr>
 <td>Emergency patches</td>
 <td>Where the existence, extent, and spread of worms, viruses, or exploits poses a very high likelihood of damage to business critical systems, such as unauthorised system access, information disclosure, arbitrary code execution, or denial of service. Patches should be applied upon the advice of MoJ Operational Security Team and as a matter of priority.</td>
-<td>For patches deemed as Emergency, the Incident Management plan, based upon the MoJ Incident Management Policy should be used.
+<td>For patches deemed as Emergency, the Incident Management plan, based upon the <a href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/it-incident-management-policy/">MoJ Incident Management Policy</a> should be used.
 <br/><b>Timescale:</b>
 <br/>The target timescale for deployment is 24 hours - 4 days.</td></tr>
 </table>
+
+<a id="appendixb"></a>
 
 ## Appendix B - IT Security Patch Management Plan - Template
 
@@ -210,7 +219,7 @@ Usually critical patches are released before the vulnerability is exploited and 
 <br/>[A description must also be provided of how this information is managed and stored. It is recommended that a register containing all security patches and vulnerabilities identified is maintained by the person (or party) responsible for testing and installing security patches.]</td></tr>
 <tr>
 <th>Patch Classification</th>
-<td>[Complete a statement describing how patches are going to be prioritised in terms of Routine, Critical and Emergency (see Appendix A). It is also essential to identify the level of testing that will be applied to each level of criticality and include target timescales for full.]</td></tr>
+<td>[Complete a statement describing how patches are going to be prioritised in terms of Routine, Critical and Emergency (see <a href="#appendixa">Appendix A</a>). It is also essential to identify the level of testing that will be applied to each level of criticality and include target timescales for full.]</td></tr>
 <tr>
 <th>Deployment Plan</th>
 <td>[A statement is required outlining the deployment plan for testing and deploying security patches. It must cover each patch classification.]</td></tr>
@@ -218,13 +227,13 @@ Usually critical patches are released before the vulnerability is exploited and 
 <th colspan='2' align='center'>Target timescales for the installation of Security Patches</th></tr>
 <tr>
 <th>Emergency Patches</th>
-<td>[Enter target timescale for the testing and installation of Emergency patches based on the IT Security Patching Criticality Matrix (see Appendix A)]</td></tr>
+<td>[Enter target timescale for the testing and installation of Emergency patches based on the IT Security Patching Criticality Matrix (see <a href="#appendixa">Appendix A</a>)]</td></tr>
 <tr>
 <th>Critical Patches</th>
-<td>Enter target timescale for the testing and installation of Critical patches based on the IT Security Patching Criticality Matrix (see Appendix A)]</td></tr>
+<td>Enter target timescale for the testing and installation of Critical patches based on the IT Security Patching Criticality Matrix (see <a href="#appendixa">Appendix A</a>)]</td></tr>
 <tr>
 <th>Routine Patches/Updates</th>
-<td>[Enter target timescale for the testing and installation of Routine patches/updates patches based on the IT Security Patching Criticality Matrix (see Appendix A)]</td></tr>
+<td>[Enter target timescale for the testing and installation of Routine patches/updates patches based on the IT Security Patching Criticality Matrix (see <a href="#appendixa">Appendix A</a>)]</td></tr>
 <tr>
 <th>Reporting and Compliance</th>
 <td>[A statement is required detailing how the installation of patches are checked against the identification patches including maintain a record of whether a patch (or other fix) is applied within the target timescale.]</td></tr>
