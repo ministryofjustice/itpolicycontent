@@ -127,7 +127,7 @@ An individuals User account and any associated access rights must be removed onc
 
 Account removal must be authorised by MoJ HR. The leavers process can be found on the HR intranet page (see: <https://myservices.justice.gov.uk/moj/my-services> ). As part of the HR process, HR must inform the relevant IT service provider when a member of staff leaves the organisation and as such instruct them to deactivate and remove their user account.
 
-# Review of User privileges and accounts schedule
+## Review of User privileges and accounts schedule
 
 Table 2 outlines the review schedule which must be applied to all MoJ ICT systems. All User privileges and accounts must be audited in accordance with this schedule, Table 2 states the review activity required with an associated frequency.
 
