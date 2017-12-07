@@ -1,6 +1,13 @@
----
+﻿---
 title: System Backup Standard
 ---
+
+<table border='1'>
+<tr>
+<td>This content is a version of the System Backup Standard, May 2015.<br/>
+This is Legacy IA Policy. It is under review and likely to be withdrawn or substantially revised soon. Please contact us before using this on a new project: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=system-backup-standard">itpolicycontent@digital.justice.gov.uk</a>.</td>
+</tr>
+</table>
 
 <table border='1'>
 <tr>
@@ -15,7 +22,7 @@ This document is the MoJ IT Security – System Backup Standard. It is designed 
 
 The purpose of a system backup is to provide a means to restore the data integrity of an ICT system in the event of a hardware/software failure or physical disaster and provide a measure of protection against human error or the inadvertent deletion of important files. System backups, under certain circumstances, can serve as an archival copy (e.g. to meet records retention requirements).
 
-The HMG Security Policy Framework [Ref, 6] mandatory requirements 9 states that:
+The [HMG Security Policy Framework](https://www.gov.uk/government/publications/security-policy-framework/hmg-security-policy-framework) mandatory requirements 9 states that:
 
 > Departments and Agencies must put in place an appropriate range of technical controls for all ICT systems, proportionate to the value, importance and sensitivity of the information held and the requirements of any interconnected systems.
 
@@ -42,15 +49,15 @@ This section outlines the high level requirements which feed into developing a s
 
 Systems backups are generally taken on a daily basis and stored ready for restoration when required (e.g. during a disaster event).
 
-The frequency and extent of systems backups must be in accordance with the impact level for Availability of the information being backed up and the acceptable risk as defined by the relevant Business Continuity Plan (BCP). The impact level for availability can be found in the ICT system’s Business Impact Assessment (BIA), further information on BIA’s can be found in the MoJ Accreditation Framework [Ref, 7].
+The frequency and extent of systems backups must be in accordance with the impact level for Availability of the information being backed up and the acceptable risk as defined by the relevant Business Continuity Plan (BCP). The impact level for availability can be found in the ICT system’s Business Impact Assessment (BIA), further information on BIA’s can be found in the MoJ Accreditation Framework.
 
 Generally, it is not practical for all backup to be kept indefinitely as such, it is important that each ICT system defines a:
 
-**Backup schedule** – This defines the frequency and type of backup (see section 4.2)
+**Backup schedule** – This defines the frequency and type of backup (see below)
 
-**Retention schedule** – This defines how long an individual backup should be retained in a state ready for restoration from a live backup system or backup media (see section 4.3).
+**Retention schedule** – This defines how long an individual backup should be retained in a state ready for restoration from a live backup system or backup media (see below).
 
-**Archive schedule** – This defines how long a particular full system backup should be retained for and which full system backup should be kept in order to comply with the MoJ data retention schedule (see section 4.4).
+**Archive schedule** – This defines how long a particular full system backup should be retained for and which full system backup should be kept in order to comply with the MoJ data retention schedule (see below).
 
 ### Backup schedule
 
@@ -60,7 +67,7 @@ Table 1 below contains a generic backup schedule.  This schedule should be used 
 | --- | --- |
 | Daily – Once per 24 hours. | Incremental |
 | Weekly – Once per 7 days. | Full |
-| Monthly – Once per 30 days / last week of the month. | Full (to be used as an archive copy, see section 4.4). |
+| Monthly – Once per 30 days / last week of the month. | Full (to be used as an archive copy, see Archive section below). |
 
 Table 1 – Generic backup schedule
 
@@ -72,7 +79,7 @@ The definition of each backup type used in Table 1 is as follows:
 
 ### Retention schedule
 
-The backup retention schedule is designed to ensure that for a defined period of time, the necessary backups are available for a restoration of data to take place. This period of time is a combination of the Recovery Point Objective (RPO) and how critical the system is (the RPO provides the minimum retention period).  The RPO should be defined in the system BIA and further details are provided in the IT Security - IT Disaster Recovery Plan and Process Guide [Ref, 2].
+The backup retention schedule is designed to ensure that for a defined period of time, the necessary backups are available for a restoration of data to take place. This period of time is a combination of the Recovery Point Objective (RPO) and how critical the system is (the RPO provides the minimum retention period).  The RPO should be defined in the system BIA and further details are provided in the IT Security - IT Disaster Recovery Plan and Process Guide.
 
 Table 2 provides generic backup retention schedule with an indicator on how long a full or incremental backup should be retained before being destroyed or re-used (via an over-write).
 
@@ -104,7 +111,7 @@ The standard recommendation is that one full system backup per month is selected
 
 **Note:** The MoJ data retention schedule is managed by the Knowledge, Information and Records Management (KIM) team and is set by the Departmental Records Officer.  This schedule determines what the archive schedule is (i.e. how long an archive backup must be retained); see the following intranet site for further details:
 
-<http://intranet.justice.gsi.gov.uk/guidance-support/information-data/records-management-services/information-management.htm>
+[Knowledge and information](https://intranet.justice.gov.uk/guidance/knowledge-information/)
  
 ## System backup procedures
 
@@ -117,7 +124,7 @@ It is the responsibility of the ICT system manager to ensure that:
 - The backups complete successfully;
 - Any backup media is replaced as required (e.g. due to failure or becoming end of life);
 - Backup schedules are updated;
-- The system backup register is updated and maintained (see section 5.5).
+- The system backup register is updated and maintained.
 
 The ICT system manager, or his nominated deputy, has overall responsibility for ensuring that all backups are started and that the log files for completed backups are checked. After every backup is run, the log files for that backup should be checked and the completion status recorded on the system backup register.
 
@@ -125,7 +132,7 @@ Backup failures occurring more than once in succession must be recorded and inve
 
 #### Security Operating Procedures (SyOPs)
 
-Backup procedures must be included within or referenced from the relevant system SyOPs. It is suggested that it is captured within the SyOPs for system administrators, an example SyOPs can be found in IT Security SyOPs - System Administrators [Ref, 3].
+Backup procedures must be included within or referenced from the relevant system SyOPs. It is suggested that it is captured within the SyOPs for system administrators, an example SyOPs can be found in IT Security SyOPs - System Administrators.
 
 **Note:** The encryption of backup media should be considered.
 
@@ -136,13 +143,13 @@ Regular disaster recovery testing must be performed to ensure that any system ba
 - Individual server/system testing conducted on-site – this tests the recovery of an individual server or set of files, typically from an incremental backup.
 - Scenario based testing conducted off-site.  This is a more comprehensive test where a full system restore is simulated in an offsite non-live environment. This allows for various disaster recovery scenarios to be played out and tested, for example the complete loss of the live environment and full restore from backup.
 
-The testing of backup processes must fit in with the overall IT Disaster Recovery plan and testing regime for an ICT system, further information can be found in IT Security - IT Disaster Recovery Plan and Process Guide [Ref, 2].
+The testing of backup processes must fit in with the overall IT Disaster Recovery plan and testing regime for an ICT system, further information can be found in IT Security - IT Disaster Recovery Plan and Process Guide.
 
 ### Backup schedules
 
-Details of the current backup job configuration must be captured; this configuration must be based on the defined system backup schedule (see section 4.2).  These job configurations need to be regularly audited to ensure jobs are completed successfully and that any issues are rectified as soon as possible.
+Details of the current backup job configuration must be captured; this configuration must be based on the defined system backup schedule.  These job configurations need to be regularly audited to ensure jobs are completed successfully and that any issues are rectified as soon as possible.
 
-It is recommended that backups are not encrypted; however this needs to be assessed on case by case basis during the system Accreditation process. Further information on the Accreditation process can be found in the MoJ Accreditation Framework [Ref, 7].
+It is recommended that backups are not encrypted; however this needs to be assessed on case by case basis during the system Accreditation process. Further information on the Accreditation process can be found in the MoJ Accreditation Framework.
 
 ### Handling
 
@@ -151,9 +158,9 @@ Backup media must be stored in a physically secure environment either:
 - **Onsite** – stored in a physically secure location that is geographically separate from the facility housing the system being backed up.
 - **Offsite** – stored in a secure off-site storage facility that meets location and retrieval requirements of the Disaster Recovery Team.
 
-The security controls (technical, physical and procedural) implemented either onsite or offsite must be consummate to the highest protective marking of the information contained on the backup media. This protective marking level should be determined during the BIA process (further details can be found in the MoJ Accreditation Framework, [Ref, 7]). The selections of security controls should be conducted via a risk assessment.
+The security controls (technical, physical and procedural) implemented either onsite or offsite must be consummate to the highest protective marking of the information contained on the backup media. This protective marking level should be determined during the BIA process (further details can be found in the MoJ Accreditation Framework. The selections of security controls should be conducted via a risk assessment.
 
-The handling and transportation of backup media must be in line with the highest protective marking.  Further details on handling protectively marked information can be found in IT Security - Data Handling and Information Sharing Guide [Ref, 4]. This guide provides details on the procedures and approvals required prior to the movement of any protectively marked information taking place.
+The handling and transportation of backup media must be in line with the highest protective marking.  Further details on handling protectively marked information can be found in IT Security - Data Handling and Information Sharing Guide. This guide provides details on the procedures and approvals required prior to the movement of any protectively marked information taking place.
 
 ### Identification and tracking
 
@@ -180,4 +187,4 @@ For backup media with no remaining retention or archive period (i.e. the retenti
 
 Where media is not reusable, it must be taken out of stock and marked with the state of ‘to be decommissioned’ on the system backup register until secure disposal can take place (this status must be updated on the relevant CMDB).
 
-All media disposals must be in accordance with the relevant system ICT asset disposal plan.  See IT Security - ICT Asset Disposal Guide [Ref, 5] for further information.
+All media disposals must be in accordance with the relevant system ICT asset disposal plan.  See IT Security - ICT Asset Disposal Guide for further information.

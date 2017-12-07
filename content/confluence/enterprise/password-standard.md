@@ -9,6 +9,13 @@ This is Legacy IA Policy. It is under review and likely to be withdrawn or subst
 </tr>
 </table>
 
+[acs]: https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/moj-enterprise-access-control-policy/
+[hmgias2]: https://www.ncsc.gov.uk/guidance/information-risk-management-hmg-ia-standard-numbers-1-2
+[hmgspf]: https://www.gov.uk/government/publications/security-policy-framework
+[sa]: https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/system-administrators/
+[suas]: https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/system-users-and-application-administrators/
+[tcp]: https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/technical-controls-policy/
+
 ## About this document
 
 This document is the MoJ IT Security – Password Standard. It is designed to help protect MoJ ICT systems by providing a standard on user password management.
@@ -23,7 +30,7 @@ This policy is directed at all those responsible for the design, implementation 
 
 The purpose of this standard is to address the procedures that must be in place along side the technical controls in a password system to provide effective authentication of users.  
 
-HMG Security Policy Framework (SPF) \[Ref, 1\] Mandatory Requirement (MR) 10 states that:
+[HMG Security Policy Framework (SPF)][hmgspf] Mandatory Requirement (MR) 10 states that:
 
 > Departments and Agencies must implement appropriate procedural controls for all ICT (or paper-based) systems or services to prevent unauthorised access and modification, or misuse by authorised users.
 
@@ -31,15 +38,15 @@ To comply with this requirement, the MoJ must:
 
 > Implement appropriate identification and authentication controls, policies and procedures to manage the risk of unauthorised access, ensure the correct management of user accounts and enable auditing
 
-The Policy on User Password Management is covered in the IT Security – Technical Controls Policy \[Ref, 5\]; this document sets out the MoJ guidance on implementing that policy and developing a Password Standard.
+The Policy on User Password Management is covered in the [IT Security – Technical Controls Policy][tcp]; this document sets out the MoJ guidance on implementing that policy and developing a Password Standard.
 
 ### Scope and Responsibilities
 
-This document is intended to provide a Password Standard for MoJ ICT Systems, including ICT systems hosted by third party suppliers on behalf of the MoJ. The Standard is designed to supplement HMG IA Standard No.7- Authentication of Internal Users of ICT Systems Handling Government Information \[Ref, 2\].
+This document is intended to provide a Password Standard for MoJ ICT Systems, including ICT systems hosted by third party suppliers on behalf of the MoJ. The Standard is designed to supplement HMG IA Standard No.7- Authentication of Internal Users of ICT Systems Handling Government Information \[HMG IA Standard No.7- Authentication of Internal Users of ICT Systems Handling Government Information Issue 1.0, October 2010\].
 
-The password standard should be used for all MoJ systems processing material up to RESTRICTED. For systems processing information with a protective marking of CONFIDENTIAL or above, additional user authentication may be required. This may also be the case depending on the environment the system is accessible from. The specific requirements for each system must be formally recorded in the Risk Management and Accreditation Documents for the system and authorised by way of the Accreditation process (see HMG IA Standard No.2 \[Ref, 3\]). Additional measures of user authentication, such as tokens or biometrics are not covered by this standard; see IT Security- Access Control Standard \[Ref, 6\].
+The password standard should be used for all MoJ systems processing material up to RESTRICTED. For systems processing information with a protective marking of CONFIDENTIAL or above, additional user authentication may be required. This may also be the case depending on the environment the system is accessible from. The specific requirements for each system must be formally recorded in the Risk Management and Accreditation Documents for the system and authorised by way of the Accreditation process (see [HMG IA Standard No.2][hmgias2] ). Additional measures of user authentication, such as tokens or biometrics are not covered by this standard; see [IT Security- Access Control Standard][acs].
 
-It is the responsibility of system designers and implementers to ensure that their system supports the procedures described in this standard and that Security Operating Procedures (SyOps) are produced that reflect the procedures required by this policy and the policy statements in the IT Security – Technical Controls Policy \[Ref, 5\].
+It is the responsibility of system designers and implementers to ensure that their system supports the procedures described in this standard and that Security Operating Procedures (SyOps) are produced that reflect the procedures required by this policy and the policy statements in the [IT Security – Technical Controls Policy][tcp].
 
 It is the responsibility of service support staff to ensure that the guidance provided in this standard relating to the issuing and decommissioning of passwords is followed.
 
@@ -90,7 +97,7 @@ For users to change their password, the ICT system must require:
 
 ### Disposal
 
-The IT Security- Technical Control Policy \[Ref, 5\] states that, "all IT systems **must have** a process for periodically checking and removing redundant User IDs and accounts". The management and removal of accounts is covered in the IT Security- Access Control Standard \[Ref, 6\].
+The [IT Security- Technical Control Policy][tcp] states that, "all IT systems **must have** a process for periodically checking and removing redundant User IDs and accounts". The management and removal of accounts is covered in the [IT Security- Access Control Standard][acs].
 
 If the ICT system contains a common password, when an individual's user access is withdrawn, the common password **must be** changed. For example, a common password maybe used to access a set of managed switches. 
 
@@ -147,7 +154,7 @@ Be used for two systems at different Protective Marking levels.</td>
 </tr>
 </table>
 
-The IT Security SyOps- Users &amp; Application Administrators \[Ref, 7\] provides instruction to users of the system for the handling and protection of passwords.  Users **must not** attempt to log on as another user, or share their system access credentials with others. Users **must not** allow unauthorised users to observe their screen or allow any person to observe them entering their system access credentials (e.g. password).
+The [IT Security SyOps - Users &amp; Application Administrators][suas] provides instruction to users of the system for the handling and protection of passwords.  Users **must not** attempt to log on as another user, or share their system access credentials with others. Users **must not** allow unauthorised users to observe their screen or allow any person to observe them entering their system access credentials (e.g. password).
 
 ### System Administrators
 
@@ -199,7 +206,7 @@ Be the same as the password for their normal accounts (if the administrator hold
 </tr>
 </table>
 
-The IT Security SyOps- System Administrators \[Ref, 8\] provides instruction to system administrators for the handling and protection of passwords.  System administrators, like all users **must not** attempt to log on as another user, or share their system access credentials with others. Users **must not** allow unauthorised users to observe their screen or allow any person to observe them entering their system access credentials (e.g. password). The password for an Administrator account **must not** be re-used with another Administrator or Normal User account.
+The [IT Security SyOps- System Administrators][sa] provides instruction to system administrators for the handling and protection of passwords.  System administrators, like all users **must not** attempt to log on as another user, or share their system access credentials with others. Users **must not** allow unauthorised users to observe their screen or allow any person to observe them entering their system access credentials (e.g. password). The password for an Administrator account **must not** be re-used with another Administrator or Normal User account.
 
 <a id="service-accounts"></a>
 
@@ -269,11 +276,11 @@ The password management system should enforce the password complexity rules deta
 
 ### Storage of Passwords
 
-For all systems, the passwords on the system **must be** stored encrypted as a hash of the password values. The strength of the hashing algorithm should be determined by the classification of the information the password is protecting. HMG IA Standard No.7 \[Ref, 2\] **must be** consulted when determining the appropriate level of hashing to implement.
+For all systems, the passwords on the system **must be** stored encrypted as a hash of the password values. The strength of the hashing algorithm should be determined by the classification of the information the password is protecting. HMG IA Standard No.7 \[HMG IA Standard No.7- Authentication of Internal Users of ICT Systems Handling Government Information Issue 1.0, October 2010\] **must be** consulted when determining the appropriate level of hashing to implement.
 
 For MoJ ICT systems, the default is for all password systems to hash passwords and for a salt value to be added to the password before hashing.
 
-The IT Security SyOps- System Users and Application Administrators \[Ref,7\] and the IT Security SyOps- System Administrators \[Ref, 8\] both state that users must not store hard or soft copies of passwords with the device to which they permit access.
+The [IT Security SyOps- System Users and Application Administrators][suas] and the [IT Security SyOps- System Administrators][sa] both state that users must not store hard or soft copies of passwords with the device to which they permit access.
 
 Paper based back-up storage of passwords is permitted, but such passwords **must be** appropriately protected to the level of the information to which the password provides access (see [here](#service-accounts) for details of password storage for Service Accounts).
 

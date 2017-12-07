@@ -9,6 +9,13 @@ This is Legacy IA Policy. It is under review and likely to be withdrawn or subst
 </tr>
 </table>
 
+<table border='1'>
+<tr>
+<td>This content is a version of the System Users and Application Administrators policy, May 2015.<br/>
+This is Legacy IA Policy. It is under review and likely to be withdrawn or substantially revised soon. Please contact us before using this on a new project: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=system-users-and-application-administrators">itpolicycontent@digital.justice.gov.uk</a>.</td>
+</tr>
+</table>
+
 ## How to use this document
 
 <table border='1'>
@@ -29,13 +36,13 @@ Users' Security Awareness training will cover these procedures.
 
 Users must read this document prior to using any [ORGANISATION] ICT Systems for the first time, and revisit it every six (6) months to remind themselves of the procedures. Regular audits will be performed to check that these procedures are being followed.
 
-Users must understand that they are responsible for maintaining the security of [ORGANISATION] systems, and that failure to comply with these SyOPs could lead to compromise of the [ORGANISATION]'s infrastructure or even the entire GSI.  Users must note further that either failure to comply with this SyOPs or failure to return the security sign off form would be considered a breach of the [ORGANISATION] IT Security Policy [Ref, 1].
+Users must understand that they are responsible for maintaining the security of [ORGANISATION] systems, and that failure to comply with these SyOPs could lead to compromise of the [ORGANISATION]'s infrastructure or even the entire GSI.  Users must note further that either failure to comply with this SyOPs or failure to return the security sign off form would be considered a breach of the [ORGANISATION] [IT Security Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/ict-security-policy/).
 
 For further all the security related information required, please refer to:
 
 - The [ORGANISATION] staff [intranet Security homepage](https://intranet.justice.gov.uk/guidance/security/)
-- Remote User Security Operating Procedures (SyOPs) (if applicable) [Ref, 5]
-- Blackberry User SyOPs (if applicable) [Ref, 6]
+- Remote User Security Operating Procedures (SyOPs) (if applicable)
+- Blackberry User SyOPs (if applicable)
 
 <table border='1'>
 <tr valign='top'>
@@ -60,8 +67,8 @@ Shut-down:
 <td colspan='2'><ul>
 <li>Only authorised members of staff with registered user accounts are permitted access to the system.</li>
 <li>The equipment used to access the system must be checked on a daily basis for evidence of tampering or suspicious devices attached to it, for example unknown Universal Serial Bus (USB) devices attached to the rear of the main workstation.</li>
-<li>Protectively marked and sensitive hardcopy material must be securely stored away under lock and key following the [ORGANISATION] Clear Desk Policy [Ref, 2], published on the [ORGANISATION] intranet.</li>
-<li>When accessing the system from portable computing devices, access is only to be made in approved area (see the SyOPs for Remote Access use [Ref, 5]).</li>
+<li>Protectively marked and sensitive hardcopy material must be securely stored away under lock and key following the [ORGANISATION] <a href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/clear-screen-and-desk-policy/">Clear Desk Policy</a>, published on the [ORGANISATION] intranet.</li>
+<li>When accessing the system from portable computing devices, access is only to be made in approved area (see the SyOPs for Remote Access use.</li>
 <li>Visitors must be supervised during working hours, and any sensitive documentation being worked on is to be hidden from line of sight as much as possible.</li>
 </ul></td>
 </tr>
@@ -79,7 +86,7 @@ Shut-down:
 <li>Users must not attempt to log on as another user, or share their system access credentials with others.</li>
 <li>Users must not allow unauthorised users to observe their screen.</li>
 <li>Users must not allow any person to observe them entering their system access credentials (e.g. password).</li>
-<li>Passwords used on the system must be created in line with the [ORGANISATION] Password Standard [Ref, 7]. Passwords must be a minimum of 9 characters long and use a mix of lower case, upper case, numbers and special characters.</li>
+<li>Passwords used on the system must be created in line with the [ORGANISATION] Password Standard. Passwords must be a minimum of 9 characters long and use a mix of lower case, upper case, numbers and special characters.</li>
 <li>Users must invoke the screensaver before leaving their workstation unattended (by pressing 'windows' key + L).</li>
 <li>A User account must only be created with permissions commensurate to that User's business role, and are only to be enabled once a signed copy of these SyOPs have been received from the user.</li>
 <li>A User account must be disabled when that staff member leave the [ORGANISATION] or where their business role does not require them to have access.</li>
@@ -90,7 +97,7 @@ Shut-down:
 <td>Resetting user passwords</td>
 <td colspan='2'><ul>
 <li>To change a password, Users must hold down Ctrl + Alt + Delete on their keyboard and select 'Change Password'. They cannot change their password more than once in 48 hours.</li>
-<li>If the password requires resetting, the Self Service Password Reset (SSPR) utility must be used and can be accessed via: <a href="https://accountselfservice.dom1.infra.int/pmf/SelfService/Main.html">https://accountselfservice.dom1.infra.int/pmf/SelfService/Main.html</a>.</li>
+<li>If the password requires resetting, contact the Technology Service Desk on 0800 917 5148.</li>
 </ul></td>
 </tr>
 <tr valign='top'>
@@ -106,7 +113,7 @@ Shut-down:
 <tr valign='top'>
 <td>Acceptable use</td>
 <td colspan='2'><ul>
-<li>The system must only be used in accordance with the [ORGANISATION] Acceptable Use Policy [Ref, 3].</li>
+<li>The system must only be used in accordance with the [ORGANISATION] <a href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/acceptable-use-policy">Acceptable Use Policy</a>.</li>
 <li>The system must only be used for the business purposes for which it is intended.</li>
 <li>Any attempt to use it for other reasons may constitute a disciplinary offence.</li>
 </ul></td>
@@ -135,7 +142,7 @@ Shut-down:
 <td>Removable media</td>
 <td colspan='2'><ul>
 <li>No System media or document is to be removed from the building without prior authorisation from the Information Asset Owner.</li>
-<li>All media and documents exported from the system must be registered in the media/document register and clearly marked with their protective marking in accordance with the Information Classification and Handling Policy [Ref, 3].</li>
+<li>All media and documents exported from the system must be registered in the media/document register and clearly marked with their protective marking in accordance with the <a href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/information-classification-and-handling-policy/">Information Classification and Handling Policy</a>.</li>
 <li>When a media/document is sent outside the [ORGANISATION] to an external body the following procedures must be adhered to:<ul>
 <li>The export must be covered by an Information Sharing Agreement between the Authority and the external body which has been approved by the Information Asset Owner.</li>
 <li>Each export must be authorised by the Local/System Manager.</li>
