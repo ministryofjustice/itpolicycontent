@@ -22,7 +22,7 @@ Be sensible when using MOJ IT resources:
 - context is important: remember that security risks can increase when working outside your normal workplace
 - be aware that your use of resources is monitored and that as part of an investigation into a security incident, IT forensic techniques might be used to capture evidence
 - if you have any doubt about whether something is acceptable, ask for clarification or permission first
-- above all, if you think there is a problem, [report it](mailto:itservicedesk@justice.gsi.gov.uk) or ask for help
+- above all, if you think there is a problem, [report it](https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/) or ask for help
 
 The way you use IT is important, because it indicates your approach to work, and can be taken into account when assessing your behaviour and performance.
 
@@ -77,7 +77,7 @@ If you get an email from anyone or anywhere that you are not sure about, remembe
 - don't open any attachments
 - don't click on any links in the email
 
-If there is any doubt, or you are worried that the [email might be malicious](https://intranet.justice.gov.uk/news/ntk-phishing-dont-take-the-bait/) or inappropriate, [report it immediately](mailto:itservicedesk@justice.gsi.gov.uk) as an IT security incident.
+If there is any doubt, or you are worried that the [email might be malicious](https://intranet.justice.gov.uk/news/ntk-phishing-dont-take-the-bait/) or inappropriate, [report it immediately](https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/) as an IT security incident.
 
 ## Personal use of MOJ IT
 
@@ -92,16 +92,6 @@ You should also [ask](https://intranet.justice.gov.uk/guidance/security/it-compu
 ## Avoid using removable media
 
 Removable media like memory sticks are portable and easy-to-use. Unfortunately, this makes them a security risk, so [avoid using them](https://intranet.justice.gov.uk/guidance/security/it-computer-security/removable-media/). If however they are essential to your work, please follow the [Use of Removable Media policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/removable-media/).
-
-## And finally...
-
-There are five simple things we can all do to protect ourselves online:
-
-1. Use a strong password to protect your laptop, computer and mobile devices, following [NCSC guidance](https://www.cyberaware.gov.uk/passwords).
-2. Think before clicking on links or attachments within emails - if you are unsure if an email is genuine, [contact your IT or security team](mailto:itservicedesk@justice.gsi.gov.uk). By hovering your cursor over the link you can see the actual URL.
-3. Do not use your work email address to register for accounts on websites for personal use, such as shopping websites. This could open up your work email account to spam and fraudulent emails which could harm your department’s IT system.
-4. Protect your online identity - do not disclose sensitive information regarding your work on social media or online professional networks.
-5. Do not disclose your level of vetting on social media or online professional networks. By disclosing your level of vetting you are advertising the level of information you have access to and could make yourself a target of malicious individuals.
 
 <table border='1'>
 <tr>
