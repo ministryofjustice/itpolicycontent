@@ -27,13 +27,13 @@ The Department monitors the use of electronic communications and web-browsing ac
 
 ### What websites can I access?
 
-As part of the move to new technology, we are updating the department's approach to web site access. By default, we try to allow access to the entire internet for all users. There will be some restrictions, for the following reasons:
+As part of the move to new technology, we are updating the department's approach to website access. By default, we try to allow access to the entire internet for all users. There will be some restrictions, for the following reasons:
 
 - **Cyber security** - the site poses an unacceptable risk to the security of the MoJ's infrastructure or users.
 - **Technical** - the site causes technical issues which interfere with business activities. For example, a video site uses too much network capacity.
 - **Business Policy** - business reasons mean we must restrict access to the site for an individual or group of users.
 
-The list of web sites included in each of the categories is as small as possible. But if you cannot access a site that you think should be OK, you can request a review.
+The list of websites included in each of the categories is as small as possible. But if you cannot access a site that you think should be OK, you can request a review.
 
 [This document](https://intranet.justice.gov.uk/guidance/security/it-computer-security/web-browsing-security-policy-profiles/) lists the MoJ rules that apply to the DOM1 and Win10 and infrastructure. It describes the website categories that are either permitted or blocked.
 
@@ -41,7 +41,7 @@ The list of web sites included in each of the categories is as small as possible
 The categories are based on the [Forcepoint definitions](https://www.forcepoint.com/master-database-url-categories).
 -->
 
-### What to do if you are blocked from a web site that you think should be OK
+### What to do if you are blocked from a website that you think should be OK
 
 Log an incident with your [Service Desk](#service-desks).
 
