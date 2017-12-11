@@ -10,50 +10,50 @@ title: Web browsing security
 </tr>
 </table>
 
-The MOJ provides access to the Intranet and Internet for business use, to help you to do your job effectively and efficiently. Your use of these facilities is governed by the MoJ security policies.
+The MOJ provides access to the Intranet and Internet for business use. The access helps you to do your job effectively and efficiently. MoJ security policies governs your use of these facilities.
 
-Reasonable personal use is allowed, provided that:
+Reasonable [personal use is allowed](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/it-acceptable-use-policy/), if:
 
-- it is sanctioned by your line manager
+- your line manager agrees
 - it does not interfere with the performance of your duties
 
 You and your manager are responsible for ensuring that you use these systems responsibly.
 
-If you accidentally connect to a website that contains unsuitable, illegal or offensive material, you must disconnect from the site immediately and inform your [Service Desk](#service-desks).
+If you connect to a website that contains unsuitable, illegal or offensive material:
+- disconnect from the site immediately
+- inform your [Service Desk](#service-desks)
 
-The Department will monitor the use of electronic communications and web-browsing. Your manager can request reports detailing your activity if they suspect inappropriate use of email or web-browsing facilities.
+The Department monitors the use of electronic communications and web-browsing activity. If your email use or web browsing seems unacceptable, your manager can request detailed activity reports.
 
 ### What websites can I access?
 
-As part of the move to new technology, we are updating the department's approach to what is permitted. By default, this allows access to the entire internet for all users. There will be some restrictions and these will only be for the following reasons:
+As part of the move to new technology, we are updating the department's approach to web site access. By default, we try to allow access to the entire internet for all users. There will be some restrictions, for the following reasons:
 
 - **Cyber security** - the site poses an unacceptable risk to the security of the MoJ's infrastructure or users.
-- **Technical** - the site causes technical issues which interfere with business activities, for example by over-consumption of available bandwidth.
-- **Business Policy** - there are agreed business reasons for restricting access to the site for an individual or group of users.
+- **Technical** - the site causes technical issues which interfere with business activities. For example, a video site uses too much network capacity.
+- **Business Policy** - business reasons mean we must restrict access to the site for an individual or group of users.
 
-All three categories will be kept minimal but all users who experience a blocked site will be able to query the block, and request it be reviewed.
+The list of web sites included in each of the categories is as small as possible. But if you cannot access a site that you think should be OK, you can request a review.
 
-This document sets out MoJ's rule set applied to the DOM1 and Win10 and infrastructure, and describes the website categories that are either permitted or blocked.
-
-Internet policy group and blocked URL categories are listed [here](https://intranet.justice.gov.uk/guidance/security/it-computer-security/web-browsing-security-policy-profiles/).
+[This document](https://intranet.justice.gov.uk/guidance/security/it-computer-security/web-browsing-security-policy-profiles/) lists the MoJ rules that apply to the DOM1 and Win10 and infrastructure. It describes the website categories that are either permitted or blocked.
 
 <!--
 The categories are based on the [Forcepoint definitions](https://www.forcepoint.com/master-database-url-categories).
 -->
 
-### What to do if a website is blocked?
+### What to do if you are blocked from a web site that you think should be OK
 
 Log an incident with your [Service Desk](#service-desks).
 
 Provide the following details:
 
-- URL of the website visited
-- Time the site was visited
+- The address of the website
+- Time you visited the site
 - The details of any block message that you received
 
 The Service Desk will investigate the reason why you are blocked from the website.
 
-Where there has been a system error or fault, remedial action will be taken to restore access.
+If there was a system error or fault, remedial action will be taken to restore access.
 
 If the block is due to one of the restrictions, Operational Security will review whether access to the site should be permitted or not.
 
