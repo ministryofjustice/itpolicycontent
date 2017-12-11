@@ -194,8 +194,8 @@ In the case of any IT security or data loss incident please contact:
 
 | Contact | E-mail | Telephone |
 | --- | --- | --- |
-| MoJ Operational Security Team (OST) | [operationalsecurityteam@justice.gsi.gov.uk](mailto:operationalsecurityteam@justice.gsi.gov.uk) | ![](https://intranet.justice.gov.uk/app/uploads/2017/12/cd22de7be3ae15073df84123a112d7fc.gif)&nbsp; |
-| IT Service Desk (Atos) | [itservicedesk@justice.gsi.gov.uk](mailto:itservicedesk@justice.gsi.gov.uk) | ![](https://intranet.justice.gov.uk/app/uploads/2017/12/a8df58bc98d43d1d8aca02ebafe52535.gif)&nbsp; |
+| MoJ Operational Security Team (OST) | ![](https://intranet.justice.gov.uk/app/uploads/2017/12/c44e91c8a5d308c4953ef918b987f543.gif)&nbsp; | ![](https://intranet.justice.gov.uk/app/uploads/2017/12/cd22de7be3ae15073df84123a112d7fc.gif)&nbsp; |
+| IT Service Desk (Atos) | ![](https://intranet.justice.gov.uk/app/uploads/2017/12/e6404c31d65821489a775401ce4b941d.gif)&nbsp; | ![](https://intranet.justice.gov.uk/app/uploads/2017/12/a8df58bc98d43d1d8aca02ebafe52535.gif)&nbsp; |
 
 <a id="dmf"></a>
 

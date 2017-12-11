@@ -69,7 +69,9 @@ Applicable to anyone who has access to any of the safes:
 
 If there has been any damage to any of the encryption stored at the MoJ:
 
-* Notify CESG immediately on ![](https://intranet.justice.gov.uk/app/uploads/2017/12/c97cec6a24ba44134981b3e601921465.gif)&nbsp; notifying them of the event and request an immediate record of holdings list.
-* A CINRAS report must be generated and issued to [cinras@cesg.gsi.gov.uk](mailto:cinras@cesg.gsi.gov.uk) and a copy to [OperationalSecurityTeam@justice.gsi.gov.uk](mailto:OperationalSecurityTeam@justice.gsi.gov.uk)
-* A muster of all key variables and a check against the record of holding list undertaken and an order to CESG raised of any replacement key variables.
-* Upon receipt of a replacement key variable emergency plans to change the key variable of the associated product must begin.
+<ul>
+<li>Notify CESG immediately on:<br/><img src="https://intranet.justice.gov.uk/app/uploads/2017/12/c97cec6a24ba44134981b3e601921465.gif">&nbsp;<p>notifying them of the event and request an immediate record of holdings list.</li>
+<li>A CINRAS report must be generated and issued to:<br/> <img src="https://intranet.justice.gov.uk/app/uploads/2017/12/6f8b0a98bc52a36e2d1362d7100db8aa.gif">&nbsp;<p>and a copy to the Operational Security Team:<br/><img src="https://intranet.justice.gov.uk/app/uploads/2017/12/c44e91c8a5d308c4953ef918b987f543.gif">&nbsp;</li>
+<li>A muster of all key variables and a check against the record of holding list undertaken and an order to CESG raised of any replacement key variables.</li>
+<li>Upon receipt of a replacement key variable emergency plans to change the key variable of the associated product must begin.</li>
+</ul>
