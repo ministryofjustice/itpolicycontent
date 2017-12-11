@@ -69,7 +69,7 @@ Applicable to anyone who has access to any of the safes:
 
 If there has been any damage to any of the encryption stored at the MoJ:
 
-* Notify CESG immediately on 01242 221491 extension 31950 notifying them of the event and request an immediate record of holdings list.
+* Notify CESG immediately on ![](https://intranet.justice.gov.uk/app/uploads/2017/12/c97cec6a24ba44134981b3e601921465.gif)&nbsp; notifying them of the event and request an immediate record of holdings list.
 * A CINRAS report must be generated and issued to [cinras@cesg.gsi.gov.uk](mailto:cinras@cesg.gsi.gov.uk) and a copy to [OperationalSecurityTeam@justice.gsi.gov.uk](mailto:OperationalSecurityTeam@justice.gsi.gov.uk)
 * A muster of all key variables and a check against the record of holding list undertaken and an order to CESG raised of any replacement key variables.
 * Upon receipt of a replacement key variable emergency plans to change the key variable of the associated product must begin.

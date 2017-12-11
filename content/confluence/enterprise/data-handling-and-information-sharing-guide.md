@@ -194,8 +194,8 @@ In the case of any IT security or data loss incident please contact:
 
 | Contact | E-mail | Telephone |
 | --- | --- | --- |
-| MoJ Operational Security Team (OST) | [operationalsecurityteam@justice.gsi.gov.uk](mailto:operationalsecurityteam@justice.gsi.gov.uk) | 0161 238 6165 |
-| IT Service Desk (Atos) | [itservicedesk@justice.gsi.gov.uk](mailto:itservicedesk@justice.gsi.gov.uk) | 0800 021 7233 (or *100) |
+| MoJ Operational Security Team (OST) | [operationalsecurityteam@justice.gsi.gov.uk](mailto:operationalsecurityteam@justice.gsi.gov.uk) | ![](https://intranet.justice.gov.uk/app/uploads/2017/12/cd22de7be3ae15073df84123a112d7fc.gif)&nbsp; |
+| IT Service Desk (Atos) | [itservicedesk@justice.gsi.gov.uk](mailto:itservicedesk@justice.gsi.gov.uk) | ![](https://intranet.justice.gov.uk/app/uploads/2017/12/a8df58bc98d43d1d8aca02ebafe52535.gif)&nbsp; |
 
 <a id="dmf"></a>
 
