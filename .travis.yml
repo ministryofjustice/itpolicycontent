@@ -1,0 +1,13 @@
+addons:
+  apt:
+    packages:
+      - aspell
+      - aspell-en
+
+script:
+  scripts/checkSpelling.sh
+
+notifications:
+  email:
+    recipients:
+      - adrian.warman@digital.justice.gov.uk
