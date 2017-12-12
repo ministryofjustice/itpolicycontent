@@ -80,7 +80,7 @@ MoJ's ICT security policy forms part of MoJ's corporate security policy.
 
 - Corporate security policy
 
-IT systems are crucial in delivering the Department's core business activities effectively and all staff are required to understand their obligations in how to 
+IT systems are crucial in delivering the Department's core business activities effectively and all staff are required to understand their obligations in how to
 safeguard MoJ data and how to use IT appropriately.
 
 The ICT security policy framework is designed to;
@@ -244,7 +244,8 @@ All media should be securely disposed of. Electronic media that have been used t
 
 All computers, laptops and personal electronic devices, must be returned to the ICT service provider for re-use and disposal.
 
-For re-use and disposal of any locally purchased ICT equipment, contact [OperationalSecurityTeam@justice.gsi.gov.uk](mailto:OperationalSecurityTeam@justice.gsi.gov.uk) for advice.
+For re-use and disposal of any locally purchased ICT equipment, contact the Operational SecurityTeam for advice:<br/>
+![](https://intranet.justice.gov.uk/app/uploads/2017/12/c44e91c8a5d308c4953ef918b987f543.gif) &nbsp;
 
 ## ICT Security Incidents
 
@@ -306,7 +307,7 @@ In this section:
 
 ### Malicious software
 
-Malicious software covers all software, which has been deliberately designed to harm computer systems, software and/or corrupt information. Malicious 
+Malicious software covers all software, which has been deliberately designed to harm computer systems, software and/or corrupt information. Malicious
 software takes several forms, categorised according to mode of transmission or execution. You may hear the terms Viruses, Trojan Horses, Logic Bombs and Worms to describe these different types.
 
 ### Sources of malicious software

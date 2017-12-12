@@ -20,9 +20,9 @@ This document is the MoJ IT Security – Protective Marking Guide. It is designe
 
 ### How to use this document
 
-The purpose of this guide is to provide a consistent approach on the application of the Government Protective Marking System (GPMS) to information assets held on MoJ ICT systems. 
+The purpose of this guide is to provide a consistent approach on the application of the Government Protective Marking System (GPMS) to information assets held on MoJ ICT systems.
 
-## Overview 
+## Overview
 
 ### Introduction
 
@@ -30,13 +30,13 @@ The purpose of this guide is to provide a consistent approach on the application
 
 > Departments and Agencies must ensure that information assets are valued, handled, shared and protected in line with the standards and procedures set out in the Government Protective Marking System (including any special handling arrangements) and the associated technical guidance supporting this framework.
 
-The policy on information classification is covered in the [IT Security – Information Classification and Handling Policy][ichp] while this document sets out the MoJ guidance applying a Protective Marking to information held in an electronic format on MoJ ICT systems. 
+The policy on information classification is covered in the [IT Security – Information Classification and Handling Policy][ichp] while this document sets out the MoJ guidance applying a Protective Marking to information held in an electronic format on MoJ ICT systems.
 
 ### Scope
 
-This document is intended to provide guidance on the application of the Government Protective Marking System in MoJ ICT Systems including ICT systems hosted by third party suppliers on behalf of the MoJ. 
+This document is intended to provide guidance on the application of the Government Protective Marking System in MoJ ICT Systems including ICT systems hosted by third party suppliers on behalf of the MoJ.
 
-The MoJ Central Information Assurance (IA) team provide general guidance on what Protective Marking to select for a particular information asset and how to handle it. This guide concentrates on providing guidance on how to appropriately apply this marking to a MoJ ICT system. 
+The MoJ Central Information Assurance (IA) team provide general guidance on what Protective Marking to select for a particular information asset and how to handle it. This guide concentrates on providing guidance on how to appropriately apply this marking to a MoJ ICT system.
 
 ### Demonstration of Compliance
 
@@ -105,14 +105,14 @@ Figure 3 - Example application of a protective marking to an e-mail
 
 ### Applications and databases
 
-An applications or database, such as a case management system, hold a variety of different information assets which can all attract different Protective Markings. The marking of information assets held within an application needs to be clear and visually apparent to the end User. This becomes important when information held on an application is exported either as a document (see [here](#documents-and-reports) ) or as a data export (see [here](#data-exports) ). 
+An applications or database, such as a case management system, hold a variety of different information assets which can all attract different Protective Markings. The marking of information assets held within an application needs to be clear and visually apparent to the end User. This becomes important when information held on an application is exported either as a document (see [here](#documents-and-reports) ) or as a data export (see [here](#data-exports) ).
 
 Within an application the following best practice should be applied:
 
 - The Protective Marking associated with a particular information asset should be recorded within the application or database;
-  - **Note:** The granularity required (e.g. whether a Protective Marking is applied on a per data item level or to a complete record) is determined during the system accreditation process, further details on the process can be found in the [Accreditation Framework][af].
+  - **Note:** The granularity required (e.g. whether a Protective Marking is applied on a per data item level or to a complete record) is determined during the system accreditation process, further details on the process can be found in the [Accreditation Framework][af].
 - Where practical, the high watermark Protective Marking (i.e. the highest Protective Marking of all the information assets) should be visible on each screen where information is displayed to a User and;
-- Prior to any data export, the application should provide a User prompt as to what the Protective Marking is and, if one is not available, provide a mechanism for one to be entered.
+- Prior to any data export, the application should provide a User prompt as to what the Protective Marking is and, if one is not available, provide a mechanism for one to be entered.
 
 <a id="data-exports"></a>
 

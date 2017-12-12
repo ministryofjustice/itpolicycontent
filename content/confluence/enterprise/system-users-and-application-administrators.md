@@ -9,13 +9,6 @@ This is Legacy IA Policy. It is under review and likely to be withdrawn or subst
 </tr>
 </table>
 
-<table border='1'>
-<tr>
-<td>This content is a version of the System Users and Application Administrators policy, May 2015.<br/>
-This is Legacy IA Policy. It is under review and likely to be withdrawn or substantially revised soon. Please contact us before using this on a new project: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=system-users-and-application-administrators">itpolicycontent@digital.justice.gov.uk</a>.</td>
-</tr>
-</table>
-
 ## How to use this document
 
 <table border='1'>
@@ -97,7 +90,7 @@ Shut-down:
 <td>Resetting user passwords</td>
 <td colspan='2'><ul>
 <li>To change a password, Users must hold down Ctrl + Alt + Delete on their keyboard and select 'Change Password'. They cannot change their password more than once in 48 hours.</li>
-<li>If the password requires resetting, contact the Technology Service Desk on 0800 917 5148.</li>
+<li>If the password requires resetting, contact the Technology Service Desk<br/><img src="https://intranet.justice.gov.uk/app/uploads/2017/12/74015bc20bb1c38fb4249c4ef6d3cfed.gif">&nbsp;</li>
 </ul></td>
 </tr>
 <tr valign='top'>
@@ -164,7 +157,7 @@ Shut-down:
 <td colspan='2'><ul>
 <li>All requests for IT support and all reports of IT failures must be logged with the IT Helpdesk.</li>
 <li>Any incident involving a suspected or known security breach involving personnel, hardware, software, communications, document or physical security must be reported immediately to the IT System Manager and the [ORGANISATION] Operational Security Team (OST).</li>
-<li>Any loss of IT equipment, [ORGANISATION] or personal data should be reported to the Users' line manager, the OST and to the Data Access &amp; Compliance Unit (DACU): E-mail <a href="mailto:data.access@justice.gsi.gov.uk">data.access@justice.gsi.gov.uk</a> or ring the Head of the Information Access Division on 0203 334 3798.  To ensure a quick response all emails must be marked Urgent and have 'Data Incident' in the title/subject heading.</li>
+<li>Any loss of IT equipment, [ORGANISATION] or personal data should be reported to the Users' line manager, the OST and to the Data Access &amp; Compliance Unit (DACU): E-mail:<p><img src="https://intranet.justice.gov.uk/app/uploads/2017/12/c9fac47a5249213cb3497406c76c892f.gif">&nbsp;<p><p>or ring the Head of the Information Access Division<p><img src="https://intranet.justice.gov.uk/app/uploads/2017/12/8c987cd67cf8a46d889a6b6f79cdbf3c.gif">&nbsp;<p>To ensure a quick response all emails must be marked Urgent and have 'Data Incident' in the title/subject heading.</li>
 </ul></td>
 </tr>
 </table>
