@@ -2,8 +2,6 @@
 title: Protect Yourself Online
 ---
 
-## Protect Yourself Online
-
 <table border='1'>
 <tr>
 <td>This guidance applies to all staff and contractors who work for the MOJ.</td>
