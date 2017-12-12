@@ -16,7 +16,7 @@ There are five simple things we can all do to protect ourselves online:
 4. Protect your online identity. Do not share sensitive information about your work on social media or online professional networks.
 5. Do not disclose your level of vetting. If you share this information, you advertise what resources you have access to. This could make you a target for malicious individuals.
 
-For more information, see the [Acceptable Use Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/it-acceptable-use-policy/).
+For more information, see the [Acceptable Use Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/acceptable-use/).
 
 <table border='1'>
 <tr>
