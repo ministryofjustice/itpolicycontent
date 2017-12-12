@@ -6,11 +6,11 @@ title: Acceptable use of Information Technology at work
 
 <table border='1'>
 <tr>
-<td>This policy applies to all staff and contractors who work for the MOJ.</td>
+<td>This guidance applies to all staff and contractors who work for the MOJ.</td>
 </tr>
 </table>
 
-Everyone working at the MOJ has access to MOJ Information Technology (IT) resources. You must use them in an acceptable way. This policy explains what that means.
+Everyone working at the MOJ has access to MOJ Information Technology (IT) resources. You must use them in an acceptable way. This guidance explains what that means. The definitive list of Acceptable Use Policy statements is [here](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/it-acceptable-use-policy/).
 
 ## Summary
 
@@ -95,7 +95,7 @@ Removable media like memory sticks are portable and easy-to-use. Unfortunately, 
 
 <table border='1'>
 <tr>
-<td>This policy is dated December 2017, and is an update of the IT Acceptable Use Policy, v1.0, May 2015.<br/>
+<td>This guidance is dated December 2017.<br/>
 To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=acceptable-use">itpolicycontent@digital.justice.gov.uk</a>.</td>
 </tr>
 </table>
