@@ -5,7 +5,8 @@ function preprocess {
 }
 
 function checkFile {
-  cat "$1" | preprocess | aspell -a --encoding=utf-8 --ignore-case --lang=en-gb --add-extra-dicts "$(dirname $0)/localDictionary.en.pws" | grep -v '^[\*@]' | grep -v '^$' | cut -f2 -d ' '
+  # cat "$1" | preprocess | aspell -a --encoding=utf-8 --ignore-case --lang=en-gb --add-extra-dicts "$(dirname $0)/localDictionary.en.pws" | grep -v '^[\*@]' | grep -v '^$' | cut -f2 -d ' '
+  cat "$1" | preprocess | aspell -a --encoding=utf-8 --lang=en-gb --add-extra-dicts "$(dirname $0)/localDictionary.en.pws" | grep -v '^[\*@]' | grep -v '^$' | cut -f2 -d ' '
 }
 
 function changedFiles {
