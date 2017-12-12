@@ -429,6 +429,181 @@ If a virus is detected; do not open or copy any ﬁle(s), remove the device imme
 
 ## Annex C - Removable Media Business Case Form<a id="removable-media-business-case-form">
 
+Record number (field to be completed by OST):
+
+**Before completing this form,** please read the Operational Office Security Notice 003 and Guidelines on
+using removable media devices.
+
+This form should be completed electronically; there is no need for a physical signature.
+
+**1. Application** (to be completed by the person who will be responsible for the removable media)
+
+Full name of person
+responsible for device:
+
+Phone number:
+
+Business area:
+
+Location:
+(office/Court/Tribunal)
+
+Business entity code:
+(for purchase cost)
+
+**Type of media**
+
+CD
+
+DVD
+
+Floppy disc
+
+USB stick
+
+Other
+
+If 'Other'
+Please specify:
+
+Number of devices
+requested:
+
+Why is this type of media required?
+
+
+**Period required**
+
+Fixed period
+
+Indefinite
+
+If fixed, start date:
+If fixed, end date:
+
+What information needs to be transferred or stored? Please give as much detail as possible, including the nature of the information being transferred, and the file size, if known.
+
+Is the data subject to the Data Protection Act?
+(i.e. does the data contain personal information)?
+
+Yes
+
+No
+
+If the data is subject to the Data Protection Act, please give details of the type of information.
+
+
+What is the highest protective marking of the data?
+
+NOT PROTECTIVELY MARKED
+
+PROTECT
+
+RESTRICTED
+
+CONFIDENTIAL
+
+SECRET
+
+TOP SECRET
+
+Who will supply the information? Is the data coming from an individual or an application? Please give the name of either the person or the application that is supplying the information.
+
+
+
+To which organisation or individuals is the information being sent?
+
+
+
+Is this a one off data transfer or the first of a series? If this is the first of a series, please give details.
+
+
+
+Why does the data need to be transferred? Explain why it is necessary to provide the information.
+
+
+
+What alternative methods of transferring the data have been considered, and why have they been rejected?
+
+
+
+How will the media be physically protected while in transit? (Possible methods include: trusted delivery service, by hand, signed for postal service.)
+
+
+
+How will the media be accounted for? Is there a procedure for recording its despatch and receipt?
+
+
+
+Name of Information
+Asset Owner (IAO):
+
+Does the IAO agree that removable media is required and unavoidable?
+
+Yes
+
+No
+
+Is the IAO content with the proposed controls on the movement, storage and usage of the information, taking into account data protection and security considerations?
+
+Yes
+
+No
+
+
+**2. Approval** (to be completed by a member of the SCS, (Grade 5 or above))
+
+I approve this business case. I confirm it has been completed fully and accurately to the best of my knowledge. I confirm that the person responsible for the removable media has been issued with a copy of Operational Office Security Notice 003 and Guidelines on using removable media devices.
+
+Name of SCS
+approver:
+
+Grade:
+
+Date of approval:
+
+The approving manager should now send the completed form to: [operationalsecurityteam@justice.gsi.gov.uk](operationalsecurityteam@justice.gsi.gov.uk).
+
+
+**3. OST assessment** (to be completed by the Operational Security Team)
+
+OST assessment
+
+
+OST recommendation, including any recommended special conditions of approval
+
+
+Name of OST analyst:
+
+
+**4. Authorisation** (to be completed by the decision maker)
+
+Application:
+
+approved
+
+refused
+
+Approval reference:
+(only required for USB memory sticks)
+
+Special conditions of approval, if applicable
+
+
+Reason for refusal, if applicable
+
+
+Additional notes
+
+
+Name of person making this decision
+
+
+Position/role of person making this decision
+
+
+Date
+
 
 
 
