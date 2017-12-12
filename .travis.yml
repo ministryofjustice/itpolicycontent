@@ -15,3 +15,5 @@ notifications:
   email:
     recipients:
       - adrian.warman@digital.justice.gov.uk
+    on_success: always
+    on_failure: always
