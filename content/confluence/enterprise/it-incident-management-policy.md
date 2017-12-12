@@ -82,7 +82,7 @@ For all incidents involving an IT Security incident, an IT Security Incident Rep
 
 **POL.IMP.004:**
 
-All IT Security incidents involving personal data (or other information assets) **must be** reported to MoJ [Data Access and Compliance Unit](mailto:Data.access@justice.gsi.gov.uk).
+All IT Security incidents involving personal data (or other information assets) **must be** reported to MoJ Data Access and Compliance Unit:<br/>![](https://intranet.justice.gov.uk/app/uploads/2017/12/c9fac47a5249213cb3497406c76c892f.gif) &nbsp;
 
 The MoJ Operation Security Team (OST) is responsible for maintaining a centralised database and view of all IT Security incidents across any MoJ IT system. This database contains information on:
 
@@ -146,7 +146,9 @@ Examples of a medium level impact event include (but not limited to):
 
 #### High Impact Incident
 
-IT Security incidents at this level require immediate escalation to the relevant MoJ Business Group Senior Information Risk Owner (SIRO) in addition to the OST and where applicable, MoJ [Data Access and Compliance Unit](mailto:Data.access@justice.gsi.gov.uk). Incident at this impact may warrant forensic investigation.
+IT Security incidents at this level require immediate escalation to the relevant MoJ Business Group Senior Information Risk Owner (SIRO) in addition to the OST and where applicable, MoJ Data Access and Compliance Unit:<br/> ![](https://intranet.justice.gov.uk/app/uploads/2017/12/c9fac47a5249213cb3497406c76c892f.gif)&nbsp;
+
+Incident at this impact may warrant forensic investigation.
 
 Examples of incidents at the level include (but are not limited to):
 
@@ -263,7 +265,7 @@ The OST **must maintain** files on any investigation undertaken.
 
 **POL.ITSEC.017:**
 
-Any diagnosis of an IT Security incident and the events surrounding it **must be** shared and reported to relevant stakeholders. 
+Any diagnosis of an IT Security incident and the events surrounding it **must be** shared and reported to relevant stakeholders.
 
 ### Resolution, Recovery and Incident Closure
 
@@ -301,7 +303,7 @@ Copies of the report must be sent to the ITSO who has a responsibility for forwa
 
 **POL.ITSEC.021:**
 
-For each Medium and High impact (see [here](#categorisation-of-incidents) ) IT Security incident, a management report **must be** prepared covering: 
+For each Medium and High impact (see [here](#categorisation-of-incidents) ) IT Security incident, a management report **must be** prepared covering:
 - A description of the incident;
 - The outcome of the incident investigation;
 - Actions raised (or taken) with associated action owners;

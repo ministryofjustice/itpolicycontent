@@ -1,8 +1,8 @@
 ---
-title: Web browsing security policy profiles (Original)
+title: Web browsing security policy profiles
 ---
 
-## Web browsing security policy profiles (Original)
+## Web browsing security policy profiles
 
 <table border='1'>
 <tr valign='top'>
@@ -18,8 +18,8 @@ Please see the table below for details of all the policy groups:
 
 | Group No | User community | Web restriction policy group | Webmail permitted | Activity logged | Activity reported |
 |---|---|---|---|---|---|
-| 1 | Judiciary | No Restrictions in place | Y – By default | Y | N- By default Reporting is permitted by appropriate judicial sanction |
-| 2 | Unrestricted with webmail | No Restrictions in place | Y- By default | Y | Y |
+| 1 | Judiciary | No Restrictions in place | Y – By default | Y | N - By default Reporting is permitted by appropriate judicial sanction |
+| 2 | Unrestricted with webmail | No Restrictions in place | Y - By default | Y | Y |
 | 3 | Unrestricted without webmail  | Limited Restrictions in place | N | Y | Y |
 | 4 | Social networking | Limited Restrictions in place | N | Y | Y |
 | 5 | All Users | Standard Internet profile | N | Y | Y |
@@ -75,7 +75,7 @@ Please see the table below for details of all the policy groups:
 
 <table border='1'>
 <tr valign='top'>
-<td>This policy is dated October 2017.<br/>
-To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=web-browsing-security-policy-profiles-original">itpolicycontent@digital.justice.gov.uk</a>.</td>
+<td>This policy is dated December 2017.<br/>
+To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=web-browsing-security-policy-profiles">itpolicycontent@digital.justice.gov.uk</a>.</td>
 </tr>
 </table>

@@ -25,7 +25,7 @@ This document is designed to help System Administrators use and access [ORGANISA
 
 ### When and how should these procedures be used?
 
-This document contains security procedures and advice specifically relevant to the role of system administrator. System administrators should also be compliant with the System User System Operating Procedures (SyOps) [Ref, 2], which should be read in conjunction with this guide.
+This document contains security procedures and advice specifically relevant to the role of system administrator. System administrators should also be compliant with the System User System Operating Procedures (SyOps), which should be read in conjunction with this guide.
 
 System Administrators' Security Awareness training will cover these procedures.
 
@@ -50,7 +50,7 @@ If this document does not provide all the security related information needed, p
 </tr>
 <tr valign='top'>
 <td>Identification and authentication</td>
-<td><ul><li>User accounts must only be created once authorisation has been received from that User’s line manager. Permissions granted must be commensurate to the User’s business role, and are only to be enabled once a signed copy of the normal system user SyOps [Ref, 2] has been received from the User.</li>
+<td><ul><li>User accounts must only be created once authorisation has been received from that User’s line manager. Permissions granted must be commensurate to the User’s business role, and are only to be enabled once a signed copy of the normal system user SyOps has been received from the User.</li>
 <li>Account usage should be reviewed on regular intervals. If an account is dormant, the System Administrator must investigate its status and disable the account if appropriate.</li>
 <li>All User &amp; Administrator accounts must be disabled when staff members leave the organisation or where the account is not required.</li>
 <li>Administrator level accounts must only be used when carrying out administrative tasks; at all other times a Normal User account must be used.</li></ul></td>
@@ -63,7 +63,7 @@ If this document does not provide all the security related information needed, p
 </tr>
 <tr valign='top'>
 <td>Patch management</td>
-<td><ul><li>All system software must be kept patched and up-to-date in accordance with the [ORGANISATION] Patch Management Standard [Ref, 4].</li>
+<td><ul><li>All system software must be kept patched and up-to-date in accordance with the [ORGANISATION] Patch Management Standard.</li>
 <li>If one exists, a security patch must be tested in the non-live test environment.</li>
 <li>The system administrator is responsible for:
 <ul><li>Verifying the origin and authenticity of the patch;</li>
@@ -81,7 +81,7 @@ If this document does not provide all the security related information needed, p
 </tr>
 <tr valign='top'>
 <td>Passwords</td>
-<td><ul><li>Administrator passwords must be created in line with the [ORGANISATION] Password Standard [Ref, 3]. Passwords must be a minimum of 12 characters long and use a mix of lower case, upper case, numbers and special characters.</li>
+<td><ul><li>Administrator passwords must be created in line with the [ORGANISATION] Password Standard. Passwords must be a minimum of 12 characters long and use a mix of lower case, upper case, numbers and special characters.</li>
 <li>The password for an Administrator account must not be re-used with another Administrator or Normal User account.</li></ul></td>
 </tr>
 <tr valign='top'>
@@ -92,7 +92,7 @@ If this document does not provide all the security related information needed, p
 <tr valign='top'>
 <td>Incident Management &amp; response</td>
 <td><ul><li>Any incident involving a suspected or known security breach involving personnel, hardware, software, communications, document or physical security must be reported immediately to the System Administrator's System Manager, and the [ORGANISATION] Operational Security Team (OST).</li>
-<li>Any loss of IT equipment, [ORGANISATION] or personal data should be reported to the System Administrator's line manager, the [ORGANISATION] OST and to the Data Access &amp; Compliance Unit (DACU): email <a href="mailto:data.access@justice.gsi.gov.uk">data.access@justice.gsi.gov.uk</a> or ring the Head of the Information Access Division on 0203 334 3798. To ensure a quick response all emails should be marked Urgent and have 'Data Incident' in the title/subject heading.</li></ul></td>
+<li>Any loss of IT equipment, [ORGANISATION] or personal data should be reported to the System Administrator's line manager, the [ORGANISATION] OST and to the Data Access &amp; Compliance Unit (DACU): email:<br/><img src="https://intranet.justice.gov.uk/app/uploads/2017/12/c9fac47a5249213cb3497406c76c892f.gif"><p>or ring the Head of the Information Access Division<br/><img src="https://intranet.justice.gov.uk/app/uploads/2017/12/8c987cd67cf8a46d889a6b6f79cdbf3c.gif"><p>To ensure a quick response all emails should be marked Urgent and have 'Data Incident' in the title/subject heading.</li></ul></td>
 </tr>
 </table>
 

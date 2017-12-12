@@ -1,4 +1,4 @@
-﻿---
+---
 title: technical-controls-policy
 ---
 
@@ -42,7 +42,7 @@ The development and operation of an ICT system follows a project lifecycle from 
 
 **POL.TCP.004:**
 
-The selection of technical security controls **must be** based on a technical risk assessment. For systems covered under the accreditation process, this is an assessment conducted following HMG Information Assurance Standard No. 1 & 2 [Ref, 7]
+The selection of technical security controls **must be** based on a technical risk assessment. For systems covered under the accreditation process, this is an assessment conducted following HMG Information Assurance Standard No. 1 & 2.
 
 **POL.TCP.005:**
 
@@ -66,7 +66,7 @@ All ICT systems **must enforce** separation between test environments and live o
 
 **POL.TCP.010:**
 
-All ICT systems **must be** tested in line with ICT Security – System Testing Standard [Ref, 25], this includes conducting a secure code review.
+All ICT systems **must be** tested in line with ICT Security – System Testing Standard, this includes conducting a secure code review.
 
 ### Protection of system test data
 
@@ -78,7 +78,7 @@ Where an ICT system uses live test data or test data which attracts a HMG protec
 
 ## Assurance and Compliance
 
-The MoJ ICT Security Policy [Ref, 1] describes how the MoJ manages information security risk and the information assurance arrangements in place to ensure that any information security controls adopted are adequate and operating correctly.
+The [MoJ ICT Security Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/ict-security-policy/) describes how the MoJ manages information security risk and the information assurance arrangements in place to ensure that any information security controls adopted are adequate and operating correctly.
 
 ### Compliance to HMG Information Assurance Standards
 
@@ -86,13 +86,13 @@ For IT systems operating in an HMG environment, general security standards are p
 
 **POL.TCP.012:**
 
-All ICT systems **must ensure** that they comply with HMG Information Assurance standards. This includes the assessment of technical risk, selection of controls and their implementation. For systems undergoing the accreditation process, the primary reference is HMG Information Assurance Standard No. 1 & 2 [Ref, 7].
+All ICT systems **must ensure** that they comply with HMG Information Assurance standards. This includes the assessment of technical risk, selection of controls and their implementation. For systems undergoing the accreditation process, the primary reference is HMG Information Assurance Standard No. 1 & 2.
 
 ### Technical review of operational changes
 
 **POL.TCP.013:**
 
-All ICT systems **must have** all operational changes reviewed and approved by MoJ ICT IA prior to any system change. This is to ensure the risk profile of a system is not significantly altered by the change and that any required technical security controls have been considered. 
+All ICT systems **must have** all operational changes reviewed and approved by MoJ ICT IA prior to any system change. This is to ensure the risk profile of a system is not significantly altered by the change and that any required technical security controls have been considered.
 
 **Note:** An Accreditor may decide that a particular system change requires a revision to that system’s accreditation. This could involve updating the RMADS where appropriate.
 
@@ -110,11 +110,11 @@ Where an ICT system is provided under contract, that contract **must specify** t
 
 **POL.TCP.016:**
 
-Where IT equipment for MoJ ICT systems are located at a third party site, the security of these assets **must be** documented and agreed with MoJ ICT IA. 
+Where IT equipment for MoJ ICT systems are located at a third party site, the security of these assets **must be** documented and agreed with MoJ ICT IA.
 
-Physical security is the responsibility of MoJ Corporate security and business continuity branch where further information can be found at [Ref, 13].
+Physical security is the responsibility of MoJ Corporate security and business continuity branch where further information can be found at.
 
-**Note** – Buildings and premises used to store and process HMG protectively marked information need to meet a specified HMG standard, this includes supplier premises. MoJ Corporate security and business continuity branch [Ref, 13] must be consulted and can provide further advice.
+**Note** – Buildings and premises used to store and process HMG protectively marked information need to meet a specified HMG standard, this includes supplier premises. MoJ Corporate security and business continuity branch must be consulted and can provide further advice.
 
 An example of where IT Security controls are influenced by the physical environment is where a desktop terminal (with access to sensitive information) is located in an area where it can be overlooked by members of the public. Supplementary technical and procedural controls are required to balance the additional risk posed.
 
@@ -130,7 +130,7 @@ Any technical risk assessment **must examine** the risks associated with cabling
 
 **POL.TCP.018:**
 
-All ICT systems **must consider** the need to separate cable trunking where justified by the Business Impact Assessment (BIA) and risk assessment. Further advice can be sort from MoJ Corporate security and business continuity branch [Ref, 13].
+All ICT systems **must consider** the need to separate cable trunking where justified by the Business Impact Assessment (BIA) and risk assessment. Further advice can be sort from MoJ Corporate security and business continuity branch.
 
 Network cabling in particular is prone to electronic interference or interception. For policy relating to this see Section 4.3.
 
@@ -144,8 +144,7 @@ Equipment **must be** appropriately maintained to ensure continued availability 
 
 **POL.TCP.020:**
 
-All ICT systems **must provide** documented evidence of a maintenance regime or support arrangements. This could be within an RMADS or
-referenced support agreement/contract.
+All ICT systems **must provide** documented evidence of a maintenance regime or support arrangements. This could be within an RMADS or referenced support agreement/contract.
 
 **POL.TCP.021:**
 
@@ -164,7 +163,7 @@ Any piece of ICT equipment which has been taken offsite for maintenance or repai
 
 **POL.TCP.023:**
 
-Where sanitisation of a piece of ICT equipment is required prior to any maintenance or repair, this **must be** completed according to HMG Information Assurance Standard No. 5 [Ref, 9].
+Where sanitisation of a piece of ICT equipment is required prior to any maintenance or repair, this **must be** completed according to HMG Information Assurance Standard No. 5.
 
 **POL.TCP.024:**
 
@@ -178,7 +177,7 @@ IT systems which process or handle protectively marked information can produce u
 
 **POL.TCP.025:**
 
-Where a technical risk assessment has indicated that TEMPEST threats pose a risk to an ICT system, TEMPEST controls must be considered. The application controls **must follow** CESG Good Practice Guide No. 14 [Ref, 12].
+Where a technical risk assessment has indicated that TEMPEST threats pose a risk to an ICT system, TEMPEST controls must be considered. The application controls **must follow** CESG Good Practice Guide No. 14.
 
 ## Identity and Access Management Policy
 
@@ -186,7 +185,7 @@ Where a technical risk assessment has indicated that TEMPEST threats pose a risk
 
 Access to IT systems must be controlled on the basis of business need and security requirements. Access control rules and rights for each user or group of users must be clearly stated in an access control statement (within an RMADS or other referenced security documentation) and assessed through a Business Impact Assessment (BIA).
 
-For end Users, this is presented through an IT system’s Security Operating Procedures (SyOPs). Further details provided in ICT Security – Acceptable Use Policy [Ref, 2].
+For end Users, this is presented through an IT system’s Security Operating Procedures (SyOPs). Further details provided in [ICT Security – Acceptable Use Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/it-acceptable-use-policy/).
 
 **POL.TCP.026:**
 
@@ -202,15 +201,15 @@ Access to an ICT system (and functionality provided) **must be** provided on a �
 
 **POL.TCP.029:**
 
-Any access control solution **must take** into consideration the ICT Security – Information Classification and Handling Policy [Ref, 3].
+Any access control solution **must take** into consideration the [ICT Security – Information Classification and Handling Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/information-classification-and-handling-policy/).
 
 **POL.TCP.030:**
 
-All ICT systems **must define and maintain** an access control schema which aligns to the MoJ ICT Security Policy [Ref, 1].
+All ICT systems **must define and maintain** an access control schema which aligns to the [MoJ ICT Security Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/ict-security-policy/).
 
 **POL.TCP.031:**
 
-All ICT systems **must follow** the ICT Security – Access Control Standard [Ref, 18].
+All ICT systems **must follow** the ICT Security – Access Control Standard.
 
 #### User Identity Management
 
@@ -218,9 +217,9 @@ Management of user identities on IT systems is important to ensure access to ser
 
 **POL.TCP.032:**
 
-All ICT systems **must have** a process for managing User identities covering the full lifecycle (from creation to removal), this includes where a User changes role or business group. This must be in line with ICT Security – Access Control Standard [Ref, 18].
+All ICT systems **must have** a process for managing User identities covering the full lifecycle (from creation to removal), this includes where a User changes role or business group. This must be in line with ICT Security – Access Control Standard.
 
-**Note** – The lifecycle for User identities needs to be mapped onto the MoJ HR processes for new joiners and leavers (see: [http://intranet.justice.gsi.gov.uk/guidance-support/my-services/index.htm](http://intranet.justice.gsi.gov.uk/guidance-support/my-services/index.htm).
+**Note** – The lifecycle for User identities needs to be mapped onto the MoJ HR processes for new joiners and leavers (see: <http://intranet.justice.gsi.gov.uk/guidance-support/my-services/index.htm>.
 
 #### User Registration
 
@@ -276,11 +275,11 @@ Segregation of duties **must be** considered in the allocation of privileges.
 
 **POL.TCP.044:**
 
-The requirement for an ICT system to be protected by a password **must be** derived from a technical risk assessment (using HMG Information Assurance Standard No. 1 & 2 [Ref, 7] for systems undergoing the accreditation process) and a Business Impact Assessment (BIA).
+The requirement for an ICT system to be protected by a password **must be** derived from a technical risk assessment (using HMG Information Assurance Standard No. 1 & 2 for systems undergoing the accreditation process) and a Business Impact Assessment (BIA).
 
 **POL.TCP.045:**
 
-The standard on password generation, composition and management is contained within ICT Security – Password Standard [Ref, 17]. All IT systems which use passwords for access control **must follow** this standard.
+The standard on password generation, composition and management is contained within ICT Security – Password Standard. All IT systems which use passwords for access control **must follow** this standard.
 
 **POL.TCP.046:**
 
@@ -322,12 +321,11 @@ All ICT systems **must implement** controls to protect any exposed services (i.e
 
 **POL.TCP.053:**
 
-Based on a Business Impact Assessment (BIA) and technical risk assessment, where appropriate as directed by the Accreditor, an IT Heath
-Check **must be** conducted on all MoJ IT systems. The type of check conducted must be inline with the segmentation model detailed in HMG Information Assurance Standard No. 1 & 2 [Ref, 7].
+Based on a Business Impact Assessment (BIA) and technical risk assessment, where appropriate as directed by the Accreditor, an IT Heath Check **must be** conducted on all MoJ IT systems. The type of check conducted must be inline with the segmentation model detailed in HMG Information Assurance Standard No. 1 & 2.
 
 **POL.TCP.054:**
 
-All ICT system **must follow** the MoJ Enterprise Security Architecture Framework [Ref, 14]. This framework provides details on architectural patterns for secure system design and guidance on network segregation.
+All ICT system **must follow** the MoJ Enterprise Security Architecture Framework. This framework provides details on architectural patterns for secure system design and guidance on network segregation.
 
 ### Network access control
 
@@ -343,7 +341,7 @@ Where an ICT system connects to an external network, network security controls *
 
 **POL.TCP.057:**
 
-The selection and application of network access controls **must follow** the MoJ Enterprise Security Architecture Framework [Ref, 14].
+The selection and application of network access controls **must follow** the MoJ Enterprise Security Architecture Framework.
 
 ## Application Security Policy
 
@@ -371,7 +369,7 @@ Where applicable, an application **must be** within the scope of an ICT system�
 
 **POL.TCP.063:**
 
-All ICT systems **must follow** the MoJ Enterprise Security Architecture Framework [Ref, 14]. This framework provides details on standard security features and secure development practices which must be considered.
+All ICT systems **must follow** the MoJ Enterprise Security Architecture Framework. This framework provides details on standard security features and secure development practices which must be considered.
 
 ## Protective Monitoring Policy
 
@@ -383,11 +381,11 @@ All ICT systems **must provide** the capability to audit events whether initiate
 
 **POL.TCP.065:**
 
-All ICT systems **must implement** a set of audit points which are in accordance with ICT Security – Protective Monitoring Guide [Ref, 19].
+All ICT systems **must implement** a set of audit points which are in accordance with ICT Security – Protective Monitoring Guide.
 
 **POL.TCP.066:**
 
-All ICT systems **must be** included in a protective monitoring solution. The level of monitoring required must be determined using HMG Information Assurance Standard No. 1 & 2 [Ref, 7] and CESG Good Practice Guide No. 13 [Ref, 23].
+All ICT systems **must be** included in a protective monitoring solution. The level of monitoring required must be determined using HMG Information Assurance Standard No. 1 & 2 and CESG Good Practice Guide No. 13.
 
 **POL.TCP.067:**
 
@@ -399,7 +397,7 @@ All ICT systems **must implement** controls to protect the integrity of audit an
 
 **POL.TCP.069:**
 
-All ICT systems **must synchronise** all IT devices with a consistent time source. 
+All ICT systems **must synchronise** all IT devices with a consistent time source.
 
 **POL.TCP.070:**
 
@@ -407,7 +405,7 @@ All audit and accounting logs **must be** retained in accordance with stated dat
 
 **POL.TCP.071:**
 
-All ICT systems **must follow** the ICT Security – Protective Monitoring Guide [Ref, 19] where further guidance is provided. Note – This guide is aligned to CESG Good Practice Guide No. 13 [Ref, 11].
+All ICT systems **must follow** the ICT Security – Protective Monitoring Guide where further guidance is provided. Note – This guide is aligned to CESG Good Practice Guide No. 13.
 
 **Note:** The default retention period is as follows:
 
@@ -415,7 +413,7 @@ All ICT systems **must follow** the ICT Security – Protective Monitoring Guide
 - Retain all Accounting Logs for a minimum of twelve (12) months for monitored ICT Environments operating at 'Detect' and 'Resist'.
 - Retain all Accounting Logs for a minimum of eighteen (18) months for monitored ICT Environments operating at 'Defend'.
 
-See HMG Information Assurance Standard No.1 & 2 [Ref, 7] for the details on the definition for ‘Aware’, ‘Deter’, ‘Detect and Resist’ and ‘Defend’.
+See HMG Information Assurance Standard No.1 & 2 for the details on the definition for ‘Aware’, ‘Deter’, ‘Detect and Resist’ and ‘Defend’.
 
 ### Interface with Operational Security
 
@@ -429,7 +427,7 @@ All protective monitoring solutions **must provide** the capability to report se
 
 All ICT systems **must provide** their audit logs to the MoJ Operational Security Team (OST) upon request.
 
-Further information on IT incident management is available in ICT Security – IT Incident Management Policy [Ref, 4].
+Further information on IT incident management is available in [ICT Security – IT Incident Management Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/it-incident-management-policy/).
 
 ## Connection with 3rd Party Systems Policy
 
@@ -458,11 +456,11 @@ Where 3rd party access involves other participants, for example subcontractors, 
 
 **POL.TCP.077:**
 
-Where an ICT system is connected to a 3rd party for the purposes of offshoring, it **must comply** with ICT Security – Offshoring Guide [Ref, 23].
+Where an ICT system is connected to a 3rd party for the purposes of offshoring, it **must comply** with ICT Security – Offshoring Guide.
 
 **POL.TCP.078:**
 
-Any Codes of Connection **must comply** with ICT Security – Codes of Connection Standard [Ref, 20].
+Any Codes of Connection **must comply** with ICT Security – Codes of Connection Standard.
 
 ### Security of 3rd party access
 
@@ -481,15 +479,15 @@ An agreed protective marking system **must be** used for all data transfers. By 
 All ICT systems which connect to or share information with a 3rd party system **must ensure** that adequate security controls are in place to:
 
 - Protect against virus or malware infiltration and malicious attack;
-- Provide adherence to ICT Security – Acceptable Use Policy [Ref, 2] and ICT Security – Information Classification and Handling Policy [Ref, 3] where applicable.
+- Provide adherence to [ICT Security – Acceptable Use Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/it-acceptable-use-policy/) and [ICT Security – Information Classification and Handling Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/information-classification-and-handling-policy/) where applicable.
 
 **POL.TCP.082:**
 
-All connections **must meet** the minimum technical standard detailed in the ICT Security – Codes of Connection Standard [Ref, 20]. Where HMG cryptographic material is required, additional policy requirements are detailed in ICT Security – Use of HMG Cryptography Policy [Ref, 5].
+All connections **must meet** the minimum technical standard detailed in the ICT Security – Codes of Connection Standard. Where HMG cryptographic material is required, additional policy requirements are detailed in [ICT Security – Use of HMG Cryptography Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/use-of-hmg-cryptography-policy/).
 
 ## Secure storage and processing of Information Assets
 
-The HMG protective marking system defines how information needs be labelled and handled. Further information on the marking system can be found in ICT Security – Information Classification and Handling Policy [Ref, 3].
+The HMG protective marking system defines how information needs be labelled and handled. Further information on the marking system can be found in [ICT Security – Information Classification and Handling Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/information-classification-and-handling-policy/).
 
 **POL.TCP.083:**
 
@@ -507,17 +505,17 @@ All electronic outputs from an ICT system containing protectively marked informa
 
 **POL.TCP.086:**
 
-The risk assessment of an ICT system **must consider** the business impact should the aggregated sum of data held on system be compromised (in terms of Confidentiality, Integrity and Availability). This assessment must be made with reference to HMG Information Assurance Standard No. 6 [Ref, 8] and CESG Good Practice Guide No. 9 [Ref, 10].
+The risk assessment of an ICT system **must consider** the business impact should the aggregated sum of data held on system be compromised (in terms of Confidentiality, Integrity and Availability). This assessment must be made with reference to HMG Information Assurance Standard No. 6 and CESG Good Practice Guide No. 9.
 
 ### Personal Data
 
-HMG outlines specific requirements on the protection of personal data as documented in HMG Information Assurance Standard No. 6 [Ref, 8]. All Government departments need to follow these requirements to ensure personal data is correctly stored, processed and handled on MoJ IT systems.
+HMG outlines specific requirements on the protection of personal data as documented in HMG Information Assurance Standard No. 6. All Government departments need to follow these requirements to ensure personal data is correctly stored, processed and handled on MoJ IT systems.
 
 **POL.TCP.087:**
 
-The definition of personal data is derived from HMG Information Assurance Standard No. 6 [Ref, 8]. Any information assets in an ICT system assessed as personal **must be** labelled, as a minimum, PROTECT- PERSONAL.
+The definition of personal data is derived from HMG Information Assurance Standard No. 6. Any information assets in an ICT system assessed as personal **must be** labelled, as a minimum, PROTECT- PERSONAL.
 
-**Note** – Further details on the application of an HMG protective marking is provided in ICT Security – Information Classification and Handling Policy [Ref, 3].
+**Note** – Further details on the application of an HMG protective marking is provided in [ICT Security – Information Classification and Handling Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/information-classification-and-handling-policy/).
 
 ## Use of Cryptographic Controls
 
@@ -525,7 +523,7 @@ HMG cryptographic material is used within MoJ ICT systems mainly to secure commu
 
 **POL.TCP.088:**
 
-Any ICT system which utilises HMG cryptographic material in any technical security controls (e.g. VPN solution) **must conform** to ICT Security – Use of HMG Cryptography Policy [Ref, 5].
+Any ICT system which utilises HMG cryptographic material in any technical security controls (e.g. VPN solution) **must conform** to [ICT Security – Use of HMG Cryptography Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/use-of-hmg-cryptography-policy/).
 
 ## Secure System Build and Configuration Policy
 
@@ -557,23 +555,23 @@ It is important to ensure ICT systems are kept up to date with the latest securi
 
 **POL.TCP.093:**
 
-All ICT systems, including operating systems and applications, **must be** subject to a security vulnerability patching regime consistent with the level ofcriticality of the IT system to the business in accordance with the ICT Security - Patch Management Standard [Ref, 15].
+All ICT systems, including operating systems and applications, **must be** subject to a security vulnerability patching regime consistent with the level of criticality of the IT system to the business in accordance with the ICT Security - Patch Management Standard.
 
 **POL.TCP.094:**
 
-Security patches **must be** applied in a timely manner according to their categorisation in accordance with the ICT Security - Patch Management Standard [Ref, 15].
+Security patches **must be** applied in a timely manner according to their categorisation in accordance with the ICT Security - Patch Management Standard.
 
 **POL.TCP.095:**
 
-All IT systems **must have** a Patch Management Plan. This plan must include a process for managing, testing and deploying security patches. Further details are available in the ICT Security - Patch Management Standard [Ref, 15].
+All IT systems **must have** a Patch Management Plan. This plan must include a process for managing, testing and deploying security patches. Further details are available in the ICT Security - Patch Management Standard.
 
-The ICT Security – Patch Management Standard [Ref, 15] provides the MoJ baseline standard and template patch management plan. This standard provides details of patch categorisation (based on the severity of the vulnerability and criticality of update) and the expected timescales for applying a particular patch based on its categorisation.
+The ICT Security – Patch Management Standard provides the MoJ baseline standard and template patch management plan. This standard provides details of patch categorisation (based on the severity of the vulnerability and criticality of update) and the expected timescales for applying a particular patch based on its categorisation.
 
 ### Lockdown policy
 
 **POL.TCP.096:**
 
-All unnecessary or unused applications, services (including system services) and functionality **must be** removed or disabled from all IT systems. 
+All unnecessary or unused applications, services (including system services) and functionality **must be** removed or disabled from all IT systems.
 
 **POL.TCP.097:**
 
@@ -589,8 +587,7 @@ All IT desktop and server hardware **must be** built using a standard build, whe
 
 **POL.TCP.100:**
 
-All ICT systems **must be** locked down in accordance with ICT Security – System Lockdown and Hardening Standard [Ref, 21]. This standard
-compromise general lockdown procedures supplemented by system specific procedures. For example, a set of specific procedures for MS Windows based application servers. 
+All ICT systems **must be** locked down in accordance with ICT Security – System Lockdown and Hardening Standard. This standard compromise general lockdown procedures supplemented by system specific procedures. For example, a set of specific procedures for MS Windows based application servers.
 
 ### Protection from malicious code
 
@@ -604,7 +601,7 @@ All ICT systems **must have** an anti-virus client installed on each desktop and
 
 **POL.TCP.102:**
 
-All anti-virus clients **must be** updated with the latest virus definitions to a schedule outlined in ICT Security – Malware Protection Guide [Ref, 22]. The default limit is within 4 hours of release by the anti-virus client vendor.
+All anti-virus clients **must be** updated with the latest virus definitions to a schedule outlined in ICT Security – Malware Protection Guide. The default limit is within 4 hours of release by the anti-virus client vendor.
 
 **POL.TCP.103:**
 
@@ -616,9 +613,9 @@ All ICT systems **must have** a procedure to report any virus or malware detecti
 
 **POL.TCP.105:**
 
-All ICT systems **must refer** to ICT Security – Malware Protection Guide [Ref, 22] when selecting security controls to protect against malicious code and threats from mobile code.
+All ICT systems **must refer** to ICT Security – Malware Protection Guide when selecting security controls to protect against malicious code and threats from mobile code.
 
-**Note:** All malicious code detections must be recorded as an ICT Security incident. Further details are provided in ICT Security – IT Incident Management Policy [Ref, 4].
+**Note:** All malicious code detections must be recorded as an ICT Security incident. Further details are provided in [ICT Security – IT Incident Management Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/it-incident-management-policy/).
 
 #### Covert channels and Trojan code
 
@@ -626,13 +623,13 @@ A covert channel is where information can be exposed by an indirect or obscure m
 
 **POL.TCP.106:**
 
-All ICT systems **must be** analysed for potential covert channels which are either present in the system design or exposed through any of the applications hosted. 
+All ICT systems **must be** analysed for potential covert channels which are either present in the system design or exposed through any of the applications hosted.
 
 **POL.TCP.107:**
 
-Where a risk assessment indicates that Trojan code is a threat, all applications hosted by an IT system **must be** tested for potential Trojan code. 
+Where a risk assessment indicates that Trojan code is a threat, all applications hosted by an IT system **must be** tested for potential Trojan code.
 
-Further details and guidance on the prevention of covert channels and Trojan code in application can be found in the MoJ Enterprise Security Architecture Framework [Ref, 14].
+Further details and guidance on the prevention of covert channels and Trojan code in application can be found in the MoJ Enterprise Security Architecture Framework.
 
 ### Data Backup
 
@@ -664,7 +661,7 @@ The retention period for historic back-ups **must align** to the retention perio
 
 **POL.TCP.114:**
 
-All ICT systems **must conform** to the ICT Security – System Backup Standard [Ref, 24].
+All ICT systems **must conform** to the ICT Security – System Backup Standard.
 
 ## Electronic Messaging Policy
 
@@ -676,7 +673,7 @@ E-mail presents a number of security challenges as it provides a channel for mal
 
 **POL.TCP.115:**
 
-All e-mails sent or received external to an MoJ ICT network **must be** examined for potential viruses (or malware) and its content inspected for adherence to ICT Security – Acceptable Use Policy [Ref, 2] and ICT Security – Information Classification and Handling Policy [Ref, 3] where applicable.
+All e-mails sent or received external to an MoJ ICT network **must be** examined for potential viruses (or malware) and its content inspected for adherence to [ICT Security – Acceptable Use Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/it-acceptable-use-policy/) and [ICT Security – Information Classification and Handling Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/information-classification-and-handling-policy/) where applicable.
 
 **POL.TCP.116:**
 
@@ -686,7 +683,7 @@ All ICT systems which process e-mails must make provision to detect incorrect ad
 
 All e-mail group distribution lists (e.g. MoJ ZZ distribution lists) **must be** configured with a local address for internal distribution only. The use of an external address must be supported by a valid business case and is subject to approval by the MoJ ITSO.
 
-Further details on the secure operating procedures applicable to the use of email are provided in ICT Security – Acceptable Use Policy [Ref, 2].
+Further details on the secure operating procedures applicable to the use of email are provided in [ICT Security – Acceptable Use Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/it-acceptable-use-policy/).
 
 ## Configuration Management Policy
 
@@ -718,7 +715,7 @@ All ICT system **must seek** approval from MoJ ICT IA before any disposal or dec
 
 **POL.TCP.123:**
 
-Disposal of ICT assets **must be** in conformance to ICT Security – ICT Asset Disposal Guide [Ref, 26]
+Disposal of ICT assets **must be** in conformance to ICT Security – ICT Asset Disposal Guide.
 
 ## Compliance with Legal Requirement
 
@@ -726,7 +723,7 @@ A number of pieces of legislation are relevant to Information Assurance (IA). To
 
 **POL.TCP.124:**
 
-All ICT systems **must consider** applicable legal and regulatory requirement when selecting, designing and operating any security controls. This consideration must be documented. This consideration must be document (for example in a system design document and/or RMADS). 
+All ICT systems **must consider** applicable legal and regulatory requirement when selecting, designing and operating any security controls. This consideration must be documented. This consideration must be document (for example in a system design document and/or RMADS).
 
 Applicable pieces of legislation may include (but is not limited to):
 
