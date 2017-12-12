@@ -1,4 +1,4 @@
-MoJ's ICT security policy forms part of MoJ's corporate security policy. 
+MoJ's ICT security policy forms part of MoJ's corporate security policy.
 
 *   [Corporate security policy](/documents/2015/04/security-policies.doc)
 
@@ -41,9 +41,9 @@ These polices form the core set of detailed security policies covering both IT u
 
 ##IT security policies - tier 3
 
-Tier 3 documents are available on request and provide: benchmark standards, implementation guidance on specific security controls, and procedures for a particular policy (or policy statement/s).  
+Tier 3 documents are available on request and provide: benchmark standards, implementation guidance on specific security controls, and procedures for a particular policy (or policy statement/s).
 
-Email [Operational Security Team](mailto:operationalsecurityteam@justice.gsi.gov.uk) to request:
+Email Operational Security Team ![](https://intranet.justice.gov.uk/app/uploads/2017/12/c44e91c8a5d308c4953ef918b987f543.gif) to request:
 
 *   Access control standard
 *   Code of connection standard
@@ -63,5 +63,5 @@ Email [Operational Security Team](mailto:operationalsecurityteam@justice.gsi.gov
 *   System test standard
 
 ##Contacts
-*   [Operational Security](mailto:operationalsecurityteam@justice.gsi.gov.uk)
-*   [Tier 3 document request](mailto:OperationalSecurityTeam@justice.gsi.gov.uk)
+*   Operational Security ![](https://intranet.justice.gov.uk/app/uploads/2017/12/c44e91c8a5d308c4953ef918b987f543.gif)&nbsp;
+*   Tier 3 document request ![](https://intranet.justice.gov.uk/app/uploads/2017/12/c44e91c8a5d308c4953ef918b987f543.gif)&nbsp;

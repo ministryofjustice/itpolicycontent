@@ -1,4 +1,4 @@
-﻿---
+---
 title: technical-controls-policy
 ---
 
@@ -92,7 +92,7 @@ All ICT systems **must ensure** that they comply with HMG Information Assurance 
 
 **POL.TCP.013:**
 
-All ICT systems **must have** all operational changes reviewed and approved by MoJ ICT IA prior to any system change. This is to ensure the risk profile of a system is not significantly altered by the change and that any required technical security controls have been considered. 
+All ICT systems **must have** all operational changes reviewed and approved by MoJ ICT IA prior to any system change. This is to ensure the risk profile of a system is not significantly altered by the change and that any required technical security controls have been considered.
 
 **Note:** An Accreditor may decide that a particular system change requires a revision to that system’s accreditation. This could involve updating the RMADS where appropriate.
 
@@ -110,7 +110,7 @@ Where an ICT system is provided under contract, that contract **must specify** t
 
 **POL.TCP.016:**
 
-Where IT equipment for MoJ ICT systems are located at a third party site, the security of these assets **must be** documented and agreed with MoJ ICT IA. 
+Where IT equipment for MoJ ICT systems are located at a third party site, the security of these assets **must be** documented and agreed with MoJ ICT IA.
 
 Physical security is the responsibility of MoJ Corporate security and business continuity branch where further information can be found at.
 
@@ -201,7 +201,7 @@ Access to an ICT system (and functionality provided) **must be** provided on a �
 
 **POL.TCP.029:**
 
-Any access control solution **must take** into consideration the ]ICT Security – Information Classification and Handling Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/information-classification-and-handling-policy/).
+Any access control solution **must take** into consideration the [ICT Security – Information Classification and Handling Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/information-classification-and-handling-policy/).
 
 **POL.TCP.030:**
 
@@ -219,7 +219,7 @@ Management of user identities on IT systems is important to ensure access to ser
 
 All ICT systems **must have** a process for managing User identities covering the full lifecycle (from creation to removal), this includes where a User changes role or business group. This must be in line with ICT Security – Access Control Standard.
 
-**Note** – The lifecycle for User identities needs to be mapped onto the MoJ HR processes for new joiners and leavers (see: [http://intranet.justice.gsi.gov.uk/guidance-support/my-services/index.htm](http://intranet.justice.gsi.gov.uk/guidance-support/my-services/index.htm).
+**Note** – The lifecycle for User identities needs to be mapped onto the MoJ HR processes for new joiners and leavers (see: <http://intranet.justice.gsi.gov.uk/guidance-support/my-services/index.htm>.
 
 #### User Registration
 
@@ -397,7 +397,7 @@ All ICT systems **must implement** controls to protect the integrity of audit an
 
 **POL.TCP.069:**
 
-All ICT systems **must synchronise** all IT devices with a consistent time source. 
+All ICT systems **must synchronise** all IT devices with a consistent time source.
 
 **POL.TCP.070:**
 
@@ -571,7 +571,7 @@ The ICT Security – Patch Management Standard provides the MoJ baseline standar
 
 **POL.TCP.096:**
 
-All unnecessary or unused applications, services (including system services) and functionality **must be** removed or disabled from all IT systems. 
+All unnecessary or unused applications, services (including system services) and functionality **must be** removed or disabled from all IT systems.
 
 **POL.TCP.097:**
 
@@ -587,7 +587,7 @@ All IT desktop and server hardware **must be** built using a standard build, whe
 
 **POL.TCP.100:**
 
-All ICT systems **must be** locked down in accordance with ICT Security – System Lockdown and Hardening Standard. This standard compromise general lockdown procedures supplemented by system specific procedures. For example, a set of specific procedures for MS Windows based application servers. 
+All ICT systems **must be** locked down in accordance with ICT Security – System Lockdown and Hardening Standard. This standard compromise general lockdown procedures supplemented by system specific procedures. For example, a set of specific procedures for MS Windows based application servers.
 
 ### Protection from malicious code
 
@@ -623,11 +623,11 @@ A covert channel is where information can be exposed by an indirect or obscure m
 
 **POL.TCP.106:**
 
-All ICT systems **must be** analysed for potential covert channels which are either present in the system design or exposed through any of the applications hosted. 
+All ICT systems **must be** analysed for potential covert channels which are either present in the system design or exposed through any of the applications hosted.
 
 **POL.TCP.107:**
 
-Where a risk assessment indicates that Trojan code is a threat, all applications hosted by an IT system **must be** tested for potential Trojan code. 
+Where a risk assessment indicates that Trojan code is a threat, all applications hosted by an IT system **must be** tested for potential Trojan code.
 
 Further details and guidance on the prevention of covert channels and Trojan code in application can be found in the MoJ Enterprise Security Architecture Framework.
 
@@ -723,7 +723,7 @@ A number of pieces of legislation are relevant to Information Assurance (IA). To
 
 **POL.TCP.124:**
 
-All ICT systems **must consider** applicable legal and regulatory requirement when selecting, designing and operating any security controls. This consideration must be documented. This consideration must be document (for example in a system design document and/or RMADS). 
+All ICT systems **must consider** applicable legal and regulatory requirement when selecting, designing and operating any security controls. This consideration must be documented. This consideration must be document (for example in a system design document and/or RMADS).
 
 Applicable pieces of legislation may include (but is not limited to):
 

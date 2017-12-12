@@ -1,13 +1,6 @@
-﻿---
+---
 title: System Backup Standard
 ---
-
-<table border='1'>
-<tr>
-<td>This content is a version of the System Backup Standard, May 2015.<br/>
-This is Legacy IA Policy. It is under review and likely to be withdrawn or substantially revised soon. Please contact us before using this on a new project: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=system-backup-standard">itpolicycontent@digital.justice.gov.uk</a>.</td>
-</tr>
-</table>
 
 <table border='1'>
 <tr>
@@ -26,7 +19,7 @@ The [HMG Security Policy Framework](https://www.gov.uk/government/publications/s
 
 > Departments and Agencies must put in place an appropriate range of technical controls for all ICT systems, proportionate to the value, importance and sensitivity of the information held and the requirements of any interconnected systems.
 
-The backup policy is covered in IT Security – Technical Controls Policy [Ref, 1] where this document sets out the MoJ standard for its implementation.
+The backup policy is covered in [IT Security – Technical Controls Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/technical-controls-policy/) where this document sets out the MoJ standard for its implementation.
 
 ### Scope
 
@@ -43,7 +36,7 @@ The CESG Information Assurance Maturity Model (IAMM) sets out the minimum maturi
 
 ## System backup requirements
 
-This section outlines the high level requirements which feed into developing a set of backup procedures (see section 5) which aligns the relevant Business Continuity Plan (BCP). This involves understanding what the requirements are for taking backups, retaining backups and maintaining a library of archive media for data retention purposes.  
+This section outlines the high level requirements which feed into developing a set of backup procedures (see section 5) which aligns the relevant Business Continuity Plan (BCP). This involves understanding what the requirements are for taking backups, retaining backups and maintaining a library of archive media for data retention purposes.
 
 ### System backup retention and archiving schedule
 
@@ -115,7 +108,7 @@ The standard recommendation is that one full system backup per month is selected
  
 ## System backup procedures
 
-This section contains a generic set of system backup procedures.  It is designed to provide the basis for ICT system to develop its own individual set of procedures / work instructions. 
+This section contains a generic set of system backup procedures.  It is designed to provide the basis for ICT system to develop its own individual set of procedures / work instructions.
 
 ### Responsibility
 

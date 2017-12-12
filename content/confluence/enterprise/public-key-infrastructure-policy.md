@@ -1,13 +1,6 @@
-﻿---
+---
 title: Public Key Infrastructure Policy
 ---
-
-<table border='1'>
-<tr>
-<td>This content is a version of the Public Key Infrastructure Policy, December 2014.<br/>
-This is Legacy IA Policy. It is under review and likely to be withdrawn or substantially revised soon. Please contact us before using this on a new project: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=public-key-infrastructure-policy">itpolicycontent@digital.justice.gov.uk</a>.</td>
-</tr>
-</table>
 
 <table border='1'>
 <tr>
@@ -65,7 +58,7 @@ Certificates used for authentication of users or organisations used in token or 
 </tr>
 <tr>
 <td>Certificate Policy (CP)</td>
-<td>A document that states the different actors of a public key infrastructure (PKI), specifying their roles and their duties. Its content and structure is described in <a href="https://tools.ietf.org/html/rfc3647">IETF RFC3647</a> [Ref.16]. This is often a legal document forming part of a contract.</td>
+<td>A document that states the different actors of a public key infrastructure (PKI), specifying their roles and their duties. Its content and structure is described in <a href="https://tools.ietf.org/html/rfc3647">IETF RFC3647</a> [Ref.16]. This is often a legal document forming part of a contract.</td>
 </tr>
 <tr>
 <td>Certificate Practice Statement (CPS)</td>
@@ -119,7 +112,7 @@ The usage of digital certificates for cryptography or digital signatures within 
 </tr>
 </table>
 
-## General PKI Policy 
+## General PKI Policy
 
 ### Overview
 
@@ -156,7 +149,7 @@ This section describes the common PKI policy that applies regardless of the type
 #### User Registration
 
 1. Any individual who requires access to the ICT Systems providing PKI Services shall be subject to stringent background checks shall be vetted to at least Security Check (SC) before any access to the system is permitted.
-2. **Important:** Interim access pending security clearance must not be allowed under any circumstances. The impact of allowing such access in the event that the individual is not subsequently cleared would be to revoke and reissue all certificates signed by the PKI Services.
+2. **Important:** Interim access pending security clearance must not be allowed under any circumstances. The impact of allowing such access in the event that the individual is not subsequently cleared would be to revoke and reissue all certificates signed by the PKI Services.
 3. When clearance is confirmed and identity is validated by MoJ, the user shall be enrolled in the services required and shall be issued with the relevant credentials for access.
 4. Users shall be removed from the systems and their credentials revoked as soon as they leave the role related to the PKI Services. The relevant HR Processes must be reviewed, and updated if necessary, to account for this policy.
 
@@ -246,7 +239,7 @@ Key escrow may be used for encryption keys but shall under no circumstances be u
   - FIPS140-2 (Level 2)
   - Other assurance (permitted in exceptional circumstances when other assurances are not available, and must be supported by a business case, agreed with Accreditor, and signed off by the IAO or SIRO)
 
-#### Registration Authority Operational Policy
+#### Registration Authority Operational Policy
 
 1. The Registration Authority (RA) shall identify, validate and authorise PKI Customers, i.e. organisations that are permitted to make certificate signing requests of the PKI Service. The RA shall also identify, validate and authorise nominated representatives of the PKI Customer, i.e. individuals who are authorised to represent the PKI Customer in respect of the PKI Services. Authorisation will be dependent upon a mutual agreement between the Authority and the PKI Customer specifying the conditions for registration. This may be in the form of a Memo of Understanding or a formal contract.
 2. Subordinate Registration Authorities, i.e. those that register entities at a lower level in the trust authority than the root, must comply with any obligations set by the root authority, including the right of the root authority to audit compliance.
@@ -256,7 +249,7 @@ Key escrow may be used for encryption keys but shall under no circumstances be u
 6. The PKI Customer must notify the RA when any of their nominated representatives are no longer authorised to access the services. Individuals will become unauthorised if their security clearance is expired or revoked, if their employment is terminated, if they are under investigation for malpractice, or if they no longer work on the MoJ account.
 7. The RA must notify the appropriate Crypto Custodian for potential escalation in respect of the incidents specified at para 2.4.3.6 or any other relevant security incident.
 8. Certificates issued to PKI Customers must be revoked when the business relationship is ended. It may be permitted to transfer ownership of certificates in some cases where responsibility is transferred to another party, e.g. contract novation, but each case must be individually agreed with the MoJ Crypto Custodian.
-9. Auditing and accounting of RA functions must be carried out in accordance with HMG Good Practice Guide 13. The integrity and confidentiality of accounting logs must maintained to British Standard BS 10008 as appropriate for legal admissibility of evidence, in the event that disputes need to be heard in a court of law.
+9. Auditing and accounting of RA functions must be carried out in accordance with HMG Good Practice Guide 13. The integrity and confidentiality of accounting logs must maintained to British Standard BS 10008 as appropriate for legal admissibility of evidence, in the event that disputes need to be heard in a court of law.
 10. For online submission of CSR and CRR the RA shall use two-factor authentication to authenticate and authorise enrolled users.
 11. The CSR/CRR form shall have fields for all mandatory information and attachment of a public key in PKCS\#10 format.
 12. The CSR/CRR shall be approved by one person (e.g. ComSO) and actioned by another (e.g. Crypto Custodian), except in cases where this process is automated. For automated process, e.g. automated generation of device certificates for EUCS client devices, the MoJ Crypto Custodian and ComSo must approve the automation process.
@@ -334,7 +327,7 @@ Key escrow may be used for encryption keys but shall under no circumstances be u
 
 #### Required Standards for each function
 
-1. Certificates shall comply with ITU-T Recommendation X.509 and RFC 5280 unless required for a specific application in which case written approval from the SIRO will be required
+1. Certificates shall comply with ITU-T Recommendation X.509 and RFC 5280 unless required for a specific application in which case written approval from the SIRO will be required
 2. CRLs shall comply with X.509 Version 2 and RFC 5280.
 3. All key material management and PKI operations shall be performed in accordance with all relevant HMG standards.
 

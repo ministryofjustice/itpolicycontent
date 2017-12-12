@@ -28,7 +28,7 @@ This policy is directed at all those responsible for the design, implementation 
 
 ### Introduction
 
-The purpose of this standard is to address the procedures that must be in place along side the technical controls in a password system to provide effective authentication of users.  
+The purpose of this standard is to address the procedures that must be in place along side the technical controls in a password system to provide effective authentication of users.
 
 [HMG Security Policy Framework (SPF)][hmgspf] Mandatory Requirement (MR) 10 states that:
 
@@ -42,7 +42,7 @@ The Policy on User Password Management is covered in the [IT Security – Techni
 
 ### Scope and Responsibilities
 
-This document is intended to provide a Password Standard for MoJ ICT Systems, including ICT systems hosted by third party suppliers on behalf of the MoJ. The Standard is designed to supplement HMG IA Standard No.7- Authentication of Internal Users of ICT Systems Handling Government Information \[HMG IA Standard No.7- Authentication of Internal Users of ICT Systems Handling Government Information Issue 1.0, October 2010\].
+This document is intended to provide a Password Standard for MoJ ICT Systems, including ICT systems hosted by third party suppliers on behalf of the MoJ. The Standard is designed to supplement HMG IA Standard No.7- Authentication of Internal Users of ICT Systems Handling Government Information \[HMG IA Standard No.7- Authentication of Internal Users of ICT Systems Handling Government Information Issue 1.0, October 2010\].
 
 The password standard should be used for all MoJ systems processing material up to RESTRICTED. For systems processing information with a protective marking of CONFIDENTIAL or above, additional user authentication may be required. This may also be the case depending on the environment the system is accessible from. The specific requirements for each system must be formally recorded in the Risk Management and Accreditation Documents for the system and authorised by way of the Accreditation process (see [HMG IA Standard No.2][hmgias2] ). Additional measures of user authentication, such as tokens or biometrics are not covered by this standard; see [IT Security- Access Control Standard][acs].
 
@@ -66,13 +66,13 @@ This document is split into three sections:
 
 #### Distribution
 
-Where passwords are distributed to users, the passwords must be distributed via a secure mechanism. The protection afforded to a password must be commensurate to the information which the password controls access to. 
+Where passwords are distributed to users, the passwords must be distributed via a secure mechanism. The protection afforded to a password must be commensurate to the information which the password controls access to.
 
 #### First Use
 
-For initial distribution, a one-time password **must be** used where it should be distributed to the user with over the phone or other out-of-band communications channel. This password **must be** changed by the user during their first logon.
+For initial distribution, a one-time password **must be** used where it should be distributed to the user with over the phone or other out-of-band communications channel. This password **must be** changed by the user during their first logon.
 
-Initial user passwords **must be** machine generated following the complexity guidelines provided [here](#password-requirements).
+Initial user passwords **must be** machine generated following the complexity guidelines provided [here](#password-requirements).
 
 ### Operational Use
 
@@ -80,32 +80,32 @@ Initial user passwords **must be** machine generated following the complexity g
 
 A user account must be locked after a specified number of consecutive failed login attempts. The default number for all MoJ ICT systems is five after which a password reset is required from the IT System Manager and/or service desk following a defined password reset procedure.
 
-Each ICT system **must** develop and maintain a procedure for resetting user password. This procedure **must not** provide a facility which could be easily exploited by an attacker in order to gain unauthorised access. The integrity of the password reset mechanism relies on the user being able to identity themselves and be authenticated.
+Each ICT system **must** develop and maintain a procedure for resetting user password. This procedure **must not** provide a facility which could be easily exploited by an attacker in order to gain unauthorised access. The integrity of the password reset mechanism relies on the user being able to identity themselves and be authenticated.
 
 For example, the mechanism used on DOM1 involves a user resetting their own password by answering five on-screen security questions. The answers to these questions were set up by the user when their account was originally initialised. Answering these questions correctly provides a mechanism to authenticate that user.
 
 #### Password Change
 
-Users **must be** forced to change their password when prompted to do so by the ICT system (see [here](#password-requirements), for details on password age). 
+Users **must be** forced to change their password when prompted to do so by the ICT system (see [here](#password-requirements), for details on password age).
 
-For users to change their password, the ICT system must require:
+For users to change their password, the ICT system must require:
 
 - The user to re-enter their existing password as an authentication mechanism;
 - Enter a new password which conforms to the ICT system's password requirements and be in line with the complexity guidelines provided [here](#password-requirements);
-- The new password **must be** re-entered to ensure that no typing errors have occurred;
+- The new password **must be** re-entered to ensure that no typing errors have occurred;
 - If both entries of the new password match, the ICT system should automatically change the user's password.
 
 ### Disposal
 
-The [IT Security- Technical Control Policy][tcp] states that, "all IT systems **must have** a process for periodically checking and removing redundant User IDs and accounts". The management and removal of accounts is covered in the [IT Security- Access Control Standard][acs].
+The [IT Security- Technical Control Policy][tcp] states that, "all IT systems **must have** a process for periodically checking and removing redundant User IDs and accounts". The management and removal of accounts is covered in the [IT Security- Access Control Standard][acs].
 
-If the ICT system contains a common password, when an individual's user access is withdrawn, the common password **must be** changed. For example, a common password maybe used to access a set of managed switches. 
+If the ICT system contains a common password, when an individual's user access is withdrawn, the common password **must be** changed. For example, a common password maybe used to access a set of managed switches.
 
 <a id="password-requirements"></a>
 
 ## Password Requirements
 
-### Normal System Users
+### Normal System Users
 
 System User Password Schema:
 
@@ -125,10 +125,10 @@ For example: `MJ@it\*12\>`
 
 <table>
 <tr>
-<th>The password <u>must</u> have</th>
+<th>The password <u>must</u> have</th>
 <td>Minimum of 9 characters;
 <br/>
-Mix of upper case and lower case characters; 
+Mix of upper case and lower case characters;
 <br/>
 Mix of alphabetic, numeric and special characters;</td>
 </tr>
@@ -146,15 +146,15 @@ Be used for two systems at different Protective Marking levels.</td>
 </tr>
 <tr>
 <th>Password age</th>
-<td>Passwords <b>must</b> be changed every 90 days.</td>
+<td>Passwords <b>must</b> be changed every 90 days.</td>
 </tr>
 <tr>
 <th>Password history</th>
-<td>The system <b>must not</b> allow users to reuse passwords for 15 cycles (1350 days).</td>
+<td>The system <b>must not</b> allow users to reuse passwords for 15 cycles (1350 days).</td>
 </tr>
 </table>
 
-The [IT Security SyOps - Users &amp; Application Administrators][suas] provides instruction to users of the system for the handling and protection of passwords.  Users **must not** attempt to log on as another user, or share their system access credentials with others. Users **must not** allow unauthorised users to observe their screen or allow any person to observe them entering their system access credentials (e.g. password).
+The [IT Security SyOps - Users &amp; Application Administrators][suas] provides instruction to users of the system for the handling and protection of passwords. Users **must not** attempt to log on as another user, or share their system access credentials with others. Users **must not** allow unauthorised users to observe their screen or allow any person to observe them entering their system access credentials (e.g. password).
 
 ### System Administrators
 
@@ -176,8 +176,8 @@ For example: `?AmOj@ef\*89\>`
 
 <table>
 <tr>
-<th>The password <u>must</u> have</th>
-<td>Minimum of 12 characters; 
+<th>The password <u>must</u> have</th>
+<td>Minimum of 12 characters;
 <br/>Mix of upper case and lower case characters;
 <br/>
 Mix of alphabetic, numeric and special characters;</td>
@@ -198,15 +198,15 @@ Be the same as the password for their normal accounts (if the administrator hold
 </tr>
 <tr>
 <th>Password age</th>
-<td>Passwords <b>must be</b> changed every 60 days.</td>
+<td>Passwords <b>must be</b> changed every 60 days.</td>
 </tr>
 <tr>
 <th>Password history</th>
-<td>The system <b>must not</b> allow users to reuse passwords for 15 cycles (900 days).</td>
+<td>The system <b>must not</b> allow users to reuse passwords for 15 cycles (900 days).</td>
 </tr>
 </table>
 
-The [IT Security SyOps- System Administrators][sa] provides instruction to system administrators for the handling and protection of passwords.  System administrators, like all users **must not** attempt to log on as another user, or share their system access credentials with others. Users **must not** allow unauthorised users to observe their screen or allow any person to observe them entering their system access credentials (e.g. password). The password for an Administrator account **must not** be re-used with another Administrator or Normal User account.
+The [IT Security SyOps- System Administrators][sa] provides instruction to system administrators for the handling and protection of passwords.  System administrators, like all users **must not** attempt to log on as another user, or share their system access credentials with others. Users **must not** allow unauthorised users to observe their screen or allow any person to observe them entering their system access credentials (e.g. password). The password for an Administrator account **must not** be re-used with another Administrator or Normal User account.
 
 <a id="service-accounts"></a>
 
@@ -230,8 +230,8 @@ For example: `\\?J8h@RP17zx/6bK\*q9M%Os2`
 
 <table>
 <tr>
-<th>The password <u>must</u> have</th>
-<td>Minimum of 24 characters; 
+<th>The password <u>must</u> have</th>
+<td>Minimum of 24 characters;
 <br/>
 Mix of upper case and lower case characters;
 <br/>
@@ -251,15 +251,15 @@ Be used for more than one device;</td>
 </tr>
 <tr>
 <th>Password age</th>
-<td>Passwords <u>must be</u> changed every 360 days.</td>
+<td>Passwords <u>must be</u> changed every 360 days.</td>
 </tr>
 <tr>
 <th>Password history</th>
-<td>The devices <u>must never</u> reuse passwords.</td>
+<td>The devices <u>must never</u> reuse passwords.</td>
 </tr>
 </table>
 
-Service Accounts passwords are to be set for each device. These passwords **must** follow the complexity rules detailed in the schema above, but should only be changed every 6 months. When service account passwords are written down, they **must be** protected to the same level as the information they provide access to. 
+Service Accounts passwords are to be set for each device. These passwords **must** follow the complexity rules detailed in the schema above, but should only be changed every 6 months. When service account passwords are written down, they **must be** protected to the same level as the information they provide access to.
 
 For example, the password for a firewall device attracts a protective marking of RESTRICTED, as such it must be stored and handled commensurately. The password should be stored in a double sealed envelope which has been signed by the administrator, and marked RESTRICTED. This envelope should be kept in a SEAP Class 3 locked cabinet and access to this cabinet should be restricted to those with a business need. The seal on the envelope must be checked on a weekly basis, and this checking procedure must be logged.
 
@@ -271,17 +271,17 @@ The password management system should enforce the password complexity rules deta
 
 - Accounts should be locked after five consecutive failed attempts of logging in, requiring a password reset from the System Manager / Service Desk;
 - The password management system should force the password change and users should be locked out if they fail to change their password by the due date. The system should warn the user prior to the password change due date;
-- All vendor supplied passwords **must be** changed before the system is used to process protectively marked information;
-- Temporary passwords **must be** disabled after the period by which they should have been changed by the user.
+- All vendor supplied passwords **must be** changed before the system is used to process protectively marked information;
+- Temporary passwords **must be** disabled after the period by which they should have been changed by the user.
 
 ### Storage of Passwords
 
-For all systems, the passwords on the system **must be** stored encrypted as a hash of the password values. The strength of the hashing algorithm should be determined by the classification of the information the password is protecting. HMG IA Standard No.7 \[HMG IA Standard No.7- Authentication of Internal Users of ICT Systems Handling Government Information Issue 1.0, October 2010\] **must be** consulted when determining the appropriate level of hashing to implement.
+For all systems, the passwords on the system **must be** stored encrypted as a hash of the password values. The strength of the hashing algorithm should be determined by the classification of the information the password is protecting. HMG IA Standard No.7 \[HMG IA Standard No.7- Authentication of Internal Users of ICT Systems Handling Government Information Issue 1.0, October 2010\] **must be** consulted when determining the appropriate level of hashing to implement.
 
 For MoJ ICT systems, the default is for all password systems to hash passwords and for a salt value to be added to the password before hashing.
 
-The [IT Security SyOps- System Users and Application Administrators][suas] and the [IT Security SyOps- System Administrators][sa] both state that users must not store hard or soft copies of passwords with the device to which they permit access.
+The [IT Security SyOps- System Users and Application Administrators][suas] and the [IT Security SyOps- System Administrators][sa] both state that users must not store hard or soft copies of passwords with the device to which they permit access.
 
-Paper based back-up storage of passwords is permitted, but such passwords **must be** appropriately protected to the level of the information to which the password provides access (see [here](#service-accounts) for details of password storage for Service Accounts).
+Paper based back-up storage of passwords is permitted, but such passwords **must be** appropriately protected to the level of the information to which the password provides access (see [here](#service-accounts) for details of password storage for Service Accounts).
 
-When a password is entered into an ICT system, including on first entry, the password **must not** be physically displayed.
+When a password is entered into an ICT system, including on first entry, the password **must not** be physically displayed.
