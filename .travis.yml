@@ -14,7 +14,6 @@ script:
 notifications:
   email:
     recipients:
-      - EMAIL1
-      - adrian.warman@digital.justice.gov.uk
+      - secure: "d7/3q5mx1FUwhw0GFeGoxY9PXxLVzwyW+MdldR+irIliL8hyxO5EjOIZXHaoIfg43XWFfE+pRcdNiIMlVg/4nMpJqGxegLWIUhoasK4v7h2hUVCnnJ+/tyjTkYztuBJDR1BG4WViPr4tr+BFGTCG8D4/AAR+6zPU1MLqw8SiL4AYmUuBZadhNS0px07hbel4QFUs8IiqDQKZPWJVb/Udzkm+aIVkOr9inxRqZr92Sw592OHJhgttYfK2W0lxABAAhhnMM5JslggWt4whf9Z5RZPU76dqwnK/nySduTGkqQWqtqSHwNBeRlWKW0n/aPWW1WcqCGGpCPquKmYC1nNwIxCJPdcvjtbYzsLyr92ymDv2OBHzHIxD4e2PjuR2wgCsjxlESsB0TLUb72mBhdBYfDWRLf6waEPras0WjRXre3r8gZGkHLTXh/NSLCU9VzOSDBwmKQWPYQxRGkLYfvR0jKF8aFDkacfx0LRS7sPsZbVdzkiDwlfimunkKV+SltCt4BUcuYIfxmjZcmVfXlqgN/umqRFAwrbuQXMaGjBQiMqTr/x60RUpJmdn3uIsRp3VOCEE2UQeXpdopVM9zIn2lQkhgG2HJE3vG/oq4Kue+kyvigNhOuriulMeL/8F1JcizDjk2yTxhEaBKVjExCzgDx15NHeOCxAX9M02fDPdXp0="
     on_success: always
     on_failure: always
