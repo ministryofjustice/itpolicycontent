@@ -1,5 +1,5 @@
 ---
-title: Acceptable use of Information Technology at work
+title: acceptable-use
 ---
 
 ## Acceptable use of Information Technology at work
