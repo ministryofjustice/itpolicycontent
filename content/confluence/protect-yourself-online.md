@@ -1,5 +1,5 @@
 ---
-title: Protect Yourself Online
+title: protect-yourself-online
 ---
 
 <table border='1'>
@@ -16,10 +16,11 @@ There are five simple things we can all do to protect ourselves online:
 4. Protect your online identity. Do not share sensitive information about your work on social media or online professional networks.
 5. Do not disclose your level of vetting. If you share this information, you advertise what resources you have access to. This could make you a target for malicious individuals.
 
-For more information, see the [Acceptable Use Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/acceptable-use/).
+For more information, see the [Acceptable Use guidance](https://intranet.justice.gov.uk/guidance/security/it-computer-security/acceptable-use/).
 
 <table border='1'>
 <tr>
-<td>To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=protect-yourself-online">itpolicycontent@digital.justice.gov.uk</a>.</td>
+<td>This information is dated December 2017.<br/>
+To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=protect-yourself-online">itpolicycontent@digital.justice.gov.uk</a>.</td>
 </tr>
 </table>
