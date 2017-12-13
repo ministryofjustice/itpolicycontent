@@ -1,12 +1,12 @@
 #!/bin/bash
 
 function preprocess {
-  tr '\n' ' ' | tr '#' ' ' | tr '*' ' ' | perl -pe 's|---.*?---||g' | tr '-' ' ' | perl -pe 's|```.*?```||g' | perl -pe 's|<script.*?</script>||g' | perl -pe 's|&nbsp;||g' | perl -pe 's|&lt;||g' | perl -pe 's|&gt;||g' | perl -pe 's|<code.*?</code>||g' | perl -pe 's|<form.*?</form>||g' | perl -pe 's|<style.*?</style>||g' | perl -pe 's|<[/a-zA-Z].*?>||g' | perl -pe 's|`.*?`||g' | perl -pe 's|]\(.*?\)| |g'
+#  tr '\n' ' ' | tr '#' ' ' | tr '*' ' ' | perl -pe 's|---.*?---||g' | tr '-' ' ' | perl -pe 's|```.*?```||g' | perl -pe 's|<script.*?</script>||g' | perl -pe 's|&nbsp;||g' | perl -pe 's|&lt;||g' | perl -pe 's|&gt;||g' | perl -pe 's|<code.*?</code>||g' | perl -pe 's|<form.*?</form>||g' | perl -pe 's|<style.*?</style>||g' | perl -pe 's|<[/a-zA-Z].*?>||g' | perl -pe 's|`.*?`||g' | perl -pe 's|]\(.*?\)| |g'
+  tr '\n' ' ' | tr '#' ' ' | tr '*' ' ' | perl -pe 's|---.*?---||g' | tr '-' ' ' | perl -pe 's|```.*?```||g' | perl -pe 's|&nbsp;||g' | perl -pe 's|&lt;||g' | perl -pe 's|&gt;||g' | perl -pe 's|<code.*?</code>||g' | perl -pe 's|<[/a-zA-Z].*?>||g' | perl -pe 's|`.*?`||g' | perl -pe 's|]\(.*?\)| |g'
 }
 
 function checkFile {
-  # cat "$1" | preprocess | aspell -a --encoding=utf-8 --ignore-case --lang=en-gb --add-extra-dicts "$(dirname $0)/localDictionary.en.pws" | grep -v '^[\*@]' | grep -v '^$' | cut -f2 -d ' '
-  cat "$1" | preprocess | aspell -a --encoding=utf-8 --lang=en-gb --add-extra-dicts "$(dirname $0)/localDictionary.en.pws" | grep -v '^[\*@]' | grep -v '^$' | cut -f2 -d ' '
+  cat "$1" | preprocess | aspell -a --encoding=utf-8 --lang=en-gb --add-extra-dicts="$(dirname $0)/localDictionary.en.pws" | grep -v '^[\*@]' | grep -v '^$' | cut -f2 -d ' '
 }
 
 function changedFiles {
@@ -28,7 +28,7 @@ function check {
   done
 }
 
-changedFiles
+# changedFiles
 
 report="$(changedFiles . | check )"
 
