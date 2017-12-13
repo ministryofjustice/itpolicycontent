@@ -38,7 +38,7 @@ The list of websites included in each of the categories is as small as possible.
 [This document](https://intranet.justice.gov.uk/guidance/security/it-computer-security/web-browsing-security-policy-profiles/) lists the access rules that apply to website. The rules control access from DOM1, Win10 systems, and the MoJ infrastructure. The list describes the website categories that are either permitted or blocked.
 
 <!--
-The categories are based on the [Forcepoint definitions](https://www.forcepoint.com/master-database-url-categories).
+The categories are based on the [`Forcepoint` definitions](https://www.forcepoint.com/master-database-url-categories).
 -->
 
 ### What to do if you are blocked from a website that you think should be OK
@@ -65,7 +65,7 @@ If the block is due to an access rule, Operational Security reviews whether to c
 
 <ul>
 <li>For DOM1, WIN10, and HMPPS Probation, call:<br/><img src="https://intranet.justice.gov.uk/app/uploads/2017/12/74015bc20bb1c38fb4249c4ef6d3cfed.gif">&nbsp;</li>
-<li>For HMPPS Prison, open a catalog request through Quantum.</li>
+<li>For HMPPS Prison, open a catalogue request through Quantum.</li>
 <li>For all others, contact the <a href="mailto:ITservicedesk@justice.gsi.gov.uk">IT Service Desk</a>.</li>
 </ul>
 
