@@ -442,9 +442,7 @@ Full name of person
 responsible for device:
 
 Phone number:
-
 Business area:
-
 Location:
 (office/Court/Tribunal)
 
@@ -454,13 +452,9 @@ Business entity code:
 **Type of media**
 
 CD
-
 DVD
-
 Floppy disc
-
 USB stick
-
 Other
 
 If 'Other'
@@ -475,7 +469,6 @@ Why is this type of media required?
 **Period required**
 
 Fixed period
-
 Indefinite
 
 If fixed, start date:
@@ -487,53 +480,32 @@ Is the data subject to the Data Protection Act?
 (i.e. does the data contain personal information)?
 
 Yes
-
 No
 
 If the data is subject to the Data Protection Act, please give details of the type of information.
 
-
 What is the highest protective marking of the data?
 
 NOT PROTECTIVELY MARKED
-
 PROTECT
-
 RESTRICTED
-
 CONFIDENTIAL
-
 SECRET
-
 TOP SECRET
 
 Who will supply the information? Is the data coming from an individual or an application? Please give the name of either the person or the application that is supplying the information.
 
-
-
 To which organisation or individuals is the information being sent?
-
-
 
 Is this a one off data transfer or the first of a series? If this is the first of a series, please give details.
 
-
-
 Why does the data need to be transferred? Explain why it is necessary to provide the information.
-
-
 
 What alternative methods of transferring the data have been considered, and why have they been rejected?
 
-
-
 How will the media be physically protected while in transit? (Possible methods include: trusted delivery service, by hand, signed for postal service.)
 
-
-
 How will the media be accounted for? Is there a procedure for recording its despatch and receipt?
-
-
 
 Name of Information
 Asset Owner (IAO):
@@ -541,13 +513,11 @@ Asset Owner (IAO):
 Does the IAO agree that removable media is required and unavoidable?
 
 Yes
-
 No
 
 Is the IAO content with the proposed controls on the movement, storage and usage of the information, taking into account data protection and security considerations?
 
 Yes
-
 No
 
 
@@ -559,7 +529,6 @@ Name of SCS
 approver:
 
 Grade:
-
 Date of approval:
 
 The approving manager should now send the completed form to: [operationalsecurityteam@justice.gsi.gov.uk](operationalsecurityteam@justice.gsi.gov.uk).
@@ -569,9 +538,7 @@ The approving manager should now send the completed form to: [operationalsecurit
 
 OST assessment
 
-
 OST recommendation, including any recommended special conditions of approval
-
 
 Name of OST analyst:
 
@@ -581,7 +548,6 @@ Name of OST analyst:
 Application:
 
 approved
-
 refused
 
 Approval reference:
@@ -589,23 +555,17 @@ Approval reference:
 
 Special conditions of approval, if applicable
 
-
 Reason for refusal, if applicable
-
 
 Additional notes
 
-
 Name of person making this decision
 
-
 Position/role of person making this decision
-
 
 Date
 
 
 
 
-If you would like the information in this booklet in an alternative format, please email operationalsecurityteam@justice.gsi.gov.uk
-or ring 0161 234 2046.
+If you would like the information in this booklet in an alternative format, please email [operationalsecurityteam@justice.gsi.gov.uk](operationalsecurityteam@justice.gsi.gov.uk) or ring 0161 234 2046.
