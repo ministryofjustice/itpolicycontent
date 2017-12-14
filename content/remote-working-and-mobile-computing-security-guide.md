@@ -104,14 +104,13 @@ Department and only use this equipment for authorised purposes;
 - Disable the computer by using the screen lock/password-protected
 screensaver facility when absent for even short periods;
 - Log out when leaving the computer unattended for long periods;
-- You must give the data stored on your computer appropriate protection
-corresponding to its sensitivity or protective marking by using such measures as:
+- You must give the data stored on your computer appropriate protection corresponding to its sensitivity by using such measures as:
 -- keeping the computer secure,
 -- encrypting the hard drive, or
 -- by using removable hard disks which can be stored securely when not in use;
 - Computers which do not have hard disk drive encryption to the standard required by the Department must not be moved from any secure location, including to dwellings;
 - Take care to avoid being overlooked when using the computer in a public place e.g. on public transport;
-- Be especially cautious when working on protectively marked data. As a general rule, protectively marked data should not be worked on in public;
+- Be especially cautious when working on protectively marked data. As a general rule, sensitive data should not be worked on in public;
 - If you are able to you should regularly save your work on to the departmental network to ensure that it is appropriately backed up. If you cannot save work to a network drive you should back it up onto removable media e.g. disk, tape or memory stick, though note that these back-ups must be kept secure – see section 4.5 of the IT Security Awareness Guide for further details;
 - If you are responsible for updating anti-virus software on your computer make sure that you do so frequently;
 - Computing equipment provided by the Department is not provided for personal use but reasonable personal use is permitted. Reasonable use does not include connecting to any non-departmental device or to download or store large quantities of personal data. See also the IT Security Awareness Guide.
@@ -160,7 +159,7 @@ When a departmental computer is used for remote working you must remember that t
 
 Contractors, consultants and agency staff may only use their own computers, or computers provided by their parent company, subject to the policy at Annex A.
 
-You must not use your own computer to process any personal or protectively marked data. This also means that you must not automatically re-route any email from your office based email account to your personal email account, nor can you forward any email that contains any personal or protectively marked data to your personal email account. Neither can you use your own computer to remotely connect to any departmental system. 
+You must not use your own computer to process any personal or sensitive data. This also means that you must not automatically re-route any email from your office based email account to your personal email account, nor can you forward any email that contains any personal or sensitive data to your personal email account. Neither can you use your own computer to remotely connect to any departmental system.
 
 One of the most common reasons why you may sometimes work at home is to complete your Performance Management forms. The Department treats this information as RESTRICTED but as you are the producer and subject of this information you may use your own computer and send it over the Internet at your own risk. As a manager, however, you may not do this with your staff
 Performance Management Forms or any other staff management information.
@@ -181,7 +180,7 @@ Some remote users may have a Criminal Justice Secure eMail Account (CJSM). The C
 
 CJSM email accounts may only be used for exchanging departmental data up to RESTRICTED provided that the CJSM account holder meets the CJSM Security Terms and Conditions (single user version) and the MoJ Security Policy namely:
 
-- Comply with the Data Protection Act and all professional codes of conduct/Departmental Security Policy by which you are bound in order to ensure that all data with a Protective Marking of “Restricted” is treated as the originator intended;
+- Comply with any data protection legislation and all professional codes of conduct/Departmental Security Policy by which you are bound in order to ensure that any data marked with a handling caveat (e.g. Official - Sensitive) is treated as the originator intended;
 - Not share your user account details or password with anyone else (except as permitted by the CJSM Terms and Conditions);
 - Communicate to CJIT (via the CJSM Helpdesk) all significant changes to your technical infrastructure that actually or potentially impact on access to, or the integrity of, the CJSM service so that an impact assessment can be carried out;
 - Not transmit data through the CJSM that you know, suspect or have been advised is of a higher level of sensitivity than the CJSM is designed to carry (that is “Restricted” material) nor will material be forwarded to anybody other than on a need to know basis;
@@ -201,7 +200,7 @@ See section 7 of the IT Security Awareness Guide for further information on send
 #### Key points to remember
 - As a general rule computers provided by the Department should be used for working.
 - If you want to use your own computer to work at home get permission from your manager first.
-- Do not use your own computer to work on sensitive, personal or protectively marked data. You can use your own computer to work on your own Performance Management forms, job application etc, at your own risk.
+- Do not use your own computer to work on sensitive or personal data. You can use your own computer to work on your own Performance Management forms, job application etc, at your own risk.
 - Only use computing equipment provided by the Department for authorised purposes.
 - If you use shared computing equipment be sure to delete data not required by anyone else before you return it to the computer pool.
 - CJSM may only be used within the terms and conditions of CJSM and Departmental Security Policy.
@@ -241,7 +240,7 @@ Portable computers can utilise a variety of short and long range wired and wirel
 
 Interception of data transmitted between the portable computer and other computers and computer networks via wireless transmissions as well as over any Internet connection therefore becomes an issue. Therefore, only authorised connection methods between portable computers and other departmental computers are permitted.
 
-The ability to easily transfer data from an office computer to a portable computer increases the risk of transferring sensitive or protectively marked data that cannot be adequately protected on the portable computer. Connecting any insecure device to a departmental system storing data registered under the Data Protection Act may be grounds for legal action against the Department under the seventh principle that requires adequate security to be provided to this information.
+The ability to easily transfer data from an office computer to a portable computer increases the risk of transferring sensitive data that cannot be adequately protected on the portable computer. Connecting any insecure device to a departmental system storing personal may be grounds for legal action against the Department under data protection laws that require adequate security to be provided to personal data.
 
 Removable media such as CDs, DVDs, floppy disks and mass storage USB memory sticks (sometimes called dongles) are a particular risk due to their small size yet ability to carry large (increasingly extremely large) amounts of data.
 
@@ -249,9 +248,9 @@ Removable media such as CDs, DVDs, floppy disks and mass storage USB memory stic
 
 You must acquire any mobile computing device used to hold, process or transmit data belonging to the Department through the Department’s recognised procurement system.
 
-Do not use any mobile computing device to hold, process or transmit any data protectively marked Confidential or above or to connect to any departmental computer system protectively marked Confidential or above without gaining prior approval from your IT Security Officer. It is likely that additional controls will be required that will require a minimum of three months to procure and install.
+Do not use any mobile computing device to hold, process or transmit any data at a classification above Official or to connect to any departmental computer system classified above Official without gaining prior approval from your IT Security Officer. It is likely that additional controls will be required that will require a minimum of three months to procure and install.
 
-If the mobile computer does not have an approved access control mechanism, such as user authentication and encryption, and an approved deletion mechanism to remove protectively marked data which makes it suitable for use for protectively marked data, you may only store, process and transmit nonprotectively marked data.
+If the mobile computer does not have an approved access control mechanism, such as user authentication and encryption, and an approved deletion mechanism to remove data which makes it suitable for use for sensitive data, you may only store, process and transmit non-sensitive data.
 
 You must give the mobile computer the same level of physical security as required by the information it holds.
 
@@ -261,11 +260,11 @@ Any changes to mobile computer hardware or software must be authorised under the
 
 Only the authorised service provider and/or administrative staff may carry out reconfiguration of any departmental mobile computer.
 
-You must not take any mobile computing device capable of recording or transmitting sound or images including mobile ‘phones, into any room where material marked CONFIDENTIAL or above is discussed or displayed, even when the device is switched off.
+You must not take any mobile computing device capable of recording or transmitting sound or images including mobile ‘phones, into any room where material above OFFICIAL is discussed or displayed, even when the device is switched off.
 
-Do not remove any audit tags or asset labels stuck onto the mobile computer. If the audit tag or asset label becomes illegible or detached contact your IT help desk. 
+Do not remove any audit tags or asset labels stuck onto the mobile computer. If the audit tag or asset label becomes illegible or detached contact your IT help desk.
 
-Protectively marked data may only be stored, processed and transmitted by Blackberry devices that have been procured by the Department, are approved (accredited) to handle protectively marked data and are synchronised with your departmental email account.
+Sensitive data may only be stored, processed and transmitted by Blackberry devices that have been procured by the Department, are approved (accredited) to handle sensitive data and are synchronised with your departmental email account.
 
 Blackberry users must read and refer to the user guide and security procedures provided with their Blackberry.
 
@@ -337,21 +336,19 @@ Contractors, consultants and agency staff providing services to the Ministry of 
 
 3. The disk encryption employed must conform to the FIPS140-2 standard or CAPS (CESG Assisted Product Scheme).
 
-4. If the data warrants a RESTRICTED marking the disk encryption employed must conform to CAPS except in exceptional circumstances e.g. short timescales, lack of alternative product etc, where a FIPS140-2 certified product may be employed as a short term, interim measure. In this instance, senior management approval must be obtained and documented in an email to the Information Assurance email account. If long term access to RESTRICTED data is required MoJ computing facilities must be provided.
+4. Where the computer connects to a remote network e.g. the contractor’s company network, then an encrypted link must be used. 
 
-5. Where the computer connects to a remote network e.g. the contractor’s company network, then an encrypted link must be used. 
+5. No emails containing sensitive or personal data should be sent un-encrypted over the Internet. Personal and sensitive emails may be exchanged via the Criminal Justice Secure Mail System (CJSM). The CJSM is accredited to handle OFFICIAL – Criminal data, so consideration should be given to the suitability of CJSM where the data relates to other types of official information, e.g. Policy Guidance on determining what is personal data is available from the Information Commissioner’s Office (ICO) web site at www.ico.gov.uk.
 
-6. No emails containing protectively marked or personal data should be sent un-encrypted over the Internet. Personal and protectively marked emails, up to RESTRICTED, may be exchanged via the Criminal Justice Secure Mail System (CJSM). The CJSM is accredited to handle RESTRICTED – Criminal data, so consideration should be given to the suitability of CJSM where the data relates to other types of RESTRICTED information, e.g. Policy Guidance on determining what is personal data is available from the Information Commissioner’s Office (ICO) web site at www.ico.gov.uk.
+6. Any removable media used to transport data outside of secure buildings must be encrypted with a product certified to FIPS 140-2. Once no longer required these devices should be securely disposed of. CD/DVDs and floppy disks should be cut into four pieces and disposed of as normal waste.
 
-7. Any removable media used to transport data outside of secure buildings must be encrypted with a product certified to FIPS 140-2. Once no longer required these devices should be securely disposed of. CD/DVDs and floppy disks should be cut into four pieces and disposed of as normal waste.
+7. Computer hard disk drives should be securely erased before disposal or recycling if it has held any personal or sensitive data. Information Assurance Branch should be consulted on the procedure to be followed.
 
-8. Computer hard disk drives should be securely erased before disposal or recycling if it has held any personal or protectively marked data. Information Assurance Branch should be consulted on the procedure to be followed.
+8. In compliance with the Data Protection Act, any personal data must be deleted when no longer required, thus must not be retained beyond the duration of engagement with the MoJ.
 
-9. In compliance with the Data Protection Act, any personal data must be deleted when no longer required, thus must not be retained beyond the duration of engagement with the MoJ.
+9. Where there is a need to provide access to large volumes of personal or sensitive data only MoJ computing facilities must be used. Removable media provided by MoJ must be returned to the MoJ after use.
 
-10. Where there is a need to provide access to large volumes of personal or protectively marked data only MoJ computing facilities must be used. Removable media provided by MoJ must be returned to the MoJ after use.
-
-11. Paper records containing personal data should be stored, transported and disposed of securely. Sensitive waste paper should be collected separately from normal waste, and stored securely pending destruction by shredding or burning. As with electronic records, particular care should be taken when moving bulk paper records.
+10. Paper records containing personal data should be stored, transported and disposed of securely. Sensitive waste paper should be collected separately from normal waste, and stored securely pending destruction by shredding or burning. As with electronic records, particular care should be taken when moving bulk paper records.
 
 # Annex B - Removable Media<a id="removable-media"></a>
 
@@ -381,7 +378,7 @@ If sensitive information, such as names, can be removed from the information bei
 
 If the data contains personal information it would be subject to the provisions of the Data Protection Act, including the requirement that such data should be given appropriate protection. The Information Commissioner has recommended that portable and mobile devices used to store and transit personal information, the loss of which could cause damage or distress to individuals, should be protected by encryption that meets a recognised standard.
 
-Personal data is not the only information that may be regarded as sensitive. Other sensitive information will include any information that warrants a protective marking. Any sensitive data must be protected by encryption in the same way as sensitive personal data.
+Personal data is not the only information that may be regarded as sensitive. Any sensitive data must be protected by encryption in the same way as sensitive personal data.
 
 The increased media focus on data loss incidents within Government and other public service organisations and institutions means that even the loss of non-sensitive data may attract adverse reporting and result in damage to MoJ’s reputation. For this reason, only MoJ-provided encrypted removable media should be used.
 
@@ -484,12 +481,9 @@ No
 
 If the data is subject to the Data Protection Act, please give details of the type of information.
 
-What is the highest protective marking of the data?
+What is the highest security classification of the data?
 
-NOT PROTECTIVELY MARKED
-PROTECT
-RESTRICTED
-CONFIDENTIAL
+OFFICIAL
 SECRET
 TOP SECRET
 
