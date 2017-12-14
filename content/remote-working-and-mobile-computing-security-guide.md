@@ -424,7 +424,7 @@ If no virus is detected you may proceed to open and/or copy ﬁle(s).
 
 If a virus is detected; do not open or copy any ﬁle(s), remove the device immediately and report as a security incident. Do not insert the device into any other machine.
 
-## Annex C - Removable Media Business Case Form<a id="removable-media-business-case-form">
+## Annex C - Removable Media Business Case Form<a id="removable-media-business-case-form"></a>
 
 Record number (field to be completed by OST):
 
