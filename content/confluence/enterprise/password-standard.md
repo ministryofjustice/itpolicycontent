@@ -1,56 +1,107 @@
 ---
-title: Password Standard
+title: password-standard
 ---
 
 <table border='1'>
 <tr>
-<td>This content is a version of the Password Standard, August 2013.<br/>
-This is Legacy IA Policy. It is under review and likely to be withdrawn or substantially revised soon. Please contact us before using this on a new project: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=password-standard">itpolicycontent@digital.justice.gov.uk</a>.</td>
+<td>This guidance applies to everyone who works for the MoJ, or who supply systems or services to the MoJ.</td>
 </tr>
 </table>
 
 [acs]: https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/moj-enterprise-access-control-policy/
 [hmgias2]: https://www.ncsc.gov.uk/guidance/information-risk-management-hmg-ia-standard-numbers-1-2
+[tcp]: https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/technical-controls-policy/
 [hmgspf]: https://www.gov.uk/government/publications/security-policy-framework
 [sa]: https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/system-administrators/
 [suas]: https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/system-users-and-application-administrators/
-[tcp]: https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/technical-controls-policy/
+<!--
+-->
 
 ## About this document
 
-This document is the MoJ IT Security – Password Standard. It is designed to help protect MoJ ICT systems by providing a standard on user password management.
+This document is the MoJ IT Security - Password Standard. It helps you protect MoJ IT systems by providing information about how to choose and use passwords.
 
 ### How to use this document
 
-This policy is directed at all those responsible for the design, implementation and management of MoJ IT systems. Appropriate guidance based upon this standard is to be provided to managers and end users.
+You should read the whole document. However, the main things you need to know about passwords depends where and how they are being used:
+
+| The password is for\.\.\. | Example scenarios where the password is used | Read these details carefully |
+|---|---|---|
+| An ordinary user | To log on to a laptop, PC, or mobile device, where the device is only ever used by that user. | [Basic](#basic-passwords) |
+| A system developer | To log on to a development system that is used to build secure tools, services or functions | [Advanced](#advanced-passwords) |
+| A system or application administrator | To log on to a system that provides services or functions for other users. | [Strong](#strong-passwords) |
+| A device or system supplied or managed by a vendor | To access a shared account for administering a system | [Strong](#strong-passwords) |
+| Protecting data that contains personal information | To open and access the information in a database of offenders | [Strong](#strong-passwords) |
+| A system or data classified as `SECRET` or higher | A password alone is almost certainly not sufficient | [HMG Information Assurance Standard No.2][hmgias2] ) and [IT Security- Access Control Standard][acs] |
+
+If you are not certain which level applies to your situation, ask for help from your line manager.
+
+It is never wrong to choose a stronger level of password. For example, if you think your needs might fall into either one of the [Basic](#basic-passwords) or [Advanced](#advanced-passwords) categories, choose the stronger [Advanced](#advanced-passwords) category.
 
 ## Overview
 
 ### Introduction
 
-The purpose of this standard is to address the procedures that must be in place along side the technical controls in a password system to provide effective authentication of users.
+The information in this standard document explains what you need to do when choosing and using passwords for various kinds of tasks and activities. The formal policy for passwords is detailed in the [IT Security - Technical Controls Policy][tcp].
 
-[HMG Security Policy Framework (SPF)][hmgspf] Mandatory Requirement (MR) 10 states that:
+Some systems or services need extra measures in addition to passwords. For example, tokens or other multi-factor authentication devices might be appropriate. For more information about these, see the [IT Security - Access Control Standard][acs].
 
-> Departments and Agencies must implement appropriate procedural controls for all ICT (or paper-based) systems or services to prevent unauthorised access and modification, or misuse by authorised users.
+## Template
+### Overview
+### Things to do
+### Things to avoid
 
-To comply with this requirement, the MoJ must:
+<a id="basic-passwords"></a>
 
-> Implement appropriate identification and authentication controls, policies and procedures to manage the risk of unauthorised access, ensure the correct management of user accounts and enable auditing
+## Basic passwords
 
-The Policy on User Password Management is covered in the [IT Security – Technical Controls Policy][tcp]; this document sets out the MoJ guidance on implementing that policy and developing a Password Standard.
+### Overview
+
+The information in this section is all about basic password usage. It is based on [NCSC guidance](https://www.cyberaware.gov.uk/passwords).
+
+### Things to do
+
+- Follow the [NCSC guidance](https://www.cyberaware.gov.uk/passwords) to generate your password.
+- Use a separate, unique password for each account or service.
+- Use a password manager to help you keep track of your passwords.
+- Change your password:
+  - If there has been a security incident involving your account or password, for example if you think someone has guessed your password.
+  - If there has been a security incident involving the service you access using the password.
+  - If you are advised to do so by your line manager or other authorised person.
+
+### Things to avoid
+
+- Don\'t use the same password for two or more different services.
+- Don\'t tell anyone your password or write it down.
+
+<a id="advanced-passwords"></a>
+
+## Advanced passwords
+
+### Overview
+
+The information in this section is about passwords for multi-user systems, or systems that provide services for sensitive or personal data or information.
+
+### Things to do (users)
+
+### Things to do (systems)
+
+- Check that the system, service, or information protected by a password is classified no higher than `OFFICIAL-SENSITIVE`, and contains no personal data or information.
+  - If it does contain such material, additional access control might be required.
+- Check what other systems can access the system or service. Ensure that access is controlled to a level sufficient to the most sensitive material available at either end of the connection.
+- 
+
+### Things to avoid
+
+<a id="strong-passwords"></a>
+
+## Strong passwords
+
+# Original content from HERE onwards
 
 ### Scope and Responsibilities
 
-This document is intended to provide a Password Standard for MoJ ICT Systems, including ICT systems hosted by third party suppliers on behalf of the MoJ. The Standard is designed to supplement HMG IA Standard No.7- Authentication of Internal Users of ICT Systems Handling Government Information \[HMG IA Standard No.7- Authentication of Internal Users of ICT Systems Handling Government Information Issue 1.0, October 2010\].
-
-The password standard should be used for all MoJ systems processing material up to RESTRICTED. For systems processing information with a protective marking of CONFIDENTIAL or above, additional user authentication may be required. This may also be the case depending on the environment the system is accessible from. The specific requirements for each system must be formally recorded in the Risk Management and Accreditation Documents for the system and authorised by way of the Accreditation process (see [HMG IA Standard No.2][hmgias2] ). Additional measures of user authentication, such as tokens or biometrics are not covered by this standard; see [IT Security- Access Control Standard][acs].
-
-It is the responsibility of system designers and implementers to ensure that their system supports the procedures described in this standard and that Security Operating Procedures (SyOps) are produced that reflect the procedures required by this policy and the policy statements in the [IT Security – Technical Controls Policy][tcp].
-
-It is the responsibility of service support staff to ensure that the guidance provided in this standard relating to the issuing and decommissioning of passwords is followed.
-
-It is the responsibility of managers to ensure that staff and contractors under their authority are aware that this standard applies to them.
+It is the responsibility of system designers and implementers to ensure that their system supports the procedures described in this standard and that Security Operating Procedures (SyOps) are produced that reflect the procedures required by this policy and the policy statements in the [IT Security - Technical Controls Policy][tcp].
 
 ### Outline
 
@@ -91,15 +142,15 @@ Users **must be** forced to change their password when prompted to do so by the 
 For users to change their password, the ICT system must require:
 
 - The user to re-enter their existing password as an authentication mechanism;
-- Enter a new password which conforms to the ICT system's password requirements and be in line with the complexity guidelines provided [here](#password-requirements);
+- Enter a new password which conforms to the ICT system\'s password requirements and be in line with the complexity guidelines provided [here](#password-requirements);
 - The new password **must be** re-entered to ensure that no typing errors have occurred;
-- If both entries of the new password match, the ICT system should automatically change the user's password.
+- If both entries of the new password match, the ICT system should automatically change the user\'s password.
 
 ### Disposal
 
-The [IT Security- Technical Control Policy][tcp] states that, "all IT systems **must have** a process for periodically checking and removing redundant User IDs and accounts". The management and removal of accounts is covered in the [IT Security- Access Control Standard][acs].
+The [IT Security- Technical Control Policy][tcp] states that, \"all IT systems **must have** a process for periodically checking and removing redundant User IDs and accounts\". The management and removal of accounts is covered in the [IT Security- Access Control Standard][acs].
 
-If the ICT system contains a common password, when an individual's user access is withdrawn, the common password **must be** changed. For example, a common password maybe used to access a set of managed switches.
+If the ICT system contains a common password, when an individual\'s user access is withdrawn, the common password **must be** changed. For example, a common password maybe used to access a set of managed switches.
 
 <a id="password-requirements"></a>
 
@@ -140,7 +191,7 @@ Include the username as part of the password;
 <br/>
 Use dictionary / common words;
 <br/>
-Use words / common phrases with substituted numbers for characters e.g. <code>he110</code> for "<code>hello</code>";
+Use words / common phrases with substituted numbers for characters e.g. <code>he110</code> for \"<code>hello</code>\";
 <br/>
 Be used for two systems at different Protective Marking levels.</td>
 </tr>
@@ -154,7 +205,7 @@ Be used for two systems at different Protective Marking levels.</td>
 </tr>
 </table>
 
-The [IT Security SyOps - Users &amp; Application Administrators][suas] provides instruction to users of the system for the handling and protection of passwords. Users **must not** attempt to log on as another user, or share their system access credentials with others. Users **must not** allow unauthorised users to observe their screen or allow any person to observe them entering their system access credentials (e.g. password).
+The [IT Security SyOps - Users &amp; Application Administrators][suas] provides instruction to users of the system for the handling and protection of passwords. Users **must not** attempt to log on as another user, or share their system access credentials with others. Users **must not** allow unauthorised users to observe their screen or allow any person to observe them entering their system access credentials (e\.g\. a password).
 
 ### System Administrators
 
@@ -190,7 +241,7 @@ Include the username as part of the password;
 <br/>
 Use dictionary / common words;
 <br/>
-Use words / common phrases with substituted numbers for characters e.g. <code>he110</code> for "<code>hello</code>";
+Use words / common phrases with substituted numbers for characters e.g. <code>he110</code> for \"<code>hello</code>\";
 <br/>
 Be used for two systems at different Protective Marking levels;
 <br/>
@@ -245,7 +296,7 @@ Include the username as part of the password;
 <br/>
 Use dictionary / common words;
 <br/>
-Use words / common phrases with substituted numbers for characters e.g. <code>he110</code> for "<code>hello</code>";
+Use words / common phrases with substituted numbers for characters e.g. <code>he110</code> for \"<code>hello</code>\";
 <br/>
 Be used for more than one device;</td>
 </tr>
@@ -267,7 +318,7 @@ For example, the password for a firewall device attracts a protective marking of
 
 ### Enforcing Password Requirements
 
-The password management system should enforce the password complexity rules detailed [here](#password-requirements) (i.e. 9 characters in length, 12 for system administrators), mix of upper and lower case characters and a mix of alphabetic, numeric and special characters. In addition to this, the password management system should be designed and configured in line with the following requirements:
+The password management system should enforce the password complexity rules detailed [here](#password-requirements) (i\.e\. 9 characters in length, 12 for system administrators), mix of upper and lower case characters and a mix of alphabetic, numeric and special characters. In addition to this, the password management system should be designed and configured in line with the following requirements:
 
 - Accounts should be locked after five consecutive failed attempts of logging in, requiring a password reset from the System Manager / Service Desk;
 - The password management system should force the password change and users should be locked out if they fail to change their password by the due date. The system should warn the user prior to the password change due date;
@@ -285,3 +336,10 @@ The [IT Security SyOps- System Users and Application Administrators][suas] and t
 Paper based back-up storage of passwords is permitted, but such passwords **must be** appropriately protected to the level of the information to which the password provides access (see [here](#service-accounts) for details of password storage for Service Accounts).
 
 When a password is entered into an ICT system, including on first entry, the password **must not** be physically displayed.
+
+<table border='1'>
+<tr>
+<td>This standard is dated December 2017.<br/>
+To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=password-standard">itpolicycontent@digital.justice.gov.uk</a>.</td>
+</tr>
+</table>
