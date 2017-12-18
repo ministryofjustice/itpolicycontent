@@ -10,26 +10,33 @@ title: passwords
 </tr>
 </table>
 
-Passwords are a vitally important to ensure only authorised persons access sensitive information which is stored and managed on the department\'s IT systems.
+[ps]: https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/password-standard/
 
-You should protect your password in the same way you protect your own bank account pin number.
+Passwords are essential for protecting the department\'s IT systems. Passwords help control access to the information stored and managed on the systems. Passwords help assure identity, and so permit authorised access.
 
-You must:
+You should protect your passwords to the best of your ability.
 
-1.  Memorise it. Do not write it down. If there is a genuine business reason for recording and storing a password it should be kept in a sealed envelope in a locked drawer or safe which is only accessible to a list of authorised persons agreed by your senior information risk owner
-2.  Ensure that it is of sufficient length to ensure it is difficult to guess or decrypt
-3.  Make it at least eight characters long, with a mix of upper and lower case letters, numbers and symbols
-4.  Choose one in a way that makes them difficult for other people to guess what it could be (for instance, limit connection with your personal circumstances)
-5.  Change it on at least once every three months or when prompted by the system, or
-6.  If you think someone else may know it or if it has been disclosed to someone else
-7.  Do not use the same password for logins or sign-on to different systems, and
-8.  Do not re-use passwords (e.g. alternating the same two passwords).
+This guidance document tells you more about passwords, and your responsibilities for them. For more detailed information about choosing and using passwords, see the [Password Standard][ps].
 
-__Do not share your password. This is considered to be a significant breach of security and you may then be subject to disciplinary action.__
+## Always\.\.\.
+
+- Choose and use a password for information, services or systems that is strong enough to provide sufficient protection for the classification level of that information, services or system.
+- Use a password manager, to help you choose and store your passwords.
+- Use a password that has a combination of upper case characters, lower case characters, digits, and special characters such as '`@`', '`$`', '`%`', or '`^`'.
+- Change your password after a security incident involving the information, service, or system that is protected by the password.
+
+## Never\.\.\.
+
+- Use a password for more than one account or service.
+- Re-use a password.
+- Write a password down.
+- Share a password with anyone, unless it is authorised for accessing a shared account, service, or system.
+
+**Note:** Unauthorised sharing of a password is a significant breach of security and might result in disciplinary action.
 
 ## Passwords for a new account
 
-When a new account is created you will be provided with a one-time use password. 
+When a new account is created you will be provided with a one-time use password.
 
 Once you have entered your password you should be prompted to change it.
 
@@ -43,7 +50,7 @@ If you do forget your password, you can reset it straight away by clicking on th
 
 If you haven't already enrolled, it is urgent that you do so now. Copy and paste the following link into your browser: https://accountselfservice.dom1.infra.int/pmf/SelfService/ and set up your personalised security questions, the answers and your memorable word. Or go to Favourites in your Internet browser and click 'Account Self Service'.
 
-## How to reset your Security BeCrypt (eToken) password  
+## How to reset your Security BeCrypt (eToken) password
 
 To reset your password you will need to contact the IT Service Desk. They will check whether they have your memorable word. Where they do, you will be asked to confirm certain characters of the word and your password will be reset and you will quickly regain access to your laptop.
 
@@ -51,7 +58,7 @@ If you are registered for the Self Service Password service and do not have a me
 
 ## Sharing passwords
 
-Sharing passwords is strictly prohibited by MoJ's security policy (see Section 10.1 of the IT security guide). If this policy is breached, the MoJ connection to the Government secure internet may be cancelled. It is essential that our connection remains valid in order for the Department to continue to communicate securely.  
+Sharing passwords is strictly prohibited by MoJ's security policy (see Section 10.1 of the IT security guide). If this policy is breached, the MoJ connection to the Government secure internet may be cancelled. It is essential that our connection remains valid in order for the Department to continue to communicate securely.
 
 ### National guidance:
 
@@ -70,7 +77,7 @@ As a MoJ IT user, you are NOT permitted to:
 
 ### Are there any exceptions whereby a password can be shared?
  
-Very occasionally the normal use of a particular application may be by way of a shared username and/or password. Unless the application user guide specifically allows password sharing you __must not__ share your password with anyone. If you would like to refer to a specific application guide please contact the relevant application owner.  
+Very occasionally the normal use of a particular application may be by way of a shared username and/or password. Unless the application user guide specifically allows password sharing you __must not__ share your password with anyone. If you would like to refer to a specific application guide please contact the relevant application owner.
 
 ### What do I do if I need access to another user's account?
 

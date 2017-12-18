@@ -12,5 +12,4 @@
 ./content/confluence/enterprise/remote-working.md
 ./content/confluence/enterprise/system-administrators.md
 ./content/confluence/policies-for-macbook-users.md
-
 ./content/confluence/passwords.md
