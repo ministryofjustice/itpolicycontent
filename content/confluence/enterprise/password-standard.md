@@ -94,7 +94,6 @@ The information in this section is about passwords for multi-user systems, or sy
 - Check that the system, service, or information protected by a password is [classified](https://intranet.justice.gov.uk/guidance/security/it-computer-security/government-classification-scheme/) no higher than `OFFICIAL-SENSITIVE`, and contains no material such as contracts, or personal data or information.
   - If it does contain such material, additional access control might be required.
 - Check what other systems can access the system or service. Ensure that access is controlled to a level sufficient to the most sensitive material available at either end of the connection.
-- 
 
 ### Things to avoid
 
