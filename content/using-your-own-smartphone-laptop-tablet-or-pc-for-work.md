@@ -33,7 +33,7 @@ Be clear about what tools you will use, and the tasks you will perform: if it's 
 
 To stop other people accessing MOJ systems or information, your device must:
 
-- ask for a [strong password](https://www.cyberaware.gov.uk/passwords), PIN, fingerprint or other ID verification whenever you log on
+- ask for a [good password](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/password-standard/), PIN, fingerprint or other ID verification whenever you log on
 - lock the screen if you don’t use it for 10 minutes
 
 Ensure that your device is completely up-to-date with security patches as well as antivirus and anti-malware tools.

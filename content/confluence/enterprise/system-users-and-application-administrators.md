@@ -79,7 +79,7 @@ Shut-down:
 <li>Users must not attempt to log on as another user, or share their system access credentials with others.</li>
 <li>Users must not allow unauthorised users to observe their screen.</li>
 <li>Users must not allow any person to observe them entering their system access credentials (e.g. password).</li>
-<li>Passwords used on the system must be created in line with the [ORGANISATION] Password Standard. Passwords must be a minimum of 9 characters long and use a mix of lower case, upper case, numbers and special characters.</li>
+<li>Passwords used on the system must be created in line with the [ORGANISATION] Password Standard.</li>
 <li>Users must invoke the screensaver before leaving their workstation unattended (by pressing 'windows' key + L).</li>
 <li>A User account must only be created with permissions commensurate to that User's business role, and are only to be enabled once a signed copy of these SyOPs have been received from the user.</li>
 <li>A User account must be disabled when that staff member leave the [ORGANISATION] or where their business role does not require them to have access.</li>
@@ -89,7 +89,7 @@ Shut-down:
 <tr valign='top'>
 <td>Resetting user passwords</td>
 <td colspan='2'><ul>
-<li>To change a password, Users must hold down Ctrl + Alt + Delete on their keyboard and select 'Change Password'. They cannot change their password more than once in 48 hours.</li>
+<li>To change a password, Users must hold down Ctrl + Alt + Delete on their keyboard and select 'Change Password'.</li>
 <li>If the password requires resetting, contact the Technology Service Desk<br/><img src="https://intranet.justice.gov.uk/app/uploads/2017/12/74015bc20bb1c38fb4249c4ef6d3cfed.gif">&nbsp;</li>
 </ul></td>
 </tr>

@@ -155,7 +155,7 @@ This section describes the common PKI policy that applies regardless of the type
 
 #### Authentication
 
-1. All Users of the PKI Services shall be authenticated beyond reasonable doubt for the purposes of legal admissibility of evidence in accordance with BS 10008. Password strength, complexity and expiry rules must comply with MoJ Password policy.
+1. All Users of the PKI Services shall be authenticated beyond reasonable doubt for the purposes of legal admissibility of evidence in accordance with BS 10008. Password strength, complexity and expiry rules must comply with [MoJ Password requirements](https://intranet.justice.gov.uk/guidance/security/it-computer-security/passwords/).
 2. Access to Root CA Services must be subject to multi-factor authentication and subject to two-man rule.
 3. Access to specific signing functions shall be subject to specific authentication and access control policies including two man rule.
 

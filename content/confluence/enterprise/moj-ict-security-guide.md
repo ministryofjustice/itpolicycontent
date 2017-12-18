@@ -202,7 +202,7 @@ MoJ's ICT networks are secured to hold OFFICIAL information. Only MoJ computers 
 
 ### Passwords
 
-Access to most computer systems (referred to as 'log in' or 'log on') is controlled by a username and password. The user name identifies the user as a valid user of the system and the password authenticates that the user is who they say they are. Secure passwords are therefore crucial to the security of our computer systems. See Chapter 10 for more information on passwords.
+Access to most computer systems (referred to as 'log in' or 'log on') is controlled by a username and password. The user name identifies the user as a valid user of the system and the password authenticates that the user is who they say they are. Secure passwords are therefore crucial to the security of our computer systems. See [here](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/password-standard/) for more information on passwords.
 
 Audit trail facilities can identify usage of MoJ systems. You are responsible for what you do and may be held responsible for any actions carried out using your username and password. You must therefore not allow any one else to do work on any system using your ID and password.
 
@@ -505,31 +505,4 @@ For the latest and up to date guidance on secure transfer of data see [IT Securi
 
 ## Passwords
 
-In this section:
-
-- Password policy
-- Choosing a good password
-
-### Password policy
-
-Access to most of MoJ's ICT systems is controlled by the use of user identifiers (user IDs) and passwords. Unless specifically authorised passwords must not be shared.
-
-Office automation systems provide facilities for controlled file sharing and delegate access to mailboxes and calendars for colleagues, managers and personal assistants which make it unnecessary to allow anyone to use your network account. Make use of these facilities – do not share your password.
-
-In order for a password to give an adequate level of security they must be correctly chosen, used and managed:
-
-- your password should be of sufficient length and complexity to ensure it is difficult to guess or decrypt (passwords on MoJ ICT systems should be at least nine characters long);
-- you should choose your password in a way that makes them difficult for other people to guess it;
-- you should change your password at least once every three months or when prompted by the system;
-- change your password if you think someone else may know it or if it has been disclosed to someone else;
-- memorise your password, do not write it down, and if there is a genuine business reason for recording and storing a password it should be kept in a sealed envelope in a locked drawer or safe;
-- do not use the same password for logins or sign-on to different systems; and
-- do not re-use passwords (e.g. alternating the same two passwords).
-
-### Choosing a good password
-
-- Choose passwords that are not easy to guess.
-- Use a mix of upper and lower case letters, numbers and symbols.
-- Do not use a recognisable word, though it can help with recall if the password is pronounceable.
-- Use the first letters of a phrase (e.g. '`This is now a Secure system for me!`' would give a password of '`TinaSs4me!`').
-- Do not make obvious letter / number substitutions to disguise recognisable words e.g. `0` for `O`, `5` for `S`, `1` for `I`, as this is a well known technique and therefore offers little security.
+For more information on password policy and choosing a good password, see [here](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/password-standard/).
