@@ -9,7 +9,8 @@ addons:
       - aspell-en
 
 script:
-  scripts/checkSpelling.sh
+  - scripts/detectAvoidWords.sh
+  - scripts/checkSpelling.sh
 
 notifications:
   email:
