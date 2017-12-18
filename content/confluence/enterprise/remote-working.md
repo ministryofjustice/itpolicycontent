@@ -86,7 +86,7 @@ For other security related information, please refer to:
 </tr>
 <tr valign='top'>
 <td>Passwords</td>
-<td><ul><li>Passwords used on the system must be created in line with the [ORGANISATION] Password Standard. Passwords must be a minimum of 9 characters long and use a mix of lower case, upper case, numbers and special characters.</li>
+<td><ul><li>Passwords used on the system must be created in line with the [ORGANISATION] Password Standard.</li>
 <li>Users must never keep a record of any password with the laptop.</li>
 <li>Where access to a departmental system is available remotely there are sometimes constraints on whether passwords must be changed remotely or when directly connected to the network and the correct procedures must be followed to prevent being locked out of the system;</li></ul></td>
 </tr>

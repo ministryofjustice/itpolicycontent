@@ -36,7 +36,7 @@ You should read the whole document. However, the main things you need to know ab
 
 If you are not certain which level applies to your situation, ask for help from your line manager.
 
-It is never wrong to choose a stronger level of password. For example, if you think your needs might fall into either one of the [Basic](#basic-passwords) or [Advanced](#advanced-passwords) categories, choose the stronger [Advanced](#advanced-passwords) category.
+It is never wrong to choose a stronger level of password. For example, if you think your circumstances fall into either one of the [Basic](#basic-passwords) or [Advanced](#advanced-passwords) categories, choose the stronger [Advanced](#advanced-passwords) category.
 
 ## Overview
 
@@ -57,22 +57,27 @@ Some systems or services need extra measures in addition to passwords. For examp
 
 ### Overview
 
-The information in this section is all about basic password usage. It is based on [NCSC guidance](https://www.cyberaware.gov.uk/passwords).
+The information in this section is for basic password usage. It is based on [NCSC guidance](https://www.cyberaware.gov.uk/passwords).
 
-### Things to do
+### Things to do (users)
 
 - Follow the [NCSC guidance](https://www.cyberaware.gov.uk/passwords) to generate your password.
 - Use a separate, unique password for each account or service.
-- Use a password manager to help you keep track of your passwords.
+- Use a [password manager](https://www.ncsc.gov.uk/blog-post/what-does-ncsc-think-password-managers) to help you keep track of your passwords.
 - Change your password:
   - If there has been a security incident involving your account or password, for example if you think someone has guessed your password.
-  - If there has been a security incident involving the service you access using the password.
+  - If there has been a security incident involving the service that you access using the password.
   - If you are advised to do so by your line manager or other authorised person.
+
+### Things to do (systems)
+
+A simple definition of systems is that they are computers or services that support more than one user. Therefore, basic level passwords are never sufficient to protect systems, or the services they offer.
 
 ### Things to avoid
 
-- Don\'t use the same password for two or more different services.
-- Don\'t tell anyone your password or write it down.
+- Don\'t use the same password for accessing two or more different services.
+- Don\'t tell anyone your password.
+- Don\'t write down your password.
 
 <a id="advanced-passwords"></a>
 
@@ -80,13 +85,13 @@ The information in this section is all about basic password usage. It is based o
 
 ### Overview
 
-The information in this section is about passwords for multi-user systems, or systems that provide services for sensitive or personal data or information.
+The information in this section is about passwords for multi-user systems, or systems that provide services for sensitive material such as contracts, or personal data or information.
 
 ### Things to do (users)
 
 ### Things to do (systems)
 
-- Check that the system, service, or information protected by a password is classified no higher than `OFFICIAL-SENSITIVE`, and contains no personal data or information.
+- Check that the system, service, or information protected by a password is [classified](https://intranet.justice.gov.uk/guidance/security/it-computer-security/government-classification-scheme/) no higher than `OFFICIAL-SENSITIVE`, and contains no material such as contracts, or personal data or information.
   - If it does contain such material, additional access control might be required.
 - Check what other systems can access the system or service. Ensure that access is controlled to a level sufficient to the most sensitive material available at either end of the connection.
 - 

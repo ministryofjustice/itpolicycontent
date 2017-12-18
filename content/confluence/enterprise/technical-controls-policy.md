@@ -279,7 +279,7 @@ The requirement for an ICT system to be protected by a password **must be** deri
 
 **POL.TCP.045:**
 
-The standard on password generation, composition and management is contained within ICT Security – Password Standard. All IT systems which use passwords for access control **must follow** this standard.
+The standard on password generation, composition and management is contained within [ICT Security – Password Standard](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/password-standard/). All IT systems which use passwords for access control **must follow** this standard.
 
 **POL.TCP.046:**
 
