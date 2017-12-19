@@ -1,4 +1,4 @@
----
+﻿---
 title: technical-controls-policy
 ---
 
@@ -33,7 +33,7 @@ The objectives of this policy are:
 
 - To facilitate the consistent application of technical security controls across the MoJ where similar controls and configurations are applied in a similar manner to a common standard.
 - To support business continuity by promoting standard configuration which will make it easier to re-provision or re-build systems.
-- By providing a minimum baseline technical security requirement for all IT systems, the appropriateness of those controls can be reviewedcentrally against future security developments and MoJ Information Assurance strategy.
+- By providing a minimum baseline technical security requirement for all IT systems, the appropriateness of those controls can be reviewed centrally against future security developments and MoJ Information Assurance strategy.
 - Reduce the cost of implementing ICT systems by ensuring security considerations are considered at the start of the development process shaping the requirements and providing input into system design.
 
 ## Technical controls lifecycle
@@ -132,7 +132,7 @@ Any technical risk assessment **must examine** the risks associated with cabling
 
 All ICT systems **must consider** the need to separate cable trunking where justified by the Business Impact Assessment (BIA) and risk assessment. Further advice can be sort from MoJ Corporate security and business continuity branch.
 
-Network cabling in particular is prone to electronic interference or interception. For policy relating to this see Section 4.3.
+Network cabling in particular is prone to electronic interference or interception.
 
 ### Equipment maintenance
 
@@ -169,7 +169,7 @@ Where sanitisation of a piece of ICT equipment is required prior to any maintena
 
 All ICT systems **must maintain** a log of maintenance activity noting any MoJ ICT IA approvals where appropriate.
 
-On some occasions, ICT equipment may be decommissioned rather than repaired. For the policy on asset disposal see Section 14.1.
+On some occasions, ICT equipment may be decommissioned rather than repaired.
 
 ### TEMPEST
 
@@ -253,7 +253,7 @@ All ICT systems **must ensure** that a redundant User ID is not recycled and iss
 
 #### Privilege Management
 
-Most IT systems provide access to a number of services and information assets. In general, a particular User does not need access to every service or information asset. As such, privileges and privilege management provides a mechanism to restrict user access and enforce principles such as ‘need-toknow’.
+Most IT systems provide access to a number of services and information assets. In general, a particular User does not need access to every service or information asset. As such, privileges and privilege management provides a mechanism to restrict user access and enforce principles such as ‘need-to-know’.
 
 **POL.TCP.040:**
 
@@ -609,13 +609,13 @@ All imports and exports to an ICT system received from an external network or vi
 
 **POL.TCP.104:**
 
-All ICT systems **must have** a procedure to report any virus or malware detections. As standards, this must be an alert to the User and to MoJ Operational Security (OST).
+All ICT systems **must have** a procedure to report any virus or malware instances. As standards, this must be an alert to the User and to MoJ Operational Security (OST).
 
 **POL.TCP.105:**
 
 All ICT systems **must refer** to ICT Security – Malware Protection Guide when selecting security controls to protect against malicious code and threats from mobile code.
 
-**Note:** All malicious code detections must be recorded as an ICT Security incident. Further details are provided in [ICT Security – IT Incident Management Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/it-incident-management-policy/).
+**Note:** All malicious code instances must be recorded as an ICT Security incident. Further details are provided in [ICT Security – IT Incident Management Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/it-incident-management-policy/).
 
 #### Covert channels and Trojan code
 
@@ -691,7 +691,7 @@ Configuration management is important to maintaining the operational security of
 
 **POL.TCP.118:**
 
-All ICT system configurations **must be** fully documented and versioned controlled.
+All ICT system configurations **must be** fully documented and version controlled.
 
 **POL.TCP.119:**
 
