@@ -1,4 +1,4 @@
----
+﻿---
 title: technical-controls-policy
 ---
 
@@ -132,7 +132,7 @@ Any technical risk assessment **must examine** the risks associated with cabling
 
 All ICT systems **must consider** the need to separate cable trunking where justified by the Business Impact Assessment (BIA) and risk assessment. Further advice can be sort from MoJ Corporate security and business continuity branch.
 
-Network cabling in particular is prone to electronic interference or interception. For policy relating to this see Section 4.3.
+Network cabling in particular is prone to electronic interference or interception.
 
 ### Equipment maintenance
 
@@ -169,7 +169,7 @@ Where sanitisation of a piece of ICT equipment is required prior to any maintena
 
 All ICT systems **must maintain** a log of maintenance activity noting any MoJ ICT IA approvals where appropriate.
 
-On some occasions, ICT equipment may be decommissioned rather than repaired. For the policy on asset disposal see Section 14.1.
+On some occasions, ICT equipment may be decommissioned rather than repaired.
 
 ### TEMPEST
 
