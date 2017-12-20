@@ -1,8 +1,6 @@
 ---
-title: web-browsing-security
+title: web-browsing
 ---
-
-## Web browsing
 
 <table border='1'>
 <tr valign='top'>
@@ -83,6 +81,6 @@ If the block is due to an access rule, Operational Security reviews whether to c
 <table border='1'>
 <tr valign='top'>
 <td>This policy is dated December 2017, and is an update of the Web browsing guidance.<br/>
-To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=web-browsing-security">itpolicycontent@digital.justice.gov.uk</a>.</td>
+To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=web-browsing">itpolicycontent@digital.justice.gov.uk</a>.</td>
 </tr>
 </table>
