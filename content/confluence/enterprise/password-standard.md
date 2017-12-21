@@ -10,11 +10,13 @@ title: password-standard
 
 [acs]: https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/moj-enterprise-access-control-policy/
 [hmgias2]: https://www.ncsc.gov.uk/guidance/information-risk-management-hmg-ia-standard-numbers-1-2
+[ncscpasswords]: https://www.cyberaware.gov.uk/passwords
+[ncscpwm]: https://www.ncsc.gov.uk/blog-post/what-does-ncsc-think-password-managers
 [tcp]: https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/technical-controls-policy/
+<!--
 [hmgspf]: https://www.gov.uk/government/publications/security-policy-framework
 [sa]: https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/system-administrators/
 [suas]: https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/system-users-and-application-administrators/
-<!--
 -->
 
 ## About this document
@@ -23,33 +25,63 @@ This document is the MoJ IT Security - Password Standard. It helps you protect M
 
 ### How to use this document
 
-You should read the whole document. However, the main things you need to know about passwords depends where and how they are being used:
+You should read this whole document. However, the essential things you need to know about passwords depends where and how they are being used:
 
-| The password is for\.\.\. | Example scenarios where the password is used | Read these details carefully |
+| The password is for\.\.\. | Example scenarios where the password is used | Read the [Overview](#overview) section carefully, and also\.\.\. |
 |---|---|---|
-| An ordinary user | To log on to a laptop, PC, or mobile device, where the device is only ever used by that user. | [Basic](#basic-passwords) |
+| An ordinary user | To log on to a laptop, PC, or mobile device, where the device is only ever used by that user | [Basic](#basic-passwords) |
 | A system developer | To log on to a development system that is used to build secure tools, services or functions | [Advanced](#advanced-passwords) |
-| A system or application administrator | To log on to a system that provides services or functions for other users. | [Strong](#strong-passwords) |
+| A system or application administrator | To log on to a system that provides services or functions for other users | [Strong](#strong-passwords) |
 | A device or system supplied or managed by a vendor | To access a shared account for administering a system | [Strong](#strong-passwords) |
 | Protecting data that contains personal information | To open and access the information in a database of offenders | [Strong](#strong-passwords) |
-| A system or data classified as `SECRET` or higher | A password alone is almost certainly not sufficient | [HMG Information Assurance Standard No.2][hmgias2] ) and [IT Security- Access Control Standard][acs] |
+| A system or data classified as `SECRET` or higher | A password alone is almost certainly not sufficient | [HMG Information Assurance Standard No.2][hmgias2] and [IT Security- Access Control Standard][acs] |
 
 If you are not certain which level applies to your situation, ask for help from your line manager.
 
 It is never wrong to choose a stronger level of password. For example, if you think your circumstances fall into either one of the [Basic](#basic-passwords) or [Advanced](#advanced-passwords) categories, choose the stronger [Advanced](#advanced-passwords) category.
 
+<a id="overview"></a>
+
 ## Overview
 
-### Introduction
+The information in this document is based on [NCSC guidance](https://www.ncsc.gov.uk/guidance/password-guidance-simplifying-your-approach) which recommends a simpler approach to passwords.
 
-The information in this standard document explains what you need to do when choosing and using passwords for various kinds of tasks and activities. The formal policy for passwords is detailed in the [IT Security - Technical Controls Policy][tcp].
+This document explains what you need to do when choosing and using passwords for various kinds of tasks and activities. If you want to know more, the actual rules about passwords are in the [IT Security - Technical Controls Policy][tcp]. Whenever you see the word 'system' in this information, it applies to:
+
+- Hardware, such as laptops, PCs, servers, mobile devices, and any ICT equipment.
+- Software, such as operating systems or applications installed on hardware, 'apps', or cloud-based tools like '[Slack](https://slack.com/)'.
+- Services, 
 
 Some systems or services need extra measures in addition to passwords. For example, tokens or other multi-factor authentication devices might be appropriate. For more information about these, see the [IT Security - Access Control Standard][acs].
+
+The requirement for an ICT system to be protected by a password must be derived from a technical risk assessment (using HMG Information Assurance Standard No. 1 & 2 for systems undergoing the accreditation process) and a Business Impact Assessment (BIA).
+
+Whenever you take delivery of a new or refreshed system, or are granted access to a service, you must change any and all default passwords supplied. This applies to all systems and services, including for example:
+
+- Your account on a new work-provided laptop.
+- A shared account for accessing a data analytics service.
+- The All supplier or vendor supplied passwords must be changed before live operation.
+
+This requirement to change passwords mean that all systems and services must have a process by which the owner of a password can change it when required.
+All ICT systems must have a process to change any passwords which have been compromised.
+
+You must change a password:
+  - If there has been a security incident involving your account or password, for example if you think someone has guessed your password.
+  - If there has been a security incident involving the service that you access using the password.
+  - If you are advised to do so by your line manager or other authorised person.
+
+You'll notice that there is no requirement to change a password simply because it is older than a certain number of days. The reason is that time-expiry of passwords is considered to be an "[...outdated and ineffective practice](https://www.ncsc.gov.uk/blog-post/your-password-expiry-policy-may-have-reached-its-expiry-date)".
+
+<a id="password-managers"></a>
+
+### Password managers
+
+These are tools that help you create, use, and manage your passwords. A useful overview is available [here][ncscpwm].
 
 ## Template
 ### Overview
 ### Things to do
-### Things to avoid
+### Things to remember
 
 <a id="basic-passwords"></a>
 
@@ -57,23 +89,19 @@ Some systems or services need extra measures in addition to passwords. For examp
 
 ### Overview
 
-The information in this section is for basic password usage. It is based on [NCSC guidance](https://www.cyberaware.gov.uk/passwords).
+The information in this section is for basic password usage. It is based on [NCSC guidance][ncscpasswords].
 
 ### Things to do (users)
 
-- Follow the [NCSC guidance](https://www.cyberaware.gov.uk/passwords) to generate your password.
+- Follow the [NCSC guidance][ncscpasswords] to generate your password.
 - Use a separate, unique password for each account or service.
-- Use a [password manager](https://www.ncsc.gov.uk/blog-post/what-does-ncsc-think-password-managers) to help you keep track of your passwords.
-- Change your password:
-  - If there has been a security incident involving your account or password, for example if you think someone has guessed your password.
-  - If there has been a security incident involving the service that you access using the password.
-  - If you are advised to do so by your line manager or other authorised person.
+- Use a [password manager](#password-managers) to help you keep track of your passwords.
 
 ### Things to do (systems)
 
 A simple definition of systems is that they are computers or services that support more than one user. Therefore, basic level passwords are never sufficient to protect systems, or the services they offer.
 
-### Things to avoid
+### Things to remember
 
 - Don\'t use the same password for accessing two or more different services.
 - Don\'t tell anyone your password.
@@ -95,7 +123,7 @@ The information in this section is about passwords for multi-user systems, or sy
   - If it does contain such material, additional access control might be required.
 - Check what other systems can access the system or service. Ensure that access is controlled to a level sufficient to the most sensitive material available at either end of the connection.
 
-### Things to avoid
+### Things to remember
 
 <a id="strong-passwords"></a>
 
