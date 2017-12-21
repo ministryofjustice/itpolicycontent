@@ -27,7 +27,7 @@ As with all information you handle for work, when using online tools it is your 
 
 You are responsible under the Data Protection Act (DPA) for the security and stewardship of personal data in your care. We would advise that open Internet tools are unsuitable for the transmission or storage of citizens' data, unless their consent is gained; and always unsuitable for data that would cause damage or distress to an individual if disclosed, including sensitive personal data as defined by the DPA. Take particular care if you are handling citizens' personal data that you comply with the DPA; ask for advice on how to do so.
 
-![]https://intranet.justice.gov.uk/app/uploads/2017/12/68351f224cff2c0bd50a5fcc85df2e6c.gif
+![](https://intranet.justice.gov.uk/app/uploads/2017/12/68351f224cff2c0bd50a5fcc85df2e6c.gif)
 
 ### Service and support
 
@@ -59,49 +59,31 @@ For more information please consult the [MOJ Information Management Policy](http
 
 ## Personal data
 
-You are responsible under the Data Protection Act (DPA) for the security and stewardship of personal data in your care. We would advise that
-open Internet tools are generally unsuitable for the transmission or storage of citizens' data, unless their consent is gained; and always
-unsuitable for data that would cause damage or distress to an individual if disclosed, including sensitive personal data as defined by the DPA.
-You should take particular care if you are handling citizens' personal data that you comply with the DPA; data.compliance@justice.gsi.gov.uk
-can advise on how to do so.
-The DPA imposes broad responsibilities on organisations to protect personal data and sets out definitions for personal and sensitive personal data.
-Explained in more detail here. The DPA also obliges organisations to take “appropriate technical and organisational measures against unauthorised or
-unlawful processing of personal data and against accidental loss or destruction of, or damage to, personal data.” For in depth guidance relating to what
-this means in practice please consult ico.gov.uk.
-A further requirement of the DPA is that “personal data shall not be transferred outside the European Economic Area (EEA) unless that country ensures
-an adequate level of protection”. Most tools should make this clear in their Privacy Policy or terms and conditions the locations where they process data,
-but you may need to contact the company if it is unclear. When using a new tool, you need to ensure that you are fulfilling your responsibilities under the
-DPA.
+You are responsible under the Data Protection Act (DPA) for the security and stewardship of personal data in your care. We would advise that open Internet tools are generally unsuitable for the transmission or storage of citizens' data, unless their consent is gained; and always unsuitable for data that would cause damage or distress to an individual if disclosed, including sensitive personal data as defined by the DPA. You should take particular care if you are handling citizens' personal data that you comply with the DPA; the [Data Compliance team](mailto:data.compliance@justice.gsi.gov.uk) can advise on how to do so.
 
-There may be occasions when you process citizen personal data online – this could be when you crowdsource ideas when you run an Open
-Policy Making exercise, for example – but when doing so, you should consider the requirements of the DPA and any privacy risks by
-completing a Privacy Impact Assessment (PIA). Open Internet tools may not be suitable for the transmission or storage of large volumes of
-personal data but you may need to transmit or store small amounts to be able to use the tool effectively. For example, you may need to use the
-names of colleagues when assigning tasks in a tool like Trello. You should discuss this with your team to ensure they understand how their
-personal data will be used.
+The DPA imposes broad responsibilities on organisations to protect personal data and sets out definitions for [personal and sensitive personal data](https://ico.org.uk/for-organisations/guide-to-data-protection/key-definitions/#personal-data). The responsibilities are explained in more detail [here](https://ico.org.uk/for-organisations/guide-to-data-protection/principle-2-purposes/). The DPA also obliges organisations to take "appropriate technical and organisational measures against unauthorised or unlawful processing of personal data and against accidental loss or destruction of, or damage to, personal data." For in depth guidance relating to what this means in practice please consult <https://www.ico.org.uk/>.
 
-For more information on the DPA please visit https://ico.org.uk/ or direct any queries to the Data Access and Compliance Unit on
-data.compliance@justice.gsi.gov.uk. You can find out more about MOJ's Data Protection responsibilities here.
+A further requirement of the DPA is that "personal data shall not be transferred outside the European Economic Area (EEA) unless [that country ensures an adequate level of protection](https://ico.org.uk/for-organisations/guide-to-data-protection/principle-8-international/#adequate)". Most tools should make this clear in their Privacy Policy or terms and conditions the locations where they process data, but you may need to contact the company if it is unclear. When using a new tool, you need to ensure that you are fulfilling your responsibilities under the DPA.
 
-Service and support
-While Open Internet Tools are designed to be intuitive and reliable, MOJ Technology is not responsible for providing technical
-support and ensuring service availability. Given that the department has no control over these tools, you should not use them in
-such a way as they become business critical.
-Open Internet Tools are services provided online by third party companies. These companies depend on providing an easy-to-use and reliable
-service to retain their customers. In general, they provide clear and concise support documentation to help you get the most out of the tools
-they offer. They are generally available to use 24 hours a day, 365 days a year, with only occasional downtime for maintenance and
-improvement.
-Because these services are offered outside of MOJ's Service Level Agreements with our existing technology suppliers, MOJ Technology is not
-responsible for providing support and ensuring that the services are available. You should consider how to use these platforms in the
-knowledge that if something goes wrong it is the tool supplier, rather than MOJ, who is responsible for helping you.
-Many tools provide excellent support on their websites. In the unlikely event that the tools are not available, they malfunction, they
-lose your data, or you don't know how to do something, you will rely on support from the tool supplier to fix your issue. It is
-important to be aware that you may not always be able to speak to someone for help.
+There may be occasions when you process citizen personal data online – this could be when you crowdsource ideas when you run an Open Policy Making exercise, for example – but when doing so, you should consider the requirements of the DPA and any privacy risks by completing a [Privacy Impact Assessment (PIA)](https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/privacy-impact-assessments/). Open Internet tools may not be suitable for the transmission or storage of large volumes of personal data but you may need to transmit or store small amounts to be able to use the tool effectively. For example, you may need to use the names of colleagues when assigning tasks in a tool like Trello. You should discuss this with your team to ensure they understand how their personal data will be used.
+
+For more information on the DPA please visit <https://ico.org.uk/> or direct any queries to the [Data Access and Compliance Unit](mailto:data.access@justice.gsi.gov.uk). You can find out more about MOJ's Data Protection responsibilities [here](https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/personal-data/).
+
+## Service and support
+
+While Open Internet Tools are designed to be intuitive and reliable, MOJ Technology is not responsible for providing technical support and ensuring service availability. Given that the department has no control over these tools, you should not use them in such a way as they become business critical.
+
+Open Internet Tools are services provided online by third party companies. These companies depend on providing an easy-to-use and reliable service to retain their customers. In general, they provide clear and concise support documentation to help you get the most out of the tools they offer. They are generally available to use 24 hours a day, 365 days a year, with only occasional downtime for maintenance and improvement.
+
+Because these services are offered outside of MOJ's Service Level Agreements with our existing technology suppliers, MOJ Technology is not responsible for providing support and ensuring that the services are available. You should consider how to use these platforms in the knowledge that if something goes wrong it is the tool supplier, rather than MOJ, who is responsible for helping you.
+
+Many tools provide excellent support on their websites. In the unlikely event that the tools are not available, they malfunction, they lose your data, or you don't know how to do something, you will rely on support from the tool supplier to fix your issue. It is important to be aware that you may not always be able to speak to someone for help.
+
 You may like to check the User Agreement of a given tool to find out more about the service and support it offers.
-For further help and assistance in MoJ, contact:
-MoJ Cyber Security, contact Bob Nicholls
-Knowledge and Information Management team
-Information Assurance; Compliance and Information Assurance Branch
-Personal Data; Data Access and Compliance Unit
 
-
+For further help and assistance in MoJ, contact:
+
+- [MoJ Cyber Security](https://peoplefinder.service.gov.uk/teams/corporate-security-business-continuity-branch)
+- [Knowledge and Information Management team](mailto:KIM@justice.gsi.gov.uk)
+- Information Assurance; [Compliance and Information Assurance Branch](https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/information-assurance-roles/)
+- Personal Data; [Data Access and Compliance Unit](mailto:data.access@justice.gsi.gov.uk)
