@@ -1,8 +1,6 @@
 ---
-title: Web browsing security
+title: web-browsing
 ---
-
-## Web browsing
 
 <table border='1'>
 <tr valign='top'>
@@ -20,6 +18,7 @@ Reasonable [personal use is allowed](https://intranet.justice.gov.uk/guidance/se
 You and your manager are responsible for ensuring that you use these systems responsibly.
 
 If you connect to a website that contains unsuitable, illegal or offensive material:
+
 - disconnect from the site immediately
 - inform your [Service Desk](#service-desks)
 
