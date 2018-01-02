@@ -1,4 +1,4 @@
----
+﻿---
 title: Using your own smartphone, laptop, tablet or PC for work
 ---
 
@@ -65,7 +65,11 @@ If a family member borrows your tablet or laptop (for example), make sure they c
 If your device is lost, stolen or 'hacked', you must:
 
 - tell your line manager straight away
-- fill in a [security incident form](https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/)
+- ring the Service Desk on  where the analyst will ask the relevant questions and note responses on the ticket
+- if calling from abroad, the contact telephone numbers you need are:
+-- Technology Service Desk (DOM1): +44 1270 612 618
+-- NICT Service Desk: +44 191 587 8388
+- when back online fill in a [security incident form](https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/)
 - email the form to: [itservicedesk@justice.gsi.gov.uk](mailto:itservicedesk@justice.gsi.gov.uk)
 
 If MOJ data or information is lost or compromised, [report it as a data loss](https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/report-a-data-loss/).
