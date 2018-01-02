@@ -1,17 +1,17 @@
 ---
-title: Patching Policy
+title: patching policy
 ---
 
 ## Patching Policy
 
-This policy applies to all IT systems and services developed or procured by the Ministry of Justice (MoJ). This includes: 
+This policy applies to all IT systems and services developed or procured by the Ministry of Justice (MOJ). This includes: 
 
 - End User Client devices, such as Desktop PCs, laptops, tablets, and mobile phones, 
 - IT infrastructure devices, such as networking equipment, servers, and printers,
 - server applications, and
 - digital services. 
 
-The policy applies to those designing, implementing, and operating MoJ systems. It is based on the NCSC recommendations for [Cyber Essentials](https://www.cyberessentials.ncsc.gov.uk/requirements-for-it-infrastructure.html), which requires that software must be:
+The policy applies to those designing, implementing, and operating MOJ systems. It is based on the NCSC recommendations for [Cyber Essentials](https://www.cyberessentials.ncsc.gov.uk/requirements-for-it-infrastructure.html), which requires that software must be:
 
 - licensed and supported
 - removed from devices when no longer supported
@@ -27,7 +27,7 @@ Patching also includes recompiling applications to incorporate security updates 
 
 ## Intent
 
-To avoid compromise of MoJ IT systems by vulnerabilities, security patches must be applied in a timely fashion, or have other steps in place to protect against such attacks. 
+To avoid compromise of MOJ IT systems by vulnerabilities, security patches must be applied in a timely fashion, or have other steps in place to protect against such attacks. 
 
 Where there are dependencies on code from third-parties, such as software libraries, the security updates for these should be used when available.
 
@@ -51,15 +51,15 @@ Infrastructure devices with direct or unfiltered access to the internet, or to o
 
 Most server-hosted applications, such as database services, should be access-controlled to ensure that any vulnerabilities cannot be exploited easily. The extent and severity of access control must be proportional to the nature of the service provided. For example, an email server might reasonably be expected to allow wider access than a financial server.
 
-Any server application which is accessible to a wide user community, such as the entire internet, large parts of the MoJ estate, or where access is granted by default, must have critical patches applied within 7 calendar days of them becoming available. 
+Any server application which is accessible to a wide user community, such as the entire internet, large parts of the MOJ estate, or where access is granted by default, must have critical patches applied within 7 calendar days of them becoming available. 
 
 ## Digital Services
 
-All MoJ digital services must be deployed only on systems that comply with this policy.
+All MOJ digital services must be deployed only on systems that comply with this policy.
 
 Many services make use of third-party software libraries and imported code. An entry condition for any new or updated digital service to enter the beta stage of development is that a process must be provided to ensure that external dependencies are tracked and monitored for security problems. The process must also describe how such problems are triaged and actioned.
 
-Any external code used within an MoJ digital service to perform a security function such as cryptography or authentication, or which has direct access to user-provided input, must have critical patches applied within 7 calendar days of them being available.
+Any external code used within an MOJ digital service to perform a security function such as cryptography or authentication, or which has direct access to user-provided input, must have critical patches applied within 7 calendar days of them being available.
 
 ## Timescales for applying patches
 
@@ -67,12 +67,11 @@ The time allowed for applying patches will decrease in the future.
 
 ### Legacy contracts
 
-Where a commercial contract already exists, but is not compatible with this policy, then this patching policy must come into effect at the first renewal of the commercial contract after the first publication date of this patching policy (December 2017).
-
+Where a commercial contract already exists, but is not compatible with this policy, then this patching policy must come into effect at the first renewal of the commercial contract after the first publication date of this patching policy (January 2018).
 
 <table border='1'>
 <tr>
-<td>This policy is dated December 2017, and is an update of the Patching Policy, v1.0, May 2015.<br/>
+<td>This policy is dated January 2018.<br/>
 To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=patching">itpolicycontent@digital.justice.gov.uk</a>.</td>
 </tr>
 </table>

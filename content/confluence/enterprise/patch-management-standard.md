@@ -1,5 +1,5 @@
 ---
-title: Patch Management Standard
+title: patch-management-standard
 ---
 
 <table border='1'>
@@ -15,11 +15,11 @@ title: Patch Management Standard
 
 ## About this document
 
-This document is the MoJ IT Security – Patch Management Standard. It is designed to help protect MoJ ICT systems by providing a standard on the application of security patches.
+This document is the MOJ IT Security – Patch Management Standard. It is designed to help protect MOJ ICT systems by providing a standard on the application of security patches.
 
 ## How to use this document
 
-The purpose of this standard is to provide a consistent approach for the MoJ to identify vulnerabilities (to ICT systems), assess associated threats, rank them in terms of priority, and provide remediation via patch distribution using manual or automated methods.
+The purpose of this standard is to provide a consistent approach for the MOJ to identify vulnerabilities (to ICT systems), assess associated threats, rank them in terms of priority, and provide remediation via patch distribution using manual or automated methods.
 
 ## Overview
 
@@ -31,21 +31,21 @@ The [HMG Security Policy Framework][hmgspf] mandatory requirement 39 states that
 
 > A Patching policy, covering all ICT systems including Operating System and applications, to reduce the risk from known vulnerabilities is included in the requirements of any codes of connection, multilateral or bilateral international agreements and community or shared services security policies to which they are signatories (for example Government Secure Intranet - GSi).
 
-The patching policy is covered in [IT Security – Technical Controls Policy][tcp] where this document set outs the MoJ standard for its implementation.
+The patching policy is covered in [IT Security – Technical Controls Policy][tcp] where this document set outs the MOJ standard for its implementation.
 
 Though patches and service packs are the primary method of fixing security vulnerabilities in an ICT system they can also pose a risk as they may introduce new vulnerabilities or affect the usability of that system.
 
-This document outlines the MoJ standard for how to test and apply security patches and details on how the status of security patching will be monitored, measured and reported on.
+This document outlines the MOJ standard for how to test and apply security patches and details on how the status of security patching will be monitored, measured and reported on.
 
 ## Scope
 
-This standard is concerned with the identification and ranking of security vulnerabilities across all MoJ ICT systems including ICT systems hosted by third party suppliers on behalf of the MoJ.
+This standard is concerned with the identification and ranking of security vulnerabilities across all MOJ ICT systems including ICT systems hosted by third party suppliers on behalf of the MOJ.
 
-This standard applies to all interim software releases (e.g. software patches, service packs and firmware upgrades) released to address a security vulnerability in all operating systems, hardware devices (such as routers and firewalls) and software applications which are in operation use in any MoJ ICT System.
+This standard applies to all interim software releases (e.g. software patches, service packs and firmware upgrades) released to address a security vulnerability in all operating systems, hardware devices (such as routers and firewalls) and software applications which are in operation use in any MOJ ICT System.
 
 ## Objectives
 
-Patch management is a combination of people, technology and, processes to control the release of routine, critical and emergency software updates in a manner that maximises the assurance pertaining to the Confidentiality, Integrity and Availability of MoJ ICT systems. The MoJ's IT Security – Patch Management Standard adheres to the following principles:
+Patch management is a combination of people, technology and, processes to control the release of routine, critical and emergency software updates in a manner that maximises the assurance pertaining to the Confidentiality, Integrity and Availability of MOJ ICT systems. The MOJ's IT Security – Patch Management Standard adheres to the following principles:
 
 *   Business Continuity;
 *   Consistency;
@@ -54,7 +54,7 @@ Patch management is a combination of people, technology and, processes to contro
 
 ### Business Continuity
 
-Security patches are often released to prevent identified vulnerabilities being exploited before any exploit has been maliciously attempted "in the wild". The timely testing and application of patches means the MoJ is considerably less likely to be affected by new vulnerabilities.
+Security patches are often released to prevent identified vulnerabilities being exploited before any exploit has been maliciously attempted "in the wild". The timely testing and application of patches means the MOJ is considerably less likely to be affected by new vulnerabilities.
 
 ### Consistency
 
@@ -62,7 +62,7 @@ The use of dependable, documented methods ensures that security patches are appl
 
 ### Ownership and Responsibility
 
-The nature of the MoJ operation means that responsibility for multiple systems is spread throughout the organisation. Each ICT system needs to identify a responsible party who is responsible for the application and management of security patches on that system.
+The nature of the MOJ operation means that responsibility for multiple systems is spread throughout the organisation. Each ICT system needs to identify a responsible party who is responsible for the application and management of security patches on that system.
 
 ### Cost Saving
 
@@ -70,13 +70,13 @@ The requirement for a documented [IT Security – Patch Management Plan](#append
 
 ## Demonstration of Compliance
 
-The [CESG Information Assurance Maturity Model (IAMM)][iamm] sets out the minimum maturity level Government departments should attain. Patching is captured as a basic requirement in Level 1 where the MoJ will need to demonstrate compliance against.
+The [CESG Information Assurance Maturity Model (IAMM)][iamm] sets out the minimum maturity level Government departments should attain. Patching is captured as a basic requirement in Level 1 where the MOJ will need to demonstrate compliance against.
 
 ## IT Security Patching Process
 
-The IT Security patching process described in this section it intended to be generic and applicable to all MoJ ICT Systems. It is expected that each individual ICT system will either maintain or be covered by an [IT Security – Patch Management Plan](#appendixb) which describes in detail how this process is applied. A template plan is provided in [Appendix B](#appendixb).
+The IT Security patching process described in this section it intended to be generic and applicable to all MOJ ICT Systems. It is expected that each individual ICT system will either maintain or be covered by an [IT Security – Patch Management Plan](#appendixb) which describes in detail how this process is applied. A template plan is provided in [Appendix B](#appendixb).
 
-This process refers to the management of deploying software patches and service packs to operational ICT systems. All MoJ ICT systems must have or be covered by [IT Security – Patch Management Plan](#appendixb) describing how the patching process is managed for that particular system. It should be noted that operational management and patch compliance is managed by the MoJ Service Management Team.
+This process refers to the management of deploying software patches and service packs to operational ICT systems. All MOJ ICT systems must have or be covered by [IT Security – Patch Management Plan](#appendixb) describing how the patching process is managed for that particular system. It should be noted that operational management and patch compliance is managed by the MOJ Service Management Team.
 
 For the purpose of this standard, a Business Critical System is defined as one that requires an RMADS and Accreditation as defined in [HMG IA Standard No.1][hmgias1]. In all cases, the Security Patching Standard must cover the following principles of the patching process:
 
@@ -109,7 +109,7 @@ For each patch identified, its criticality in terms of its potential affect on b
 
 The criticality level applied to each patch will determine the timescale and level of testing required before it is applied. For example, if a worm, virus or exploit is actively attacking systems, a decision has to be made on the risk to the business of applying a not fully tested patch; switching the system off until a patch has been tested; or running the system un-patched until full testing is complete. In many cases, an interim remedy may be possible by changing the configuration of other devices, such as firewalls or web screening software, which will allow full testing of a patch to be completed before it is deployed.
 
-All patches that are determined to be an emergency patch must be recorded and handled as an IT security incident, where the incident will be tracked by the MoJ Operational Security Team (OST) until the patch is applied or sufficient risk mitigation steps have been taken. Note, further external reporting (e.g. to GovCert) may be required, this activity is managed by the MoJ OST.
+All patches that are determined to be an emergency patch must be recorded and handled as an IT security incident, where the incident will be tracked by the MOJ Operational Security Team (OST) until the patch is applied or sufficient risk mitigation steps have been taken. Note, further external reporting (e.g. to GovCert) may be required, this activity is managed by the MOJ OST.
 
 ### Patch Planning and Testing
 
@@ -122,7 +122,7 @@ As well as testing a security patch in a test environment, testing should includ
 *   Confirming the base environment required to apply the patch i.e. some patches are cumulative and a later patch cannot be administered until the system has had previous patches applied. Care must be taken regarding the criticality of a particular patch as it is entirely feasible that an Emergency patch cannot be administered because a routing patch is still being tested or awaiting deployment;
 *   The Systems Administrator testing the patch should try to learn from the experience of others by reviewing the manufacturer's website and newsgroups in search of unforeseen consequences of applying the patch.
 
-Problems discovered in patch testing should be documented and the system's business owners will have to decide whether the disadvantages outweigh the benefits of installing the patch. The MoJ IT Security Officer (ITSO) must be informed and approve the application of emergency patches to business critical systems i.e. patches where full testing has not been possible.
+Problems discovered in patch testing should be documented and the system's business owners will have to decide whether the disadvantages outweigh the benefits of installing the patch. The MOJ IT Security Officer (ITSO) must be informed and approve the application of emergency patches to business critical systems i.e. patches where full testing has not been possible.
 
 ### Patch Deployment
 
@@ -138,13 +138,13 @@ It is important to keep records of the patch status of each system and this info
 
 ### Patch Management Metrics and Audit
 
-The MoJ must consistently measure the effectiveness of this standard and apply corrective actions to improve its effectiveness. This is managed by MoJ Service Management collecting metrics provided by MoJ suppliers.
+The MOJ must consistently measure the effectiveness of this standard and apply corrective actions to improve its effectiveness. This is managed by MOJ Service Management collecting metrics provided by MOJ suppliers.
 
 There are three main categories of patch and vulnerability metrics: susceptibility to attack, mitigation response time, and cost, of which each category is described below:
 
 **Susceptibility to Attack** - Over a given period the number of vulnerabilities and patches applicable to each system must be measured. Complex systems are likely to be exposed to more vulnerabilities and therefore require particular vigilance in identifying and applying patching. Measuring the susceptibility to attack is a useful metric for judging the level of risk that system is exposed to.
 
-**Mitigation Response Time** – It is essential for the MoJ to measure how quickly it can identify, classify, and respond to a new vulnerability and mitigate the potential impact within the organisation. As a minimum the following must be measured:
+**Mitigation Response Time** – It is essential for the MOJ to measure how quickly it can identify, classify, and respond to a new vulnerability and mitigate the potential impact within the organisation. As a minimum the following must be measured:
 
 *   How long it took to learn about a new vulnerability or patch and assess its criticality;
 *   How long it took to apply a patch to all relevant IT devices within the system from time of release;
@@ -182,8 +182,8 @@ Usually critical patches are released before the vulnerability is exploited and 
 <br/>The target for deployment of Critical patches is 7-15 days.</td></tr>
 <tr>
 <td>Emergency patches</td>
-<td>Where the existence, extent, and spread of worms, viruses, or exploits poses a very high likelihood of damage to business critical systems, such as unauthorised system access, information disclosure, arbitrary code execution, or denial of service. Patches should be applied upon the advice of MoJ Operational Security Team and as a matter of priority.</td>
-<td>For patches deemed as Emergency, the Incident Management plan, based upon the <a href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/it-incident-management-policy/">MoJ Incident Management Policy</a> should be used.
+<td>Where the existence, extent, and spread of worms, viruses, or exploits poses a very high likelihood of damage to business critical systems, such as unauthorised system access, information disclosure, arbitrary code execution, or denial of service. Patches should be applied upon the advice of MOJ Operational Security Team and as a matter of priority.</td>
+<td>For patches deemed as Emergency, the Incident Management plan, based upon the <a href="https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/it-incident-management-policy/">MOJ Incident Management Policy</a> should be used.
 <br/><b>Timescale:</b>
 <br/>The target timescale for deployment is 24 hours - 4 days.</td></tr>
 </table>
@@ -255,3 +255,10 @@ Usually critical patches are released before the vulnerability is exploited and 
 ICT System Managers should complete this template and discuss it with the system Accreditor and those responsible for the application of security patches. Once it is agreed and approved, it will become the Security Patch Standard for that ICT system.
 
 Completing this plan can form part of the Accreditation process and should be included and maintained as part of the system RMADS.
+
+<table border='1'>
+<tr>
+<td>This standard is dated January 2018.<br/>
+To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=patch-management-standard">itpolicycontent@digital.justice.gov.uk</a>.</td>
+</tr>
+</table>
