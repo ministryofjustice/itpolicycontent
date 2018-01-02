@@ -89,7 +89,7 @@ Under no circumstances should you share a user name and password with another pe
 
 <table border='1'>
 <tr>
-<td>This guidance is dated December 2017.<br/>
+<td>This guidance is dated January 2018.<br/>
 To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=passwords">itpolicycontent@digital.justice.gov.uk</a>.</td>
 </tr>
 </table>
