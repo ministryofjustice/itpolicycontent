@@ -50,7 +50,7 @@ If you do forget your password, you can reset it straight away by clicking on th
 
 If you haven't already enrolled, it is urgent that you do so now. Copy and paste the following link into your browser: https://accountselfservice.dom1.infra.int/pmf/SelfService/ and set up your personalised security questions, the answers and your memorable word. Or go to Favourites in your Internet browser and click 'Account Self Service'.
 
-## How to reset your Security BeCrypt (eToken) password
+## How to reset your Security `BeCrypt` (`eToken`) password
 
 To reset your password you will need to contact the IT Service Desk. They will check whether they have your memorable word. Where they do, you will be asked to confirm certain characters of the word and your password will be reset and you will quickly regain access to your laptop.
 

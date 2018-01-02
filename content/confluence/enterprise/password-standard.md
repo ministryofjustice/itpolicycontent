@@ -93,7 +93,7 @@ The password manager used within MOJ Digital &amp; Technology is `RatticDB`; for
 
 Other password managers include:
 
-- _Need examples here, such as LastPass or KeePassX_.
+- _Need examples here, such as `LastPass` or `KeePassX`_.
 
 <a id="basic-passwords"></a>
 
@@ -156,7 +156,7 @@ Choose a password that has:
 
 ### Things to do (systems)
 
-- Information on handling and protecting passwords for this level are provided in the [IT Security SyOps - System Administrators][sa] guide.
+- Information on handling and protecting passwords for this level are provided in the [IT Security SyOPs - System Administrators][sa] guide.
 - Check that the system, service, or information protected by a password is [classified][gcs] no higher than `OFFICIAL-SENSITIVE`, and contains no material such as contracts, or personal data or information.
   - If it does contain such material, additional access control might be required, or a change to the [Strong password](#strong-password) category.
 - Check what other systems can access the system or service. Ensure that access is controlled to a level sufficient to the most sensitive material available at either end of the connection.
@@ -174,7 +174,7 @@ The information in this section is about passwords for multi-user systems, or sy
 
 Choose a password that has:
 
-- A minimum of YY(64?) characters.
+- A minimum of XX(64?) characters.
 - A mix of upper case and lower case characters.
 - A mix of alphabetic, numeric and special characters.
 - No two consecutive repeating characters.
