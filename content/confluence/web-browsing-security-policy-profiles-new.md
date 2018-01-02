@@ -99,7 +99,7 @@ Please see the table below for details of these policy profiles:
 | LinkedIn Updates | &check; | &check; |
 | Malicious Embedded iFrame | &cross; | &cross; |
 | Malicious Embedded Link | &cross; | &cross; |
-| Malicious Web Sites | &cross; | &cross; |
+| Malicious Websites | &cross; | &cross; |
 | Marijuana | &check; | &check; |
 | Media File Download | &check; | &check; |
 | Message Boards and Forums | &check; | &check; |
