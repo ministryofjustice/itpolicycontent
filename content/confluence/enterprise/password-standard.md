@@ -186,7 +186,7 @@ Choose a password that has:
 
 <table border='1'>
 <tr>
-<td>This standard is dated December 2017.<br/>
+<td>This standard is dated January 2018.<br/>
 To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=password-standard">itpolicycontent@digital.justice.gov.uk</a>.</td>
 </tr>
 </table>
