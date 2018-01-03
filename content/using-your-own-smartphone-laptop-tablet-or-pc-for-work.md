@@ -67,10 +67,11 @@ If your device is lost, stolen or 'hacked', you must:
 - tell your line manager straight away
 - ring the Service Desk on  where the analyst will ask the relevant questions and note responses on the ticket
 - if calling from abroad, the contact telephone numbers you need are:
--- Technology Service Desk (DOM1): +44 1270 612 618
--- NICT Service Desk: +44 191 587 8388
+-- ![](https://intranet.justice.gov.uk/app/uploads/2018/01/8638c4e195fa3911e185abeaeed2eb7a-2.gif)&nbsp;
+-- ![](https://intranet.justice.gov.uk/app/uploads/2018/01/725d56540c2ccb9cca15e2b6ad97ef18-7.gif)&nbsp;
 - when back online fill in a [security incident form](https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/)
 - email the form to: [itservicedesk@justice.gsi.gov.uk](mailto:itservicedesk@justice.gsi.gov.uk)
+
 
 If MOJ data or information is lost or compromised, [report it as a data loss](https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/report-a-data-loss/).
 
