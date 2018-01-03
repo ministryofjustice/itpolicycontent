@@ -66,7 +66,7 @@ If your device is lost, stolen or 'hacked', you must:
 
 - tell your line manager straight away
 - ring the Service Desk where the analyst will ask the relevant questions and note responses on the ticket
-  - the contact telephone numbers you need are:
+- the contact telephone numbers you need are:
    - ![](https://intranet.justice.gov.uk/app/uploads/2018/01/8638c4e195fa3911e185abeaeed2eb7a-2.gif) &nbsp;
    - ![](https://intranet.justice.gov.uk/app/uploads/2018/01/725d56540c2ccb9cca15e2b6ad97ef18-7.gif) &nbsp;
 - when back online fill in a [security incident form](https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/)
