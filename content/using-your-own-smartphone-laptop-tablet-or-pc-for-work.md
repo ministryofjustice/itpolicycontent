@@ -48,7 +48,7 @@ Always install the [latest security updates](https://www.cyberaware.gov.uk/softw
 
 ### Avoid storing work files or information on your device
 
-Make sure everything is stored and up-to-date within the MOJ approved services you’re using. If you are working with MOJ G-Suite (Google Apps), or MOJ Office 365, the information must stay in those systems, not somewhere else on your device.
+Make sure everything is stored and up-to-date within the MOJ approved services you’re using. If you are working with MOJ G Suite (Google Apps), or MOJ Office 365, the information must stay in those systems, not somewhere else on your device.
 
 If you really must store information on the device, for example because you are remote working and have no network access, delete the information from the device as soon as possible after you have finished.
 
@@ -89,7 +89,7 @@ If you are not sure whether the information is sensitive, assume that it is sens
 
 ### These services are approved for working with sensitive information
 
-- MOJ's GSuite (formerly Google apps) service. You have access to this if your work email address ends in "`@digital.justice.gov.uk`"
+- MOJ's G Suite (formerly Google apps) service. You have access to this if your work email address ends in "`@digital.justice.gov.uk`"
 - MOJ's Office 365 service. You have access to this if your work email address ends with "`@justice.gov.uk`"
 
 ### These services must not be used for sensitive information
