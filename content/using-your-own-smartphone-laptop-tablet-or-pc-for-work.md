@@ -104,7 +104,7 @@ To find out if you can, email [itservicedesk@justice.gsi.gov.uk](mailto:itservic
 
 <table border='1'>
 <tr>
-<td>This document is dated November 2017.<br/>
+<td>This document is dated January 2018.<br/>
 To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=using-your-own-smartphone-laptop-tablet-or-pc-for-work">itpolicycontent@digital.justice.gov.uk</a>.</td>
 </tr>
 </table>
