@@ -348,6 +348,8 @@ If your PC/laptop becomes infected, as notified by the anti-virus software on th
 
 If your computer is operating in any other abnormal way, you should report it to your ICT Service Desk.
 
+<a id="electronic-messaging"></a>
+
 ## Electronic Messaging
 
 In this section:
