@@ -1,7 +1,7 @@
 email.md
+gsi-accreditation
 ict-security-policy-framework/moj-ict-security-guide
 
-gsi-accreditation
 ict-security-policy-framework/protective-monitoring-guide
 infrastructure-system-accreditation
 laptops
