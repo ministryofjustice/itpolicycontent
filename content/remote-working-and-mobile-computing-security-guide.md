@@ -20,21 +20,21 @@ title: remote-working-and-mobile-computing-security-guide
 
 ### About this guide<a id="about-this-guide"></a>
 
-This guide gives you advice and guidance on the main security issues that are likely to affect you as a remote worker or a user of mobile computing facilities, (e.g. laptop computer, personal digital assistant, Blackberry etc), within the Ministry of Justice (MoJ), including its Agencies and Associated Offices. It also sets out your individual responsibilities for IT security when using
+This guide gives you advice and guidance on the main security issues that are likely to affect you as a remote worker or a user of mobile computing facilities, (e.g. laptop computer, personal digital assistant, Blackberry etc), within the Ministry of Justice (MOJ), including its Agencies and Associated Offices. It also sets out your individual responsibilities for IT security when using
 remote working and mobile computing facilities.
 
 In certain circumstances the advice and guidance given may not apply to you because you are using a particular computer system or service. Any variations from this general guidance can be found in the user guide or user security documentation for the system. If in doubt contact your IT Security Officer In addition to this guide, mobile computing users must refer to the security operating procedures or user guide document they were provided with when they received their device for detailed instructions on secure usage.
 
 ### Who needs to read this guide?
 
-This Remote Working and Mobile Computing Security Guide applies to all staff in the MoJ, its Agencies and Associated Offices, including contractors, agency and casual staff and service providers, who use computing equipment provided by the Department for remote working or mobile computing, or process any departmental information while working remotely or while using mobile
+This Remote Working and Mobile Computing Security Guide applies to all staff in the MOJ, its Agencies and Associated Offices, including contractors, agency and casual staff and service providers, who use computing equipment provided by the Department for remote working or mobile computing, or process any departmental information while working remotely or while using mobile
 computing equipment.
 
-Members of the judiciary who use computer facilities provided by the MoJ for remote or mobile working will also find this guide useful but should additionally refer to any separate security guidance provided specifically for the judiciary.
+Members of the judiciary who use computer facilities provided by the MOJ for remote or mobile working will also find this guide useful but should additionally refer to any separate security guidance provided specifically for the judiciary.
 
 ### What is remote working?
 
-In this guide remote working means any working away from the office, whether from home, another MoJ or government office, whilst travelling, at conferences, in hotels etc, using computers and telecommunications technologies. Section 2 of this guide describes the risks of remote working and the measures to be taken against these risks.
+In this guide remote working means any working away from the office, whether from home, another MOJ or government office, whilst travelling, at conferences, in hotels etc, using computers and telecommunications technologies. Section 2 of this guide describes the risks of remote working and the measures to be taken against these risks.
 
 Section 3 covers the issue of ad hoc remote working – the occasional use of computers, with or without remote access to a departmental network, to work at home or other remote locations by staff normally exclusively based at the office.
 
@@ -45,11 +45,11 @@ which may include the functionality of mobile 'phones, digital cameras, voice re
 
 Section 4 of this guide specifically addresses the risks of using portable computing devices and the measures to be taken against these risks.
 
-The portable computing equipment you use to conduct the Department's business must provide adequate security controls to appropriately manage the risks arising from their use. The commercial availability of any particular portable computing device, and its use by individuals or other organisations, does not indicate that it is suitable for carrying out MoJ business.
+The portable computing equipment you use to conduct the Department's business must provide adequate security controls to appropriately manage the risks arising from their use. The commercial availability of any particular portable computing device, and its use by individuals or other organisations, does not indicate that it is suitable for carrying out MOJ business.
 
 ### Further copies and advice
 
-This guide is available on the IT Security pages of the MoJ Intranet. For further advice on remote working and mobile computing please contact your IT Help Desk.
+This guide is available on the IT Security pages of the MOJ Intranet. For further advice on remote working and mobile computing please contact your IT Help Desk.
 
 #### Key points to remember
 
@@ -172,13 +172,13 @@ If you use your own computer for work it is your responsibility to:
 - Ensure that the Department is not brought into disrepute by failing to meet any legal requirements; and
 - Ensure that no connections are made, either wired or wireless, with any departmental system.
 
-Staff should also ensure that they continue to adhere to the MoJ's records management policies when working remotely – see the What to Keep Guidance (intranet). In the rare instances that private email accounts (ie non-gsi accounts) are used for communicating substantive discussions or decisions about government business, staff must ensure that a gsi account (for example, a work email address) is copied into the email exchange. It is important that such content is readily accessible from within the Department in the event of, for example, a request for information under the Freedom of Information Act.
+Staff should also ensure that they continue to adhere to the MOJ's records management policies when working remotely – see the What to Keep Guidance (intranet). In the rare instances that private email accounts (ie non-gsi accounts) are used for communicating substantive discussions or decisions about government business, staff must ensure that a gsi account (for example, a work email address) is copied into the email exchange. It is important that such content is readily accessible from within the Department in the event of, for example, a request for information under the Freedom of Information Act.
 
 ### Criminal Justice Secure Email
 
 Some remote users may have a Criminal Justice Secure eMail Account (CJSM). The CJSM allow for secure transmission when sending emails over an un-trusted zone. The CJSM relies on the CSJM account holder meeting the CJSM terms and conditions to provide adequate security of data received via the CJSM.
 
-CJSM email accounts may only be used for exchanging departmental data up to RESTRICTED provided that the CJSM account holder meets the CJSM Security Terms and Conditions (single user version) and the MoJ Security Policy namely:
+CJSM email accounts may only be used for exchanging departmental data up to RESTRICTED provided that the CJSM account holder meets the CJSM Security Terms and Conditions (single user version) and the MOJ Security Policy namely:
 
 - Comply with any data protection legislation and all professional codes of conduct/Departmental Security Policy by which you are bound in order to ensure that any data marked with a handling caveat (e.g. Official - Sensitive) is treated as the originator intended;
 - Not share your user account details or password with anyone else (except as permitted by the CJSM Terms and Conditions);
@@ -272,7 +272,7 @@ Blackberry users must read and refer to the user guide and security procedures p
 
 #### Guidance
 
-All removable storage devices to be used on MoJ computer systems must be supplied by MoJ. Removable storage devices include, but are not limited to, writeable CDs/DVDs, memory sticks, cameras and disks. MoJ is responsible for ensuring that the devices are kept in safe custody and returned to safe storage, or securely disposed of, when no longer required. For this reason, and to avoid unnecessary expense, USB memory sticks and other removable media must only be requested where there is a genuine business need.
+All removable storage devices to be used on MOJ computer systems must be supplied by MOJ. Removable storage devices include, but are not limited to, writeable CDs/DVDs, memory sticks, cameras and disks. MOJ is responsible for ensuring that the devices are kept in safe custody and returned to safe storage, or securely disposed of, when no longer required. For this reason, and to avoid unnecessary expense, USB memory sticks and other removable media must only be requested where there is a genuine business need.
 
 Generally speaking, using a removable storage device is probably the least secure method of storing and transferring data, so where better alternative methods are available these should be used, such as a secure laptop and secure internal and GSI email. By limiting the data being stored on the removable storage device to the minimum needed, the impact of any data loss is minimised. If sensitive information, such as names, can be removed from the information being stored, then this is also recommended.
 
@@ -280,7 +280,7 @@ If the data contains personal information it would be subject to the provisions 
 
 Personal data is not the only information that may be regarded as sensitive. Other sensitive information will include any information that warrants a protective marking. Any sensitive data must be protected by encryption in the same way as sensitive personal data.
 
-The increased media focus on data loss incidents within Government and other public service organisations and institutions means that even the loss of non sensitive data may attract adverse reporting and result in damage to MoJ's reputation. For this reason, only MoJ-provided encrypted removable media should be used. Where there is a valid business case, MoJ will be able to supply
+The increased media focus on data loss incidents within Government and other public service organisations and institutions means that even the loss of non sensitive data may attract adverse reporting and result in damage to MOJ's reputation. For this reason, only MOJ-provided encrypted removable media should be used. Where there is a valid business case, MOJ will be able to supply
 encrypted USB memory sticks and these should be used in preference to any other removable storage device (except a secure laptop).
 
 #### Using removable media
@@ -289,7 +289,7 @@ The following protective measures must be followed when using any removable stor
 
 - Physically protect the removable storage device at all times – lock it away when not in use and transport it by carrying it about your person or using a trusted carrier service;
 - Where possible retain the removable storage device within secure Government premises;
-- Do not connect any removable storage device to your MoJ desktop or laptop from other sources, including from private companies, private individuals, other Government departments or other public sector organisations. Also do not use any removable storage device to transfer data between your MoJ desktop or laptop and any other computer. There is a risk of transfer of malicious software (e.g. computer viruses) to your computer and a risk of unintentional transfer of sensitive data to unsecured systems;
+- Do not connect any removable storage device to your MOJ desktop or laptop from other sources, including from private companies, private individuals, other Government departments or other public sector organisations. Also do not use any removable storage device to transfer data between your MOJ desktop or laptop and any other computer. There is a risk of transfer of malicious software (e.g. computer viruses) to your computer and a risk of unintentional transfer of sensitive data to unsecured systems;
 - Always check all removable storage devices for computer viruses before copying any file from it to your computer. You can do this by locating your anti-virus software on your computer and running the software to actively scan the 'drive' assigned to the removable storage device. See Anti-virus scanning of removable media for information, or contact your local IT support if you require assistance; and
 - Always return the removable storage device to your IT service provider if it is faulty or you no longer need it, using Royal Mail signed for service. Delete the data on the device before returning it, if possible, but be aware that a normal deletion does not permanently erase the data so return the storage device using a secure method of transfer. In the event of loss of a removable storage device contact your local IT service desk.
 
@@ -333,7 +333,7 @@ Contractors, consultants and agency staff providing services to the Ministry of 
 
 1. These computing facilities must be their 'tools of trade', i.e separate from personal computing facilities used by themselves or their families, etc, for leisure or other personal uses; and must employ best practice security controls such as up to date anti-virus control, personal firewall, access control, disk encryption and up to date software patches.
 
-2. Use of these computing facilities should be limited to activities involving MoJ data such as producing reports, reviewing documents, sending and receiving emails, and should not involve storing and processing large volumes of MoJ data, for example database extracts.
+2. Use of these computing facilities should be limited to activities involving MOJ data such as producing reports, reviewing documents, sending and receiving emails, and should not involve storing and processing large volumes of MOJ data, for example database extracts.
 
 3. The disk encryption employed must conform to the FIPS140-2 standard or CAPS (CESG Assisted Product Scheme).
 
@@ -345,9 +345,9 @@ Contractors, consultants and agency staff providing services to the Ministry of 
 
 7. Computer hard disk drives should be securely erased before disposal or recycling if it has held any personal or sensitive data. Information Assurance Branch should be consulted on the procedure to be followed.
 
-8. In compliance with the Data Protection Act, any personal data must be deleted when no longer required, thus must not be retained beyond the duration of engagement with the MoJ.
+8. In compliance with the Data Protection Act, any personal data must be deleted when no longer required, thus must not be retained beyond the duration of engagement with the MOJ.
 
-9. Where there is a need to provide access to large volumes of personal or sensitive data only MoJ computing facilities must be used. Removable media provided by MoJ must be returned to the MoJ after use.
+9. Where there is a need to provide access to large volumes of personal or sensitive data only MOJ computing facilities must be used. Removable media provided by MOJ must be returned to the MOJ after use.
 
 10. Paper records containing personal data should be stored, transported and disposed of securely. Sensitive waste paper should be collected separately from normal waste, and stored securely pending destruction by shredding or burning. As with electronic records, particular care should be taken when moving bulk paper records.
 
@@ -364,13 +364,13 @@ Safe, Sound and Shared, eDelivery Group, November 2008
 The recent high proﬁle losses of government-held data have resulted in new measures being mandated to protect information being held by government. These include controls on the use of mobile devices. Although no organisation can guarantee it will never lose
 data, data losses due to a failure to comply with these mandatory measures are likely to have signiﬁcant consequences for the individuals and organisations involved.
 
-For example, Government has committed to introduce new sanctions under the Data Protection Act for the most serious breaches of its principles (Data handling procedures in Government: Final Report, June 2008). All staff and contractors who use MoJ corporate systems must therefore comply with the following requirements.
+For example, Government has committed to introduce new sanctions under the Data Protection Act for the most serious breaches of its principles (Data handling procedures in Government: Final Report, June 2008). All staff and contractors who use MOJ corporate systems must therefore comply with the following requirements.
 
 **GUIDANCE**
 
-All removable storage devices to be used on MoJ computer systems must be supplied by MoJ. Removable storage devices include, but are not limited to, writeable CDs/DVDs, memory sticks, cameras and disks.
+All removable storage devices to be used on MOJ computer systems must be supplied by MOJ. Removable storage devices include, but are not limited to, writeable CDs/DVDs, memory sticks, cameras and disks.
 
-MoJ is responsible for ensuring that the devices are kept in safe custody and returned to safe storage, or securely disposed of, when no longer required. For this reason, and to avoid unnecessary expense, USB memory sticks and other removable media must only be requested where there is a genuine business need.
+MOJ is responsible for ensuring that the devices are kept in safe custody and returned to safe storage, or securely disposed of, when no longer required. For this reason, and to avoid unnecessary expense, USB memory sticks and other removable media must only be requested where there is a genuine business need.
 
 Generally speaking, using a removable storage device is probably the least secure method of storing and transferring data, so where better alternative methods are available these should be used, such as a secure laptop and secure internal and GSI email.
 
@@ -381,11 +381,11 @@ If the data contains personal information it would be subject to the provisions 
 
 Personal data is not the only information that may be regarded as sensitive. Any sensitive data must be protected by encryption in the same way as sensitive personal data.
 
-The increased media focus on data loss incidents within Government and other public service organisations and institutions means that even the loss of non-sensitive data may attract adverse reporting and result in damage to MoJ's reputation. For this reason, only MoJ-provided encrypted removable media should be used.
+The increased media focus on data loss incidents within Government and other public service organisations and institutions means that even the loss of non-sensitive data may attract adverse reporting and result in damage to MOJ's reputation. For this reason, only MOJ-provided encrypted removable media should be used.
 
-Where there is a valid business case, MoJ will be able to supply encrypted USB memory sticks and these should be used in preference to any other removable storage device (except a secure laptop).
+Where there is a valid business case, MOJ will be able to supply encrypted USB memory sticks and these should be used in preference to any other removable storage device (except a secure laptop).
 
-At this time MoJ is unable to provide any other method of encryption that would meet any recognised standard.
+At this time MOJ is unable to provide any other method of encryption that would meet any recognised standard.
 
 **USING REMOVABLE MEDIA**
 
@@ -395,10 +395,10 @@ The following protective measures must be followed when using any removable stor
 
 - Where possible retain the removable storage device within secure Government premises.
 
-- Do not connect any removable storage device to your MoJ desktop or laptop from other sources, including from private companies,
-private individuals, other Government departments or other public sector organisations. Also do not use any removable storage device to transfer data between your MoJ desktop or laptop and any other computer. There is a risk of transfer of malicious software (e.g. computer viruses) to your computer and a risk of unintentional transfer of sensitive data to unsecured systems.
+- Do not connect any removable storage device to your MOJ desktop or laptop from other sources, including from private companies,
+private individuals, other Government departments or other public sector organisations. Also do not use any removable storage device to transfer data between your MOJ desktop or laptop and any other computer. There is a risk of transfer of malicious software (e.g. computer viruses) to your computer and a risk of unintentional transfer of sensitive data to unsecured systems.
 
-- If in exceptional circumstances you must connect a removable storage device from another source to your MoJ desktop or laptop, you must ﬁrst assure yourself of the trust-worthiness of the source. Do not under any circumstances use any removable storage
+- If in exceptional circumstances you must connect a removable storage device from another source to your MOJ desktop or laptop, you must ﬁrst assure yourself of the trust-worthiness of the source. Do not under any circumstances use any removable storage
 device provided as a promotional gift or from an unknown source.
 
 - Always check all removable storage devices for computer viruses before copying any ﬁle from it to your computer. You can do this by locating your anti-virus software on your computer and running the software to actively scan the 'drive' assigned to the removable storage device. See Anti-virus scanning of removable media for information, or contact your local IT support if you require assistance.
