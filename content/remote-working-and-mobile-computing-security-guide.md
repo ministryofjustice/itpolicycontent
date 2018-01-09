@@ -1,4 +1,4 @@
----
+﻿---
 title: remote-working-and-mobile-computing-security-guide
 ---
 
@@ -119,7 +119,7 @@ screensaver facility when absent for even short periods;
 - Ensure you have access to and refer to any user guide or security operating procedures provided with your computing facilities.
 You must return to the Department computers and computer software provided to you by the Department for home working upon request by your manager or when you leave the Department.
 
-####Key points to remember
+#### Key points to remember
 
 - Be alert to the requirement to take addition measures to counter physical security shortfalls at the locations you are working from and provide adequate security for the computing equipment and information entrusted to you.
 - Computing equipment provided by the Department must only be used for authorised purposes and must be returned to the Department on request by your manager or when you leave the Department.
