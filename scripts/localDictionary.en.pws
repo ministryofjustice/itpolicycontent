@@ -5,6 +5,7 @@ ACPO
 ActiveX
 analytics
 anonymised
+antivirus
 Atos
 auditable
 AUP
@@ -36,6 +37,7 @@ exfiltration
 FIPS
 FoI
 FOIA
+G
 GCHQ
 GCHQ's
 GPRS
@@ -68,10 +70,11 @@ Malware
 malware
 middleware
 Middleware
-MoJ
-MoJ's
+MOJ
+MOJ's
 multi
 NCSC
+NICT
 NIST
 NLE
 NOMS
@@ -91,6 +94,7 @@ RMADS
 sanitisation
 screensaver
 SIRO
+smartphone
 Spyware
 SQL
 SSL

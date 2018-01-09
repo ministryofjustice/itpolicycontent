@@ -48,7 +48,7 @@ Always install the [latest security updates](https://www.cyberaware.gov.uk/softw
 
 ### Avoid storing work files or information on your device
 
-Make sure everything is stored and up-to-date within the MOJ approved services you’re using. If you are working with MOJ G-Suite (Google Apps), or MOJ Office 365, the information must stay in those systems, not somewhere else on your device.
+Make sure everything is stored and up-to-date within the MOJ approved services you’re using. If you are working with MOJ G Suite (Google Apps), or MOJ Office 365, the information must stay in those systems, not somewhere else on your device.
 
 If you really must store information on the device, for example because you are remote working and have no network access, delete the information from the device as soon as possible after you have finished.
 
@@ -65,12 +65,13 @@ If a family member borrows your tablet or laptop (for example), make sure they c
 If your device is lost, stolen or 'hacked', you must:
 
 - tell your line manager straight away
-- ring the Service Desk on  where the analyst will ask the relevant questions and note responses on the ticket
-- if calling from abroad, the contact telephone numbers you need are:
--- Technology Service Desk (DOM1): +44 1270 612 618
--- NICT Service Desk: +44 191 587 8388
+- ring the Service Desk where the analyst will ask the relevant questions and note responses on the ticket
+- the contact telephone numbers you need are:
+   - ![](https://intranet.justice.gov.uk/app/uploads/2018/01/8638c4e195fa3911e185abeaeed2eb7a-2.gif) &nbsp;
+   - ![](https://intranet.justice.gov.uk/app/uploads/2018/01/725d56540c2ccb9cca15e2b6ad97ef18-7.gif) &nbsp;
 - when back online fill in a [security incident form](https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/)
 - email the form to: [itservicedesk@justice.gsi.gov.uk](mailto:itservicedesk@justice.gsi.gov.uk)
+
 
 If MOJ data or information is lost or compromised, [report it as a data loss](https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/report-a-data-loss/).
 
@@ -88,7 +89,7 @@ If you are not sure whether the information is sensitive, assume that it is sens
 
 ### These services are approved for working with sensitive information
 
-- MOJ's GSuite (formerly Google apps) service. You have access to this if your work email address ends in "`@digital.justice.gov.uk`"
+- MOJ's G Suite (formerly Google apps) service. You have access to this if your work email address ends in "`@digital.justice.gov.uk`"
 - MOJ's Office 365 service. You have access to this if your work email address ends with "`@justice.gov.uk`"
 
 ### These services must not be used for sensitive information
@@ -103,7 +104,7 @@ To find out if you can, email [itservicedesk@justice.gsi.gov.uk](mailto:itservic
 
 <table border='1'>
 <tr>
-<td>This document is dated November 2017.<br/>
+<td>This document is dated January 2018.<br/>
 To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=using-your-own-smartphone-laptop-tablet-or-pc-for-work">itpolicycontent@digital.justice.gov.uk</a>.</td>
 </tr>
 </table>
