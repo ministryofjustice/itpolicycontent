@@ -4,14 +4,68 @@ title: guidance-for-using-open-internet-tools
 
 <table border='1'>
 <tr>
-<td>This content is a version of the guidance for using Open Internet Tools, May 2015.<br/>
-This is Legacy IA Policy. It is under review and likely to be withdrawn or substantially revised soon. Please contact us before using this on a new project: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=guidance-for-using-open-internet-tools">itpolicycontent@digital.justice.gov.uk</a>.</td>
+<td>This information applies to all staff and contractors who work for the MOJ.</td>
 </tr>
 </table>
 
-## Summary
+## Overview
 
-### Used with care, open Internet tools will be a powerful aid in helping you to work more effectively.
+Open Internet Tools (OITs) are applications or services that are provided by suppliers outside the MOJ.
+They typically have the following characteristics:
+
+- They are general purpose. This means they are not specific to the MOJ. Other organisations can use them.
+- They are accessed using the Internet. This means that if you have Internet access, you can connect to the tools.
+- They have a basic 'free-to-use' version. This means that some or all of the capabilities are provided, but with some constraints. For example, an online word-processor might let you do all the word-processing tasks, but for a maximum of 5 documents.
+- They have one or more 'paid for' versions. By paying for the tool, you unlock some or all of the constraints.
+
+### Why OITs are an opportunity for the MOJ
+
+OITs offer some significant advantages for the MOJ, including:
+
+- Usually cheaper than buying or building and supporting a dedicated tool.
+- No need to build or support the tool.
+- Good use of open standards, such as file formats.
+- Reduced need to have specific hardware or software on computers.
+- Rapid patching to address security issues.
+- Easy updating as new features are deployed.
+- A large pool of help and support.
+- Easy access, whenever you have a network connection.
+- Increasing availability of some or all capabilities offline (when disconnected from the network).
+
+### Why OITs are a risk for the MOJ
+
+However, OITs also pose a number of threats or risks, including:
+
+- Dependency on the tool and supplier.
+- Security of access to the tool.
+- Security of information stored within or processed by the tool.
+- Potential difficulty of enhancing or customising the tool for MOJ-specific requirements.
+
+As long as the threats or risks are considered and addressed, the advantages of OITS provide many significant benefits for the MOJ.
+
+When used carefully, OITs help you to work more effectively.
+They should be evaluated and considered as serious and preferable options for performing tasks.
+
+## Using OITs
+
+This guidance helps you:
+
+- Understand the conditions or constraints that apply to a tool, or a task performed using a tool.
+- Identify and address threats or risks posed by a new tool.
+- Identify and champion new tools that might benefit the MOJ.
+- Understand what tools are available for you to use.
+
+
+<table border='1'>
+<tr>
+<td>This information is dated January 2018.<br/>
+To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=guidance-for-using-open-internet-tools">itpolicycontent@digital.justice.gov.uk</a>.</td>
+</tr>
+</table>
+
+----
+
+## Summary
 
 There are many open internet tools available that may meet your needs, and many more yet to be built. By providing general guidance on using any such tools we hope to empower you to decide for yourself how you can work most effectively. [Existing social media guidance](https://intranet.justice.gov.uk/documents/2015/11/social-media-policy-guidance.pdf) focuses on how to act online when communicating in public. This guidance focuses on how to use online tools in your daily work.
 
