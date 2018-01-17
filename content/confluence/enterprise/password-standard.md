@@ -50,26 +50,23 @@ It is never wrong to choose a stronger level of password. For example, if you th
 
 ## Overview
 
+### All users
+
 The information in this document is based on [NCSC guidance](https://www.ncsc.gov.uk/guidance/password-guidance-simplifying-your-approach) which recommends a simpler approach to passwords.
 
-This document explains what you need to do when choosing and using passwords for various kinds of tasks and activities. If you want to know more, the actual rules about passwords are in the [IT Security - Technical Controls Policy][tcp].
+This document explains what you need to do when choosing and using passwords for various kinds of tasks and activities. If you want to know more, the actual rules about passwords are in the [User Password Management](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/technical-controls-policy/#user-password-management) section of the [IT Security - Technical Controls Policy][tcp].
 
-Some systems need extra measures in addition to passwords. For example, tokens or other multi-factor authentication devices might be appropriate. For more information about these, see the [IT Security - Access Control Standard][acs].
-
-To determine what extra measures might be required, systems are evaluated in a technical risk assessment. This happens using [HMG Information Assurance Standard No. 1 \& 2][hmgias2] for systems undergoing their accreditation process. The systems are also subject to a Business Impact Assessment (BIA).
-
-Whenever you take delivery of a new or refreshed system, or are granted access to a system, you must change any and all default passwords supplied. The change must be completed before doing any other MOJ work. This obligation to change applies to all the systems you access, including for example:
+When you get access to a system, you must change any passwords you were given. This change must be completed before doing any other MOJ work. This applies to all the systems you access, for example:
 
 - Your account on a new work-provided laptop.
 - A shared account for accessing a data analytics service.
 - All supplier or vendor supplied accounts.
 
-This requirement means that all systems must have a way of changing passwords. In particular, all systems must have a process for changing any passwords which have been compromised, for example after an incident.
-
 You must change a password:
-  - If there has been a security incident involving your account or password, for example if you think someone has guessed your password.
-  - If there has been a security incident involving the service that you access using the password.
-  - If you are advised to do so by your line manager or other authorised person.
+
+- If there has been a security incident involving your account or password, for example if you think someone has guessed your password.
+- If there has been a security incident involving the service that you access using the password.
+- If you are advised to do so by your line manager or other authorised person.
 
 When required to change a password, you must do so within the following timescales:
 
@@ -79,9 +76,22 @@ When required to change a password, you must do so within the following timescal
 | [Advanced](#advanced-passwords) | 1 week |
 | [Strong](#strong-passwords) | 1 day |
 
-Failure to change the password within the required timescale must result in an automatic lock of the password.
+Failure to change the password within the required timescale results in an automatic lock of the account.
 
-You'll notice that there is no need to change a password simply because it is older than a certain number of days. The reason is that time-expiry of passwords is considered to be an "[...outdated and ineffective practice](https://www.ncsc.gov.uk/blog-post/your-password-expiry-policy-may-have-reached-its-expiry-date)".
+You'll notice that for single-user systems like laptops, there is no need to change a password simply because it is older than a certain number of days. The reason is that time-expiry of passwords is considered to be an "[...outdated and ineffective practice](https://www.ncsc.gov.uk/blog-post/your-password-expiry-policy-may-have-reached-its-expiry-date)".
+More sensitive systems,
+or those which provide services to several users,
+still require passwords to be changed at regular intervals.
+
+### System administrators or developers
+
+Some systems need extra measures in addition to passwords. For example, tokens or other multi-factor authentication devices might be appropriate. For more information about these, see the [IT Security - Access Control Standard][acs].
+
+To determine what extra measures might be required, systems are evaluated in a technical risk assessment. This happens using [HMG Information Assurance Standard No. 1 \& 2][hmgias2] for systems undergoing their accreditation process. The systems are also subject to a Business Impact Assessment (BIA).
+
+When a new or refreshed system arrives, any and all default passwords must be changed. The change must be completed before using the system for any MOJ work.
+
+This requirement means that all systems must have a way of changing passwords. In particular, all systems must have a process for changing any passwords which have been compromised, for example after an incident.
 
 <a id="password-managers"></a>
 
@@ -89,7 +99,7 @@ You'll notice that there is no need to change a password simply because it is ol
 
 These are tools that help you create, use, and manage your passwords. A useful overview is available [here][ncscpwm].
 
-The password manager used within MOJ Digital &amp; Technology is `RatticDB`; for more information about this, contact the Service Desk.
+For example, the password manager used by development teams within MOJ Digital &amp; Technology is `RatticDB`.
 
 Other password managers include:
 

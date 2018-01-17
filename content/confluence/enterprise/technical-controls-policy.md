@@ -1,4 +1,4 @@
-﻿---
+---
 title: technical-controls-policy
 ---
 
@@ -270,6 +270,8 @@ Where appropriate, any allocation of privileges which allows a User to perform s
 **POL.TCP.043:**
 
 Segregation of duties **must be** considered in the allocation of privileges.
+
+<a id="user-password-management"></a>
 
 #### User Password Management
 
