@@ -1,3 +1,5 @@
 confluence/passwords.md
+confluence/enterprise/password-guidance.md
+confluence/enterprise/password-policy.md
 confluence/enterprise/password-standard.md
 confluence/enterprise/technical-controls-policy.md
