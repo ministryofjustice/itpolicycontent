@@ -12,16 +12,22 @@ title: password-guidance
 
 All government departments must follow HMG security standards. That includes the MoJ. An important part of compliance is ensuring that all users:
 
-- can be identified uniquely
-- can be authenticated with a User ID and password
-- on the network are auditable
+- have a unique ID
+- can authenticate using their ID
+- are auditable
+
+Passwords help ensure that compliance.
 
 ## Always\.\.\.
 
-- use a password that is strong enough for the classification level of the information, services or systems
+- use a password that supports the classification level of the information or system
 - use a password manager, to help you choose and store your passwords
-- use a password that has a combination of upper case characters, lower case characters, digits, and special characters such as '`@`', '`$`', '`%`', or '`^`'
-- change your password after a security incident involving the information, service, or system that is protected by the password
+- use a password that has a combination of characters:
+  -  upper case
+  -  lower case
+  -  digits
+  -  special characters such as '`@`', '`$`', '`%`', or '`^`'
+- change your password for any information or system affected by a security incident
 
 ## Never\.\.\.
 
@@ -39,14 +45,22 @@ All government departments must follow HMG security standards. That includes the
 
 You get a one-time use password with a new account. The first time you login to the account, you must change the password.
 
-If you are not prompted to change your password, you should find the option to change passwords within the system, and change your password immediately. If you experience any problems, contact the [IT Service Desk](#contacts).
+Some systems might not ask you to change your password after first use.
+Make sure you change your password immediately anyway.
+If you experience any problems, contact the [IT Service Desk](#contacts).
 
 ## Forgetting or resetting your password
 
-All MOJ systems and services should have a mechanism for helping when you forget your password. This normally provides a `forgotten password` link at the login stage. Use this to request a password reset email. When you receive the email, follow the instructions to create a new password for the account.
+All MOJ systems and services should help if you forget your password.
+There is usually a `forgotten password` link in the login page.
+Use this link to request a password reset email.
+When you receive the email, follow the instructions to create a new password for the account.
 
-Some systems might not provide a forgotten password option, or it might not be obvious how to reset your password.
-In this case, contact the [IT Service Desk](#contacts).
+Some systems might not provide a forgotten password option.
+Sometimes,
+it is not obvious how to reset your password.
+In these cases,
+contact the [IT Service Desk](#contacts).
 
 <a id="contacts"></a>
 
