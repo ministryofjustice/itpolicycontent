@@ -13,7 +13,7 @@ All MOJ systems must comply with the [MOJ Security Policy Framework](https://int
 Policy | Statement
 ---|---
 POL.TCP.044 | The requirement for an ICT system to be protected by a password **must be** derived from a technical risk assessment (using [HMG Information Assurance Standard No. 1 & 2](https://www.ncsc.gov.uk/guidance/information-risk-management-hmg-ia-standard-numbers-1-2) for systems undergoing the accreditation process) and a Business Impact Assessment (BIA).
-POL.TCP.045 | The standard on password generation, composition and management is contained within [ICT Security – Password Standard](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/password-standard/). All IT systems which use passwords for access control **must follow** this standard.
+POL.TCP.045 | The standard on password generation, composition and management is contained within [ICT Security - Password Standard](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/password-standard/). All IT systems which use passwords for access control **must follow** this standard.
 POL.TCP.046 | All supplier or vendor supplied passwords **must be** changed before live operation.
 POL.TCP.047 | All ICT systems **must have** a process to change any passwords which have been compromised.
 

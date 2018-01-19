@@ -18,7 +18,7 @@ Passwords are essential for protecting MOJ IT systems. Passwords help control ac
 
 You should protect your passwords to the best of your ability.
 
-For general information about using passwords, and your responsibilities for them, see the [Password Guidance][pg].
+[Password Guidance][pg] gives you information about using passwords, and your responsibilities for them. 
 For information about choosing and using passwords, see the [Password Standard][ps].
 For the detailed rules about passwords within the MOJ, see the [Password Policy][pp].
 
