@@ -76,7 +76,7 @@ This applies to all the systems you access, for example:
 In general,
 you must change a password whenever:
 
-- there has been a security incident involving your account or password, for example if you think someone has guessed your password
+- there has been a security incident involving your account or password, for example if you think someone has guessed your password or you have used a similar password on other accounts
 - there has been a security incident involving the service that you access using the password
 - your line manager or other authorised person tells you to do so
 
