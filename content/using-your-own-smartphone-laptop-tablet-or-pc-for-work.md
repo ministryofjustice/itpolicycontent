@@ -15,7 +15,7 @@ Using your personally-owned device is often acceptable as long as you take some 
 You must always:
 
 - ensure your equipment meets and maintains MOJ IT security standards, and be ready to demonstrate this at any time
-- maintain the corporate 'memory'. This means being able to respond fully to Freedom of Information or Data Protection Act requests
+- maintain the corporate 'memory'. This means being able to respond fully to Freedom of Information or any data protection legislation requests
 - be able to show a specific business benefit for using your own device
 - be clear as to what work you can, or cannot do, on your equipment
 
@@ -79,7 +79,11 @@ Find out more about [how to report a security incident](https://intranet.justice
 
 ## Services you can use on your own devices
 
-In general, sensitive information can only be accessed, used or shared on approved services. Remember that the sensitive information might include personal data.
+In general, subject to the security classification of the work material, you can use any work related service on your device if you can access it over the internet or via the work network.
+
+### Sensitive information
+
+Sensitive information can only be accessed, used or shared on approved services. Remember that the sensitive information might include personal data.
 
 Guidance on classifying information is available [here](https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/classifying-information/).
 
