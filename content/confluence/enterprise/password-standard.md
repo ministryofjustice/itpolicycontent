@@ -110,7 +110,37 @@ change any and all default passwords.
 Complete the changes before using the system for any MOJ work.
 
 All systems must have a way of changing passwords.
-In particular, all systems must have a process for changing passwords after a compromising incident.
+In particular,
+all systems must be able to change passwords after an incident.
+
+Some passwords are 'one time' or single-use.
+Use these to grant access to a service for the first time.
+After using the password once,
+the user must immediately change the password.
+
+Single-use passwords must also be time limited.
+If they are not used within a specific time after generation,
+they must become invalid.
+
+The following table shows the valid lifetime for a single-use password:
+
+| Password category | Lifetime of a single-use password |
+|---|---|
+| [Basic](#basic-passwords) | 1 week |
+| [Advanced](#advanced-passwords) | 1 day |
+| [Strong](#strong-passwords) | 1 hour |
+
+#### Distributing passwords to users
+
+There are times when a system must send a password to a user. An example is when granting access to a service for the first time.
+To send a password to a user, the mechanism used must be secure.
+The protection should match the sensitivity of the information protected by password.
+
+If the password is for the first time use of a service,
+create a single-use password for the user.
+Use an out-of-band channel to send the password to the user.
+For example,
+send the password to the user's line manager who will give it to the user.
 
 <a id="password-managers"></a>
 
