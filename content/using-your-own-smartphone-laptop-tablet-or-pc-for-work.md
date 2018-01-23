@@ -15,7 +15,7 @@ Using your personally-owned device is often acceptable as long as you take some 
 You must always:
 
 - ensure your equipment meets and maintains MOJ IT security standards, and be ready to demonstrate this at any time
-- maintain the corporate 'memory'. This means being able to respond fully to Freedom of Information or any data protection legislation requests
+- maintain the corporate 'memory'. This means being able to respond fully to Freedom of Information, or any data protection legislation requests
 - be able to show a specific business benefit for using your own device
 - be clear as to what work you can, or cannot do, on your equipment
 
