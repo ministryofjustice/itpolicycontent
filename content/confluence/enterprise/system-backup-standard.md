@@ -4,7 +4,7 @@ title: system-backup-standard
 
 <table border='1'>
 <tr>
-<td>This information applies to all developers and system administrators.</td>
+<td>This information applies to those who provide MOJ technology services, including technical architects, developers, product or service owners, system administrators, and operations teams.</td>
 </tr>
 </table>
 
@@ -33,6 +33,9 @@ Each system requires:
 - a retention schedule that describes how long a backup must be kept, to enable system recovery
 - an archive schedule that describes how long a particular backup should be kept after it is no longer required for recovery purposes, but is still retained to comply with the MOJ Data Retention requirements or other legal needs
 - a process for deleting or disposing of a backup if it is no longer required for recovery or retention purposes
+- a process for recovering or restoring some or all data or other backed-up information to a known point-in-time
+- information so that users understand how data can be restored for the system, if required
+- a process for users to request data recovery or restoration, subject to business requirements
 
 <a id="system-backup-requirements"></a>
 
