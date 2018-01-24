@@ -15,7 +15,7 @@ Using your personally-owned device is often acceptable as long as you take some 
 You must always:
 
 - ensure your equipment meets and maintains MOJ IT security standards, and be ready to demonstrate this at any time
-- maintain the corporate 'memory'. This means being able to respond fully to Freedom of Information or Data Protection Act requests
+- maintain the corporate 'memory'. This means being able to respond fully to Freedom of Information, or any data protection legislation requests
 - be able to show a specific business benefit for using your own device
 - be clear as to what work you can, or cannot do, on your equipment
 
@@ -65,10 +65,10 @@ If a family member borrows your tablet or laptop (for example), make sure they c
 If your device is lost, stolen or 'hacked', you must:
 
 - tell your line manager straight away
-- ring the Service Desk where the analyst will ask the relevant questions and note responses on the ticket
+- ring the Service Desk on  where the analyst will ask the relevant questions and note responses on the ticket
 - the contact telephone numbers you need are:
-   - ![](https://intranet.justice.gov.uk/app/uploads/2018/01/8638c4e195fa3911e185abeaeed2eb7a-2.gif) &nbsp;
-   - ![](https://intranet.justice.gov.uk/app/uploads/2018/01/725d56540c2ccb9cca15e2b6ad97ef18-7.gif) &nbsp;
+    - ![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/01/758cf470655d11cc683a6d9511ba3331.gif) &nbsp;
+    - ![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/01/5818419a0f76cd3ad2b515d25b68876e.gif) &nbsp;
 - when back online fill in a [security incident form](https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/)
 - email the form to: [itservicedesk@justice.gsi.gov.uk](mailto:itservicedesk@justice.gsi.gov.uk)
 
@@ -79,7 +79,11 @@ Find out more about [how to report a security incident](https://intranet.justice
 
 ## Services you can use on your own devices
 
-In general, sensitive information can only be accessed, used or shared on approved services. Remember that the sensitive information might include personal data.
+In general, subject to the security classification of the work material, you can use any work related service on your device if you can access it over the internet or via the work network.
+
+### Sensitive information
+
+Sensitive information can only be accessed, used or shared on approved services. Remember that the sensitive information might include personal data.
 
 Guidance on classifying information is available [here](https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/classifying-information/).
 
