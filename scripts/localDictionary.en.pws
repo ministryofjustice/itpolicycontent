@@ -11,6 +11,7 @@ Atos
 auditable
 AUP
 AWS
+BCP
 BIL
 biometrics
 BlackBerry
@@ -19,6 +20,7 @@ CDs
 CESG
 CJIT
 CJSM
+CMDB
 CRB
 criticality
 cryptographic
@@ -81,6 +83,7 @@ NOMS
 OFFICIAL
 offshoring
 offsite
+onsite
 OSN
 OST
 OWASP
@@ -91,6 +94,8 @@ PDAs
 PEDs
 ransomware
 RMADS
+RPO
+RTO
 sanitisation
 screensaver
 SCS

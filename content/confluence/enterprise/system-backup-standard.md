@@ -130,7 +130,8 @@ High impact (RTO is one day or less) | 8 weeks | Within 4 weeks after the end of
 Low impact (RTO is more than one day) | 4 weeks | Within 4 weeks after the end of the retention period.
 Email | 2 weeks | Within 4 weeks after the end of the retention period.
 
-The actual data retention schedule for an MOJ system is agreed between the business and the [Departmental Library and Records Management Service](mailto:records_retention_@justice.gsi.gov.uk) (DLRMS). The Departmental Records Officer has responsibility for the records, and signs off the schedules which the business follows.
+The actual data retention schedule for an MOJ system is agreed between the business and the [Departmental Library and Records Management Service](mailto:records_retention_@justice.gsi.gov.uk).
+The Departmental Records Officer has responsibility for the records, and signs off the schedules which the business follows.
 
 The backup retention period should never be shorter than the schedule requires. If the available technology cannot support the prescribed backup retention period, then an exception must be sought and documented in the relevant system Risk Management and Accreditation Document Set (RMADS).
 
@@ -157,7 +158,7 @@ Depending on the nature of the extended retention requirement, it might be possi
 
 A  backup suitable for archive purposes has the following characteristics:
 
-- it is already stored on physical media, or is converted verifiably and without loss onto physical media
+- it is already stored on physical media, or is converted accurately and without loss onto physical media
 - the physical media will not degrade during the archive period
 - the media is stored in an offline environment that is either on-site or off-site
 - the backup contains all the data required to meet all the retention obligations
@@ -260,7 +261,7 @@ All of the following details must be recorded in the system backup register, for
 
 When a backup is no longer required for retention or archival purposes, it is normally deleted. If all the backups stored on a physical medium have been deleted, the medium itself is checked to determine if it is suitable to use again.
 
-If the medium is reusable, it must be securely erased in accordance with IAS5[link to follow], then placed back into stock for re-use.
+If the medium is reusable, it must be securely erased in accordance with NCSC guidance on [secure sanitisation of storage media](https://www.ncsc.gov.uk/guidance/secure-sanitisation-storage-media), then placed back into stock for re-use.
 
 If the medium is not reusable, it must be taken out of stock and marked with a `To Be Decommissioned` status in the system backup register until secure disposal takes place. The status is also updated in the CMDB.
 
