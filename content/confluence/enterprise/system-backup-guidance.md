@@ -53,7 +53,7 @@ More information about how the MOJ backup policy meets the Security Policy Frame
 
 Backup capability is required for all MOJ IT systems, including systems hosted by third party suppliers for the MOJ.
 
-To decide if backup is required for a specific system, ask the question: "how long can the MOJ tolerate the system being unavailable?" If there is any time limit for how long non-availability can be tolerated, then backup is probably required.
+To decide if backup is required for a specific system, ask the question: "how long can the MOJ tolerate the system being unavailable?" If there is any time limit, then backup is probably required.
 
 The Information Asset Owner makes the final decision about whether backup is required for an MOJ system, and what backup schedule should be followed. This is documented within the System Operating Process.
 
