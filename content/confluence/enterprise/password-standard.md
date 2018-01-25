@@ -70,7 +70,7 @@ Where passwords are distributed to users, the passwords must be distributed via 
 
 #### First Use
 
-For initial distribution, a one-time password **must be** used where it should be distributed to the user with over the phone or other out-of-band communications channel. This password **must be** changed by the user during their first logon.
+For initial distribution, a one-time password **must be** used where it should be distributed to the user using an out-of-band communications channel of commensurate protection to the device/account/system that the one time password is protecting. This password **must be** changed by the user during their first logon and its use shall be time limited.
 
 Initial user passwords **must be** machine generated following the complexity guidelines provided [here](#password-requirements).
 

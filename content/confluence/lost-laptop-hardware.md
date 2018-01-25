@@ -13,11 +13,16 @@ This is Legacy IA Policy. It is under review and likely to be withdrawn or subst
  
 What should the person do themselves? -  **Report the loss to MOJ Digital and the Police (request incident number)**
 
-Who should they contact? - Contact the Incident Response and Tuning Team at [incidents@digital.justice.gov.uk](mailto:incidents@digital.justice.gov.uk). **If you do not have access to email call:**
+Who should they contact? - Contact the Incident Response and Tuning Team:<br/>
+![](https://intranet.justice.gov.uk/app/uploads/2018/01/3ab6c2967979a0681cbd8a512f45bbb9.gif)&nbsp;
 
-*   **In hours calls: 07500127062**
-*   **Out of hours call: 07534255700 (best efforts)**
- 
+**If you do not have access to email call:**
+
+<ul>
+<li><b>In hours calls:</b><br/><img src="https://intranet.justice.gov.uk/app/uploads/2018/01/b6671e8f462bb54587f54b1738e23699.gif">&nbsp;</li>
+<li><b>Out of hours call (best efforts):</b><br/><img src="https://intranet.justice.gov.uk/app/uploads/2018/01/5a456037048cd81f7e65596ae2eb165d.gif">&nbsp;</li>
+</ul>
+
 How do we know? Incident Team to inform IA Team at earliest opportunity.
 
 Who does what? Incident Response and Tuning Team raise incident and inform Operational Security Team.
