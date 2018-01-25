@@ -101,9 +101,19 @@ you must still change passwords at regular intervals.
 Some systems need extra measures besides passwords.
 For example, tokens or other multi-factor authentication devices might be appropriate. For more information about these, see the [IT Security - Access Control Standard][acs].
 
-To determine the extra measures required,
-a technical risk assessment evaluates the systems.
-This happens using [HMG Information Assurance Standard No. 1 \& 2][hmgias2] for systems undergoing their accreditation process. The systems are also subject to a Business Impact Assessment (BIA).
+A technical risk assessment identifies extra controls for systems that need formal accreditation.
+The assessment follows [HMG Information Assurance Standard No. 1 \& 2][hmgias2].
+The systems are also subject to a Business Impact Assessment (BIA).
+
+For example,
+the assessment might need extra checks to login to an account or service. 
+The checks might depend in part on the context,
+and would consider factors such as:
+
+- time of login
+- location of login
+- number of previous connections from the connecting IP address
+- whether to allow more than login at a time
 
 When a new or refreshed system arrives,
 change any and all default passwords.
