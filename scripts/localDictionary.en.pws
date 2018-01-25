@@ -38,6 +38,7 @@ DVDs
 eDelivery
 eMail
 exfiltration
+extensibility
 FIPS
 FoI
 FOIA
@@ -49,6 +50,7 @@ GSi
 gsi
 GSM
 Helpdesk
+HIDS
 HMCTS
 HMG
 HMPPS
@@ -64,6 +66,7 @@ iFrame
 inbox
 iPhone
 iPhones
+IPS
 ITDR
 ITHC
 ITSO
@@ -84,9 +87,11 @@ MOJ's
 multi
 NCSC
 NICT
+NIDS
 NIST
 NLE
 NOMS
+NTP
 OFFICIAL
 offshoring
 offsite
@@ -99,7 +104,9 @@ PCMCIA
 PDA
 PDAs
 PEDs
+PMC
 ransomware
+Recordable
 RMADS
 RPO
 RTO
@@ -118,8 +125,10 @@ UAE
 un
 Unscannable
 usernames
+UTC
 Vodafone
 VPN
+WIDS
 WiFi
 writeable
 ZZ
