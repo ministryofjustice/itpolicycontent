@@ -5,7 +5,7 @@ title: Protective Monitoring Guide
 <table border='1'>
 <tr>
 <td>This content is a version of the Protective Monitoring Guide, May 2015.<br/>
-This is Legacy IA Policy. It is under review and likely to be withdrawn or substantially revised soon. Please contact us before using this on a new project: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=protective-monitoring">itpolicycontent@digital.justice.gov.uk</a>.</td>
+This is Legacy IA Policy. It is under review and likely to be withdrawn or substantially revised soon. Please contact us before using this on a new project: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=protective-monitoring-guide">itpolicycontent@digital.justice.gov.uk</a>.</td>
 </tr>
 </table>
 
@@ -21,11 +21,11 @@ This is Legacy IA Policy. It is under review and likely to be withdrawn or subst
 </tr>
 </table>
 
-This document is the MoJ IT Security – Protective Monitoring Guide. It is designed to help protect MoJ ICT systems by providing implementation guidance for a protective monitoring solution.
+This document is the MOJ IT Security - Protective Monitoring Guide. It is designed to help protect MOJ IT systems by providing implementation guidance for a protective monitoring solution.
 
 ### How to use this document
 
-The purpose of this document is to provide guidance on developing a protective monitoring schema for a MoJ ICT system. It must be read in conjunction with [CESG Good Practice Guide No.13 - Protective Monitoring for HMG ICT Systems][gpg13].
+The purpose of this document is to provide guidance on developing a protective monitoring schema for a MOJ IT system. It must be read in conjunction with [CESG Good Practice Guide No.13 - Protective Monitoring for HMG ICT Systems][gpg13].
 
 **Note:** This document is a supplement to [CESG Good Practice Guide No.13 - Protective Monitoring for HMG ICT Systems][gpg13], not a replacement.
 
@@ -33,13 +33,13 @@ The purpose of this document is to provide guidance on developing a protective m
 
 ### Introduction
 
-Protective Monitoring is a set of business processes, with essential support technology, that oversees how ICT systems are used and to assure user accountability for their use of ICT facilities. Protective monitoring places mechanisms for collecting ICT log information to provide an audit trail of defined security relevant events which can be used for reporting and alerting.
+Protective Monitoring is a set of business processes, with essential support technology, that oversees how IT systems are used and to assure user accountability for their use of IT facilities. Protective monitoring places mechanisms for collecting IT log information to provide an audit trail of defined security relevant events which can be used for reporting and alerting.
 
 [HMG Security Policy Framework (SPF)](https://www.gov.uk/government/publications/security-policy-framework) Mandatory Requirement 9 states that:
 
 > Departments and Agencies must put in place an appropriate range of technical controls for all ICT systems, proportionate to the value, importance and sensitivity of the information held and the requirements of any interconnected systems.
 
-In order to meet that requirement, the SPF stipulates that ICT systems must:
+In order to meet that requirement, the SPF stipulates that IT systems must:
 
 <blockquote>Put in place a proportionate risk based suite of technical policies and controls including:
 <br/>
@@ -50,15 +50,15 @@ In order to meet that requirement, the SPF stipulates that ICT systems must:
 IV. Protective Monitoring;
 </blockquote>
 
-Policy statements on protective monitoring are covered in [IT Security – Technical Controls Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/technical-controls-policy/), while this document sets out the MoJ guidance for its implementation.
+Policy statements on protective monitoring are covered in [IT Security - Technical Controls Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/technical-controls-policy/), while this document sets out the MOJ guidance for its implementation.
 
 ### Scope
 
-This guide applies to all MoJ ICT systems including ICT systems hosted by third party suppliers on behalf of the MoJ.
+This guide applies to all MOJ IT systems including IT systems hosted by third party suppliers on behalf of the MOJ.
 
 ### Demonstration of Compliance
 
-The [CESG Information Assurance Maturity Model (IAMM)](https://www.ncsc.gov.uk/guidance/information-assurance-maturity-model-and-assessment-framework-gpg-40) sets out the minimum maturity level Government departments should attain. Protective monitoring is captured as a basic requirement in Level 1 of this model, which the MoJ will need to demonstrate compliance with in their IAMM return to the Cabinet Office.
+The [CESG Information Assurance Maturity Model (IAMM)](https://www.ncsc.gov.uk/guidance/information-assurance-maturity-model-and-assessment-framework-gpg-40) sets out the minimum maturity level Government departments should attain. Protective monitoring is captured as a basic requirement in Level 1 of this model, which the MOJ will need to demonstrate compliance with in their IAMM return to the Cabinet Office.
 
 ## Basics of protective monitoring
 
@@ -72,17 +72,17 @@ An organisation can choose to account for almost every transaction that takes pl
 
 ### Accreditation and protective monitoring
 
-The audit criteria and the decision on what information is collected and alerted upon must be derived from a risk assessment conducted against the ICT system. This decision making process for the selection of protective monitoring controls forms part of the Accreditation process where the resultant protective monitoring solution **must be** documented in the Risk Management and Accreditation Document Set (RMADS).  This document provides guidance on the [selection of those controls](#minimum-control-objectives), the [key questions](#key-questions) to be applied to that selection and a [template for documenting it](#protective-monitoring-schema-template).
+The audit criteria and the decision on what information is collected and alerted upon must be derived from a risk assessment conducted against the IT system. This decision making process for the selection of protective monitoring controls forms part of the Accreditation process where the resultant protective monitoring solution **must be** documented in the Risk Management and Accreditation Document Set (RMADS).  This document provides guidance on the [selection of those controls](#minimum-control-objectives), the [key questions](#key-questions) to be applied to that selection and a [template for documenting it](#protective-monitoring-schema-template).
 
 Further details on the Accreditation process can be found in the [Accreditation Framework][accreditation-framework].
 
-**Note:** The Accreditor will assess any protective monitoring solution against [CESG GPG No.13][gpg13], the policy statement in the [IT Security – Technical Controls Policy][tcp] and this guide.
+**Note:** The Accreditor will assess any protective monitoring solution against [CESG GPG No.13][gpg13], the policy statement in the [IT Security - Technical Controls Policy][tcp] and this guide.
 
 ### Accounting
 
-The decision on how much information needs to be recorded in an accounting log requires a comprehensive assessment and must be consummate with the risks identified. Recording too much information can be as great a problem as recording too little. If too much information is recorded it can become extremely difficult to review and can cause performance and capacity problems for an ICT system.  If too little information is recorded it may be impossible to investigate a security incident effectively.
+The decision on how much information needs to be recorded in an accounting log requires a comprehensive assessment and must be consummate with the risks identified. Recording too much information can be as great a problem as recording too little. If too much information is recorded it can become extremely difficult to review and can cause performance and capacity problems for an IT system.  If too little information is recorded it may be impossible to investigate a security incident effectively.
 
-A good method of analysing this problem is to have a structured approach whereby the different types of information which could be captured are analysed at the different levels of an ICT system (e.g. network, system and application), building a picture of the inter-relationships between the different accounting logs (at those different levels). For example, accounting may take place at the following levels:
+A good method of analysing this problem is to have a structured approach whereby the different types of information which could be captured are analysed at the different levels of an IT system (e.g. network, system and application), building a picture of the inter-relationships between the different accounting logs (at those different levels). For example, accounting may take place at the following levels:
 
 - Network accounting (e.g. logs created by network components, such as firewalls or domain controller);
 - System accounting (e.g. logs created by individual host systems, such as Windows server security logs);
@@ -124,7 +124,7 @@ To support an investigation into a security incident, it is important to have a 
 
 ## Developing a protective monitoring schema
 
-For the purposes of this guide, a protective monitoring schema sets out all the controls points which will be implemented in an ICT system.
+For the purposes of this guide, a protective monitoring schema sets out all the controls points which will be implemented in an IT system.
 
 ### Development stages
 
@@ -145,7 +145,7 @@ The following key questions cover items which should be thought about when selec
 - What is being audited and monitored? In terms of:
   - Usage scenarios - what users are allowed to do and which actions need to be accounted for;
   - Exceptions and how they will be detected - what users are not allowed to do or what would constitute suspicious activity;
-  - The complexity in terms of the different types of connectivity to support these interactions (e.g. air-gapped systems, electronic exchanges, remote access, wireless, Internet services, etc.).
+  - The complexity in terms of the different types of connectivity to support these interactions (e.g. air gap systems, electronic exchanges, remote access, wireless, Internet services, etc.).
 - What information will be collected to support the accounting, audit and monitoring of these activities?
 - How the information gathered will be used (including both a list of permitted purposes and a list of prohibited purposes)?
 - Who will access the protective monitoring data and their associated responsibilities?
@@ -161,7 +161,7 @@ The minimum level of protective monitoring which need to be implemented is set o
 | PMC1: Accurate time in logs. | To provide a means of providing accurate time in logs and synchronisation between system components with a view to facilitating collation of events between those components. |
 | PMC2: Recording relating to business traffic crossing a boundary. | To provide reports, monitoring, recording and analysis of business traffic crossing a boundary with a view to ensuring traffic exchanges are authorised, conform to security policy, transport of malicious content is prevented and alerted, and that other forms of attack by manipulation of business traffic are detected or prevented. |
 | PMC3: Recording relating to suspicious activity at a boundary. | To provide reports, monitoring, recording and analysis of network traffic crossing a boundary with a view to detecting suspect activity that would be indicative of the actions of an attacker attempting to breach an ICT system boundary or other deviation from normal business behaviour. |
-| PMC4: Recording of workstation, server or device status. | To detect changes to device status and configuration. Changes may occur through accidental or deliberate acts by a user or by subversion of a device by malware (e.g. installation of Trojan software or so called "rootkits"). It will also record indications that are typical of the behaviour of such events (including unexpected and repeated system restarts or addition of unidentified system processes). |
+| PMC4: Recording of workstation, server or device status. | To detect changes to device status and configuration. Changes may occur through accidental or deliberate acts by a user or by subversion of a device by malware (e.g. installation of Trojan software or so called "root kits"). It will also record indications that are typical of the behaviour of such events (including unexpected and repeated system restarts or addition of unidentified system processes). |
 | PMC5: Recording relating to suspicious internal network activity. | To monitor critical internal boundaries and resources within internal networks to detect suspicious activity that may indicate attacks either by internal users or by external attackers who have penetrated the internal network. |
 | PMC6: Recording relating to network connections. | To monitor temporary connections to the network either made by remote access, virtual private networking, wireless or any other transient means of network connection. |
 | PMC7: Recording of session activity by user and workstation. | To monitor user activity and access to ensure they can be made accountable for their actions and to detect unauthorised activity and access that is either suspicious or is in violation of security policy requirements. |
@@ -185,11 +185,11 @@ The minimum control objectives that are to be applied are in the [Protective mon
 
 Where a minimum control objective cannot be met (for example, due to an implementation restriction or where the risk does not justify the control) it must be recorded as an exception (a template is provided [here](#exceptions) ).
 
-**Note:** This is generic set of control objectives and the templates provided in section A.1 and A.2 are designed for the author of the protective marking schema to customising based on the guidance provided in this document, [CESG GPG No.13][gpg13], the ICT system and associated risk assessment.
+**Note:** This is generic set of control objectives and the templates provided in the [minimum control objective](#minimum-control-objective) and [exceptions](#exceptions) sections are designed for the author of the protective marking schema to customising based on the guidance provided in this document, [CESG GPG No.13][gpg13], the IT system and associated risk assessment.
 
 #### Control objectives extensibility
 
-It is important to ensure that there is a mechanism in place to review, update or extend the protective monitoring controls once an ICT system is in live operation. This will occur when an ICT system undergoes the re-accreditation process, further details of which can be found in the [Accreditation Framework][accreditation-framework].
+It is important to ensure that there is a mechanism in place to review, update or extend the protective monitoring controls once an IT system is in live operation. This will occur when an IT system undergoes the re-accreditation process, further details of which can be found in the [Accreditation Framework][accreditation-framework].
 
 <a id="minimum-audit-requirements"></a>
 
@@ -207,13 +207,13 @@ The minimum audit requirement is specified in [CESG GPG No.13][gpg13] where the 
 
 ### Baseline Control Set and implementation of controls objectives
 
-Table 2 defines the minimum controls which **must be** implemented to achieve the baseline controls set out in [HMG IA Standard Numbers 1 & 2 – Supplement: Technical Risk Assessment and Risk Treatment](https://www.ncsc.gov.uk/guidance/technical-risk-assessment-and-risk-treatment-is1-2-supplement).
+Table 2 defines the minimum controls which **must be** implemented to achieve the baseline controls set out in [HMG IA Standard Numbers 1 & 2 - Supplement: Technical Risk Assessment and Risk Treatment](https://www.ncsc.gov.uk/guidance/technical-risk-assessment-and-risk-treatment-is1-2-supplement).
 
 | Control | Baseline Control | Notes |
 |---|---|---|
 | 10.10.1 Audit logging | In accordance with SPF Departments must ensure that ICT systems are capable of producing records of user activity to support monitoring, incident response and investigations. | Routine user activity such as log-on and log-off, log-on failures, keyboard inactivity, password change, object permissions change, read/write access to objects, import/export, print, object save and deletion. |
 | 10.10.2 Monitoring system use | Departments must develop and implement procedures to monitor use of systems and services by users to support incident response and investigation activities. | Establish baseline activity within the environment and develop auditable events outside this baseline activity. |
-| 10.10.3 Protection of log information | Audit logs must be protected in accordance with their sensitivity or protective marking.| The BIL of log information captured must be documented in the ICT system's Business Impact Assesment (BIA). |
+| 10.10.3 Protection of log information | Audit logs must be protected in accordance with their sensitivity or protective marking.| The BIL of log information captured must be documented in the ICT system's Business Impact Assessment (BIA). |
 | 10.10.4 Administrator and operator logs | ICT systems must be capable of generating audit logs for all system users including system administrators. | Log collection and storage. |
 | 10.10.5 Fault logging | Departments must log and review system faults at regular intervals. | System management activity. |
 | 10.10.6 Clock synchronisation | Departments must implement a reliable means to keep all server and device clocks of the ICT System in synchronisation. | Establish time server. |
@@ -223,11 +223,11 @@ Table 2 defines the minimum controls which **must be** implemented to achieve th
 
 Table 2 - Baseline controls to achieve protective monitoring
 
-With Table 2 in mind [CESG GPG No.13][gpg13] outlines a number of options which should be consider when translating the identified control objectives into a protective monitoring solution which can be implemented in an ICT system.
+With Table 2 in mind [CESG GPG No.13][gpg13] outlines a number of options which should be consider when translating the identified control objectives into a protective monitoring solution which can be implemented in an IT system.
 
 The following provides the typical list of components which can be put together to deliver a protective monitoring solution:
 
-- Security Information and Event Management (SIEM) system, which includes:
+- Security Information and Event Management system, which includes:
   - Log collection;
   - Log analysers;
   - Filtering, query and pattern matching tools;
@@ -262,6 +262,8 @@ Once the protective monitoring schema has been generated and approved by the sys
 
 ## Protective monitoring schema template
 
+<a id="minimum-control-objective"></a>
+
 ### Minimum control objective
 
 This section of the template captures the implementation details and compliance evidence for each protective monitoring control (PMC) specified in [CESG GPG No.13][gpg13]. A minimum control object for each PMC is entered and is intended to provide an initial starting position.
@@ -293,7 +295,7 @@ For PMC 1 the following is to be implemented:
 <ul>
 <li>Providing a master clock system component which is synchronised to an approved time source (e.g. GSi time source);</li>
 <li>Updating device clocks from the master clock using the Network Time Protocol (NTP);</li>
-<li>Record time in logs in a consistent format (Universal Co-ordinated Time (UTC) is recommended);] </li>
+<li>Record time in logs in a consistent format - Universal Time Coordinated (UTC) is recommended;] </li>
 </ul>
 </td>
 </tr>
@@ -412,7 +414,7 @@ For PMC 3 the following is to be implemented:
 <td colspan='3'>&nbsp;</td>
 </tr>
 <tr valign='top'>
-<td>Identify potential or actual attempts to access the ICT System  environment by an unauthorised individual who is external to the environment</td>
+<td>Identify potential or actual attempts to access the IT System  environment by an unauthorised individual who is external to the environment</td>
 <td colspan='3'>[Insert additional notes/test as required.]</td>
 </tr>
 <tr valign='top'>
@@ -991,7 +993,7 @@ The audit regime which forms part of the protective marking solution [must be re
 
 ### Accounting items
 
-The table below provides a template to capture [all the accounting items to be collected](#baseline-control-set-and-implementation-of-controls-objectives) in an ICT system, its source and alerting details.
+The table below provides a template to capture [all the accounting items to be collected](#baseline-control-set-and-implementation-of-controls-objectives) in an IT system, its source and alerting details.
 
 <table border='1'>
 <tr valign='top'>

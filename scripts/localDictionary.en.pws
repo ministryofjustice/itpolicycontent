@@ -35,6 +35,7 @@ DVDs
 eDelivery
 eMail
 exfiltration
+extensibility
 FIPS
 FoI
 FOIA
@@ -46,6 +47,7 @@ GSi
 gsi
 GSM
 Helpdesk
+HIDS
 HMCTS
 HMG
 HMPPS
@@ -57,6 +59,7 @@ ICO
 ICT
 ie
 inbox
+IPS
 ITDR
 ITHC
 ITSO
@@ -75,9 +78,11 @@ MOJ
 MOJ's
 multi
 NICT
+NIDS
 NIST
 NLE
 NOMS
+NTP
 OFFICIAL
 offshoring
 offsite
@@ -89,7 +94,9 @@ PCMCIA
 PDA
 PDAs
 PEDs
+PMC
 ransomware
+Recordable
 RMADS
 sanitisation
 screensaver
@@ -102,8 +109,10 @@ SSL
 SyOPs
 un
 usernames
+UTC
 Vodafone
 VPN
+WIDS
 WiFi
 writeable
 ZZ
