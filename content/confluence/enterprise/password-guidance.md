@@ -4,13 +4,13 @@ title: password-guidance
 
 <table border='1'>
 <tr>
-<td>This guidance applies to everyone who works for the MoJ, or who supply systems or services to the MoJ.</td>
+<td>This guidance applies to everyone who works for the MOJ, or who supply systems or services to the MOJ.</td>
 </tr>
 </table>
 
 ## Overview
 
-All government departments must follow HMG security standards. That includes the MoJ. An important part of compliance is ensuring that all users:
+All government departments must follow HMG security standards. That includes the MOJ. An important part of compliance is ensuring that all users:
 
 - have a unique ID
 - can authenticate using their ID

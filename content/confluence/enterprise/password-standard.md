@@ -4,7 +4,7 @@ title: password-standard
 
 <table border='1'>
 <tr>
-<td>This guidance applies to everyone who works for the MoJ, or who supply systems or services to the MoJ.</td>
+<td>This guidance applies to everyone who works for the MOJ, or who supply systems or services to the MOJ.</td>
 </tr>
 </table>
 
@@ -23,8 +23,8 @@ title: password-standard
 
 ## About this document
 
-This document is the MoJ IT Security - Password Standard.
-It helps you protect MoJ IT systems by telling you about choosing and using passwords.
+This document is the MOJ IT Security - Password Standard.
+It helps you protect MOJ IT systems by telling you about choosing and using passwords.
 Whenever you see the word 'system' here, it applies to:
 
 - hardware, such as laptops, PCs, servers, mobile devices, and any ICT equipment
