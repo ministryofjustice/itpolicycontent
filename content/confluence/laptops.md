@@ -21,8 +21,8 @@ It is best to avoid saving any data on a laptop hard drive. However, if you abso
 
 In order to avoid potential data loss, save data in:
 
-*   **TRIM** or your local equivalent EDRM (electronic document and record management system) where possible  
-    or  
+*   **TRIM** or your local equivalent EDRM (electronic document and record management system) where possible
+    or
 
 *   **shared drives** (e.g. G: Drive, W: Drive, L: Drive)
 *   **home drives** (H: Drive)
@@ -47,16 +47,21 @@ For more information about the main security issues that are likely to affect re
 
 To reset your password you will need to contact the IT Service Desk. They will check whether they have your memorable word. Where they do, you will be asked to confirm certain characters of the word and your password will be reset and you will quickly regain access to your laptop.
 
-If you have not previously registered for the Self Service Password service and therefore do not have a memorable word or you are unable to remember it, your identity will need to be confirmed by another method and this may add a delay in your incident being resolved. You will be requested to ask your line manager or court manager to confirm your identity by sending an [email to the IT Service Desk](mailto:itservicedesk@justice.gsi.gov.uk) on receipt of the email the IT Service Desk will reset your password.
+If you have not previously registered for the Self Service Password service and therefore do not have a memorable word or you are unable to remember it, your identity will need to be confirmed by another method and this may add a delay in your incident being resolved. You will be requested to ask your line manager or court manager to confirm your identity by sending an email to the IT Service Desk. On receipt of the email the IT Service Desk will reset your password.
 
 ## Have you registered for the Self Service Password Service?
 
-If you haven't already enrolled, it is urgent that you do so now. 
+If you haven't already enrolled, it is urgent that you do so now.
 
-Copy and paste the following link into your browser: 
+Copy and paste the following link into your browser:
 
 https://accountselfservice.dom1.infra.int/pmf/SelfService/ and set up your personalised security questions, the answers and your memorable word. Or go to Favourites in your browser and go to 'Account Self Service'.
 
 ## Contacts
 
-*   [Operational Security](mailto:operationalsecurityteam@justice.gsi.gov.uk)
+<ul>
+<li>IT Service Desk:<br/>
+<img src="https://intranet.justice.gov.uk/app/uploads/2017/12/e6404c31d65821489a775401ce4b941d.gif">&nbsp;</li>
+<li>Operational Security:<br/>
+<img src="https://intranet.justice.gov.uk/app/uploads/2017/12/c44e91c8a5d308c4953ef918b987f543.gif">&nbsp;</li>
+</ul>
