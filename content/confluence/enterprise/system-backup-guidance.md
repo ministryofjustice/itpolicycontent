@@ -63,7 +63,7 @@ It depends on many factors, such as the amount of data, the sensitivity of the d
 
 For example, if some data only changes once a month, backing up the data every day is probably excessive. Similarly, if the data changes every hour, then a daily backup is not enough.
 
-A backup should be taken sufficiently often so that the time required to restore a system to full working state is less than the period for which non-availability can be tolerated.
+A backup should be taken sufficiently often so that the time required to restore a system to full working state is less than the time for which the MOJ can tolerate the system being unavailable.
 
 ## Where does a backup go?
 

@@ -12,14 +12,14 @@ title: system-backup-standard
 
 Backing up is one of the most important methods of system recovery. It protects MOJ Information and Communication Technology (ICT or IT) resources.
 
-The ICT Security - System Backup Policy [link to follow] describes the mandatory requirements that system backup meets.
+The [ICT Security - System Backup Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/system-backup-policy/) describes the mandatory requirements that system backup meets.
 
 This document provides standards and details of the tasks, configurations, and processes required for an ICT system backup to comply with the policy, including:
 
 - how backups are managed
 - the process for backing up
 
-For an overview of backup concepts, and why backup is important for the MOJ, see the ICT Security - System Backup Guide [link to follow].
+For an overview of backup concepts, and why backup is important for the MOJ, see the [ICT Security - System Backup Guide](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/system-backup-guidance/).
 
 For details of what backups must do, see the [System backup requirements](#system-backup-requirements) section.
 
@@ -130,7 +130,8 @@ High impact (RTO is one day or less) | 8 weeks | Within 4 weeks after the end of
 Low impact (RTO is more than one day) | 4 weeks | Within 4 weeks after the end of the retention period.
 Email | 2 weeks | Within 4 weeks after the end of the retention period.
 
-The actual data retention schedule for an MOJ system is agreed between the business and the [Departmental Library and Records Management Service](mailto:records_retention_@justice.gsi.gov.uk).
+The actual data retention schedule for an MOJ system is agreed between the business and the Departmental Library and Records Management Service:<br/>
+<img src="https://intranet.justice.gov.uk/app/uploads/2018/01/e4351e3683b3f6f5fc633d8568d528d7.gif">&nbsp;<br/>
 The Departmental Records Officer has responsibility for the records, and signs off the schedules which the business follows.
 
 The backup retention period should never be shorter than the schedule requires. If the available technology cannot support the prescribed backup retention period, then an exception must be sought and documented in the relevant system Risk Management and Accreditation Document Set (RMADS).
