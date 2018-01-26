@@ -15,7 +15,7 @@ Using your personally-owned device is often acceptable as long as you take some 
 You must always:
 
 - ensure your equipment meets and maintains MOJ IT security standards, and be ready to demonstrate this at any time
-- maintain the corporate 'memory'. This means being able to respond fully to Freedom of Information or Data Protection Act requests
+- maintain the corporate 'memory'. This means being able to respond fully to Freedom of Information, or any data protection legislation requests
 - be able to show a specific business benefit for using your own device
 - be clear as to what work you can, or cannot do, on your equipment
 
@@ -48,7 +48,7 @@ Always install the [latest security updates](https://www.cyberaware.gov.uk/softw
 
 ### Avoid storing work files or information on your device
 
-Make sure everything is stored and up-to-date within the MOJ approved services you’re using. If you are working with MOJ G-Suite (Google Apps), or MOJ Office 365, the information must stay in those systems, not somewhere else on your device.
+Make sure everything is stored and up-to-date within the MOJ approved services you’re using. If you use MOJ G Suite (Google Apps), or MOJ Office 365, or indeed any other MOJ approved tool, the information must stay in those systems, not somewhere else on your device.
 
 If you really must store information on the device, for example because you are remote working and have no network access, delete the information from the device as soon as possible after you have finished.
 
@@ -66,11 +66,12 @@ If your device is lost, stolen or 'hacked', you must:
 
 - tell your line manager straight away
 - ring the Service Desk on  where the analyst will ask the relevant questions and note responses on the ticket
-- if calling from abroad, the contact telephone numbers you need are:
--- Technology Service Desk (DOM1): +44 1270 612 618
--- NICT Service Desk: +44 191 587 8388
+- the contact telephone numbers you need are:
+    - ![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/01/758cf470655d11cc683a6d9511ba3331.gif) &nbsp;
+    - ![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/01/5818419a0f76cd3ad2b515d25b68876e.gif) &nbsp;
 - when back online fill in a [security incident form](https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/)
 - email the form to: [itservicedesk@justice.gsi.gov.uk](mailto:itservicedesk@justice.gsi.gov.uk)
+
 
 If MOJ data or information is lost or compromised, [report it as a data loss](https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/report-a-data-loss/).
 
@@ -78,7 +79,11 @@ Find out more about [how to report a security incident](https://intranet.justice
 
 ## Services you can use on your own devices
 
-In general, sensitive information can only be accessed, used or shared on approved services. Remember that the sensitive information might include personal data.
+In general, subject to the security classification of the work material, you can use any work related service on your device if you can access it over the internet or via the work network.
+
+### Sensitive information
+
+Sensitive information can only be accessed, used or shared on approved services. Remember that the sensitive information might include personal data.
 
 Guidance on classifying information is available [here](https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/classifying-information/).
 
@@ -88,7 +93,7 @@ If you are not sure whether the information is sensitive, assume that it is sens
 
 ### These services are approved for working with sensitive information
 
-- MOJ's GSuite (formerly Google apps) service. You have access to this if your work email address ends in "`@digital.justice.gov.uk`"
+- MOJ's G Suite (formerly Google apps) service. You have access to this if your work email address ends in "`@digital.justice.gov.uk`"
 - MOJ's Office 365 service. You have access to this if your work email address ends with "`@justice.gov.uk`"
 
 ### These services must not be used for sensitive information
@@ -103,7 +108,7 @@ To find out if you can, email [itservicedesk@justice.gsi.gov.uk](mailto:itservic
 
 <table border='1'>
 <tr>
-<td>This document is dated November 2017.<br/>
+<td>This document is dated January 2018.<br/>
 To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=using-your-own-smartphone-laptop-tablet-or-pc-for-work">itpolicycontent@digital.justice.gov.uk</a>.</td>
 </tr>
 </table>

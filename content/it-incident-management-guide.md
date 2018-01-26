@@ -32,10 +32,6 @@ Distribution
 :
 
 
-Author(s)
-:
-Ravi Boodhram, Andrew Shephard
-
 Version Control
 Issue
 Date
