@@ -10,13 +10,9 @@ title: system-backup-guidance
 
 ## Backing up information
 
-Backing up is an essential part of protecting MOJ Information and Communication Technology (ICT or IT) resources.
-This guide document provides an overview of backup concepts, and why backup is important for the MOJ.
+Backing up is an essential part of protecting MOJ Information and Communication Technology (ICT or IT) resources. This guide document provides an overview of backup concepts, and why backup is important for the MOJ.
 
-It is not normally necessary for you as an individual user to do anything about backing up.
-Most of the time,
-it is sufficient for you to know that backups take place,
-and that it is normally possible to request recovery or restoration of data for a system.
+It is not normally necessary for you as an individual user to do anything about backing up. Most of the time, it is sufficient for you to know that backups take place, and that it is normally possible to request recovery or restoration of data for a system.
 
 ## What is backing up?
 
@@ -40,8 +36,7 @@ These terms usually mean the thing: data is brought back to be the same as it wa
 
 A backup helps protect you and the MOJ from accidental or deliberate changes to information, for example when data are deleted or IT hardware fails.
 
-Depending on the system used,
-backups can also provide a history of who made changes to data, and when.
+Depending on the system used, backups can also provide a history of who made changes to data, and when.
 
 Backups are especially important for record retention requirements. Backups for this purpose are often called archival copies, because each is kept for an extended period of time.
 
@@ -75,11 +70,7 @@ Traditionally, backups are stored on one or more of the following backup media:
 - a CD or a DVD
 - magnetic tape
 
-More recently,
-backups are stored on services specifically intended for backups.
-These services have different performance and availability characteristics to ordinary data processing services.
-For example,
-the data might be stored in a different data centre.
+More recently, backups are stored on services specifically intended for backups. These services have different performance and availability characteristics to ordinary data processing services. For example, the data might be stored in a different data centre.
 
 Another reason for using backup services is that some systems have so much data that trying to backup to physical media is impractical.
 
@@ -99,7 +90,6 @@ Some backups contain data that is sensitive. Evaluate the data that is to be bac
 ## How long is a backup kept?
 
 Keeping all backups forever on physical media is not practical or desirable. It is usually necessary to delete data and any backups after a defined period of time.
-
 
 <table border='1'>
 <tr>

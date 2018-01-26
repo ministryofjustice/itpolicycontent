@@ -132,6 +132,7 @@ Email | 2 weeks | Within 4 weeks after the end of the retention period.
 
 The actual data retention schedule for an MOJ system is agreed between the business and the Departmental Library and Records Management Service:<br/>
 <img src="https://intranet.justice.gov.uk/app/uploads/2018/01/e4351e3683b3f6f5fc633d8568d528d7.gif">&nbsp;<br/>
+
 The Departmental Records Officer has responsibility for the records, and signs off the schedules which the business follows.
 
 The backup retention period should never be shorter than the schedule requires. If the available technology cannot support the prescribed backup retention period, then an exception must be sought and documented in the relevant system Risk Management and Accreditation Document Set (RMADS).
@@ -177,7 +178,7 @@ Archive schedule checklist:
 3.  Provide a process for testing each of the backups.
 4.  Provide a process for recovering a complete set of data using any archive backup.
 
-<a id="system-backup-procedures"></id>
+<a id="system-backup-procedures"></a>
 
 ## System backup procedures
 
