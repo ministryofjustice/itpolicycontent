@@ -62,7 +62,7 @@ If a family member borrows your tablet or laptop (for example), make sure they c
 
 ## If something goes wrong
 
-If your device is lost, stolen or 'hacked', you must:
+If you think your device is lost, stolen or 'hacked', you must:
 
 - tell your line manager straight away
 - ring the Service Desk on  where the analyst will ask the relevant questions and note responses on the ticket
