@@ -8,7 +8,7 @@ title: Using your own smartphone, laptop, tablet or PC for work
 </tr>
 </table>
 
-The MOJ provides the IT equipment you need for your work. But you might prefer to use your own smartphone, laptop, tablet, or PC. It can even be cheaper for the MOJ.
+The MOJ provides the IT equipment you need for your work. But you might prefer to use your own smartphone, laptop, tablet, or PC.
 
 Using your personally-owned device is often acceptable as long as you take some precautions first. Remember that you are responsible for the MOJ information held on, or accessed by, your device. It might be your equipment, but you have the same obligations and responsibilities for protecting MOJ information and resources. In particular, the policies, standards and guidance that apply to MOJ-issued devices will also apply to your device.
 
@@ -35,6 +35,7 @@ To stop other people accessing MOJ systems or information, your device must:
 
 - ask for a [strong password](https://www.cyberaware.gov.uk/passwords), PIN, fingerprint or other ID verification whenever you log on
 - lock the screen if you don’t use it for 10 minutes
+- make sure your device is using data-at-rest encryption (the Service Desk can help you if you're not sure)
 
 Ensure that your device is completely up-to-date with security patches as well as antivirus and anti-malware tools.
 
@@ -62,7 +63,7 @@ If a family member borrows your tablet or laptop (for example), make sure they c
 
 ## If something goes wrong
 
-If your device is lost, stolen or 'hacked', you must:
+If you think your device is lost, stolen or 'hacked', you must:
 
 - tell your line manager straight away
 - ring the Service Desk on  where the analyst will ask the relevant questions and note responses on the ticket
@@ -108,7 +109,7 @@ To find out if you can, email [itservicedesk@justice.gsi.gov.uk](mailto:itservic
 
 <table border='1'>
 <tr>
-<td>This document is dated January 2018.<br/>
+<td>This document is dated February 2018.<br/>
 To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=using-your-own-smartphone-laptop-tablet-or-pc-for-work">itpolicycontent@digital.justice.gov.uk</a>.</td>
 </tr>
 </table>
