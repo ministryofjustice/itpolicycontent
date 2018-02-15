@@ -17,7 +17,7 @@ This policy applies to all IT systems and services developed or procured by the 
 - server applications
 - digital services
 
-Always apply patches as soon as possible. For any time limit mentioned in this policy, it is the maximum allowed time. Some important or sensitive systems might need more urgent patching. For example, in general you must apply a 'critical' or 'high risk' patch from a system vendor within 14 days. But you must still apply the patch as soon as possible.
+Always apply patches as soon as possible. If this policy mentions a time limit, then apply patches no later than the time given. Some important or sensitive systems might need more urgent patching. For example, a system might need you to apply 'critical' or 'high risk' patches within 7 days.
 
 The policy applies to those designing, implementing, and operating MOJ systems. It follows the NCSC recommendations for [Cyber Essentials](https://www.cyberessentials.ncsc.gov.uk/requirements-for-it-infrastructure.html). Software must be:
 
@@ -72,9 +72,9 @@ Patch any external code used within an MOJ digital service within at most 7 cale
 
 ## Timescales for applying patches
 
-The time allowed for applying patches is always a maximum. Always apply patches as soon as possible.
+Always apply patches as soon as possible. If this policy mentions a time limit, then apply patches no later than the time given.
 
-The time allowed for applying patches will decrease in the future.
+Future versions of this policy are likely to reduce the time limit for applying patches.
 
 ### Legacy contracts
 
