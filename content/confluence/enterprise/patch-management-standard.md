@@ -78,7 +78,7 @@ The time allowed for applying patches will decrease in the future.
 
 ### Legacy contracts
 
-Commercial contracts might already exist that follow earlier policy. This patching policy applies to any change to the contract after February 2018.
+Commercial contracts might already exist that follow earlier policy. If a contract changes after February 2018, this policy applies to the entire contract.
 
 <table border='1'>
 <tr>
