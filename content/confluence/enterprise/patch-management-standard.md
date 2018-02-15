@@ -66,7 +66,7 @@ Patch server applications within at most 7 calendar days of the release of a cri
 
 All MOJ digital services can only be used, deployed or hosted on systems that follow this patch policy.
 
-Many services make use of third-party software libraries and imported code. To enter the beta development stage, a new or updated digital service must include a process to track external dependencies. The tracking monitors for security problems. The process must also describe how to triage and action any problems.
+Many services make use of third-party software libraries and imported code. To enter the beta development stage, a new or updated service must be able to track and apply patches. The tracking monitors for security problems. The process must also describe how to triage and action any problems.
 
 Patch any external code used within an MOJ digital service within at most 7 calendar days of the release of a critical or high-risk update. This is especially important for external code that provides a security function. Example functions include cryptography, authentication, or anything with direct access to user-provided input.
 
