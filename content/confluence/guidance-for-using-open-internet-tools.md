@@ -8,6 +8,20 @@ title: guidance-for-using-open-internet-tools
 </tr>
 </table>
 
+<!--
+Current document available on the Intranet, here:
+https://intranet.justice.gov.uk/documents/2016/02/guidance-for-using-open-internet-tools.pdf
+
+Also:
+https://mojdigital.blog.gov.uk/open-internet-tools-guidance/
+https://mojdigital.blog.gov.uk/wp-content/uploads/sites/58/2014/06/moj-open-internet-tools-guidance-staff.pdf
+https://www.ncsc.gov.uk/guidance/cloud-security-collection
+https://www.ncsc.gov.uk/guidance/implementing-cloud-security-principles
+
+Also:
+https://www.gov.uk/government/publications/digital-skills-in-the-civil-service/internet-tools-for-civil-servants-an-introduction (Withdrawn April 4th, 2017)
+-->
+
 ## Overview
 
 Open Internet Tools (OITs) are applications or services that are provided by suppliers outside the MOJ.
@@ -15,8 +29,8 @@ They typically have the following characteristics:
 
 - They are general purpose. This means they are not specific to the MOJ. Other organisations can use them.
 - They are accessed using the Internet. This means that if you have Internet access, you can connect to the tools.
-- They have a basic 'free-to-use' version. This means that some or all of the capabilities are provided, but with some constraints. For example, an online word-processor might let you do all the word-processing tasks, but for a maximum of 5 documents.
-- They have one or more 'paid for' versions. By paying for the tool, you unlock some or all of the constraints.
+- They often have a basic 'free-to-use' version. This means that some or all of the capabilities are provided, but with some constraints. For example, an online word-processor might let you do all the word-processing tasks, but for a maximum of 5 documents.
+- They often have one or more 'paid for' versions. By paying for the tool, you unlock some or all of the constraints.
 
 ### Why OITs are an opportunity for the MOJ
 
@@ -43,8 +57,9 @@ However, OITs also pose a number of threats or risks, including:
 
 As long as the threats or risks are considered and addressed, the advantages of OITS provide many significant benefits for the MOJ.
 
-When used carefully, OITs help you to work more effectively.
-They should be evaluated and considered as serious and preferable options for performing tasks.
+### Summary
+
+When used carefully, OITs help you to work more effectively and efficiently. They should be evaluated and considered as serious and preferable options for performing tasks.
 
 ## Using OITs
 
@@ -55,23 +70,24 @@ This guidance helps you:
 - Identify and champion new tools that might benefit the MOJ.
 - Understand what tools are available for you to use.
 
+### Conditions for using an OIT
+
+Only information classified at OFFICIAL level can be stored or processed using an OIT.
+
+In general, you can use OITs to store or transmit any MOJ information that would not have damaging consequences if it was lost, stolen, or published in the media. In other words, if it is OK for the information to be overheard in a cafe, or read from your screen on a crowded train, then it's probably OK to use with an OIT and store online. It is up to you to make a reasoned judgement.
+
+Useful help for deciding what is OK can be found in [existing social media guidance](https://intranet.justice.gov.uk/documents/2015/11/social-media-policy-guidance.pdf). While the guidance focuses more on how to act online when communicating in public, the principles are helpful for OITs.
+
+MOJ information must be stored in MOJ systems. Make sure that if you use an OIT, the key information is definitively and safely stored in an official MOJ system.
 
 <table border='1'>
 <tr>
-<td>This information is dated January 2018.<br/>
+<td>This information is dated February 2018.<br/>
 To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=guidance-for-using-open-internet-tools">itpolicycontent@digital.justice.gov.uk</a>.</td>
 </tr>
 </table>
 
 ----
-
-## Summary
-
-There are many open internet tools available that may meet your needs, and many more yet to be built. By providing general guidance on using any such tools we hope to empower you to decide for yourself how you can work most effectively. [Existing social media guidance](https://intranet.justice.gov.uk/documents/2015/11/social-media-policy-guidance.pdf) focuses on how to act online when communicating in public. This guidance focuses on how to use online tools in your daily work.
-
-### Security
-
-You can use online tools to store or transmit any MOJ information that would not have damaging consequences if lost, stolen, or published in the media. In short, anything that you would not mind being overheard in a cafe, or read from your screen on a crowded train is safe to store online. It is up to you to make a reasoned judgement.
 
 ### Information management
 
