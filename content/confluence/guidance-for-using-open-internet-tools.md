@@ -22,15 +22,25 @@ Also:
 https://www.gov.uk/government/publications/digital-skills-in-the-civil-service/internet-tools-for-civil-servants-an-introduction (Withdrawn April 4th, 2017)
 -->
 
+## Quick checklist
+
+To help you decide if you can use an Open Internet Tool (OIT) to work on an MOJ task, consider the following questions:
+
+- Does the information belong to a specific part of the MOJ that has specific rules and requirements, for example HMPPS?
+- Is the information classified as anything other than `OFFICIAL` or `OFFICIAL-SENSITIVE`?
+- Does the information include any data that can be identified as being about someone?
+- Is this the first time using the tool for MOJ business?
+
+If the answer to _any_ of these questions is 'Yes', get guidance from your Line Manager, _before_ using the tool.
+
 ## Overview
 
-Open Internet Tools (OITs) are applications or services that are provided by suppliers outside the MOJ.
-They typically have the following characteristics:
+Open Internet Tools (OITs) are applications or services from suppliers outside the MOJ. They often have the following characteristics:
 
 - They are general purpose. This means they are not specific to the MOJ. Other organisations can use them.
 - They are accessed using the Internet. This means that if you have Internet access, you can connect to the tools.
-- They often have a basic 'free-to-use' version. This means that some or all of the capabilities are provided, but with some constraints. For example, an online word-processor might let you do all the word-processing tasks, but for a maximum of 5 documents.
-- They often have one or more 'paid for' versions. By paying for the tool, you unlock some or all of the constraints.
+- They often have a basic 'free-to-use' version. This means that you can use some or all the capabilities, but with some constraints. For example, an online word-processor might let you work with no more than 5 documents.
+- They often have one or more 'paid for' versions. By paying for the tool, you unlock some or all the constraints.
 
 ### Why OITs are an opportunity for the MOJ
 
@@ -48,18 +58,47 @@ OITs offer some significant advantages for the MOJ, including:
 
 ### Why OITs are a risk for the MOJ
 
-However, OITs also pose a number of threats or risks, including:
+OITs also pose some threats or risks, including:
 
 - Dependency on the tool and supplier.
 - Security of access to the tool.
 - Security of information stored within or processed by the tool.
 - Potential difficulty of enhancing or customising the tool for MOJ-specific requirements.
 
-As long as the threats or risks are considered and addressed, the advantages of OITS provide many significant benefits for the MOJ.
+But as long you consider the threats or risks, and address them, OITS provide many benefits for the MOJ.
 
 ### Summary
 
-When used carefully, OITs help you to work more effectively and efficiently. They should be evaluated and considered as serious and preferable options for performing tasks.
+With careful use, OITs help you to work more effectively and efficiently. Think about them as serious and preferable options for performing tasks.
+
+## Common OITs
+
+There are already many OITs used across the MOJ. Permission to use an OIT might vary, depending on where you work in the MOJ.
+
+The OITs fall into two groups: hosting and tools.
+
+### Hosting
+
+The MOJ has formally obtained some cloud services. These include Amazon Web Services (AWS), Microsoft (Office 365), and Google (Google Apps). They are generally assured (approved) for use with `OFFICIAL` and `OFFICIAL-SENSITIVE` material.
+
+Personal cloud services are not assured or approved for use with MOJ business. An example is your own personal Google account.
+
+### Tools
+
+Several tools seen in use within the MOJ are not formally assured or approved for use. However, they are acceptable for working with `OFFICIAL` and `OFFICIAL-SENSITIVE` material.
+
+Examples include:
+
+- Appear.in
+- Float
+- GitHub
+- Google Hangouts
+- Lucidchart
+- Skype for Business
+- Slack
+- Trello
+
+It's always a good idea to drop a note to your Line Manager to let them know you are planning to use an OIT for your work.
 
 ## Using OITs
 
@@ -72,13 +111,55 @@ This guidance helps you:
 
 ### Conditions for using an OIT
 
-Only information classified at OFFICIAL level can be stored or processed using an OIT.
+#### Thinking about privacy and personal information
 
-In general, you can use OITs to store or transmit any MOJ information that would not have damaging consequences if it was lost, stolen, or published in the media. In other words, if it is OK for the information to be overheard in a cafe, or read from your screen on a crowded train, then it's probably OK to use with an OIT and store online. It is up to you to make a reasoned judgement.
+Data protection legislation means you are responsible for personal information you work with. You must keep it safe and secure.
 
-Useful help for deciding what is OK can be found in [existing social media guidance](https://intranet.justice.gov.uk/documents/2015/11/social-media-policy-guidance.pdf). While the guidance focuses more on how to act online when communicating in public, the principles are helpful for OITs.
+Unless you get consent in advance from anyone affected, don't use OITs for storing personal data. Never use OITs for information that might cause damage or distress to an individual if disclosed unlawfully.
 
-MOJ information must be stored in MOJ systems. Make sure that if you use an OIT, the key information is definitively and safely stored in an official MOJ system.
+Complying with personal information requirements can be complex. Don't hesitate to ask for advice:<br/>
+![](https://intranet.justice.gov.uk/app/uploads/2018/02/3d58a7dd7083aa02245a5c9c8796bcd6.gif)
+
+#### Thinking about classification and security
+
+Only store or process information [classified](https://www.gov.uk/government/publications/government-security-classifications) at `OFFICIAL` level using an OIT.
+
+Think about the MOJ information you work with.  What would happen if you lost it, or it's stolen, or published in the media? Suppose the information was overheard in a cafe, or read from your screen on a crowded train. Could there be damaging consequences? If the answer is 'No', then it's probably OK to use OITs to store or send that information.
+
+Think also about information moving across the Internet. The data might be safe within the MOJ and in an approved OIT. But what about the connection between the two? Sending information might involve insecure networks. Be aware of the security implications. Check that enough suitable security measures are in place to protect the information. For example, check for encryption of network connections using [SSL/TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security). A simple way to do this is to look for the secure connection indicator in your web browser:<br/>
+![](https://intranet.justice.gov.uk/app/uploads/2018/02/guidance-for-using-open-internet-tools-01.png)
+
+You have a duty of confidentiality and a responsibility to safeguard any HMG information or data that you access. This is ([Principle 2](https://www.gov.uk/government/publications/government-security-classifications) of the Government Security Classifications). The MOJ trusts you to work with `OFFICIAL` information. In the same way, you're trusted to make a reasoned judgement about whether it's safe to use an OIT.
+
+Useful help for deciding what is OK is in [existing social media guidance](https://intranet.justice.gov.uk/documents/2015/11/social-media-policy-guidance.pdf). While it's more about how to act online, the principles are helpful for OITs.
+
+Remember that it is impossible to delete information after it's released in public.
+
+For more information on IT Security, consult the information on the MOJ Intranet [here](https://intranet.justice.gov.uk/guidance/security/it-computer-security/).
+
+#### Thinking about storage and data retention
+
+Various laws and regulations mean the MOJ and its employees are responsible for managing information. Some examples of relevant legislation include:
+
+- the Freedom of Information Act
+- the Data Protection Act and General Data Protection Regulation
+- the Public Records Acts
+
+When we receive a request for information, we need to know where we hold all the relevant information. Storing business information on appropriate MOJ systems helps us, because:
+
+- it protects you and the MOJ by making it easy to provide evidence of why decisions have been made
+- it helps everyone understand what information is held, and where to find it
+- it enables the MOJ to transfer policy and court records to The National Archives
+
+So, always store MOJ information in MOJ systems. If you use an OIT, make sure the key information is also definitively and safely stored in an appropriate MOJ system. Guidance on what you must keep is available [here](https://intranet.justice.gov.uk/guidance/knowledge-information/managing-information/what-to-keep/). When you finish some work, transfer the information to an appropriate MOJ system. Don't forget to remove any redundant information from the OIT.
+
+Most OITs let you export your data. You can then store it on an appropriate MOJ system. Sometimes it's easier to copy and paste text into a new document. Make sure that the right people have access to the information. This is important after staff or organisational changes, for example.
+
+For more guidance, read the [MOJ Information Management Policy](https://intranet.justice.gov.uk/documents/2015/04/information-management-policy.pdf) and the help on [responding to requests for information](https://intranet.justice.gov.uk/guidance/knowledge-information/providing-information-to-the-public/freedom-of-information/).
+
+#### Thinking about service and support
+
+OITs are often intuitive and reliable. But that doesn't mean they are always available and always work as you expect. The MOJ isn't responsible for providing technical support or ensuring service availability. Always have another way of working if the OIT is not available for some reason or for any length of time. In other words, don't let an OIT become business critical.
 
 <table border='1'>
 <tr>
@@ -89,43 +170,7 @@ To provide feedback on this document, please contact us: <a href="mailto:itpolic
 
 ----
 
-### Information management
-
-As with all information you handle for work, when using online tools it is your responsibility to ensure that key information is also stored on the appropriate MOJ system. You can read guidance on '[What to Keep](https://intranet.justice.gov.uk/guidance/knowledge-information/managing-information/what-to-keep/)'. You may wish to designate someone on your team to make sure this happens.
-
-### Personal data
-
-You are responsible under the Data Protection Act (DPA) for the security and stewardship of personal data in your care. We would advise that open Internet tools are unsuitable for the transmission or storage of citizens' data, unless their consent is gained; and always unsuitable for data that would cause damage or distress to an individual if disclosed, including sensitive personal data as defined by the DPA. Take particular care if you are handling citizens' personal data that you comply with the DPA; ask for advice on how to do so.
-
-![](https://intranet.justice.gov.uk/app/uploads/2017/12/68351f224cff2c0bd50a5fcc85df2e6c.gif)
-
-### Service and support
-
-While open Internet tools are designed to be intuitive and reliable, MOJ Digital is not responsible for providing technical support and ensuring service availability. Given that the department has no control over these tools, you should not use them in such a way as they become business critical.
-
-## Security
-
-You can use online tools to store or transmit any MOJ information that would not have damaging consequences if lost, stolen, or published in the media. In short, anything that you would not mind being overheard in a cafe, or read from your screen on a crowded train is safe to store online. It is up to you to make a reasoned judgement.
-
-When you use online tools in the course of your work you will be transferring information over the Internet, and often storing it online. This happens outside the Ministry of Justice's (MOJ) secure networks (e.g. DOM1, Nicts, OMNI) so you need to be aware of the security implications. Each person who works with government has "a duty of confidentiality and a responsibility to safeguard any HMG information or data that they access" See ([Government Security Classifications April 2014](https://www.gov.uk/government/publications/government-security-classifications) ) for guidance on classifying HMG data.
-
-The best online tools use industry standard security measures to protect your data. These include amongst other things using [SSL/TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security), which secures data in transit, as recommended in the Government Security Classifications guidance.
-
-It is important you follow this guidance, as it can be difficult to delete information if it is released by mistake. For more information on IT Security, consult the IT Security Guidelines [here](https://intranet.justice.gov.uk/documents/2015/04/it-security-guidelines.pdf).
-
 ## Information management
-
-As with all information you handle for work, when using online tools it is your responsibility to ensure that key information is also stored on the appropriate MOJ system. You can read guidance on '[What to Keep](https://intranet.justice.gov.uk/guidance/knowledge-information/managing-information/what-to-keep/)'. You may wish to designate someone on your team to make sure this happens.
-
-Various pieces of statute mean the Ministry of Justice and its employees are responsible for managing information. These include the Freedom of Information Act, the Data Protection Act, and the Public Records Acts, amongst others.
-
-If a request for information is received you will need to consider where all relevant information is held. This can include information stored on open Internet tools if you haven't already transferred this to an appropriate MOJ information storage system. At the end of a piece of work, make sure that you transfer relevant information, and remove any redundant information from the tools.
-
-Ensuring that you store records of significant business on appropriate MOJ systems fulfils your obligations under these pieces of legislation. It protects you and the Department by making it easy to provide evidence of why decisions have been made. It helps you and colleagues to understand what information is held, and where to find it if requested. It also enables the Department to transfer a carefully selected portion of policy and court records to The National Archives.
-
-Most tools provide you with an easy way to export your data which you can then store on an appropriate MOJ system. It may sometimes be easiest to copy and paste text into a new document. You should ensure that the right people have access to the information in case of staff or organisational changes.
-
-For more information please consult the [MOJ Information Management Policy](https://intranet.justice.gov.uk/documents/2015/04/information-management-policy.pdf) and guidance on [requests for information](https://intranet.justice.gov.uk/guidance/knowledge-information/providing-information-to-the-public/freedom-of-information/).
 
 ## Personal data
 
