@@ -71,35 +71,6 @@ But as long you consider the threats or risks, and address them, OITS provide ma
 
 With careful use, OITs help you to work more effectively and efficiently. Think about them as serious and preferable options for performing tasks.
 
-## Common OITs
-
-There are already many OITs used across the MOJ. Permission to use an OIT might vary, depending on where you work in the MOJ.
-
-The OITs fall into two groups: hosting and tools.
-
-### Hosting
-
-The MOJ has formally obtained some cloud services. These include Amazon Web Services (AWS), Microsoft (Office 365), and Google (Google Apps). They are generally assured (approved) for use with `OFFICIAL` and `OFFICIAL-SENSITIVE` material.
-
-Personal cloud services are not assured or approved for use with MOJ business. An example is your own personal Google account.
-
-### Tools
-
-Several tools seen in use within the MOJ are not formally assured or approved for use. However, they are acceptable for working with `OFFICIAL` and `OFFICIAL-SENSITIVE` material.
-
-Examples include:
-
-- Appear.in
-- Float
-- GitHub
-- Google Hangouts
-- Lucidchart
-- Skype for Business
-- Slack
-- Trello
-
-It's always a good idea to drop a note to your Line Manager to let them know you are planning to use an OIT for your work.
-
 ## Using OITs
 
 This guidance helps you:
@@ -110,6 +81,16 @@ This guidance helps you:
 - understand what tools are available for you to use
 
 ### Conditions for using an OIT
+
+#### Assured, approved, or acceptable
+
+OITs are often described as being: assured, approved, or acceptable.
+
+Assured means that the OIT has been tested. No specific problems were found that would prevent you from using the tool with `OFFICIAL` or `OFFICIAL-SENSITIVE` information.
+
+Approved means that the OIT has not been tested. A review of the available information about the OIT didn't find any obvious problems. It should be OK to use the tool with `OFFICIAL` or `OFFICIAL-SENSITIVE` information.
+
+Acceptable means that the OIT has not been tested. No review has been done of the available information about the OIT. Other people within the MOJ might be using the OIT, and have not reported any problems. It should be OK to use the tool with `OFFICIAL` or `OFFICIAL-SENSITIVE` information. When you use the OIT, think about any consequences of information disclosure.
 
 #### Thinking about privacy and personal information
 
@@ -133,7 +114,7 @@ Think about the MOJ information you work with.  What would happen if you lost it
 Think also about information moving across the Internet. The data might be safe within the MOJ and in an approved OIT. But what about the connection between the two? Sending information might involve insecure networks. Be aware of the security implications. Check that enough suitable security measures are in place to protect the information. For example, check for encryption of network connections using [SSL/TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security). A simple way to do this is to look for the secure connection indicator in your web browser:<br/>
 ![](https://intranet.justice.gov.uk/app/uploads/2018/02/guidance-for-using-open-internet-tools-01.png)
 
-You have a duty of confidentiality and a responsibility to safeguard any HMG information or data that you access. This is ([Principle 2](https://www.gov.uk/government/publications/government-security-classifications) of the Government Security Classifications). The MOJ trusts you to work with `OFFICIAL` information. In the same way, you're trusted to make a reasoned judgement about whether it's safe to use an OIT.
+You have a duty of confidentiality and a responsibility to safeguard any HMG information or data that you access. This is [Principle 2](https://www.gov.uk/government/publications/government-security-classifications) of the Government Security Classifications. The MOJ trusts you to work with `OFFICIAL` information. In the same way, you're trusted to make a reasoned judgement about whether it's safe to use an OIT.
 
 Useful help for deciding what is OK is in [existing social media guidance](https://intranet.justice.gov.uk/documents/2015/11/social-media-policy-guidance.pdf). While it's more about how to act online, the principles are helpful for OITs.
 
@@ -151,13 +132,13 @@ Various laws and regulations mean the MOJ and its employees are responsible for 
 
 When we receive a request for information, we need to know where we hold all the relevant information. Storing business information on appropriate MOJ systems helps us, because:
 
-- it protects you and the MOJ by making it easy to provide evidence of why decisions have been made
+- it protects you and the MOJ by making it easy to provide evidence of why decisions were made
 - it helps everyone understand what information is held, and where to find it
 - it enables the MOJ to transfer policy and court records to The National Archives
 
-So, always store MOJ information in MOJ systems. If you use an OIT, make sure the key information is also definitively and safely stored in an appropriate MOJ system. Guidance on what you must keep is available [here](https://intranet.justice.gov.uk/guidance/knowledge-information/managing-information/what-to-keep/). When you finish some work, transfer the information to an appropriate MOJ system. Don't forget to remove any redundant information from the OIT.
+Always store MOJ information in MOJ systems. If you use an OIT, make sure the key information is also definitively and safely stored in an appropriate MOJ system. Guidance on what you must keep is available [here](https://intranet.justice.gov.uk/guidance/knowledge-information/managing-information/what-to-keep/). At regular and convenient intervals, transfer the information to an appropriate MOJ system. Do the same when you finish the work. Don't forget to remove any redundant information from the OIT.
 
-Most OITs let you export your data. You can then store it on an appropriate MOJ system. Sometimes it's easier to copy and paste text into a new document. Make sure that the right people have access to the information. This is important after staff or organisational changes, for example.
+Most OITs let you export your data. You can then store it on an appropriate MOJ system. Sometimes it's easier to copy and paste text into a new document. Make sure that only the correct people have access to the information. This is important after staff or organisational changes, for example.
 
 For more guidance, read the [MOJ Information Management Policy](https://intranet.justice.gov.uk/documents/2015/04/information-management-policy.pdf) and the help on [responding to requests for information](https://intranet.justice.gov.uk/guidance/knowledge-information/providing-information-to-the-public/freedom-of-information/).
 
@@ -167,12 +148,43 @@ OITs are often intuitive and reliable. But that doesn't mean they are always ava
 
 Check the OIT usage agreement to find out more about the service and support available.
 
-For further help and assistance in MoJ, contact:
+## Common OITs
 
-- [MoJ Cyber Security](https://peoplefinder.service.gov.uk/teams/corporate-security-business-continuity-branch)
-- [Knowledge and Information Management team](mailto:KIM@justice.gsi.gov.uk)
-- Information Assurance; [Compliance and Information Assurance Branch](https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/information-assurance-roles/)
-- Personal Data; [Data Access and Compliance Unit](mailto:data.access@justice.gsi.gov.uk)
+There are already many OITs used across the MOJ. Permission to use an OIT might vary, depending on where you work in the MOJ. For example, some teams must not access or use some OITs, for security or operational reasons.
+
+The OITs fall into two groups: hosting and tools.
+
+### Hosting
+
+The MOJ uses some public cloud services. These include Amazon Web Services (AWS), Microsoft (Office 365), and Google (Google Apps). They are generally assured (approved) for use with `OFFICIAL` and `OFFICIAL-SENSITIVE` material.
+
+Personal cloud services are not assured or approved for use with MOJ business. An example is your own personal Google account, which should not be used for MOJ information.
+
+### Tools
+
+Several tools you might see used within the MOJ are not yet assured or approved for general use. However, they are acceptable for working with `OFFICIAL` and `OFFICIAL-SENSITIVE` material.
+
+Examples include:
+
+- Appear.in
+- Float
+- GitHub
+- Google Hangouts
+- Lucidchart
+- Skype for Business
+- Slack
+- Trello
+
+It's always a good idea to let your Line Manager know you are planning to use an OIT for your work.
+
+## Getting help
+
+For further help about aspects of using OITs within the MOJ, contact:
+
+- For Classification and Security, contact the [MOJ Cyber Security team](https://peoplefinder.service.gov.uk/teams/corporate-security-business-continuity-branch).
+- For Storage and Data Retention, contact the Knowledge and Information Management team:<br/>![](https://intranet.justice.gov.uk/app/uploads/2018/02/7bb6ccaac44b0602cc182711471b30f4.gif)
+- For Information Assurance guidance, contact the [Compliance and Information Assurance Branch](https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/information-assurance-roles/).
+- For Personal Data guidance, contact the Data Access and Compliance Unit:<br/>![](https://intranet.justice.gov.uk/app/uploads/2018/02/ada3c2470495d8e52076e388c0f0d518.gif)
 
 <table border='1'>
 <tr>
