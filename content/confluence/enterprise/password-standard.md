@@ -23,9 +23,7 @@ title: password-standard
 
 ## About this document
 
-This document is the MOJ IT Security - Password Standard.
-It helps you protect MOJ IT systems by telling you about choosing and using passwords.
-Whenever you see the word 'system' here, it applies to:
+This document is the MOJ IT Security - Password Standard. It helps you protect MOJ IT systems by telling you about choosing and using passwords. Whenever you see the word 'system' here, it applies to:
 
 - hardware, such as laptops, PCs, servers, mobile devices, and any ICT equipment
 - software, such as the OS, or applications installed on hardware, or mobile device 'apps'
@@ -33,10 +31,9 @@ Whenever you see the word 'system' here, it applies to:
 
 ### How to use this document
 
-You should read this whole document.
-The main things you need to know about passwords depends where and how they are being used:
+You should read this whole document. The main things you need to know about passwords depends where and how they are being used:
 
-| The password is for\.\.\. | Example scenarios where the password is used | Read the [Overview](#overview) section carefully, and also\.\.\. |
+| If the password is for\.\.\. | Example scenarios where the password is used | Read the [Overview](#overview) section carefully, and also\.\.\. |
 |---|---|---|
 | An ordinary user | To log on to a laptop, PC, or mobile device, where the device is only ever used by that user | [Basic](#basic-passwords) |
 | A system developer | To log on to a development system that is used to build secure tools, services or functions | [Advanced](#advanced-passwords) |
@@ -45,12 +42,9 @@ The main things you need to know about passwords depends where and how they are 
 | Protecting data that contains personal information | To open and access the information in a database of offenders | [Strong](#strong-passwords) |
 | A system or data classified as `SECRET` or higher | A password alone is almost certainly not sufficient | [HMG Information Assurance Standard No.2][hmgias2] and [IT Security- Access Control Standard][acs] |
 
-If you don't know which level applies to your situation,
-ask for help from your line manager.
+If you don't know which level applies to your situation, ask for help from your line manager.
 
-It is never wrong to choose a stronger level of password.
-For example,
-if you're not sure whether to use [Basic](#basic-passwords) or [Advanced](#advanced-passwords), choose the stronger category.
+It is never wrong to choose a stronger level of password. For example, if you're not sure whether to use [Basic](#basic-passwords) or [Advanced](#advanced-passwords), choose the stronger category.
 
 <a id="overview"></a>
 
@@ -58,26 +52,20 @@ if you're not sure whether to use [Basic](#basic-passwords) or [Advanced](#advan
 
 ### All users
 
-The MOJ follows [NCSC guidance](https://www.ncsc.gov.uk/guidance/password-guidance-simplifying-your-approach),
-which recommends a simpler approach to passwords.
+The MOJ follows [NCSC guidance](https://www.ncsc.gov.uk/guidance/password-guidance-simplifying-your-approach), which recommends a simpler approach to passwords.
 
-This document explains how to choose and use passwords for your work.
-The formal rules about passwords are in the [User Password Management](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/technical-controls-policy/#user-password-management) section of the [IT Security - Technical Controls Policy][tcp].
+This document explains how to choose and use passwords for your work. The formal rules about passwords are in the [User Password Management](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/technical-controls-policy/#user-password-management) section of the [IT Security - Technical Controls Policy][tcp].
 
-To access a system for the first time,
-you get a first-time use password.
-You must change the password before doing any other MOJ work.
-This applies to all the systems you access, for example:
+To access a system for the first time, you get a first-time or [single-use](#single-use-passwords) password. You must change the password before doing any other MOJ work on that system. This applies to all the systems you access, for example:
 
-- Your account on a new work-provided laptop.
-- A shared account for accessing a data analytics service.
-- All supplier or vendor supplied accounts.
+- your account on a new work-provided laptop
+- a shared account for accessing a data analytics service
+- all supplier or vendor supplied accounts
 
-In general,
-you must change a password whenever:
+In general, you must change a password whenever:
 
-- there has been a security incident involving your account or password, for example if you think someone has guessed your password or you have used a similar password on other accounts
-- there has been a security incident involving the service that you access using the password
+- there has been a security incident involving your account or password, for example if you think someone has guessed your password or you have used the same password on other accounts
+- there has been a security incident involving the service that you access using the password, for example if someone broke into the system that provides the service you use
 - your line manager or other authorised person tells you to do so
 
 When required to change a password, you must do so within the following timescales:
@@ -90,47 +78,42 @@ When required to change a password, you must do so within the following timescal
 
 If you don't change the password soon enough, the account will be locked.
 
-You'll notice that for single-user systems like laptops,
-there is no need to change a password simply because it is older than a certain number of days.
-The reason is that time-expiry of passwords is an "[...outdated and ineffective practice](https://www.ncsc.gov.uk/blog-post/your-password-expiry-policy-may-have-reached-its-expiry-date)".
-On sensitive or multi-user systems,
-you must still change passwords at regular intervals.
+You'll notice that for single-user systems like laptops, there is no need to change a password simply because it is older than a certain number of days. The reason is that time-expiry of passwords is an "[...outdated and ineffective practice](https://www.ncsc.gov.uk/blog-post/your-password-expiry-policy-may-have-reached-its-expiry-date)". But on sensitive or multi-user systems, or for administrators or developers, you must still change passwords at regular intervals.
+
+<a id="password-managers"></a>
+
+#### Password managers
+
+These are tools that help you create, use, and manage your passwords. A useful overview is available [here][ncscpwm].
+
+For example, the password manager used by development teams within MOJ Digital &amp; Technology is `RatticDB`.
+
+Other password managers include:
+
+- _Need examples here, such as `LastPass` or `KeePassX`_.
 
 ### System administrators or developers
 
-Some systems need extra measures besides passwords.
-For example, tokens or other multi-factor authentication devices might be appropriate. For more information about these, see the [IT Security - Access Control Standard][acs].
+Some systems need extra measures besides passwords. For example, tokens or other multi-factor authentication devices might be appropriate. For more information about these, see the [IT Security - Access Control Standard][acs].
 
-A technical risk assessment identifies extra controls for systems that need formal accreditation.
-The assessment follows [HMG Information Assurance Standard No. 1 \& 2][hmgias2].
-The systems are also subject to a Business Impact Assessment (BIA).
+A technical risk assessment identifies extra controls for systems that need formal accreditation. The assessment follows [HMG Information Assurance Standard No. 1 \& 2][hmgias2]. The systems are also subject to a Business Impact Assessment (BIA).
 
-For example,
-the assessment might need extra checks to login to an account or service. 
-The checks might depend in part on the context,
-and would consider factors such as:
+For example, the assessment might identify the need to have extra checks for logging in to an account or service. The checks might depend on various factors such as:
 
 - time of login
 - location of login
 - number of previous connections from the connecting IP address
-- whether to allow more than login at a time
+- whether to allow more than one login at a time
 
-When a new or refreshed system arrives,
-change any and all default passwords.
-Complete the changes before using the system for any MOJ work.
+When a new, modified, or replacement system arrives, change any and all default passwords. Complete the changes before using the system for any MOJ work.
 
-All systems must have a way of changing passwords.
-In particular,
-all systems must be able to change passwords after an incident.
+<a id="single-use-passwords"></a>
 
-Some passwords are 'one time' or single-use.
-Use these to grant access to a service for the first time.
-After using the password once,
-the user must immediately change the password.
+#### Single-use passwords
 
-Single-use passwords must also be time limited.
-If they are not used within a specific time after generation,
-they must become invalid.
+Some passwords are 'one time' or single-use. Administrators and developers use these to grant access to a service for the first time. After using the password once, the user must immediately change the password.
+
+Single-use passwords must also be time limited. If they are not used within a specific time after generation, they must become invalid.
 
 The following table shows the valid lifetime for a single-use password:
 
@@ -142,27 +125,9 @@ The following table shows the valid lifetime for a single-use password:
 
 #### Distributing passwords to users
 
-There are times when a system must send a password to a user. An example is when granting access to a service for the first time.
-To send a password to a user, the mechanism used must be secure.
-The protection should match the sensitivity of the information protected by password.
+There are times when a system must send a password to a user. An example is when granting access to a service for the first time. To send a password to a user, the mechanism used must be secure. The protection should match the sensitivity of the information protected by password.
 
-If the password is for the first time use of a service,
-create a single-use password for the user.
-Use an out-of-band channel to send the password to the user.
-For example,
-send the password to the user's line manager who will give it to the user.
-
-<a id="password-managers"></a>
-
-### Password managers
-
-These are tools that help you create, use, and manage your passwords. A useful overview is available [here][ncscpwm].
-
-For example, the password manager used by development teams within MOJ Digital &amp; Technology is `RatticDB`.
-
-Other password managers include:
-
-- _Need examples here, such as `LastPass` or `KeePassX`_.
+If the password is for the first time use of a service, create a single-use password for the user. Use an out-of-band channel to send the password to the user. For example, send the password to the user's line manager who will give it to the user.
 
 <a id="basic-passwords"></a>
 
@@ -186,16 +151,9 @@ When providing passwords to users, a suitably secure mechanism should be used. T
 
 If a password is ever entered incorrectly, a count should start. After at most 5 (five) consecutive failed attempts at using the correct password, the account or system access must be locked. A successful use of the password resets the count to zero again.
 
-If a password lock occurs, a reset is required.
-This requires action by the system administrator or MOJ Service Desk.
-The process should be the same as issuing the password for the first time.
-The main difference between the processes for first-time password and for password reset are that the account details are kept,
-to avoid losing any work.
-Checks ensure that an attacker cannot use the password reset process.
+If a password lock occurs, a reset is required. This requires action by the system administrator or MOJ Service Desk. The process should be the same as issuing the password for the first time. The main difference between the processes for first-time password and for password reset are that the account details are kept, to avoid losing any work. Checks ensure that an attacker cannot use the password reset process.
 
-All systems must check for redundant User IDs and accounts.
-Remove any redundant IDs or accounts.
-The [IT Security - Access Control Standard][acs] discusses the management and removal of accounts.
+All systems must check for redundant User IDs and accounts. Remove any redundant IDs or accounts. The [IT Security - Access Control Standard][acs] discusses the management and removal of accounts.
 
 If an individual loses their right to access a system, any common password they could use must be changed.
 
@@ -262,7 +220,7 @@ Choose a password that has:
 
 <table border='1'>
 <tr>
-<td>This standard is dated January 2018.<br/>
+<td>This standard is dated March 2018.<br/>
 To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=password-standard">itpolicycontent@digital.justice.gov.uk</a>.</td>
 </tr>
 </table>

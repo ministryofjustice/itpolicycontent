@@ -18,13 +18,11 @@ Passwords are essential for protecting MOJ IT systems. Passwords help control ac
 
 You should protect your passwords to the best of your ability.
 
-[Password Guidance][pg] gives you information about using passwords, and your responsibilities for them. 
-For information about choosing and using passwords, see the [Password Standard][ps].
-For the detailed rules about passwords within the MOJ, see the [Password Policy][pp].
+[Password Guidance][pg] gives you information about using passwords, and your responsibilities for them. For information about choosing and using passwords, see the [Password Standard][ps]. For the detailed rules about passwords within the MOJ, see the [Password Policy][pp].
 
 <table border='1'>
 <tr>
-<td>This guidance is dated January 2018.<br/>
+<td>This guidance is dated March 2018.<br/>
 To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=passwords">itpolicycontent@digital.justice.gov.uk</a>.</td>
 </tr>
 </table>
