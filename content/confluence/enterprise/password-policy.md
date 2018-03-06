@@ -4,7 +4,7 @@ title: password-policy
 
 <table border='1'>
 <tr>
-<td>This policy information applies to everyone who works for the MOJ, or who supply systems or services to the MOJ.</td>
+<td>This policy information applies to everyone who develops or supplies systems or services for the MOJ.</td>
 </tr>
 </table>
 
@@ -21,7 +21,7 @@ Though passwords are the primary method of User authentication, other technologi
 
 <table border='1'>
 <tr>
-<td>This standard is dated March 2018.<br/>
+<td>This policy is dated March 2018.<br/>
 To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=password-policy">itpolicycontent@digital.justice.gov.uk</a>.</td>
 </tr>
 </table>

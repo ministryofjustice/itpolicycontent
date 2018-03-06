@@ -26,8 +26,8 @@ title: password-standard
 This document is the MOJ IT Security - Password Standard. It helps you protect MOJ IT systems by telling you about choosing and using passwords. Whenever you see the word 'system' here, it applies to:
 
 - hardware, such as laptops, PCs, servers, mobile devices, and any ICT equipment
-- software, such as the OS, or applications installed on hardware, or mobile device 'apps'
-- services, such as remote databases or cloud-based tools like '[Slack](https://slack.com/)'
+- software, such as the OS, or applications installed on hardware, or mobile device apps
+- services, such as remote databases or cloud-based tools like [Slack](https://slack.com/)
 
 ### How to use this document
 
@@ -80,6 +80,7 @@ If you don't change the password soon enough, the account will be locked.
 
 You'll notice that for single-user systems like laptops, there is no need to change a password simply because it is older than a certain number of days. The reason is that time-expiry of passwords is an "[...outdated and ineffective practice](https://www.ncsc.gov.uk/blog-post/your-password-expiry-policy-may-have-reached-its-expiry-date)". But on sensitive or multi-user systems, or for administrators or developers, you must still change passwords at regular intervals.
 
+<!--
 <a id="password-managers"></a>
 
 #### Password managers
@@ -91,6 +92,8 @@ For example, the password manager used by development teams within MOJ Digital &
 Other password managers include:
 
 - _Need examples here, such as `LastPass` or `KeePassX`_.
+
+-->
 
 ### System administrators or developers
 
@@ -141,7 +144,10 @@ The information in this section is for basic password usage. It follows [NCSC gu
 
 - Follow the [NCSC guidance][ncscpasswords] to generate your password.
 - Use a separate, unique password for each account or service.
+
+<!--
 - Use a [password manager](#password-managers) to help you keep track of your passwords.
+-->
 
 ### Things to do (systems)
 
@@ -163,12 +169,12 @@ Passwords must not be stored within systems 'in the clear'. Instead, passwords a
 
 ### Things to remember
 
-- Don\'t use the same password for accessing two or more different systems.
-- Don\'t tell anyone your password or share your access credentials.
-- Don\'t write down your password.
-- Don\'t store the password in a system that can be accessed using that password.
-- Don\'t use someone else's account details to access a system.
-- Don\'t let someone else see any part of your credentials when you access a system.
+- Don't use the same password for accessing two or more different systems.
+- Don't tell anyone your password or share your access credentials.
+- Don't write down your password.
+- Don't store the password in a system that can be accessed using that password.
+- Don't use someone else's account details to access a system.
+- Don't let someone else see any part of your credentials when you access a system.
 
 <a id="advanced-passwords"></a>
 

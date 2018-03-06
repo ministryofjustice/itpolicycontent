@@ -22,14 +22,17 @@ Passwords help ensure that compliance.
 
 ## Always\.\.\.
 
-- use a password that supports the classification level of the information or system
-- use a password manager, to help you choose and store your passwords
-- use a password that has a combination of one or more of each of the following character types:
+- use a password that's strong enough for the information or system you are using. The system should force you to choose a strong password
+- use a password that has one or more of each of the following character types:
   -  upper case
   -  lower case
   -  digits
   -  special characters such as '`@`', '`$`', '`%`', or '`^`'
 - change your password if it provides access to any information or system affected by a security incident
+
+<!--
+- use a password manager, to help you choose and store your passwords
+-->
 
 ## Never\.\.\.
 
@@ -66,7 +69,7 @@ Some systems might not provide a forgotten password option. Sometimes, it is not
 
 <table border='1'>
 <tr>
-<td>This standard is dated March 2018.<br/>
+<td>This guidance is dated March 2018.<br/>
 To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=password-guidance">itpolicycontent@digital.justice.gov.uk</a>.</td>
 </tr>
 </table>
