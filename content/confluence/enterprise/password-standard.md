@@ -56,13 +56,18 @@ The MOJ follows [NCSC guidance](https://www.ncsc.gov.uk/guidance/password-guidan
 
 This document explains how to choose and use passwords for your work. The formal rules about passwords are in the [User Password Management](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/technical-controls-policy/#user-password-management) section of the [IT Security - Technical Controls Policy][tcp].
 
+Passwords should be:
+- at least 8 characters long
+- unlimited in length
+- not obvious
+
 To access a system for the first time, you get a first-time or [single-use](#single-use-passwords) password. You must change the password before doing any other MOJ work on that system. This applies to all the systems you access, for example:
 
 - your account on a new work-provided laptop
 - a shared account for accessing a data analytics service
 - all supplier or vendor supplied accounts
 
-In general, you must change a password whenever:
+You must change a password whenever:
 
 - there has been a security incident involving your account or password, for example if you think someone has guessed your password or you have used the same password on other accounts
 - there has been a security incident involving the service that you access using the password, for example if someone broke into the system that provides the service you use
@@ -96,6 +101,8 @@ Other password managers include:
 -->
 
 ### System administrators or developers
+
+The MOJ systems or services that you administer or develop must follow the [Government Service Manual for Passwords](https://www.gov.uk/service-manual/design/passwords).
 
 Some systems need extra measures besides passwords. For example, tokens or other multi-factor authentication devices might be appropriate. For more information about these, see the [IT Security - Access Control Standard][acs].
 
@@ -155,7 +162,7 @@ Basic level passwords are never enough to protect systems that support more than
 
 When providing passwords to users, a suitably secure mechanism should be used. The level of protection used during distribution must match the sensitivity of information or resource for which the password controls access.
 
-If a password is ever entered incorrectly, a count should start. After at most 5 (five) consecutive failed attempts at using the correct password, the account or system access must be locked. A successful use of the password resets the count to zero again.
+If a password is ever entered incorrectly, a count should start. After at most 10 (ten) consecutive failed attempts at using the correct password, the account or system access must be locked. A successful use of the password resets the count to zero again.
 
 If a password lock occurs, a reset is required. This requires action by the system administrator or MOJ Service Desk. The process should be the same as issuing the password for the first time. The main difference between the processes for first-time password and for password reset are that the account details are kept, to avoid losing any work. Checks ensure that an attacker cannot use the password reset process.
 
