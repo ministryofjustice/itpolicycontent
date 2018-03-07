@@ -12,9 +12,9 @@ In general, it is acceptable for MOJ users to access MOJ services from abroad, a
 
 But before you travel, consider:
 
-* If you need to take MOJ IT equipment abroad or access MOJ IT systems to do your job?
-* If the business need can be met in another way or by someone else?
-* If you just need to manage your inbox while away, whether you can delegate permissions to your inbox to a colleague to manage on your behalf?
+* if you need to take MOJ IT equipment abroad or access MOJ IT systems to do your job?
+* if the business need can be met in another way or by someone else?
+* if you just need to manage your inbox while away, whether you can delegate permissions to your inbox to a colleague to manage on your behalf?
 
 As a government official travelling overseas, you should consider that you may be of interest to hostile parties regardless of your role. By following MOJ policies and processes, you can help reduce the risk to yourself and limit the damage of exposure of sensitive information.
 
@@ -95,6 +95,7 @@ MOJ-issued phones might still have some functionality, to let you make phone cal
 ### Related pages
 
 General advice on taking Equipment abroad
+
 [Travelling abroad - business or personal](https://intranet.justice.gov.uk/guidance/security/staff-security-and-responsibilities/travelling-abroad-business-or-personal/)
 
 [Staff security and responsibilities – during employment](https://intranet.justice.gov.uk/guidance/security/staff-security-and-responsibilities/during-employmenr/)
