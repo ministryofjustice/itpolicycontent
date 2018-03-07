@@ -71,7 +71,7 @@ When Operational Security have acknowledged receipt of the request and approval,
 
 While travelling, you might incur roaming charges when using your MOJ equipment for calls or accessing services. These charges can be expensive, and must be paid by your Business Unit. This is another reason for having a good business need to take MOJ equipment abroad.  
 
-By default, MOJ equipment is not enabled for use abroad. Before travelling, contact the MoJ Phone and Mobile Devices team. Ask them to enable International Roaming, and to activate the remote wipe function. This protects the MOJ equipment in case of loss or theft.
+By default, MOJ equipment is not enabled for use abroad. Before travelling, contact the MOJ Phone and Mobile Devices team. Ask them to enable International Roaming, and to activate the remote wipe function. This protects the MOJ equipment in case of loss or theft.
  
 ## If you have any problem when using MOJ equipment  abroad
 
