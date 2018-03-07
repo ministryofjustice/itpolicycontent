@@ -12,7 +12,7 @@ title: password-guidance
 
 This document is the MOJ IT Security - Password Guidance. It helps you protect MOJ IT systems by telling you about using passwords, and your responsibilities for them.
 
-All government departments must follow HMG security standards. That includes the MOJ. An important part of compliance is ensuring that all users:
+All government departments must follow HMG security standards. An important part of compliance is ensuring that all users:
 
 - have a unique ID
 - can authenticate using their ID

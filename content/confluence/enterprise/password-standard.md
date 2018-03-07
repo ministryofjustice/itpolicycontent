@@ -11,13 +11,17 @@ title: password-standard
 [acs]: https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/moj-enterprise-access-control-policy/
 [gcs]: https://intranet.justice.gov.uk/guidance/security/it-computer-security/government-classification-scheme/
 [hmgias2]: https://www.ncsc.gov.uk/guidance/information-risk-management-hmg-ia-standard-numbers-1-2
+[ncscpasswordguidance]: https://www.ncsc.gov.uk/guidance/using-passwords-protect-your-data
+[ncscpasswordguidancesimplify]: https://www.ncsc.gov.uk/guidance/password-guidance-simplifying-your-approach
 [ncscpasswords]: https://www.cyberaware.gov.uk/passwords
 [ncscpwm]: https://www.ncsc.gov.uk/blog-post/what-does-ncsc-think-password-managers
+[pg]: https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/password-guidance/
 [sa]: https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/system-administrators/
 [tcp]: https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/technical-controls-policy/
 [uas]: https://www.ncsc.gov.uk/content/files/guidance_files/IG%203%20-%20User%20Authentication%20Systems%20-%20issue%201.1%20Oct%2015%20-%20NCSC%20Web.pdf
 <!--
 [hmgspf]: https://www.gov.uk/government/publications/security-policy-framework
+[smdp]: https://www.gov.uk/service-manual/design/passwords
 [suas]: https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/system-users-and-application-administrators/
 -->
 
@@ -52,11 +56,11 @@ It is never wrong to choose a stronger level of password. For example, if you're
 
 ### All users
 
-The MOJ follows [NCSC guidance](https://www.ncsc.gov.uk/guidance/password-guidance-simplifying-your-approach), which recommends a simpler approach to passwords.
+The MOJ follows [NCSC guidance][ncscpasswordguidance], which recommends a [simpler][ncscpasswordguidancesimplify] approach to passwords. Some agencies or bodies might have specific requirements or variations. Check your team Intranet or ask your Line Manager for more information.
 
 This document explains how to choose and use passwords for your work. The formal rules about passwords are in the [User Password Management](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/technical-controls-policy/#user-password-management) section of the [IT Security - Technical Controls Policy][tcp].
 
-Passwords should be:
+Make sure you read the [guidance][pg] information about passwords. The most important points are that passwords should be:
 - at least 8 characters long
 - unlimited in length
 - not obvious
@@ -102,13 +106,13 @@ Other password managers include:
 
 ### System administrators or developers
 
-The MOJ systems or services that you administer or develop must follow the [Government Service Manual for Passwords](https://www.gov.uk/service-manual/design/passwords).
+Follow the [Government Service Manual for Passwords](https://www.gov.uk/service-manual/design/passwords) when you administer or develop MOJ systems or services.
 
 Some systems need extra measures besides passwords. For example, tokens or other multi-factor authentication devices might be appropriate. For more information about these, see the [IT Security - Access Control Standard][acs].
 
 A technical risk assessment identifies extra controls for systems that need formal accreditation. The assessment follows [HMG Information Assurance Standard No. 1 \& 2][hmgias2]. The systems are also subject to a Business Impact Assessment (BIA).
 
-For example, the assessment might identify the need to have extra checks for logging in to an account or service. The checks might depend on various factors such as:
+For example, an assessment might need you to have extra checks for logging in to an account or service. The checks might depend on various factors such as:
 
 - time of login
 - location of login
