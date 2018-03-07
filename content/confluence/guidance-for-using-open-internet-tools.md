@@ -22,7 +22,16 @@ Also:
 https://www.gov.uk/government/publications/digital-skills-in-the-civil-service/internet-tools-for-civil-servants-an-introduction (Withdrawn April 4th, 2017)
 -->
 
-## Quick checklist
+## Overview
+
+Open Internet Tools (OITs) are applications or services from suppliers outside the MOJ. They often have the following characteristics:
+
+- they are general purpose. This means they are not specific to the MOJ. Other organisations can use them
+- they are accessed using the Internet. This means that if you have Internet access, you can connect to the tools
+- they often have a basic 'free-to-use' version. This means that you can use some or all the capabilities, but with some constraints. For example, an online word-processor might let you work with no more than 5 documents
+- they often have one or more 'paid for' versions. By paying for the tool, you unlock some or all the constraints
+
+### Quick checklist
 
 To help you decide if you can use an Open Internet Tool (OIT) to work on an MOJ task, consider the following questions:
 
@@ -32,15 +41,6 @@ To help you decide if you can use an Open Internet Tool (OIT) to work on an MOJ 
 - is this the first time using the tool for MOJ business?
 
 If the answer to _any_ of these questions is 'Yes', get guidance from your Line Manager, _before_ using the tool.
-
-## Overview
-
-Open Internet Tools (OITs) are applications or services from suppliers outside the MOJ. They often have the following characteristics:
-
-- they are general purpose. This means they are not specific to the MOJ. Other organisations can use them
-- they are accessed using the Internet. This means that if you have Internet access, you can connect to the tools
-- they often have a basic 'free-to-use' version. This means that you can use some or all the capabilities, but with some constraints. For example, an online word-processor might let you work with no more than 5 documents
-- they often have one or more 'paid for' versions. By paying for the tool, you unlock some or all the constraints
 
 ### Why OITs are an opportunity for the MOJ
 
@@ -188,7 +188,7 @@ For further help about aspects of using OITs within the MOJ, contact:
 
 <table border='1'>
 <tr>
-<td>This information is dated February 2018.<br/>
+<td>This information is dated March 2018.<br/>
 To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=guidance-for-using-open-internet-tools">itpolicycontent@digital.justice.gov.uk</a>.</td>
 </tr>
 </table>
