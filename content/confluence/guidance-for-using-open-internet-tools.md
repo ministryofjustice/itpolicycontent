@@ -33,19 +33,21 @@ Open Internet Tools (OITs) are applications or services from suppliers outside t
 
 ### Quick checklist
 
-To help you decide if you can use an Open Internet Tool (OIT) to work on an MOJ task, consider the following questions:
+To help you decide if you can use an OIT to work on an MOJ task, consider the following questions:
 
 - does the information belong to a specific part of the MOJ that has specific rules and requirements, for example HMPPS?
 - is the information classified as anything other than `OFFICIAL` or `OFFICIAL-SENSITIVE`?
 - does the information include any data that can be identified as being about someone?
-- is this the first time using the tool for MOJ business?
+- is this the first time anyone has used the tool for MOJ business?
+- could there be damaging consequences if the information you work with using the tool were to be lost, stolen, or published in the media?
 
 If the answer to _any_ of these questions is 'Yes', get guidance from your Line Manager, _before_ using the tool.
 
-### Why OITs are an opportunity for the MOJ
+### Why OITs are an opportunity
 
-OITs offer some significant advantages for the MOJ, including:
+OITs offer some significant advantages for you and the MOJ, including:
 
+- enabling you to work the way you want to, more effectively
 - usually cheaper than buying or building and supporting a dedicated tool
 - no need to build or support the tool
 - good use of open standards, such as file formats
@@ -56,7 +58,7 @@ OITs offer some significant advantages for the MOJ, including:
 - easy access, whenever you have a network connection
 - increasing availability of some or all capabilities when disconnected from the network
 
-### Why OITs are a risk for the MOJ
+### Why OITs are a risk
 
 OITs also pose some threats or risks, including:
 
@@ -80,9 +82,7 @@ This guidance helps you:
 - identify and champion new tools that might benefit the MOJ
 - understand what tools are available for you to use
 
-### Conditions for using an OIT
-
-#### Assured, approved, or acceptable
+### Assured, approved, or acceptable
 
 OITs are often described as being: assured, approved, or acceptable.
 
@@ -92,7 +92,7 @@ Approved means that the OIT has not been tested. A review of the available infor
 
 Acceptable means that the OIT has not been tested. No review has been done of the available information about the OIT. Other people within the MOJ might be using the OIT, and have not reported any problems. It should be OK to use the tool with `OFFICIAL` or `OFFICIAL-SENSITIVE` information. When you use the OIT, think about any consequences of information disclosure.
 
-#### Thinking about privacy and personal information
+### Privacy and personal information
 
 Data protection legislation makes you responsible for personal information you work with. You must keep it safe and secure.
 
@@ -105,9 +105,9 @@ When thinking about using an OIT, be sure you can fulfil your data protection re
 Complying with personal information requirements can be complex. Don't hesitate to ask for advice:<br/>
 ![](https://intranet.justice.gov.uk/app/uploads/2018/02/3d58a7dd7083aa02245a5c9c8796bcd6.gif)
 
-#### Thinking about classification and security
+### Classification and security
 
-Only store or process information [classified](https://www.gov.uk/government/publications/government-security-classifications) at `OFFICIAL` level using an OIT.
+An OIT can only be used to store or process information [classified](https://www.gov.uk/government/publications/government-security-classifications) at `OFFICIAL` level.
 
 Think about the MOJ information you work with.  What would happen if you lost it, or it's stolen, or published in the media? Suppose the information was overheard in a cafe, or read from your screen on a crowded train. Could there be damaging consequences? If the answer is 'No', then it's probably OK to use OITs to store or send that information.
 
@@ -120,11 +120,11 @@ Useful help for deciding what is OK is in [existing social media guidance](https
 
 Remember that it is impossible to delete information after it's released in public.
 
-For more information on IT Security, consult the information on the MOJ Intranet [here](https://intranet.justice.gov.uk/guidance/security/it-computer-security/).
+For more information about MOJ IT Security, look on the MOJ Intranet [here](https://intranet.justice.gov.uk/guidance/security/it-computer-security/).
 
-#### Thinking about storage and data retention
+### Storage and data retention
 
-Various laws and regulations mean the MOJ and its employees are responsible for managing information. Some examples of relevant legislation include:
+Various laws and regulations mean the MOJ and its employees are responsible for managing information. Some examples include:
 
 - the Freedom of Information Act
 - the Data Protection Act and General Data Protection Regulation
@@ -142,7 +142,7 @@ Most OITs let you export your data. You can then store it on an appropriate MOJ 
 
 For more guidance, read the [MOJ Information Management Policy](https://intranet.justice.gov.uk/documents/2015/04/information-management-policy.pdf) and the help on [responding to requests for information](https://intranet.justice.gov.uk/guidance/knowledge-information/providing-information-to-the-public/freedom-of-information/).
 
-#### Thinking about service and support
+### Service and support
 
 OITs are often intuitive and reliable. But that doesn't mean they are always available and always work as you expect. The MOJ can't provide technical support or ensure service availability for them. Always have another way of working if the OIT is not available for some reason or for any length of time. In other words, don't let an OIT become business critical.
 
