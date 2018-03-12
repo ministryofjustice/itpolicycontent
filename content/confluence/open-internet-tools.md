@@ -31,7 +31,7 @@ It's always a good idea to let your Line Manager know you are planning to use an
 **DRAFT: NOT DEFINITIVE**
 
 OIT | Assured | Approved | Acceptable | Type
----|---|---
+---|---|---|---|---
 Amazon Web Services | Y | | | Various, including hosting and applications
 Appear.in | | | Y | Video conferencing
 AppSignal | | | Y | Ruby error tracking
