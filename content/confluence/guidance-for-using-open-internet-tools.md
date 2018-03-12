@@ -8,9 +8,12 @@ title: guidance-for-using-open-internet-tools
 </tr>
 </table>
 
+[oitlist]: https://intranet.justice.gov.uk/guidance/security/it-computer-security/open-internet-tools/
+
 <!--
 Current document available on the Intranet, here:
 https://intranet.justice.gov.uk/documents/2016/02/guidance-for-using-open-internet-tools.pdf
+https://intranet.justice.gov.uk/guidance/knowledge-information/knowledge-management/
 
 Also:
 https://mojdigital.blog.gov.uk/open-internet-tools-guidance/
@@ -41,7 +44,7 @@ To help you decide if you can use an OIT to work on an MOJ task, consider the fo
 - is this the first time anyone has used the tool for MOJ business?
 - could there be damaging consequences if the information you work with using the tool were to be lost, stolen, or published in the media?
 
-If the answer to _any_ of these questions is 'Yes', get guidance from your Line Manager, _before_ using the tool.
+If the answer to _any_ of these questions is 'Yes', get guidance from your Line Manager, _before_ using the OIT.
 
 ### Why OITs are an opportunity
 
@@ -81,16 +84,6 @@ This guidance helps you:
 - identify and address threats or risks posed by a new tool
 - identify and champion new tools that might benefit the MOJ
 - understand what tools are available for you to use
-
-### Assured, approved, or acceptable
-
-OITs are often described as being: assured, approved, or acceptable.
-
-Assured means that the OIT has been tested. No specific problems were found that would prevent you from using the tool with `OFFICIAL` or `OFFICIAL-SENSITIVE` information.
-
-Approved means that the OIT has not been tested. A review of the available information about the OIT didn't find any obvious problems. It should be OK to use the tool with `OFFICIAL` or `OFFICIAL-SENSITIVE` information.
-
-Acceptable means that the OIT has not been tested. No review has been done of the available information about the OIT. Other people within the MOJ might be using the OIT, and have not reported any problems. It should be OK to use the tool with `OFFICIAL` or `OFFICIAL-SENSITIVE` information. When you use the OIT, think about any consequences of information disclosure.
 
 ### Privacy and personal information
 
@@ -152,30 +145,9 @@ Check the OIT usage agreement to find out more about the service and support ava
 
 There are already many OITs used across the MOJ. Permission to use an OIT might vary, depending on where you work in the MOJ. For example, some teams must not access or use some OITs, for security or operational reasons.
 
-The OITs fall into two groups: hosting and tools.
-
-### Hosting
-
-The MOJ uses some public cloud services. These include Amazon Web Services (AWS), Microsoft (Office 365), and Google (Google Apps). They are generally assured (approved) for use with `OFFICIAL` and `OFFICIAL-SENSITIVE` material.
-
-Personal cloud services are not assured or approved for use with MOJ business. An example is your own personal Google account, which should not be used for MOJ information.
-
-### Tools
-
-Several tools you might see used within the MOJ are not yet assured or approved for general use. However, they are acceptable for working with `OFFICIAL` and `OFFICIAL-SENSITIVE` material.
-
-Examples include:
-
-- Appear.in
-- Float
-- GitHub
-- Google Hangouts
-- Lucidchart
-- Skype for Business
-- Slack
-- Trello
-
 It's always a good idea to let your Line Manager know you are planning to use an OIT for your work.
+
+A current list of OITs, and their status, is available [here][oitlist].
 
 ## Getting help
 
