@@ -40,7 +40,7 @@ As a government official you may be of interest to a range of hostile parties an
 * if it is not practical to keep the device with you securely at all times (for instance, you are at the swimming pool or gym), consider storing the device in the hotel safe
 * avoid conducting work related sensitive phone conversations as they can be intercepted and if you do, ensure you can’t be overheard
 * do not use public charging stations or connect the phone to a vehicle by USB or Bluetooth as information can be downloaded from your phone
-* be aware that hotel and public Wi-Fi spots are not secure, as they can easily be monitored
+* be aware that hotel and public WiFi spots are not secure, as they can easily be monitored
 * make sure you use the phone’s password or pin
 * if the phone is taken from you or you believe it may have been compromised in any way, report it to the Departmental Security Officer on: 
 
