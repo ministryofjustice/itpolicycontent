@@ -83,7 +83,7 @@ When calling from abroad, the Technology Service Desk number you need is:
 If any security-related incident occurs overseas, you should contact Corporate Security Branch as soon as possible.
 If there is any emergency outside normal UK business hours,  contact the Duty Security Officer on:
 
-- ![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/03/5bf98ce480f9fac23b50966c81632bb4.gif) &nbsp;
+- ![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/03/ded132e3a381831f3412183f7248a28c.gif) &nbsp;
 
 or email: 
 
