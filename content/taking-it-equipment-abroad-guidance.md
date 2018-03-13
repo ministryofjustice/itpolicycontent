@@ -40,7 +40,7 @@ As a government official you may be of interest to a range of hostile parties an
 * if it is not practical to keep the device with you securely at all times (for instance, you are at the swimming pool or gym), consider storing the device in the hotel safe
 * avoid conducting work related sensitive phone conversations as they can be intercepted and if you do, ensure you can’t be overheard
 * do not use public charging stations or connect the phone to a vehicle by USB or Bluetooth as information can be downloaded from your phone
-* be aware that hotel and public WI-FI spots are not secure, as they can easily be monitored
+* be aware that hotel and public Wi-Fi spots are not secure, as they can easily be monitored
 * make sure you use the phone’s password or pin
 * if the phone is taken from you or you believe it may have been compromised in any way, report it to the Departmental Security Officer on: 
 
@@ -70,7 +70,7 @@ If you are on official business:
  
 In the event that a device is removed out of your sight (such as by a customs official) then it should be considered compromised. You must contact the Technology Service Desk immediately and report the device as potentially compromised. The contact number is:
 
-![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/03/c00ec596041772ebc897f46a4b5b4665.gif) &nbsp
+![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/03/c00ec596041772ebc897f46a4b5b4665.gif) &nbsp;
  
 The Technology Service Desk will disable your ability to connect to the MOJ network from your device. Be aware that although the device will still have some functionality (i.e. your BlackBerry will work as a mobile phone), the device should be treated as compromised and not used for any MOJ business.
 
