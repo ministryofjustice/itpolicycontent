@@ -94,8 +94,6 @@ MOJ-issued phones might still have some functionality, to let you make phone cal
  
 ### Related pages
 
-General advice on taking equipment abroad
-
 [Travelling abroad - business or personal](https://intranet.justice.gov.uk/guidance/security/staff-security-and-responsibilities/travelling-abroad-business-or-personal/)
 
 [Staff security and responsibilities – during employment](https://intranet.justice.gov.uk/guidance/security/staff-security-and-responsibilities/during-employmenr/)
