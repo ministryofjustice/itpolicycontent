@@ -20,8 +20,7 @@ Remove unnecessary files from your device when travelling abroad so that the ris
    
 ## Keeping safe whilst conducting sensitive work abroad
 
-Be aware that voice calls and SMS messages are not secure and voice calls are more likely to interception whilst abroad and this should be taken in account when using your Phone.
-Keep your Phone with you at all times. Keeping the data secure is heavily dependent on you exercising a high level of physical control over the equipment;
+Be aware that voice calls and SMS messages are not secure and voice calls can be intercepted whilst abroad. Keeping your phone with you at all times helps in having a high level of physical control over the equipment;
  
 * keep any password/pin separate from the device
 * be careful when using your device in situations where it may be lost or stolen, such as busy public places and while transiting customs or security at airports.
@@ -39,6 +38,7 @@ As a government official you may be of interest to a range of hostile parties an
 
 * if it is not practical to keep the device with you securely at all times (for instance, you are at the swimming pool or gym), consider storing the device in the hotel safe
 * avoid conducting work related sensitive phone conversations as they can be intercepted and if you do, ensure you can’t be overheard
+Examples of sensitive information might include prisoner/offence details, court cases of foreign nationals, terror attacks and extremists.
 * do not use public charging stations or connect the phone to a vehicle by USB or Bluetooth as information can be downloaded from your phone
 * be aware that hotel and public WiFi spots are not secure, as they can easily be monitored
 * make sure you use the phone’s password or pin
