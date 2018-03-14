@@ -82,8 +82,8 @@ This guidance helps you:
 
 - understand the conditions or constraints that apply to a tool, or a task performed using a tool
 - identify and address threats or risks posed by a new tool
-- identify and champion new tools that might benefit the MOJ
 - understand what tools are available for you to use
+- identify and champion new tools that might benefit the MOJ
 
 ### Privacy and personal information
 
@@ -148,6 +148,52 @@ There are already many OITs used across the MOJ. Permission to use an OIT might 
 It's always a good idea to let your Line Manager know you are planning to use an OIT for your work.
 
 A current list of OITs, and their status, is available [here][oitlist].
+
+## Identifying and championing new tools
+
+New OITs are being developed all the time. Some of these might be better suited for the tasks you need to perform. Some OITs might become available where previously there was no solution. The question becomes: how is a new OIT identified and championed, so that it becomes allowed within the MoJ.
+
+The basic process consists of four steps. You have an essential role to play in the process.
+
+1. Definition, leading to Prototype.
+2. Alpha, leading to Acceptance.
+3. Beta, leading to Approved.
+4. Gamma, leading to Assured.
+
+The four steps are intended to encourage and enable adoption of new OITs. If it feels like you are being blocked during one of the steps, it's probably a strong indicator that an earlier step was not completed successfully or correctly.
+
+Your role is essential because you are championing the new OIT. It may well be that others join you in helping advocate for the new tool. But you are the one who spotted the potential of a new OIT to help you in your work, and to help others in their work.
+
+### Definition
+
+During the Definition stage, you validate the business requirement. This basically confirms the characteristics of the task, and why a specific instance of the task is a good representative of similar tasks.
+
+Having validated the business requirement, you can then show why the existing allowed OITs cannot meet that requirement.
+
+Next, you work to identify a suitable OIT. Suitability is defined in many ways. Obviously, it must solve the business requirement, or at least make significant progress towards completion. It should work in a way that aligns and promotes the overall MOJ principles and objectives. Sometimes, you might learn of a new tool from colleagues elsewhere in Government, or through professional bodies.
+
+When you have an OIT in mind, you can investigate the characteristics of the tool. Ask fundamental questions, such as:
+
+- Is the tool suitable for general information at `OFFICIAL` classification?
+- Does the tool work in a way that is completely compatible with legislative obligations, such as compliance with data protection legislation, ability to protect then delete information in accord with data retention requirements, and methods for extracting information in a form suitable for Freedom of Information requests?
+- What is the cost to try out the tool? What pricing model applies for more extensive or formal use?
+- What are the licensing requirements?
+- What are the hardware, software, and other operational requirements?
+- How is information within the tool kept secure?
+- How compatible is the tool with other, existing approved tools within the MOJ?
+
+At the end of this stage, you should have a clear idea of:
+
+- the specific task you want the OIT to perform
+- the general tasks the OIT could perform
+- the resources needed to use the OIT, both on your allocated IT equipment and the wider MOJ IT infrastructure and staff
+- the security characteristics of the OIT
+
+With these answers ready, you can seek permission to prototype the tool for performing the task. Do this by contacting your Line Manager and your Tech Support team, so that they know what your plan is and that you have approval to prototype.
+
+### Alpha
+
+During this step, you use the prototype tool to perform the task. Take plenty of notes about how easy it is to configure and use the tool. While focusing on the main task, consider 'edge cases' or unusual scenarios where the tool might not be so successful.
 
 ## Getting help
 
