@@ -162,7 +162,14 @@ The basic process consists of four steps. You have an essential role to play in 
 
 The four steps are intended to encourage and enable adoption of new OITs. If it feels like you are being blocked during one of the steps, it's probably a strong indicator that an earlier step was not completed successfully or correctly.
 
-Your role is essential because you are championing the new OIT. It may well be that others join you in helping advocate for the new tool. But you are the one who spotted the potential of a new OIT to help you in your work, and to help others in their work.
+Your role is essential because you are championing the new OIT. It may well be that others join you in helping advocate for the new tool. But you are the one who spotted the potential of a new OIT to help you in your work, and to help others in their work. During the early stages of evaluating an OIT, you are taking responsibility managing its use. This might require you to:
+
+- help organise or grant access to the tool
+-   work out and ensure that access can be removed later, saving material back to a corporate system, advising on what information the tool is suitable for, handing over to another custodian when they leave, etc.
+
+ 
+
+Without a specific individual being responsible these types of ‘housekeeping’ activities they often get overlooked and in time this causes difficulties. Especially important is ensuring a good handover from one custodian to another if the tool is becoming critical to the business unit. Often when the tool is first used an individual sets up an account and grants others access to that account. If the account holder leaves, granting and closing access can become impossible. As the tools are not supported by MoJ technology solving this could be very difficult. It probably makes sense for the individual that sets up the account to also be the custodian.
 
 ### Definition
 
