@@ -151,7 +151,7 @@ A current list of OITs, and their status, is available [here][oitlist].
 
 ## Identifying and championing new tools
 
-New OITs are being developed all the time. Some of these might be better suited for the tasks you need to perform. Some OITs might become available where previously there was no solution. The question becomes: how is a new OIT identified and championed, so that it becomes allowed within the MoJ.
+New OITs are being developed all the time. Some of these might be better suited for the tasks you need to perform. New OITs might become available, where previously there was no solution. The question becomes: how is a new OIT identified and championed, so that it becomes allowed within the MOJ.
 
 The basic process consists of four steps. You have an essential role to play in the process.
 
@@ -162,14 +162,21 @@ The basic process consists of four steps. You have an essential role to play in 
 
 The four steps are intended to encourage and enable adoption of new OITs. If it feels like you are being blocked during one of the steps, it's probably a strong indicator that an earlier step was not completed successfully or correctly.
 
-Your role is essential because you are championing the new OIT. It may well be that others join you in helping advocate for the new tool. But you are the one who spotted the potential of a new OIT to help you in your work, and to help others in their work. During the early stages of evaluating an OIT, you are taking responsibility managing its use. This might require you to:
+Your role is essential because you are championing the new OIT. It may well be that others join you in helping advocate for the new tool. But you are the one who spotted the potential of a  OIT to help you in your work, and to help others in their work. During the early stages of evaluating an OIT, you are the natural focus point for the status of the OIT as it progresses through Acceptance, Approval, and Assurance testing. This might require you to deal with various 'housekeeping' activities, such as:
 
-- help organise or grant access to the tool
--   work out and ensure that access can be removed later, saving material back to a corporate system, advising on what information the tool is suitable for, handing over to another custodian when they leave, etc.
+- help organise installation or deployment
+- grant access to the OIT functionality
+- remove access from the OIT
+- co-ordinate with other system teams within the MOJ
+- create a process for saving material from the OIT into a corporate system
+- work out what information or tasks the OIT is suitable for
+- identifying other champions for the OIT
 
- 
+... as well as many other related responsibilities.
 
-Without a specific individual being responsible these types of ‘housekeeping’ activities they often get overlooked and in time this causes difficulties. Especially important is ensuring a good handover from one custodian to another if the tool is becoming critical to the business unit. Often when the tool is first used an individual sets up an account and grants others access to that account. If the account holder leaves, granting and closing access can become impossible. As the tools are not supported by MoJ technology solving this could be very difficult. It probably makes sense for the individual that sets up the account to also be the custodian.
+If this list seems burdensome, ask yourself if the OIT is really worth the effort or not.
+
+Without a specific individual being responsible, these activities can easily get overlooked. In time, this can cause difficulties such as ambiguity about the OITs approval status. Especially important is ensuring a good handover from one custodian to another if the tool is becoming critical to the business unit. Often, when the tool is first used, someone sets up an account and grants others access to that account. If the account holder leaves, granting and closing access might become difficult or even impossible. Solving problems of this kind for tools that are not recognised or supported by MOJ technology can be very difficult. It probably makes sense for the individual that sets up the account to also be the custodian.
 
 ### Definition
 
@@ -181,13 +188,13 @@ Next, you work to identify a suitable OIT. Suitability is defined in many ways. 
 
 When you have an OIT in mind, you can investigate the characteristics of the tool. Ask fundamental questions, such as:
 
-- Is the tool suitable for general information at `OFFICIAL` classification?
-- Does the tool work in a way that is completely compatible with legislative obligations, such as compliance with data protection legislation, ability to protect then delete information in accord with data retention requirements, and methods for extracting information in a form suitable for Freedom of Information requests?
-- What is the cost to try out the tool? What pricing model applies for more extensive or formal use?
-- What are the licensing requirements?
-- What are the hardware, software, and other operational requirements?
-- How is information within the tool kept secure?
-- How compatible is the tool with other, existing approved tools within the MOJ?
+- is the tool suitable for general information at `OFFICIAL` classification?
+- does the tool work in a way that is completely compatible with legislative obligations, such as compliance with data protection legislation, ability to protect then delete information in accord with data retention requirements, and methods for extracting information in a form suitable for Freedom of Information requests?
+- what is the cost to try out the tool? What pricing model applies for more extensive or formal use?
+- what are the licensing requirements?
+- what are the hardware, software, and other operational requirements?
+- how is information within the tool kept secure?
+- how compatible is the tool with other, existing approved tools within the MOJ?
 
 At the end of this stage, you should have a clear idea of:
 
@@ -206,10 +213,26 @@ During this step, you use the prototype tool to perform the task. Take plenty of
 
 For further help about aspects of using OITs within the MOJ, contact:
 
-- For Classification and Security, contact the [MOJ Cyber Security team](https://peoplefinder.service.gov.uk/teams/corporate-security-business-continuity-branch).
-- For Storage and Data Retention, contact the Knowledge and Information Management team:<br/>![](https://intranet.justice.gov.uk/app/uploads/2018/02/7bb6ccaac44b0602cc182711471b30f4.gif)
-- For Information Assurance guidance, contact the [Compliance and Information Assurance Branch](https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/information-assurance-roles/).
-- For Personal Data guidance, contact the Data Access and Compliance Unit:<br/>![](https://intranet.justice.gov.uk/app/uploads/2018/02/ada3c2470495d8e52076e388c0f0d518.gif)
+<table border='1'>
+<tr>
+<td valign='top'>Classification and Security</td>
+<td><a href="https://peoplefinder.service.gov.uk/teams/corporate-security-business-continuity-branch">MOJ Cyber Security team</a></td>
+</tr>
+<tr>
+<td valign='top'>Storage and Data Retention</td>
+<td>Knowledge and Information Management team:<br/><img src="https://intranet.justice.gov.uk/app/uploads/2018/02/7bb6ccaac44b0602cc182711471b30f4.gif"></td>
+</tr>
+<tr>
+<td valign='top'>Information Assurance</td>
+<td><a href="https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/information-assurance-roles/">Compliance and Information Assurance Branch</a></td>
+</tr>
+<tr>
+<td valign='top'>Personal Data</td>
+<td>Data Access and Compliance Unit:<br/><img src="https://intranet.justice.gov.uk/app/uploads/2018/02/ada3c2470495d8e52076e388c0f0d518.gif"></td>
+</tr>
+</table>
+
+<p>&nbsp;</p>
 
 <table border='1'>
 <tr>
