@@ -11,6 +11,7 @@ title: password-standard
 [acs]: https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/moj-enterprise-access-control-policy/
 [gcs]: https://intranet.justice.gov.uk/guidance/security/it-computer-security/government-classification-scheme/
 [hmgias2]: https://www.ncsc.gov.uk/guidance/information-risk-management-hmg-ia-standard-numbers-1-2
+[ncschelpingendusers]: https://www.ncsc.gov.uk/guidance/helping-end-users-manage-their-passwords
 [ncscpasswordguidance]: https://www.ncsc.gov.uk/guidance/using-passwords-protect-your-data
 [ncscpasswordguidancesimplify]: https://www.ncsc.gov.uk/guidance/password-guidance-simplifying-your-approach
 [ncscpasswords]: https://www.cyberaware.gov.uk/passwords
@@ -89,20 +90,13 @@ If you don't change the password soon enough, the account will be locked.
 
 You'll notice that for single-user systems like laptops, there is no need to change a password simply because it is older than a certain number of days. The reason is that time-expiry of passwords is an "[...outdated and ineffective practice](https://www.ncsc.gov.uk/blog-post/your-password-expiry-policy-may-have-reached-its-expiry-date)". But on sensitive or multi-user systems, or for administrators or developers, you must still change passwords at regular intervals.
 
-<!--
 <a id="password-managers"></a>
 
 #### Password managers
 
-These are tools that help you create, use, and manage your passwords. A useful overview is available [here][ncscpwm].
+These are tools that help you create, use, and manage your passwords. A useful overview is available [here][ncscpwm]. Additional information for system administrators or developers is available [here][ncschelpingendusers].
 
-For example, the password manager used by development teams within MOJ Digital &amp; Technology is `RatticDB`.
-
-Other password managers include:
-
-- _Need examples here, such as `LastPass` or `KeePassX`_.
-
--->
+For example, the password manager used by development teams within MOJ Digital &amp; Technology is `RatticDB`. Other popular password managers include [`LastPass`](https://lastpass.com/) and [1Password](https://1password.com/).
 
 ### System administrators or developers
 
