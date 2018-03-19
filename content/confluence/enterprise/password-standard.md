@@ -59,7 +59,7 @@ It is never wrong to choose a stronger level of password. For example, if you're
 
 The MOJ follows [NCSC guidance][ncscpasswordguidance], which recommends a [simpler][ncscpasswordguidancesimplify] approach to passwords. Some agencies or bodies might have specific requirements or variations. Check your team Intranet or ask your Line Manager for more information.
 
-This document explains how to choose and use passwords for your work. The formal rules about passwords are in the [User Password Management](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/technical-controls-policy/#user-password-management) section of the [IT Security - Technical Controls Policy][tcp].
+This document explains how to choose and use passwords for your work. The [User Password Management](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/technical-controls-policy/#user-password-management) rules are in the [IT Security - Technical Controls Policy][tcp].
 
 Make sure you read the [guidance][pg] information about passwords. The most important points are that passwords should be:
 - at least 8 characters long
@@ -88,15 +88,18 @@ When required to change a password, you must do so within the following timescal
 
 If you don't change the password soon enough, the account will be locked.
 
-You'll notice that for single-user systems like laptops, there is no need to change a password simply because it is older than a certain number of days. The reason is that time-expiry of passwords is an "[...outdated and ineffective practice](https://www.ncsc.gov.uk/blog-post/your-password-expiry-policy-may-have-reached-its-expiry-date)". But on sensitive or multi-user systems, or for administrators or developers, you must still change passwords at regular intervals.
+For single-user systems like laptops, you don't have to change a password simply because it is old. The reason is that time-expiry of passwords is an "[...outdated and ineffective practice](https://www.ncsc.gov.uk/blog-post/your-password-expiry-policy-may-have-reached-its-expiry-date)". But you must still change passwords at regular intervals:
+
+- on sensitive or multi-user systems
+- if you are an administrator or developer
 
 <a id="password-managers"></a>
 
 #### Password managers
 
-These are tools that help you create, use, and manage your passwords. A useful overview is available [here][ncscpwm]. Additional information for system administrators or developers is available [here][ncschelpingendusers].
+These are tools that help you create, use, and manage your passwords. A useful overview is available [here][ncscpwm]. Extra guidance for system administrators or developers is available [here][ncschelpingendusers].
 
-For example, the password manager used by development teams within MOJ Digital &amp; Technology is `RatticDB`. Other popular password managers include [`LastPass`](https://lastpass.com/) and [1Password](https://1password.com/).
+For example, development teams in MOJ Digital &amp; Technology use `RatticDB`. Other popular password managers include [`LastPass`](https://lastpass.com/) and [`1Password`](https://1password.com/).
 
 ### System administrators or developers
 
@@ -158,26 +161,26 @@ The information in this section is for basic password usage. It follows [NCSC gu
 
 Basic level passwords are never enough to protect systems that support more than one user.
 
-When providing passwords to users, a suitably secure mechanism should be used. The level of protection used during distribution must match the sensitivity of information or resource for which the password controls access.
+When providing passwords to users, use a secure mechanism. The level of protection used for distribution must match the sensitivity of the information or resource for which the password controls access.
 
-If a password is ever entered incorrectly, a count should start. After at most 10 (ten) consecutive failed attempts at using the correct password, the account or system access must be locked. A successful use of the password resets the count to zero again.
+If a password is ever entered incorrectly, a count should start. After at most 10 (ten) consecutive failed attempts at using the correct password, lock the account or system access. A successful use of the password resets the count to zero again.
 
-If a password lock occurs, a reset is required. This requires action by the system administrator or MOJ Service Desk. The process should be the same as issuing the password for the first time. The main difference between the processes for first-time password and for password reset are that the account details are kept, to avoid losing any work. Checks ensure that an attacker cannot use the password reset process.
+If a password lock occurs, a reset is necessary. This requires action by the system administrator or MOJ Service Desk. The process should be the same as issuing the password for the first time. The main difference between the processes for first-time password and for password reset are that the account details are kept intact during the reset, to avoid losing any work.  Checks ensure that an attacker cannot use the password reset process.
 
 All systems must check for redundant User IDs and accounts. Remove any redundant IDs or accounts. The [IT Security - Access Control Standard][acs] discusses the management and removal of accounts.
 
-If an individual loses their right to access a system, any common password they could use must be changed.
+If someone mustn't access a system any more, change any common password they might still use.
 
-Passwords must not be displayed or printed 'in the clear'.
+Never display or print passwords [in the clear](https://en.wikipedia.org/wiki/Plaintext).
 
-Passwords must not be stored within systems 'in the clear'. Instead, passwords are stored using a [hash value](https://en.wikipedia.org/wiki/Hash_function). The strength of the hashing algorithm is proportional to the [classification][gcs] of the system or data the password protects. Use the [IA Implementation Guide No. 3 User Authentication Systems][uas] to determine the appropriate level of hashing.
+Never store passwords in the clear. Instead, store them using a [hash value](https://en.wikipedia.org/wiki/Hash_function). The strength of the hashing algorithm is proportional to the [classification][gcs] of the system or data the password protects. Use the [IA Implementation Guide No. 3 User Authentication Systems][uas] to determine the appropriate level of hashing.
 
 ### Things to remember
 
 - Don't use the same password for accessing two or more different systems.
 - Don't tell anyone your password or share your access credentials.
 - Don't write down your password.
-- Don't store the password in a system that can be accessed using that password.
+- Don't store the password in the same system accessed by using that password.
 - Don't use someone else's account details to access a system.
 - Don't let someone else see any part of your credentials when you access a system.
 
@@ -187,25 +190,30 @@ Passwords must not be stored within systems 'in the clear'. Instead, passwords a
 
 ### Overview
 
-The information in this section is about passwords for development systems, or systems that provide services for material [classified][gcs] no higher than `OFFICIAL-SENSITIVE`. Begin by reading the information in the [Basic passwords](#basic-passwords) section, then continue here.
+The information in this section is about passwords for:
+
+- development systems
+- systems that provide services for material [classified][gcs] no higher than `OFFICIAL-SENSITIVE`.
+
+Begin by reading the information in the [Basic passwords](#basic-passwords) section, then continue here.
 
 ### Things to do (users)
 
-Choose a password that has:
+Choose a password that is:
 
-- A minimum of XX(32?) characters.
-- A mix of upper case and lower case characters.
-- A mix of alphabetic, numeric and special characters.
-- No two consecutive repeating characters.
-- Not already been used for any other account on any other system.
+- at least XX(32?) characters
+- a mix of upper case and lower case characters
+- a mix of alphabetic, numeric and special characters
+- no two consecutive repeating characters
+- not already used for any other account on any other system
 
 ### Things to do (systems)
 
-- Information on handling and protecting passwords for this level are provided in the [IT Security SyOPs - System Administrators][sa] guide.
-- Check that the system, service, or information protected by a password is [classified][gcs] no higher than `OFFICIAL-SENSITIVE`, and contains no material such as contracts, or personal data or information.
-  - If it does contain such material, additional access control might be required, or a change to the [Strong password](#strong-password) category.
-- Check what other systems can access the system or service. Ensure that access is controlled to a level sufficient to the most sensitive material available at either end of the connection.
-- Suppliers and vendors must ensure that systems supports the password requirements, and the issue, change, reset, and revoke processes described in this document. Sufficient information and procedures must be supplied to satisfy the requirements in this document, as well as all the policy statements in the [IT Security - Technical Controls Policy][tcp].
+- information on handling and protecting passwords for this level are provided in the [IT Security SyOPs - System Administrators][sa] guide
+- check that the system, service, or information protected by a password is [classified][gcs] no higher than `OFFICIAL-SENSITIVE`, and contains no material such as contracts, or personal data or information
+  - if it does contain such material, you might need extra access control, or change to the [Strong password](#strong-password) category
+- check what other systems can access the system or service. Ensure that the level of access control is suitable for the most sensitive material available at either end of the connection
+- suppliers and vendors must ensure that systems supports the password requirements, and the issue, change, reset, and revoke processes described in this document. Supply enough information and procedures to meet the requirements in this document, as well as all the policy statements in the [IT Security - Technical Controls Policy][tcp]
 
 <a id="strong-passwords"></a>
 
@@ -213,21 +221,26 @@ Choose a password that has:
 
 ### Overview
 
-The information in this section is about passwords for multi-user systems, or systems that provide services for sensitive material such as contracts, or personal data or information. Begin by reading the information in the [Basic passwords](#basic-passwords) and [Advanced passwords](#advanced-passwords) sections, then continue here.
+The information in this section is about passwords for:
+
+- multi-user systems
+- services for sensitive material such as contracts, or personal data
+
+Begin by reading the information in the [Basic passwords](#basic-passwords) and [Advanced passwords](#advanced-passwords) sections, then continue here.
 
 ### Things to do (users)
 
-Choose a password that has:
+Choose a password that is:
 
-- A minimum of XX(64?) characters.
-- A mix of upper case and lower case characters.
-- A mix of alphabetic, numeric and special characters.
-- No two consecutive repeating characters.
-- Not already been used for any other account on any other system.
+- at least XX(64?) characters
+- a mix of upper case and lower case characters
+- a mix of alphabetic, numeric and special characters
+- no two consecutive repeating characters
+- not already used for any other account on any other system
 
 ### Things to do (systems)
 
-- Review the technical risk assessment to confirm what additional access controls are required, in addition to passwords.
+- review the technical risk assessment to confirm what extra access controls are needed, besides passwords
 
 <table border='1'>
 <tr>
