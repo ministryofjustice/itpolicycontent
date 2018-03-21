@@ -93,14 +93,6 @@ For single-user systems like laptops, you don't have to change a password simply
 - on sensitive or multi-user systems
 - if you are an administrator or developer
 
-<a id="password-managers"></a>
-
-#### Password managers
-
-These are tools that help you create, use, and manage your passwords. A useful overview is available [here][ncscpwm]. Extra guidance for system administrators or developers is available [here][ncschelpingendusers].
-
-For example, development teams in MOJ Digital &amp; Technology use `RatticDB`. Other popular password managers include [`LastPass`](https://lastpass.com/) and [`1Password`](https://1password.com/).
-
 ### System administrators or developers
 
 Follow the [Government Service Manual for Passwords](https://www.gov.uk/service-manual/design/passwords) when you administer or develop MOJ systems or services.
@@ -139,6 +131,22 @@ The following table shows the valid lifetime for a single-use password:
 There are times when a system must send a password to a user. An example is when granting access to a service for the first time. To send a password to a user, the mechanism used must be secure. The protection should match the sensitivity of the information protected by password.
 
 If the password is for the first time use of a service, create a single-use password for the user. Use an out-of-band channel to send the password to the user. For example, send the password to the user's line manager who will give it to the user.
+
+<a id="password-managers"></a>
+
+## Password managers
+
+These are tools that help you create, use, and manage your passwords. A useful overview is available [here][ncscpwm].
+
+As passwords become more complex, and you need to look after more of them, it becomes increasingly necessary to use a password manager. For example, development teams in MOJ Digital &amp; Technology use `RatticDB`. Other popular password managers include [`LastPass`](https://lastpass.com/) and [`1Password`](https://1password.com/).
+
+You still need to remember one password. This is the password that gets you into the manager application. Once you have access, the application works like a simple database, storing all the passwords associated with your various accounts and services. Some managers have extra features, such as password generators. Some managers can even automatically fill-in username and password fields for you when during log in.
+
+The password manager database is often stored in the cloud so that you can use it anywhere. The database is encrypted, so only you can open it. That's why your single password key is so important. Without it, you can never get access to the password database again.
+
+Using a password manager for your MOJ account and service details is recommended. Ask your Line Manager for permission to install one of the applications listed in this doc
+
+Extra guidance for system administrators or developers is available [here][ncschelpingendusers].
 
 <a id="basic-passwords"></a>
 
