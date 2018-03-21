@@ -201,7 +201,7 @@ Begin by reading the information in the [Basic passwords](#basic-passwords) sect
 
 Choose a password that is:
 
-- at least 32?) characters
+- at least 32 characters
 - a mix of upper case and lower case characters
 - a mix of alphabetic, numeric and special characters
 - no two consecutive repeating characters
