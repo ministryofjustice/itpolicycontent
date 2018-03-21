@@ -36,7 +36,7 @@ This document is the MOJ IT Security - Password Standard. It helps you protect M
 
 ### How to use this document
 
-You should read this whole document. The main things you need to know about passwords depends where and how they are being used:
+This document tells you the main things you need to know about passwords. What you need to know depends on the task, and where and how passwords are being used:
 
 | If the password is for\.\.\. | Example scenarios where the password is used | Read the [Overview](#overview) section carefully, and also\.\.\. |
 |---|---|---|
@@ -45,11 +45,11 @@ You should read this whole document. The main things you need to know about pass
 | A system or application administrator | To log on to a system that provides services or functions for other users | [Strong](#strong-passwords) |
 | A system supplied or managed by a vendor | To access a shared account for administering a system | [Strong](#strong-passwords) |
 | Protecting data that contains personal information | To open and access the information in a database of offenders | [Strong](#strong-passwords) |
-| A system or data classified as `SECRET` or higher | A password alone is almost certainly not sufficient | [HMG Information Assurance Standard No.2][hmgias2] and [IT Security- Access Control Standard][acs] |
+| A system or data classified as `SECRET` or `TOP SECRET` | A password alone is almost certainly not sufficient | [HMG Information Assurance Standard No.2][hmgias2] and [IT Security- Access Control Standard][acs] |
 
 If you don't know which level applies to your situation, ask for help from your line manager.
 
-It is never wrong to choose a stronger level of password. For example, if you're not sure whether to use [Basic](#basic-passwords) or [Advanced](#advanced-passwords), choose the stronger category.
+It is never wrong to choose a stronger level of password. For example, if you're not sure whether to use [Basic](#basic-passwords) or [Advanced](#advanced-passwords), choose the (Advanced) category, because it is stronger.
 
 <a id="overview"></a>
 
@@ -109,7 +109,7 @@ Some systems need extra measures besides passwords. For example, tokens or other
 
 A technical risk assessment identifies extra controls for systems that need formal accreditation. The assessment follows [HMG Information Assurance Standard No. 1 \& 2][hmgias2]. The systems are also subject to a Business Impact Assessment (BIA).
 
-For example, an assessment might need you to have extra checks for logging in to an account or service. The checks might depend on various factors such as:
+For example, an assessment might find that you should have extra checks for logging in to an account or service. The checks might depend on various factors such as:
 
 - time of login
 - location of login
@@ -150,14 +150,14 @@ The information in this section is for basic password usage. It follows [NCSC gu
 
 ### Things to do (users)
 
-- Follow the [NCSC guidance][ncscpasswords] to generate your password.
-- Use a separate, unique password for each account or service.
+- follow the [NCSC guidance][ncscpasswords] to generate your password
+- use a separate, unique password for each account or service
 
 <!--
 - Use a [password manager](#password-managers) to help you keep track of your passwords.
 -->
 
-### Things to do (systems)
+### Things to do (multi-user systems and services)
 
 Basic level passwords are never enough to protect systems that support more than one user.
 
@@ -177,12 +177,12 @@ Never store passwords in the clear. Instead, store them using a [hash value](htt
 
 ### Things to remember
 
-- Don't use the same password for accessing two or more different systems.
-- Don't tell anyone your password or share your access credentials.
-- Don't write down your password.
-- Don't store the password in the same system accessed by using that password.
-- Don't use someone else's account details to access a system.
-- Don't let someone else see any part of your credentials when you access a system.
+- don't use the same password for accessing two or more different systems
+- don't tell anyone your password or share your access credentials
+- don't write down your password
+- don't store the password in the same system accessed by using that password
+- don't use someone else's account details to access a system
+- don't let someone else see any part of your credentials when you access a system
 
 <a id="advanced-passwords"></a>
 
@@ -201,13 +201,13 @@ Begin by reading the information in the [Basic passwords](#basic-passwords) sect
 
 Choose a password that is:
 
-- at least XX(32?) characters
+- at least 32?) characters
 - a mix of upper case and lower case characters
 - a mix of alphabetic, numeric and special characters
 - no two consecutive repeating characters
 - not already used for any other account on any other system
 
-### Things to do (systems)
+### Things to do (multi-user systems and services)
 
 - information on handling and protecting passwords for this level are provided in the [IT Security SyOPs - System Administrators][sa] guide
 - check that the system, service, or information protected by a password is [classified][gcs] no higher than `OFFICIAL-SENSITIVE`, and contains no material such as contracts, or personal data or information
@@ -232,15 +232,15 @@ Begin by reading the information in the [Basic passwords](#basic-passwords) and 
 
 Choose a password that is:
 
-- at least XX(64?) characters
+- at least 64 characters
 - a mix of upper case and lower case characters
 - a mix of alphabetic, numeric and special characters
 - no two consecutive repeating characters
 - not already used for any other account on any other system
 
-### Things to do (systems)
+### Things to do (multi-user systems and services)
 
-- review the technical risk assessment to confirm what extra access controls are needed, besides passwords
+- review the technical risk assessment to confirm what extra access controls are needed, besides passwords, and implement the findings
 
 <table border='1'>
 <tr>
