@@ -34,7 +34,7 @@ As part of the move to new technology, we are updating the department's approach
 
 The list of websites included in each of the categories is as small as possible. But if you cannot access a site that you think should be OK, you can request a review.
 
-[This document](https://intranet.justice.gov.uk/guidance/security/it-computer-security/web-browsing-security-policy-profiles/) lists the access rules that apply to website. The rules control access from DOM1, Win10 systems, and the MoJ infrastructure. The list describes the website categories that are either permitted or blocked.
+[This document](https://intranet.justice.gov.uk/guidance/security/it-computer-security/web-browsing-security-policy-profiles/) provides more details about the access rules that apply to websites. The rules control access from DOM1, Win10 systems, and the MoJ infrastructure. The rules identify website categories that are either permitted or blocked.
 
 <!--
 The categories are based on the [`Forcepoint` definitions](https://www.forcepoint.com/master-database-url-categories).
@@ -80,7 +80,7 @@ If the block is due to an access rule, Operational Security reviews whether to c
 
 <table border='1'>
 <tr valign='top'>
-<td>This policy is dated December 2017, and is an update of the Web browsing guidance.<br/>
+<td>This policy is dated March 2018, and is an update of the Web browsing guidance.<br/>
 To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=web-browsing">itpolicycontent@digital.justice.gov.uk</a>.</td>
 </tr>
 </table>
