@@ -70,9 +70,11 @@ If the block is due to an access rule, Operational Security reviews whether to c
 
 ### Other help
 
-- HMPPS Prison - All requests should be directed to the HP Service Desk via a local or area IT Manager.
-- HMPPS Probation - Log an incident with your [Service Desk](#service-desks).
-- All other teams, contact the Operational Security Team ![](https://intranet.justice.gov.uk/app/uploads/2017/12/c44e91c8a5d308c4953ef918b987f543.gif)&nbsp;
+<ul>
+<li>HMPPS Prison - All requests should be directed to the HP Service Desk via a local or area IT Manager.</li>
+<li>HMPPS Probation - Log an incident with your <a href="#service-desks">Service Desk</a>.</li>
+<li>All other teams, contact the Operational Security Team:<br/><img src="https://intranet.justice.gov.uk/app/uploads/2017/12/c44e91c8a5d308c4953ef918b987f543.gif">&nbsp;</li>
+</ul>
 
 ## Related Pages
 
