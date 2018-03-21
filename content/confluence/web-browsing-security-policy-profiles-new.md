@@ -46,7 +46,7 @@ The following categories of content are normally blocked for the Judicial profil
 - Spyware
 - Suspicious Content
 - Suspicious Embedded Link
-- Unauthorized Mobile Marketplaces
+- Unauthorised Mobile Marketplaces
 - User-Defined list
 
 <a id="allotherstaff"/>
@@ -84,7 +84,7 @@ The following categories of content are blocked for this profile:
 - Spyware
 - Suspicious Content
 - Suspicious Embedded Link
-- Unauthorized Mobile Marketplaces
+- Unauthorised Mobile Marketplaces
 - User-Defined list
 
 <p>&nbsp;</p>

@@ -16,11 +16,11 @@ If you have not completed a business case form and had this approved, you will h
 
 There are five policy profiles. The following table summarises the policy groups:
 
-| User community | Web restriction policy group | Webmail permitted | Activity logged | Activity reported |
+| User community | Web restriction policy group | Web mail permitted | Activity logged | Activity reported |
 |---|---|---|---|---|
 | [Judiciary](#judiciary) | No Restrictions in place | Y - By default | Y | N - By default Reporting is permitted by appropriate judicial sanction |
-| [Unrestricted with webmail](#unrestrictedwithwebmail) | No Restrictions in place | Y - By default | Y | Y |
-| [Unrestricted without webmail](#unrestrictedwithoutwebmail)  | Limited Restrictions in place | N | Y | Y |
+| [Unrestricted with web mail](#unrestrictedwithwebmail) | No Restrictions in place | Y - By default | Y | Y |
+| [Unrestricted without web mail](#unrestrictedwithoutwebmail)  | Limited Restrictions in place | N | Y | Y |
 | [Social networking](#socialnetworking) | Limited Restrictions in place | N | Y | Y |
 | [All other users](#allotherusers) | Standard Internet profile | N | Y | Y |
 
@@ -39,7 +39,7 @@ The following categories of content are normally blocked for this profile:
 
 <a id="unrestrictedwithwebmail"/>
 
-### Unrestricted with webmail
+### Unrestricted with web mail
 
 No restrictions are in place to block web access. Web-based mail is permitted. All activity is logged. Reporting is enabled for all activity.
 
@@ -51,7 +51,7 @@ The following categories of content are normally blocked for this profile:
 
 <a id="unrestrictedwithoutwebmail"/>
 
-### Unrestricted without webmail
+### Unrestricted without web mail
 
 No restrictions are in place to block web access. Web-based mail is not permitted. All activity is logged. Reporting is enabled for all activity.
 
