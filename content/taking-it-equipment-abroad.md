@@ -72,8 +72,10 @@ When Operational Security have acknowledged receipt of the request and approval,
 While travelling, you might incur roaming charges when using your MOJ equipment for calls or accessing services. These charges can be expensive, and must be paid by your Business Unit. This is another reason for having a good business need to take MOJ equipment abroad.  
 
 By default, MOJ equipment is not enabled for use abroad. Before travelling, contact the MOJ Phone and Mobile Devices team. Ask them to enable International Roaming, and to activate the remote wipe function. This protects the MOJ equipment in case of loss or theft.
+
+**NOTE:** Remote wipe function is available by default on the iPhones issued by O365. On older phones using Win8.1 remote wiping function is not available, and you should condsider taking your mobile abroad after discussing it with you line manager.
  
-## If you have any problem when using MOJ equipment  abroad
+## If you have any problem when using MOJ equipment abroad
 
 Contact the  Service Desk immediately. Tell them if the MOJ equipment is lost, stolen or was potentially compromised. This includes any time the equipment is deliberately removed out of your sight, such as by a customs official.
 
@@ -81,7 +83,7 @@ When calling from abroad, the Technology Service Desk number you need is:
 - ![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/03/c00ec596041772ebc897f46a4b5b4665.gif) &nbsp;
 
 If any security-related incident occurs overseas, you should contact Corporate Security Branch as soon as possible.
-If there is any emergency outside normal UK business hours,  contact the Duty Security Officer on:
+If there is any emergency outside normal UK business hours, contact the Duty Security Officer on:
 
 - ![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/03/ded132e3a381831f3412183f7248a28c.gif) &nbsp;
 
@@ -104,7 +106,7 @@ MOJ-issued phones might still have some functionality, to let you make phone cal
 
 <table border='1'>
 <tr>
-<td>This document is dated February 2018.<br/>
+<td>This document is dated March 2018.<br/>
 To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=taking-it-equipment-abroad">itpolicycontent@digital.justice.gov.uk</a>.</td>
 </tr>
 </table>
