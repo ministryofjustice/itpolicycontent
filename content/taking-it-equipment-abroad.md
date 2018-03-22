@@ -73,7 +73,7 @@ While travelling, you might incur roaming charges when using your MOJ equipment 
 
 By default, MOJ equipment is not enabled for use abroad. Before travelling, contact the MOJ Phone and Mobile Devices team. Ask them to enable International Roaming, and to activate the remote wipe function. This protects the MOJ equipment in case of loss or theft.
 
-**NOTE:** Remote wipe function is available by default on the iPhones issued by O365. On older phones using Win8.1 remote wiping function is not available, and you should condsider taking it abroad after discussing it with you line manager.
+**NOTE:** Remote wipe function is available by default on the iPhones issued by O365. On older phones using Win8.1 remote wiping function is not available, and you should condsider taking your mobile abroad after discussing it with you line manager.
  
 ## If you have any problem when using MOJ equipment abroad
 
