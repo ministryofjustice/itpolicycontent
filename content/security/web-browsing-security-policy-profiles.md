@@ -6,7 +6,8 @@ title: Web browsing security policy profiles
 
 <table border='1'>
 <tr valign='top'>
-<td>This policy applies to all staff and contractors who work for the MOJ.</td>
+<td>This policy applies to all staff and contractors who work for the MOJ.<br/>
+These are legacy profiles. They under review and likely to be revised soon. Please <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=web-browsing-security-policy-profiles">contact us</a> before using them in your work.</td>
 </tr>
 </table>
 
