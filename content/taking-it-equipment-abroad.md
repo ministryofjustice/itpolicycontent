@@ -80,25 +80,26 @@ By default, MOJ equipment is not enabled for use abroad. Before travelling, cont
 Contact the  Service Desk immediately. Tell them if the MOJ equipment is lost, stolen or was potentially compromised. This includes any time the equipment is deliberately removed out of your sight, such as by a customs official.
 
 When calling from abroad, the Technology Service Desk number you need is:
-- ![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/03/c00ec596041772ebc897f46a4b5b4665.gif) &nbsp;
+![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/03/c00ec596041772ebc897f46a4b5b4665.gif) &nbsp;
 
 If any security-related incident occurs overseas, you should contact Corporate Security Branch as soon as possible.
 If there is any emergency outside normal UK business hours, contact the Duty Security Officer on:
 
-- ![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/03/ded132e3a381831f3412183f7248a28c.gif) &nbsp;
+![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/03/ded132e3a381831f3412183f7248a28c.gif) &nbsp;
 
 or email: 
 
-- ![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/03/72a280ce0eaf9da4fc62e6678c9fd2a-1.gif) &nbsp;
+![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/03/72a280ce0eaf9da4fc62e6678c9fd2a-1.gif) &nbsp;
  
 It might be necessary to disable your ability to connect to the MOJ network or services from your device. Service Desk will do this if required.
+
 MOJ-issued phones might still have some functionality, to let you make phone calls, but the device should be treated as compromised and not used any more for any MOJ business.
  
 ### Related pages
 
 [Travelling abroad - business or personal](https://intranet.justice.gov.uk/guidance/security/staff-security-and-responsibilities/travelling-abroad-business-or-personal/)
 
-[Staff security and responsibilities – during employment](https://intranet.justice.gov.uk/guidance/security/staff-security-and-responsibilities/during-employmenr/)
+[Staff security and responsibilities – during employment](https://intranet.justice.gov.uk/guidance/security/staff-security-and-responsibilities/during-employment/)
 
 ### External websites
 
