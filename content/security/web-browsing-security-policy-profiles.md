@@ -2,8 +2,6 @@
 title: Web browsing security policy profiles
 ---
 
-## Web browsing security policy profiles
-
 <table border='1'>
 <tr valign='top'>
 <td>This policy applies to all staff and contractors who work for the MOJ.<br/>
@@ -27,7 +25,7 @@ There are five policy profiles. The following table summarises the policy groups
 
 Each profile identifies categories of content that are normally blocked. Content that is not in a blocked category will normally be available to a profile.
 
-<a id="judiciary"/>
+<a id="judiciary"></a>
 
 ### Judiciary
 
@@ -38,7 +36,7 @@ The following categories of content are normally blocked for this profile:
 - Remote Proxies
 - Unscannable
 
-<a id="unrestrictedwithwebmail"/>
+<a id="unrestrictedwithwebmail"></a>
 
 ### Unrestricted with web mail
 
@@ -50,7 +48,7 @@ The following categories of content are normally blocked for this profile:
 - Remote Proxies
 - Unscannable
 
-<a id="unrestrictedwithoutwebmail"/>
+<a id="unrestrictedwithoutwebmail"></a>
 
 ### Unrestricted without web mail
 
@@ -63,7 +61,7 @@ The following categories of content are normally blocked for this profile:
 - Unscannable
 - Web-based Email
 
-<a id="socialnetworking"/>
+<a id="socialnetworking"></a>
 
 ### Social networking
 
@@ -88,7 +86,7 @@ The following categories of content are normally blocked for this profile:
 - Weapons
 - Web-based Email
 
-<a id="allotherusers"/>
+<a id="allotherusers"></a>
 
 ### All other users
 

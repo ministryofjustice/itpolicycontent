@@ -14,7 +14,7 @@ There are two policy profiles, one for the [Judiciary](#judiciary), and one for 
 
 Each profile identifies categories of content that are normally blocked. Content that is not in a blocked category will normally be available to a profile.
 
-<a id="judiciary"/>
+<a id="judiciary"></a>
 
 ### Judiciary
 
@@ -49,7 +49,7 @@ The following categories of content are normally blocked for the Judicial profil
 - Unauthorised Mobile Marketplaces
 - User-Defined list
 
-<a id="allotherstaff"/>
+<a id="allotherstaff"></a>
 
 ### All other staff
 
