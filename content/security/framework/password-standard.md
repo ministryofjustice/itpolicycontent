@@ -38,7 +38,7 @@ This document is the MOJ IT Security - Password Standard. It helps you protect M
 
 This document tells you the main things you need to know about passwords. What you need to know depends on the task, and where and how passwords are being used:
 
-| If the password is for\.\.\. | Example scenarios where the password is used | Read the [Overview](#overview) section carefully, and also\.\.\. |
+| If the password is for\.\.\. | Example scenarios where the password is used | Read the [All Users](#all-users) section carefully, and also\.\.\. |
 |---|---|---|
 | An ordinary user | To log on to a laptop, PC, or mobile device, where the device is only ever used by that user | [Basic](#basic-passwords) |
 | A system developer | To log on to a development system that is used to build secure tools, services or functions | [Advanced](#advanced-passwords) |
@@ -47,35 +47,33 @@ This document tells you the main things you need to know about passwords. What y
 | Protecting data that contains personal information | To open and access the information in a database of offenders | [Strong](#strong-passwords) |
 | A system or data classified as `SECRET` or `TOP SECRET` | A password alone is almost certainly not sufficient | [HMG Information Assurance Standard No.2][hmgias2] and [IT Security- Access Control Standard][acs] |
 
-If you don't know which level applies to your situation, ask for help from your line manager.
+If you don't know which guidance applies to your situation, ask for help from your line manager.
 
-It is never wrong to choose a stronger level of password. For example, if you're not sure whether to use [Basic](#basic-passwords) or [Advanced](#advanced-passwords), choose the (Advanced) category, because it is stronger.
+It is never wrong to follow stricter password guidance. For example, you might not be sure whether to use [Basic](#basic-passwords) or [Advanced](#advanced-passwords) guidance. Choose the [Advanced](#advanced-passwords) guidance, because it is stricter.
 
-<a id="overview"></a>
+<a id="all-users"></a>
 
-## Overview
+## All users
 
-### All users
+The MOJ password guidance uses [NCSC guidance][ncscpasswordguidance]. It recommends a [simpler][ncscpasswordguidancesimplify] approach to passwords. Some agencies or bodies might have specific requirements or variations. Check your team Intranet or ask your Line Manager for more information.
 
-The MOJ follows [NCSC guidance][ncscpasswordguidance], which recommends a [simpler][ncscpasswordguidancesimplify] approach to passwords. Some agencies or bodies might have specific requirements or variations. Check your team Intranet or ask your Line Manager for more information.
+This document explains how to choose and use passwords for your work. You can see the formal [User Password Management](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/technical-controls-policy/#user-password-management) rules in the [IT Security - Technical Controls Policy][tcp].
 
-This document explains how to choose and use passwords for your work. The [User Password Management](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/technical-controls-policy/#user-password-management) rules are in the [IT Security - Technical Controls Policy][tcp].
-
-Make sure you read the [guidance][pg] information about passwords. The most important points are that passwords should be:
+Make sure you read the MOJ [guidance][pg] information about passwords. The most important points are that passwords should be:
 - at least 8 characters long
 - unlimited in length
 - not obvious
 
-To access a system for the first time, you get a first-time or [single-use](#single-use-passwords) password. You must change the password before doing any other MOJ work on that system. This applies to all the systems you access, for example:
+To access a system for the first time, you get a first-time or [single-use](#single-use-passwords) password. You must change the password before doing any other MOJ work on that system. This applies to each system you access, including:
 
-- your account on a new work-provided laptop
+- your own account on a work-provided laptop
 - a shared account for accessing a data analytics service
 - all supplier or vendor supplied accounts
 
 You must change a password whenever:
 
-- there has been a security incident involving your account or password, for example if you think someone has guessed your password or you have used the same password on other accounts
-- there has been a security incident involving the service that you access using the password, for example if someone broke into the system that provides the service you use
+- there has been a security incident involving your account or password. For example, someone guessed your password, or you used it on another account
+- there was a security incident with the service that you access using the password. For example, if someone broke into the system that provides the service you use
 - your line manager or other authorised person tells you to do so
 
 When required to change a password, you must do so within the following timescales:
@@ -88,12 +86,9 @@ When required to change a password, you must do so within the following timescal
 
 If you don't change the password soon enough, the account will be locked.
 
-For single-user systems like laptops, you don't have to change a password simply because it is old. The reason is that time-expiry of passwords is an "[...outdated and ineffective practice](https://www.ncsc.gov.uk/blog-post/your-password-expiry-policy-may-have-reached-its-expiry-date)". But you must still change passwords at regular intervals:
+You don't have to change a password because it is old. The reason is that time-expiry of passwords is an "[...outdated and ineffective practice](https://www.ncsc.gov.uk/blog-post/your-password-expiry-policy-may-have-reached-its-expiry-date)".
 
-- on sensitive or multi-user systems
-- if you are an administrator or developer
-
-### System administrators or developers
+## System administrators or developers
 
 Follow the [Government Service Manual for Passwords](https://www.gov.uk/service-manual/design/passwords) when you administer or develop MOJ systems or services.
 
@@ -101,36 +96,22 @@ Some systems need extra measures besides passwords. For example, tokens or other
 
 A technical risk assessment identifies extra controls for systems that need formal accreditation. The assessment follows [HMG Information Assurance Standard No. 1 \& 2][hmgias2]. The systems are also subject to a Business Impact Assessment (BIA).
 
-For example, an assessment might find that you should have extra checks for logging in to an account or service. The checks might depend on various factors such as:
+For example, an assessment might find that you need extra checks for logging in to an account or service. The checks might depend on various factors such as:
 
 - time of login
 - location of login
 - number of previous connections from the connecting IP address
 - whether to allow more than one login at a time
 
-When a new, modified, or replacement system arrives, change any and all default passwords. Complete the changes before using the system for any MOJ work.
+Change any and all default passwords when a new, modified, or replacement system arrives. Complete the changes before using the system for any MOJ work.
 
-<a id="single-use-passwords"></a>
-
-#### Single-use passwords
-
-Some passwords are 'one time' or single-use. Administrators and developers use these to grant access to a service for the first time. After using the password once, the user must immediately change the password.
-
-Single-use passwords must also be time limited. If they are not used within a specific time after generation, they must become invalid.
-
-The following table shows the valid lifetime for a single-use password:
-
-| Password category | Lifetime of a single-use password |
-|---|---|
-| [Basic](#basic-passwords) | 1 week |
-| [Advanced](#advanced-passwords) | 1 day |
-| [Strong](#strong-passwords) | 1 hour |
-
-#### Distributing passwords to users
+### Distributing passwords to users
 
 There are times when a system must send a password to a user. An example is when granting access to a service for the first time. To send a password to a user, the mechanism used must be secure. The protection should match the sensitivity of the information protected by password.
 
-If the password is for the first time use of a service, create a single-use password for the user. Use an out-of-band channel to send the password to the user. For example, send the password to the user's line manager who will give it to the user.
+Passwords created for a user should always be [single-use](#single-use-passwords). Use an out-of-band channel to send the password to the user. For example, send the password to the user's line manager who will give it to the user.
+
+<!--
 
 <a id="password-managers"></a>
 
@@ -148,28 +129,46 @@ Using a password manager for your MOJ account and service details is recommended
 
 Extra guidance for system administrators or developers is available [here][ncschelpingendusers].
 
+-->
+
+<a id="single-use-passwords"></a>
+
+## Single-use passwords
+
+Some passwords are 'one time' or single-use. Administrators and developers use these to grant access to a service for the first time. After using the password once, the user must immediately change the password.
+
+Single-use passwords must also be time limited. If they are not used within a specific time after generation, they must become invalid.
+
+The following table shows the valid lifetime for a single-use password:
+
+| Password category | Lifetime of a single-use password |
+|---|---|
+| [Basic](#basic-passwords) | 1 week |
+| [Advanced](#advanced-passwords) | 1 day |
+| [Strong](#strong-passwords) | 1 hour |
+
 <a id="basic-passwords"></a>
 
 ## Basic passwords
 
-### Overview
-
-The information in this section is for basic password usage. It follows [NCSC guidance][ncscpasswords].
-
-### Things to do (users)
-
-- follow the [NCSC guidance][ncscpasswords] to generate your password
-- use a separate, unique password for each account or service
+Basic password usage follows [NCSC guidance][ncscpasswords]. Use the [NCSC guidance][ncscpasswords] to generate your password. In particular, use a separate, unique password for each account or service.
 
 <!--
 - Use a [password manager](#password-managers) to help you keep track of your passwords.
 -->
 
+- don't use the same password for accessing two or more different systems
+- don't tell anyone your password or share your access credentials
+- don't write down your password
+- don't store the password in the same system accessed by using that password
+- don't use someone else's account details to access a system
+- don't let someone else see any part of your credentials when you access a system
+
 ### Things to do (multi-user systems and services)
 
-Basic level passwords are never enough to protect systems that support more than one user.
+Basic password guidance alone is never enough to protect multi-user systems. Use [Advanced](#advanced-passwords) or [Strong](#strong-passwords) guidance.
 
-When providing passwords to users, use a secure mechanism. The level of protection used for distribution must match the sensitivity of the information or resource for which the password controls access.
+When providing passwords to users, use a secure mechanism. The strength of protection used for distribution must match the sensitivity of the information or resource for which the password controls access.
 
 If a password is ever entered incorrectly, a count should start. After at most 10 (ten) consecutive failed attempts at using the correct password, lock the account or system access. A successful use of the password resets the count to zero again.
 
@@ -181,74 +180,39 @@ If someone mustn't access a system any more, change any common password they mig
 
 Never display or print passwords [in the clear](https://en.wikipedia.org/wiki/Plaintext).
 
-Never store passwords in the clear. Instead, store them using a [hash value](https://en.wikipedia.org/wiki/Hash_function). The strength of the hashing algorithm is proportional to the [classification][gcs] of the system or data the password protects. Use the [IA Implementation Guide No. 3 User Authentication Systems][uas] to determine the appropriate level of hashing.
-
-### Things to remember
-
-- don't use the same password for accessing two or more different systems
-- don't tell anyone your password or share your access credentials
-- don't write down your password
-- don't store the password in the same system accessed by using that password
-- don't use someone else's account details to access a system
-- don't let someone else see any part of your credentials when you access a system
+Never store passwords in the clear. Instead, store them using a [hash value](https://en.wikipedia.org/wiki/Hash_function). The strength of the hashing algorithm is proportional to the [classification][gcs] of the system or data the password protects. Use the [IA Implementation Guide No. 3 User Authentication Systems][uas] to determine the appropriate strength of hashing.
 
 <a id="advanced-passwords"></a>
 
 ## Advanced passwords
-
-### Overview
 
 The information in this section is about passwords for:
 
 - development systems
 - systems that provide services for material [classified][gcs] no higher than `OFFICIAL-SENSITIVE`.
 
-Begin by reading the information in the [Basic passwords](#basic-passwords) section, then continue here.
+Begin by reading the information in the [Basic passwords](#basic-passwords) section.
 
-### Things to do (users)
+Next, read the information on handling and protecting passwords in the [IT Security SyOPs - System Administrators][sa] guide.
 
-Choose a password that is:
+Check that the system, service, or information protected by a password is [classified][gcs] no higher than `OFFICIAL-SENSITIVE`. Make sure that it doesn't contain delicate material such as contracts, or personal data or information. If it does contain such material, you might need extra access control, or change to the [Strong password](#strong-password) category.
 
-- at least 32 characters
-- a mix of upper case and lower case characters
-- a mix of alphabetic, numeric and special characters
-- no two consecutive repeating characters
-- not already used for any other account on any other system
+Check which other systems have access to the system or service. Make sure that the strength of access control is suitable for the most sensitive material available at either end of the connection.
 
-### Things to do (multi-user systems and services)
-
-- information on handling and protecting passwords for this level are provided in the [IT Security SyOPs - System Administrators][sa] guide
-- check that the system, service, or information protected by a password is [classified][gcs] no higher than `OFFICIAL-SENSITIVE`, and contains no material such as contracts, or personal data or information
-  - if it does contain such material, you might need extra access control, or change to the [Strong password](#strong-password) category
-- check what other systems can access the system or service. Ensure that the level of access control is suitable for the most sensitive material available at either end of the connection
-- suppliers and vendors must ensure that systems supports the password requirements, and the issue, change, reset, and revoke processes described in this document. Supply enough information and procedures to meet the requirements in this document, as well as all the policy statements in the [IT Security - Technical Controls Policy][tcp]
+Suppliers and vendors must ensure that systems support the password requirements. In particular, the systems must be able to issue, change, reset, and revoke passwords using well-defined and described processes. Supply enough information and procedures to meet the requirements in this document, as well as all the policy statements in the [IT Security - Technical Controls Policy][tcp]
 
 <a id="strong-passwords"></a>
 
 ## Strong passwords
-
-### Overview
 
 The information in this section is about passwords for:
 
 - multi-user systems
 - services for sensitive material such as contracts, or personal data
 
-Begin by reading the information in the [Basic passwords](#basic-passwords) and [Advanced passwords](#advanced-passwords) sections, then continue here.
+Begin by reading the information in the [Basic passwords](#basic-passwords) and [Advanced passwords](#advanced-passwords) sections.
 
-### Things to do (users)
-
-Choose a password that is:
-
-- at least 64 characters
-- a mix of upper case and lower case characters
-- a mix of alphabetic, numeric and special characters
-- no two consecutive repeating characters
-- not already used for any other account on any other system
-
-### Things to do (multi-user systems and services)
-
-- review the technical risk assessment to confirm what extra access controls are needed, besides passwords, and implement the findings
+Next, review the technical risk assessment to confirm what extra access controls are needed, besides passwords, and implement the findings.
 
 <table border='1'>
 <tr>
