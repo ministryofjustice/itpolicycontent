@@ -31,7 +31,7 @@ Open Internet Tools (OITs) are applications or services from suppliers outside t
 
 - they are general purpose. This means they are not specific to the MOJ. Other organisations can use them
 - they are accessed using the Internet. This means that if you have Internet access, you can connect to the tools
-- they often have a basic 'free-to-use' version. This means that you can use some or all the capabilities, but with some constraints. For example, an online word-processor might let you work with no more than 5 documents
+- they often have a basic 'free-to-use' version. This means that you can use some or all the capabilities, but with some constraints. For example, an online word-processor might let you work with no more than 5 documents within your account
 - they often have one or more 'paid for' versions. By paying for the tool, you unlock some or all the constraints
 
 ### Quick checklist
@@ -70,7 +70,7 @@ OITs also pose some threats or risks, including:
 - security of information stored within or processed by the tool
 - potential difficulty of enhancing or customising the tool for MOJ-specific requirements
 
-But as long you consider the threats or risks, and address them, OITS provide many benefits for the MOJ.
+But as long you consider the threats or risks, and address them, OITS provide many benefits for you and the MOJ.
 
 ### Summary
 
@@ -125,7 +125,7 @@ Various laws and regulations mean the MOJ and its employees are responsible for 
 
 When we receive a request for information, we need to know where we hold all the relevant information. Storing business information on appropriate MOJ systems helps us, because:
 
-- it protects you and the MOJ by making it easy to provide evidence of why decisions were made
+- it protects us by making it easy to provide evidence of why decisions were made
 - it helps everyone understand what information is held, and where to find it
 - it enables the MOJ to transfer policy and court records to The National Archives
 
@@ -151,18 +151,18 @@ A current list of OITs, and their status, is available [here][oitlist].
 
 ## Identifying and championing new tools
 
-New OITs are being developed all the time. Some of these might be better suited for the tasks you need to perform. New OITs might become available, where previously there was no solution. The question becomes: how is a new OIT identified and championed, so that it becomes allowed within the MOJ.
+New OITs are being developed all the time. Some of these might be better suited for the tasks you need to perform. They might provide a solution that didn't exist before. It's helpful to know how a new OIT can be identified and championed, so that it becomes allowed within the MOJ.
 
-The basic process consists of four steps. You have an essential role to play in the process.
+The basic process consists of four steps.
 
-1. Definition, leading to Prototype.
-2. Alpha, leading to Acceptance.
+1. [Definition](#definition), leading to Prototype.
+2. [Alpha](#alpha), leading to Acceptance.
 3. Beta, leading to Approved.
 4. Gamma, leading to Assured.
 
-The four steps are intended to encourage and enable adoption of new OITs. If it feels like you are being blocked during one of the steps, it's probably a strong indicator that an earlier step was not completed successfully or correctly.
+The four steps are intended to encourage and enable adoption of new OITs. You have an essential role to play in the process. If it feels like you are being blocked during one of the steps, it's probably a strong indicator that an earlier step was not completed successfully or correctly.
 
-Your role is essential because you are championing the new OIT. It may well be that others join you in helping advocate for the new tool. But you are the one who spotted the potential of a  OIT to help you in your work, and to help others in their work. During the early stages of evaluating an OIT, you are the natural focus point for the status of the OIT as it progresses through Acceptance, Approval, and Assurance testing. This might require you to deal with various 'housekeeping' activities, such as:
+Your role is essential because you are championing the new OIT. It may well be that others join you and help advocate for the new tool. But you are the one who spotted the potential of a  OIT to help you in your work, and to help others in their work. During the early stages of evaluating an OIT, you are the natural focus point for the status of the OIT as it progresses through Acceptance, Approval, and Assurance testing. This might require you to deal with various 'housekeeping' activities, such as:
 
 - help organise installation or deployment
 - grant access to the OIT functionality
@@ -178,9 +178,11 @@ If this list seems burdensome, ask yourself if the OIT is really worth the effor
 
 Without a specific individual being responsible, these activities can easily get overlooked. In time, this can cause difficulties such as ambiguity about the OITs approval status. Especially important is ensuring a good handover from one custodian to another if the tool is becoming critical to the business unit. Often, when the tool is first used, someone sets up an account and grants others access to that account. If the account holder leaves, granting and closing access might become difficult or even impossible. Solving problems of this kind for tools that are not recognised or supported by MOJ technology can be very difficult. It probably makes sense for the individual that sets up the account to also be the custodian.
 
+<a id="definition"></a>
+
 ### Definition
 
-During the Definition stage, you validate the business requirement. This basically confirms the characteristics of the task, and why a specific instance of the task is a good representative of similar tasks.
+During the Definition stage, you describe and validate the business requirement. This basically confirms the characteristics of the task, and why a specific instance of the task is a good representative of similar tasks.
 
 Having validated the business requirement, you can then show why the existing allowed OITs cannot meet that requirement.
 
@@ -189,7 +191,10 @@ Next, you work to identify a suitable OIT. Suitability is defined in many ways. 
 When you have an OIT in mind, you can investigate the characteristics of the tool. Ask fundamental questions, such as:
 
 - is the tool suitable for general information at `OFFICIAL` classification?
-- does the tool work in a way that is completely compatible with legislative obligations, such as compliance with data protection legislation, ability to protect then delete information in accord with data retention requirements, and methods for extracting information in a form suitable for Freedom of Information requests?
+- does the tool work in a way that is completely compatible with legislative obligations, such as:
+    - compliance with data protection legislation
+    - ability to protect and then delete information in accord with data retention requirements
+    - providing features to extract information in a form suitable for Freedom of Information requests?
 - what is the cost to try out the tool? What pricing model applies for more extensive or formal use?
 - what are the licensing requirements?
 - what are the hardware, software, and other operational requirements?
@@ -204,6 +209,8 @@ At the end of this stage, you should have a clear idea of:
 - the security characteristics of the OIT
 
 With these answers ready, you can seek permission to prototype the tool for performing the task. Do this by contacting your Line Manager and your Tech Support team, so that they know what your plan is and that you have approval to prototype.
+
+<a id="alpha"></a>
 
 ### Alpha
 
