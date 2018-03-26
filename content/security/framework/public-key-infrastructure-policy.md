@@ -4,18 +4,14 @@ title: Public Key Infrastructure Policy
 
 <table border='1'>
 <tr>
-<td>This content is a version of the Public Key Infrastructure Policy, December 2014.<br/>
-This is Legacy IA Policy. It is under review and likely to be withdrawn or substantially revised soon. Please contact us before using this on a new project: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=public-key-infrastructure-policy">itpolicycontent@digital.justice.gov.uk</a>.</td>
+<td>This information applies to those who provide MOJ technology services, including technical architects, developers, product or service owners, system administrators, and operations teams.<br/>
+Use of the word MUST in this document complies with <a href="https://www.ietf.org/rfc/rfc2119.txt">RFC 2119</a>.</td>
 </tr>
 </table>
 
-## Introduction
+Good practice in encryption today uses Public Key technologies. Managing all aspect of the keys requires a suitable infrastructure: a Public Key Infrastructure (PKI). The infrastructure provides encryption key services. The services ensure that encryption key use maintains confidentiality, integrity, and authentication.
 
-###  Scope
-
-Within the Ministry of Justice, there are a number of requirements for Public Key Infrastructure (PKI) services to support confidentiality, integrity and authentication. This document defines the mandatory policy requirements for PKI use.
-
-The policy contained in this document refers specifically to PKI Services used for the following functions:
+This document defines the mandatory PKI policy requirements the MOJ. In particular, it applies to the following functions:
 
 - PSN Wide Area Network VPN cryptography
 - Server-side certificates for:
@@ -25,7 +21,12 @@ The policy contained in this document refers specifically to PKI Services used f
 - User and Device Certificates for Network Access Control using 802.1x EAP/TLS
 - User certificates for digital signature functions
 
-For PKI Services in respect of other functions, including RAS VPNs, contact the appropriate system Accreditor or MoJ Crypto Custodian.
+For any other functions requiring PKI services, for example RAS VPNs, contact the system Accreditor, or MoJ Crypto Custodian.
+
+This policy does not apply to:
+
+- any information, service, or component which is classified as `SECRET` or `TOP SECRET`
+- any tokens 
 
 ### Out of Scope
 
@@ -454,5 +455,12 @@ BIP 0008-3:2008 Evidential weight and legal admissibility of linking electronic 
 <td>24</td>
 <td>RFC 2986 - Certification Request Syntax Specification – November 2000
 http://datatracker.ietf.org/doc/rfc2986/</td>
+</tr>
+</table>
+
+<table border='1'>
+<tr>
+<td>This information is dated March 2018.<br/>
+To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=public-key-infrastructure-policy">itpolicycontent@digital.justice.gov.uk</a>.</td>
 </tr>
 </table>
