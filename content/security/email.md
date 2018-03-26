@@ -57,7 +57,7 @@ If you do set auto-forward from your email address to an email address that does
 Provided that there is a genuine business need, it is acceptable to set auto-forward from one email address to another with the same or higher security standards, for example:
 
 - from one GSI email address to another
-- from an xGSi email address to another xGSI email address
+- from an xGSI email address to another xGSI email address
 - to a GSI email address to an xGSI email address (but not the other way round)
 
 Where the guidance is that 'additional measures' should be taken before sending emails to a particular type of email address, auto-forward should not be set to send to these email addresses from a GSI email account e.g. from a GSI email account to a CJSM email account. Special permission may be given for these sorts of auto-forwards in exceptional circumstances, by your IT Security Officer.
@@ -176,23 +176,23 @@ If the warning uses technical language, most people, including technologically s
 
 There may be credibility by association. If the janitor at a large technological organisation sends a warning to someone outside of that organisation, people on the outside tend to believe the warning because the company should know about those things. Even though the person sending the warning may not have a clue what he is talking about, the prestige of the company backs the warning, making it appear real.
 
-These make it very difficult to be certain a warning is a hoax so you must check with ITSB to see if the claims are real and if the person sending out the warning is a real person and is someone who would know what they are talking about.
+These make it very difficult to be certain a warning is a hoax so you must check to see if the claims are real and if the person sending out the warning is a real person and is someone who would know what they are talking about.
 
 ### Type of hoaxes
 
 #### Scam chains
 
-Mail messages that appear to be from a legitimate company but that are scams and cons eg [Advance fee scams](https://en.wikipedia.org/wiki/Advance-fee_scam).
+Mail messages that appear to be from a legitimate company but that are scams and cons, for example [Advance fee scams](https://en.wikipedia.org/wiki/Advance-fee_scam).
 
-#### Give aways
+#### Giveaways
 
-Stories about give aways by large companies. If you only send this on, some big company will send you a lot of money, clothes, a free vacation, etc., etc. Expect to wait a long time for any of these to pay off. (BA free tickets?)
+Stories about giveaways by large companies. If you only send this on, some big company will send you a lot of money, clothes, a free vacation, etc., etc. Expect to wait a long time for any of these to pay off. (BA free tickets?)
 
 #### Malicious warnings (virus hoaxes)
 
-Warnings about Trojans, viruses, and other malicious code that have no basis in fact eg `Jdbgmgr.exe`.
+Warnings about Trojans, viruses, and other malicious code that have no basis in fact, for example `Jdbgmgr.exe`.
 
-Virus hoaxes have flooded the internet with thousands of viruses worldwide. Paranoia in the internet community fuels such hoaxes. Anxample of this is the "Good Times" virus hoax, which started in 1994 and is still circulating the internet today. Instead of spreading from one computer to another by itself, Good Times relies on people to pass it along.
+Virus hoaxes have flooded the internet with thousands of viruses worldwide. Paranoia in the internet community fuels such hoaxes. An example of this is the "Good Times" virus hoax, which started in 1994 and is still circulating the internet today. Instead of spreading from one computer to another by itself, Good Times relies on people to pass it along.
 
 #### Sympathy letters and requests to help someone
 
