@@ -13,7 +13,7 @@ This is Legacy IA Policy. It is under review and likely to be withdrawn or subst
 
 The security of the Government secure intranet (GSI) depends in part on the security standards, procedures and technical countermeasures employed by user departments.
 
-The community security policy (CSP) sets out requirements, which user departments must meet as a condition of connection to the GSI in order to ensure the security of the GSI’s common intranet services.
+The community security policy (CSP) sets out requirements, which user departments must meet as a condition of connection to the GSI in order to ensure the security of the GSI common intranet services.
 
 ### The role and function of the GSI
 
@@ -24,7 +24,7 @@ The GSI allows connections to take place between its members, usually Government
 - access to the internet world wide web from browsers running on client machines in Government departments
 - access to internal (Government only) web pages from browsers in Government departments, ie intranet facilities
 
-The GSI is secure for handling information at OFFICIAL, including information marked as OFFICIAL-SENSITIVE and at the legacy protective markings up to and including RESTRICTED. Users of the GSI must possess BPSS clearance or an acceptable government equivalent.
+The GSI is secure for handling information at OFFICIAL, including information marked as OFFICIAL-SENSITIVE and at the legacy protective markings up to and including RESTRICTED. Users of the GSI must possess [Baseline Personnel Security Standard (BPSS)](https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/contractor-agency-staff/national-security-clearance-for-contractorsagency-staff/) clearance or an acceptable government equivalent.
 
 It is the responsibility of system owners to ensure that their systems (ie their data) are protected by technical and procedural countermeasures appropriate to the sensitivity of material handled within those domains.
 
