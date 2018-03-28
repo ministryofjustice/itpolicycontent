@@ -1,5 +1,3 @@
-ict-security-policy-framework/moj-ict-security-guide
-ict-security-policy-framework/protective-monitoring-guide
 infrastructure-system-accreditation
 laptops
 locking-and-shutdown
