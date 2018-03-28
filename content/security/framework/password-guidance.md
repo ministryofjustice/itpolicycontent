@@ -22,6 +22,7 @@ Passwords help ensure that compliance.
 
 ## Always\.\.\.
 
+- follow the [GOV.UK advice](https://www.cyberaware.gov.uk/passwords) to generate your passwords
 - use a password that's at least 8 characters long
 - use a password that's strong enough for the information or system you are using. The system should force you to choose a strong password
 - use a password that has one or more of each of the following character types:
@@ -37,6 +38,8 @@ Passwords help ensure that compliance.
 
 ## Never\.\.\.
 
+- have repeating characters next to each other in the password, such as '`EE`' or '`pp`'
+- have your username within the password
 - use an [obvious password](https://en.wikipedia.org/wiki/List_of_the_most_common_passwords), such as '`passw0rd`' or '`12345678`'
 - use a password for more than one account or service
 - re-use a password
@@ -45,6 +48,8 @@ Passwords help ensure that compliance.
 - access or try to access another person's email account
 - use or try to use an identity other than your own
 - attempt to access information outside of your normal access rights or duties
+- store the password in the same system accessed by using that password
+- let someone else see any part of your credentials when you access a system
 
 **Note:** Unauthorised sharing or use of a password is a security breach. Doing this might result in disciplinary action.
 

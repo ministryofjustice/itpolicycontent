@@ -10,11 +10,11 @@ title: password-standard
 
 [acs]: https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/moj-enterprise-access-control-policy/
 [gcs]: https://intranet.justice.gov.uk/guidance/security/it-computer-security/government-classification-scheme/
+[govukpasswords]: https://www.cyberaware.gov.uk/passwords
 [hmgias2]: https://www.ncsc.gov.uk/guidance/information-risk-management-hmg-ia-standard-numbers-1-2
 [ncschelpingendusers]: https://www.ncsc.gov.uk/guidance/helping-end-users-manage-their-passwords
 [ncscpasswordguidance]: https://www.ncsc.gov.uk/guidance/using-passwords-protect-your-data
 [ncscpasswordguidancesimplify]: https://www.ncsc.gov.uk/guidance/password-guidance-simplifying-your-approach
-[ncscpasswords]: https://www.cyberaware.gov.uk/passwords
 [ncscpwm]: https://www.ncsc.gov.uk/blog-post/what-does-ncsc-think-password-managers
 [pg]: https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/password-guidance/
 [sa]: https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/system-administrators/
@@ -61,10 +61,11 @@ This document explains how to choose and use passwords for your work. You can se
 
 Make sure you read the MOJ [guidance][pg] information about passwords. The most important points are that passwords should be:
 - at least 8 characters long
+- contain a mix of character types
 - unlimited in length
 - not obvious
 
-To access a system for the first time, you get a first-time or [single-use](#single-use-passwords) password. You must change the password before doing any other MOJ work on that system. This applies to each system you access, including:
+To access a system for the first time, you get a single-use password. As the name suggests, it allows only one use, then expires. The single use is enough to let you log on to the system and change your password. You _must_ change the password before doing any other MOJ work on that system. This applies to each system you access, including:
 
 - your own account on a work-provided laptop
 - a shared account for accessing a data analytics service
@@ -133,7 +134,7 @@ Extra guidance for system administrators or developers is available [here][ncsch
 
 <a id="single-use-passwords"></a>
 
-## Single-use passwords
+### Single-use passwords
 
 Some passwords are 'one time' or single-use. Administrators and developers use these to grant access to a service for the first time. After using the password once, the user must immediately change the password.
 
@@ -151,18 +152,13 @@ The following table shows the valid lifetime for a single-use password:
 
 ## Basic passwords
 
-Basic password usage follows [NCSC guidance][ncscpasswords]. Use the [NCSC guidance][ncscpasswords] to generate your password. In particular, use a separate, unique password for each account or service.
+Follow the [GOV.UK advice][govukpasswords] to generate your passwords. Use a separate and unique password for each account or service.
+
+Follow the MOJ [MOJ password Guidance][pg] to learn about using passwords, and your responsibilities for them. 
 
 <!--
 - Use a [password manager](#password-managers) to help you keep track of your passwords.
 -->
-
-- don't use the same password for accessing two or more different systems
-- don't tell anyone your password or share your access credentials
-- don't write down your password
-- don't store the password in the same system accessed by using that password
-- don't use someone else's account details to access a system
-- don't let someone else see any part of your credentials when you access a system
 
 ### Things to do (multi-user systems and services)
 
