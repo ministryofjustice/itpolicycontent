@@ -1,5 +1,3 @@
-locking-and-shutdown
-
 passwords
 removable-media
 risk-reviews
