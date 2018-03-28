@@ -1,5 +1,3 @@
-infrastructure-system-accreditation
-laptops
 locking-and-shutdown
 
 passwords
