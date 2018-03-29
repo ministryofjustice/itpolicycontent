@@ -112,26 +112,6 @@ There are times when a system must send a password to a user. An example is when
 
 Passwords created for a user should always be [single-use](#single-use-passwords). Use an out-of-band channel to send the password to the user. For example, send the password to the user's line manager who will give it to the user.
 
-<!--
-
-<a id="password-managers"></a>
-
-## Password managers
-
-These are tools that help you create, use, and manage your passwords. A useful overview is available [here][ncscpwm].
-
-As passwords become more complex, and you need to look after more of them, it becomes increasingly necessary to use a password manager. For example, development teams in MOJ Digital &amp; Technology use `RatticDB`. Other popular password managers include [`LastPass`](https://lastpass.com/) and [`1Password`](https://1password.com/).
-
-You still need to remember one password. This is the password that gets you into the manager application. Once you have access, the application works like a simple database, storing all the passwords associated with your various accounts and services. Some managers have extra features, such as password generators. Some managers can even automatically fill-in username and password fields for you when during log in.
-
-The password manager database is often stored in the cloud so that you can use it anywhere. The database is encrypted, so only you can open it. That's why your single password key is so important. Without it, you can never get access to the password database again.
-
-Using a password manager for your MOJ account and service details is recommended. Ask your Line Manager for permission to install one of the applications listed in this doc
-
-Extra guidance for system administrators or developers is available [here][ncschelpingendusers].
-
--->
-
 <a id="single-use-passwords"></a>
 
 ### Single-use passwords
@@ -148,35 +128,47 @@ The following table shows the valid lifetime for a single-use password:
 | [Advanced](#advanced-passwords) | 1 day |
 | [Strong](#strong-passwords) | 1 hour |
 
+### Multi-user systems and services
+
+The guidance for [Basic](#basic-passwords) passwords alone is never enough to protect multi-user systems or services. Depending on the information or capability to protect, follow [Advanced](#advanced-passwords) or [Strong](#strong-passwords) guidance.
+
+If a password is ever entered incorrectly, a count should start. After at most 10 (ten) consecutive failed attempts at using the correct password, lock the account or system access. A successful use of the password resets the count to zero again.
+
+If a password lock occurs, a reset is necessary. This requires action by the system administrator or MOJ Service Desk. The process should be similar to issuing the password for the first time. The main difference between the processes for first-time password and for password reset are that the account details are kept intact during the reset, to avoid losing any work. Checks ensure that an attacker cannot use the password reset process.
+
+All systems must check for redundant User IDs and accounts, and if necessary invoke the corresponding removal process. The [IT Security - Access Control Standard][acs] discusses the management and removal of accounts. As a separate but related case, if someone must no longer access a system, check for and change any shared account or common password they might still use.
+
+Never store, display or print passwords [in the clear](https://en.wikipedia.org/wiki/Plaintext). If they must be stored, do so using a [hash value](https://en.wikipedia.org/wiki/Hash_function). The strength of the hashing algorithm is proportional to the [classification][gcs] of the system or data the password protects. Use the [IA Implementation Guide No. 3 User Authentication Systems][uas] to determine the appropriate strength of hashing.
+
 <a id="basic-passwords"></a>
 
 ## Basic passwords
 
 Follow the [GOV.UK advice][govukpasswords] to generate your passwords. Use a separate and unique password for each account or service.
 
-Follow the MOJ [MOJ password Guidance][pg] to learn about using passwords, and your responsibilities for them. 
+Follow the MOJ [MOJ password Guidance][pg] to learn about using passwords, and your responsibilities for them.
 
 <!--
-- Use a [password manager](#password-managers) to help you keep track of your passwords.
+
+Use a [password manager](#password-managers) to help you keep track of your passwords.
+
+<a id="password-managers"></a>
+
+### Password managers
+
+These are tools that help you create, use, and manage your passwords. A useful overview is available [here][ncscpwm].
+
+As passwords become more complex, and you need to look after more of them, it becomes increasingly necessary to use a password manager. For example, development teams in MOJ Digital &amp; Technology use `RatticDB`. Other popular password managers include [`LastPass`](https://lastpass.com/) and [`1Password`](https://1password.com/).
+
+You still need to remember one password. This is the password that gets you into the manager application. Once you have access, the application works like a simple database, storing all the passwords associated with your various accounts and services. Some managers have extra features, such as password generators. Some managers can even automatically fill-in username and password fields for you when during log in.
+
+The password manager database is often stored in the cloud so that you can use it anywhere. The database is encrypted, so only you can open it. That's why your single password key is so important. Without it, you can never get access to the password database again.
+
+Using a password manager for your MOJ account and service details is recommended. Ask your Line Manager for permission to install one of the applications listed in this doc
+
+Extra guidance for system administrators or developers is available [here][ncschelpingendusers].
+
 -->
-
-### Things to do (multi-user systems and services)
-
-Basic password guidance alone is never enough to protect multi-user systems. Use [Advanced](#advanced-passwords) or [Strong](#strong-passwords) guidance.
-
-When providing passwords to users, use a secure mechanism. The strength of protection used for distribution must match the sensitivity of the information or resource for which the password controls access.
-
-If a password is ever entered incorrectly, a count should start. After at most 10 (ten) consecutive failed attempts at using the correct password, lock the account or system access. A successful use of the password resets the count to zero again.
-
-If a password lock occurs, a reset is necessary. This requires action by the system administrator or MOJ Service Desk. The process should be the same as issuing the password for the first time. The main difference between the processes for first-time password and for password reset are that the account details are kept intact during the reset, to avoid losing any work.  Checks ensure that an attacker cannot use the password reset process.
-
-All systems must check for redundant User IDs and accounts. Remove any redundant IDs or accounts. The [IT Security - Access Control Standard][acs] discusses the management and removal of accounts.
-
-If someone mustn't access a system any more, change any common password they might still use.
-
-Never display or print passwords [in the clear](https://en.wikipedia.org/wiki/Plaintext).
-
-Never store passwords in the clear. Instead, store them using a [hash value](https://en.wikipedia.org/wiki/Hash_function). The strength of the hashing algorithm is proportional to the [classification][gcs] of the system or data the password protects. Use the [IA Implementation Guide No. 3 User Authentication Systems][uas] to determine the appropriate strength of hashing.
 
 <a id="advanced-passwords"></a>
 
