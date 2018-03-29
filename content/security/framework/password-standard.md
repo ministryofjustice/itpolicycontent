@@ -146,7 +146,7 @@ Never store, display or print passwords [in the clear](https://en.wikipedia.org/
 
 Follow the [GOV.UK advice][govukpasswords] to generate your passwords. Use a separate and unique password for each account or service.
 
-Follow the MOJ [MOJ password Guidance][pg] to learn about using passwords, and your responsibilities for them.
+Follow the [MOJ password Guidance][pg] to learn about using passwords, and your responsibilities for them.
 
 <!--
 
@@ -177,13 +177,13 @@ Extra guidance for system administrators or developers is available [here][ncsch
 The information in this section is about passwords for:
 
 - development systems
-- systems that provide services for material [classified][gcs] no higher than `OFFICIAL-SENSITIVE`.
+- systems that provide services for material [classified][gcs] only as `OFFICIAL`.
 
 Begin by reading the information in the [Basic passwords](#basic-passwords) section.
 
 Next, read the information on handling and protecting passwords in the [IT Security SyOPs - System Administrators][sa] guide.
 
-Check that the system, service, or information protected by a password is [classified][gcs] no higher than `OFFICIAL-SENSITIVE`. Make sure that it doesn't contain delicate material such as contracts, or personal data or information. If it does contain such material, you might need extra access control, or change to the [Strong password](#strong-password) category.
+Check that the system, service, or information protected by a password is not [classified][gcs] as `SECRET` or `TOP SECRET`. Make sure that it doesn't contain delicate material such as contracts, or personal data or information. If it does contain such material, you might need extra access control, or change to the [Strong password](#strong-password) category.
 
 Check which other systems have access to the system or service. Make sure that the strength of access control is suitable for the most sensitive material available at either end of the connection.
 
