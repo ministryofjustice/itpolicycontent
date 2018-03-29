@@ -177,7 +177,7 @@ Extra guidance for system administrators or developers is available [here][ncsch
 The information in this section is about passwords for:
 
 - development systems
-- systems that provide services for material [classified][gcs] only as `OFFICIAL`.
+- systems that provide services for material [classified][gcs] only as `OFFICIAL`
 
 Begin by reading the information in the [Basic passwords](#basic-passwords) section.
 
