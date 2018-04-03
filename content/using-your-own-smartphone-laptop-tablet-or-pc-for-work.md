@@ -4,7 +4,8 @@ title: Using your own smartphone, laptop, tablet or PC for work
 
 <table border='1'>
 <tr>
-<td>This guidance information applies to all staff, contractors and agency staff who work for the MOJ.</td>
+<td>This guidance information applies to all staff, contractors and agency staff who work for the MOJ.
+**Note:** Some agencies, bodies, or other areas within the MOJ might have additional or alternative policy, standard or guidance that applies to this topic. Check your local Intranet or ask your Line Manager for information about any local variation.</td>
 </tr>
 </table>
 
@@ -109,7 +110,7 @@ To find out if you can, email [itservicedesk@justice.gsi.gov.uk](mailto:itservic
 
 <table border='1'>
 <tr>
-<td>This document is dated February 2018.<br/>
+<td>This document is dated April 2018.<br/>
 To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=using-your-own-smartphone-laptop-tablet-or-pc-for-work">itpolicycontent@digital.justice.gov.uk</a>.</td>
 </tr>
 </table>
