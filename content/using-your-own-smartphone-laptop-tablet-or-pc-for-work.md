@@ -4,8 +4,8 @@ title: Using your own smartphone, laptop, tablet or PC for work
 
 <table border='1'>
 <tr>
-<td>This guidance information applies to all staff, contractors and agency staff who work for the MOJ.
-**Note:** Some agencies, bodies, or other areas within the MOJ might have additional or alternative policy, standard or guidance that applies to this topic. Check your local Intranet or ask your Line Manager for information about any local variation.</td>
+<td>This guidance information applies to all staff, contractors and agency staff who work for the MOJ.</td>
+<td>**Note:** Some agencies, bodies, or other areas within the MOJ might have additional or alternative policy, standard or guidance that applies to this topic. Check your local Intranet or ask your Line Manager for information about any local variation.</td>
 </tr>
 </table>
 
