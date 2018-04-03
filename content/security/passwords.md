@@ -22,7 +22,7 @@ You should protect your passwords to the best of your ability.
 
 <table border='1'>
 <tr>
-<td>This guidance is dated March 2018.<br/>
+<td>This guidance is dated April 2018.<br/>
 To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=passwords">itpolicycontent@digital.justice.gov.uk</a>.</td>
 </tr>
 </table>

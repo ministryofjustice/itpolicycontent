@@ -38,7 +38,6 @@ Passwords help ensure that compliance.
 
 ## Never\.\.\.
 
-- have repeating characters next to each other in the password, such as '`EE`' or '`pp`'
 - have your username within the password
 - use an [obvious password](https://en.wikipedia.org/wiki/List_of_the_most_common_passwords), such as '`passw0rd`' or '`12345678`'
 - use a password for more than one account or service
@@ -76,7 +75,15 @@ Some systems might not provide a forgotten password option. Sometimes, it is not
 
 <table border='1'>
 <tr>
-<td>This guidance is dated March 2018.<br/>
-To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=password-guidance">itpolicycontent@digital.justice.gov.uk</a>.</td>
+<td><table>
+<tr><td colspan='4'>This guidance is dated April 2018.
+<p>
+To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent+password-guidance@digital.justice.gov.uk">itpolicycontent@digital.justice.gov.uk</a>, or click one of the following icons.</p></td></tr>
+<tr>
+<td width='25%'><a href="mailto:itpolicycontent+password-guidance-2@digital.justice.gov.uk"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/DoubleCross.gif" alt="Content was very unhelpful">Very unhelpful.</a></td>
+<td width='25%'><a href="mailto:itpolicycontent+password-guidance-1@digital.justice.gov.uk"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/Cross.gif" alt="Content was unhelpful">Unhelpful.</a></td>
+<td width='25%'><a href="mailto:itpolicycontent+password-guidance+1@digital.justice.gov.uk"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/Tick.gif" alt="Content was helpful">Helpful.</a></td>
+<td width='25%'><a href="mailto:itpolicycontent+password-guidance+2@digital.justice.gov.uk"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/DoubleTick.gif" alt="Content was very helpful">Very helpful.</a></td>
+</table></td>
 </tr>
 </table>
