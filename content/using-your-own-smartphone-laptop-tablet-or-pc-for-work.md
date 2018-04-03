@@ -8,7 +8,7 @@ title: Using your own smartphone, laptop, tablet or PC for work
 </tr>
 </table>
 <table border='1'>
-<td>
+<tr>
 <td>Note: Some agencies, bodies, or other areas within the MOJ might have additional or alternative policy, standard or guidance that applies to this topic. Check your local Intranet or ask your Line Manager for information about any local variation.</td>
 </tr>
 </table>
