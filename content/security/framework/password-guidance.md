@@ -10,7 +10,7 @@ title: password-guidance
 
 ## Overview
 
-This document is the MOJ IT Security - Password Guidance. It helps you protect MOJ IT systems by telling you about using passwords, and your responsibilities for them.
+This document is the MOJ IT Security - Password Guidance. It helps you protect MOJ IT systems by telling you about using passwords. It explains your responsibilities for passwords.
 
 All government departments must follow HMG security standards. An important part of compliance is ensuring that all users:
 
@@ -44,13 +44,18 @@ Passwords help ensure that compliance.
 - re-use a password
 - write a password down
 - share a password with anyone, unless you are accessing a shared account, service, or system
+- store the password on the same device or in the same service that is accessed by using the password
+- let someone else see any part of your credentials when you access a system
+
+## Access sharing
+
+Unauthorised sharing or use of a password or other access control is a security breach. Doing this can result in disciplinary action against you.
+
+### Do not\.\.\.
+
 - access or try to access another person's email account
 - use or try to use an identity other than your own
 - attempt to access information outside of your normal access rights or duties
-- store the password in the same system accessed by using that password
-- let someone else see any part of your credentials when you access a system
-
-**Note:** Unauthorised sharing or use of a password is a security breach. Doing this might result in disciplinary action.
 
 ## Passwords for a new account
 
@@ -78,12 +83,12 @@ Some systems might not provide a forgotten password option. Sometimes, it is not
 <td><table>
 <tr><td colspan='4'>This guidance is dated April 2018.
 <p>
-To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent+password-guidance@digital.justice.gov.uk">itpolicycontent@digital.justice.gov.uk</a>, or click one of the following icons.</p></td></tr>
+To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent+password-guidance@digital.justice.gov.uk?subject=password-guidance">itpolicycontent@digital.justice.gov.uk</a>, or click one of the following icons.</p></td></tr>
 <tr>
-<td width='25%'><a href="mailto:itpolicycontent+password-guidance-2@digital.justice.gov.uk"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/DoubleCross.gif" alt="Content was very unhelpful">Very unhelpful.</a></td>
-<td width='25%'><a href="mailto:itpolicycontent+password-guidance-1@digital.justice.gov.uk"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/Cross.gif" alt="Content was unhelpful">Unhelpful.</a></td>
-<td width='25%'><a href="mailto:itpolicycontent+password-guidance+1@digital.justice.gov.uk"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/Tick.gif" alt="Content was helpful">Helpful.</a></td>
-<td width='25%'><a href="mailto:itpolicycontent+password-guidance+2@digital.justice.gov.uk"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/DoubleTick.gif" alt="Content was very helpful">Very helpful.</a></td>
+<td width='25%'><a href="mailto:itpolicycontent+password-guidance-2@digital.justice.gov.uk?subject=password-guidance-2"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/DoubleCross.gif" alt="Content was very unhelpful">Very unhelpful.</a></td>
+<td width='25%'><a href="mailto:itpolicycontent+password-guidance-1@digital.justice.gov.uk?subject=password-guidance-1"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/Cross.gif" alt="Content was unhelpful">Unhelpful.</a></td>
+<td width='25%'><a href="mailto:itpolicycontent+password-guidance+1@digital.justice.gov.uk?subject=password-guidance+1"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/Tick.gif" alt="Content was helpful">Helpful.</a></td>
+<td width='25%'><a href="mailto:itpolicycontent+password-guidance+2@digital.justice.gov.uk?subject=password-guidance+2"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/DoubleTick.gif" alt="Content was very helpful">Very helpful.</a></td>
 </table></td>
 </tr>
 </table>

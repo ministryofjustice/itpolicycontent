@@ -138,7 +138,7 @@ If a password lock occurs, a reset is necessary. This requires action by the sys
 
 All systems must check for redundant User IDs and accounts, and if necessary invoke the corresponding removal process. The [IT Security - Access Control Standard][acs] discusses the management and removal of accounts. As a separate but related case, if someone must no longer access a system, check for and change any shared account or common password they might still use.
 
-Never store, display or print passwords [in the clear](https://en.wikipedia.org/wiki/Plaintext). If they must be stored, do so using [hash](https://en.wikipedia.org/wiki/Hash_function) and [salt](https://www.owasp.org/index.php/Password_Storage_Cheat_Sheet#Use_a_cryptographically_strong_credential-specific_salt) values. The strength of the hashing algorithm is proportional to the [classification][gcs] of the system or data the password protects. Use the [IA Implementation Guide No. 3 User Authentication Systems][uas] to determine the appropriate strength of hashing.
+Never store, display or print passwords [in the clear](https://en.wikipedia.org/wiki/Plaintext). If they must be stored, do so using [hash](https://en.wikipedia.org/wiki/Hash_function) and [salt](https://www.owasp.org/index.php/Password_Storage_Cheat_Sheet#Use_a_cryptographically_strong_credential-specific_salt) values. The strength of the hashing algorithm must be proportional to the [classification][gcs] of the system or data the password protects. Use the [IA Implementation Guide No. 3 User Authentication Systems][uas] to determine the appropriate strength of hashing.
 
 <a id="basic-passwords"></a>
 
@@ -204,7 +204,15 @@ Next, review the technical risk assessment to confirm what extra access controls
 
 <table border='1'>
 <tr>
-<td>This standard is dated April 2018.<br/>
-To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=password-standard">itpolicycontent@digital.justice.gov.uk</a>.</td>
+<td><table>
+<tr><td colspan='4'>This guidance is dated April 2018.
+<p>
+To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent+password-standard@digital.justice.gov.uk?subject=password-standard">itpolicycontent@digital.justice.gov.uk</a>, or click one of the following icons.</p></td></tr>
+<tr>
+<td width='25%'><a href="mailto:itpolicycontent+password-standard-2@digital.justice.gov.uk?subject=password-standard-2"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/DoubleCross.gif" alt="Content was very unhelpful">Very unhelpful.</a></td>
+<td width='25%'><a href="mailto:itpolicycontent+password-standard-1@digital.justice.gov.uk?subject=password-standard-1"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/Cross.gif" alt="Content was unhelpful">Unhelpful.</a></td>
+<td width='25%'><a href="mailto:itpolicycontent+password-standard+1@digital.justice.gov.uk?subject=password-standard+1"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/Tick.gif" alt="Content was helpful">Helpful.</a></td>
+<td width='25%'><a href="mailto:itpolicycontent+password-standard+2@digital.justice.gov.uk?subject=password-standard+2"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/DoubleTick.gif" alt="Content was very helpful">Very helpful.</a></td>
+</table></td>
 </tr>
 </table>
