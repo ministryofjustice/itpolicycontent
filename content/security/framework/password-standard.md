@@ -38,7 +38,7 @@ You can see the formal [User Password Management](https://intranet.justice.gov.u
 
 ## All users
 
-The MOJ password guidance uses [NCSC guidance][ncscpasswordguidance]. It recommends a [simpler][ncscpasswordguidancesimplify] approach to passwords. Some agencies or bodies might have specific requirements or variations. Check your team Intranet or ask your Line Manager for more information. Some legacy systems might also differ from modern thinking on passwords. They have specific rules which must be followed, until such time as the system is updated and aligns with the current guidance.
+The MOJ password guidance uses [NCSC guidance][ncscpasswordguidance]. It recommends a [simpler][ncscpasswordguidancesimplify] approach to passwords. Some agencies or bodies might have specific requirements or variations. Check your team Intranet or ask your Line Manager for more information. Some legacy systems might also differ from modern thinking on passwords. They have specific rules to follow until a system update meets MOJ password guidance.
 
 Follow the [GOV.UK advice][govukpasswords] to generate your passwords. Use a separate and unique password for each account or service.
 
@@ -101,21 +101,21 @@ Extra guidance for system administrators or developers is available [here][ncsch
 
 Follow the [Government Service Manual for Passwords][smdp] when you administer or develop MOJ systems or services.
 
-Suppliers and vendors must ensure that systems support the password requirements. In particular, the systems must be able to issue, change, reset, and revoke passwords using well-defined and described processes. Supply enough information and procedures to meet the requirements in this document, as well as all the policy statements in the [IT Security - Technical Controls Policy][tcp].
+Suppliers and vendors must ensure that systems support the password requirements. Systems must be able to issue, change, reset, and revoke passwords. This must be possible using well-defined and fully-described processes. Supply enough information and procedures to fulfil MOJ password  policy.
 
 ### Default passwords
 
-Change any and all default passwords when a new, modified, or replacement system arrives. Complete the changes before making the system available for any MOJ work.
+Change all default passwords when a new, modified, or replacement system arrives. Complete the changes before making the system available for any MOJ work.
 
 ### Extra measures
 
 Check that a system, service, or information protected by a password is not [classified][gcs] as `SECRET` or `TOP SECRET`. Make sure that it doesn't contain delicate material such as contracts, or personal data or information. If it does contain such material, you might need extra access control.
 
-Similarly, check which other systems have access to the system or service. Make sure that the strength of access control is suitable for the most sensitive material available at either end of the connection.
+Check which other systems have access to the system or service. Make sure that the access control suits the material at both ends of the connection.
 
-Appropriate extra measures might include tokens or other multi-factor authentication devices. Consider whether existing authentication systems other than passwords might be suitable for reuse in a new system. Avoid creating new authentication systems. While passwords are the usual method of user authentication, other mechanisms are also preferable if they reduce the need for the user to remember something. For more information about authentication systems, see the [IT Security - Access Control Standard][acs].
+Appropriate extra measures might include tokens or other multi-factor authentication devices. Think about using an existing authentication system other than passwords. Avoid creating new authentication systems. Mechanisms other than passwords are  preferable if they reduce what a user must remember. For more information about authentication systems, see the [IT Security - Access Control Standard][acs].
 
-To help validate your checks, a technical risk assessment identifies extra controls for systems. This is mandatory for systems that need formal accreditation. The assessment follows [HMG Information Assurance Standard No. 1 \& 2][hmgias2]. Multi-user systems are also subject to a Business Impact Assessment (BIA).
+A technical risk assessment helps identifies extra controls for systems. This is mandatory for systems that need formal accreditation. The assessment follows [HMG Information Assurance Standard No. 1 \& 2][hmgias2]. Multi-user systems are also subject to a Business Impact Assessment (BIA).
 
 For example, an assessment might find that you need extra checks for logging in to an account or service. The checks might depend on various factors such as:
 
@@ -124,17 +124,23 @@ For example, an assessment might find that you need extra checks for logging in 
 - number of previous connections from the connecting IP address
 - whether to allow more than one login at a time
 
+Examples of these extra mechanisms include:
+
+- biometrics
+- tokens
+- certificate-based authentication
+
 ### Password storage
 
-Never store, display or print passwords [in the clear](https://en.wikipedia.org/wiki/Plaintext). If they must be stored, do so by using [salt](https://www.owasp.org/index.php/Password_Storage_Cheat_Sheet#Use_a_cryptographically_strong_credential-specific_salt)ed [hash](https://en.wikipedia.org/wiki/Hash_function)es, preferably [PBKDF2](https://en.wikipedia.org/wiki/PBKDF2). The strength of the hashing algorithm must be proportional to the [classification][gcs] of the system or data the password protects. Use the [IA Implementation Guide No. 3 User Authentication Systems][uas] to determine the appropriate strength of hashing.
+Never store, display or print passwords [in the clear](https://en.wikipedia.org/wiki/Plaintext). If you must store them, do so by using [salt](https://www.owasp.org/index.php/Password_Storage_Cheat_Sheet#Use_a_cryptographically_strong_credential-specific_salt)ed [hash](https://en.wikipedia.org/wiki/Hash_function)es, preferably [PBKDF2](https://en.wikipedia.org/wiki/PBKDF2). Make sure the password storage security matches the [classification][gcs] of the system or data. Use the [IA Implementation Guide No. 3 User Authentication Systems][uas] to determine the appropriate strength of hashing.
 
-Additional information on handling and protecting passwords is in the [IT Security SyOPs - System Administrators][sa] guide.
+Extra information on handling and protecting passwords is in the [IT Security SyOPs - System Administrators][sa] guide.
 
 ### Password access attempts
 
 If a password is ever entered incorrectly, a count should start. After at most 10 (ten) consecutive failed attempts at using the correct password, lock the account or system access. A successful use of the password resets the count to zero again.
 
-If a password lock occurs, a reset is necessary. This requires action by the system administrator or MOJ Service Desk. The process should be similar to issuing the password for the first time. The main difference between the processes for first-time password and for password reset are that the account details are kept intact during the reset, to avoid losing any work. Checks ensure that an attacker cannot use the password reset process.
+If a password lock occurs, a reset is necessary. This requires action by the system administrator or MOJ Service Desk. The process should be like issuing the password for the first time. The main difference between the processes for first-time password and for password reset are that the account details are kept intact during the reset, to avoid losing any work. Checks ensure that an attacker cannot use the password reset process.
 
 ### Distributing passwords to users
 
@@ -159,7 +165,7 @@ The following table shows the valid lifetime of a single-use password:
 
 ### Multi-user systems and services
 
-All multi-user systems and services must check for redundant User IDs and accounts, and if necessary invoke the corresponding removal process. The [IT Security - Access Control Standard][acs] discusses the management and removal of accounts. As a separate but related case, if someone must no longer access a system, check for and change any shared account or common password they might still use.
+All multi-user systems and services must check for redundant User IDs and accounts. If necessary, remove the redundant IDs or accounts. The [IT Security - Access Control Standard][acs] discusses the management and removal of accounts. If someone is no longer allowed to access a system, check for and change any shared account or common password they might still have.
 
 <table border='1'>
 <tr>

@@ -17,13 +17,9 @@ POL.TCP.045 | The standard on password generation, composition and management is
 POL.TCP.046 | All supplier or vendor supplied passwords **must be** changed before live operation.
 POL.TCP.047 | All ICT systems **must have** a process to change any passwords which might have been compromised.
 
-Consider whether existing authentication systems are suitable for reuse in a new system. Avoid creating new authentication systems. Passwords are the usual method of user authentication, but other mechanisms are preferable if they reduce the need for the user to remember something.
-
-Examples of these other mechanisms include:
-
-- biometrics
-- tokens
-- certificate-based authentication
+<p>
+&nbsp;
+</p>
 
 <table border='1'>
 <tr>
