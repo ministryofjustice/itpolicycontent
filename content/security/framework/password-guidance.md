@@ -25,14 +25,14 @@ Passwords help ensure that compliance.
 - follow the [GOV.UK advice](https://www.cyberaware.gov.uk/passwords) to generate your passwords
 - use a password that's at least 8 characters long
 - use a password that's strong enough for the information or system you are using. The system should force you to choose a strong password
+- change your password if it provides access to any information or system affected by a security incident
+
+<!--
 - use a password that has one or more of each of the following character types:
   -  upper case
   -  lower case
   -  digits
   -  special characters such as '`@`', '`$`', '`%`', or '`^`'
-- change your password if it provides access to any information or system affected by a security incident
-
-<!--
 - use a password manager, to help you choose and store your passwords
 -->
 
