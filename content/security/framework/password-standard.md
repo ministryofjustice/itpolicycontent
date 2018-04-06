@@ -38,7 +38,7 @@ You can see the formal [User Password Management](https://intranet.justice.gov.u
 
 ## All users
 
-The MOJ password guidance uses [NCSC guidance][ncscpasswordguidance]. It recommends a [simpler][ncscpasswordguidancesimplify] approach to passwords. Some agencies or bodies might have specific requirements or variations. Check your team Intranet or ask your Line Manager for more information. Some legacy systems might also differ from modern thinking on passwords. They have specific rules to follow until a system update meets MOJ password guidance.
+The MOJ password guidance uses [NCSC guidance][ncscpasswordguidance]. It recommends a [simpler][ncscpasswordguidancesimplify] approach to passwords. Some agencies or bodies might have specific requirements or variations. Check your team Intranet or ask your Line Manager for more information.
 
 Follow the [GOV.UK advice][govukpasswords] to generate your passwords. Use a separate and unique password for each account or service.
 
@@ -71,6 +71,8 @@ The following table shows the maximum time allowed for changing a password when 
 | All other systems | 1 day |
 
 You don't have to change a password because it is old. The reason is that time-expiry of passwords is an "[...outdated and ineffective practice](https://www.ncsc.gov.uk/blog-post/your-password-expiry-policy-may-have-reached-its-expiry-date)".
+
+Some current or legacy systems do not permit passwords that comply fully with MOJ [guidance][pg]. For example, some mobile devices, laptop hard drive encryption tools, or older computers might not be able to support a mix of character types. For such systems, choose passwords that are as close as possible to MOJ [guidance][pg].
 
 <!--
 
