@@ -117,7 +117,7 @@ Check which other systems have access to the system or service. Make sure that t
 
 Appropriate extra measures might include tokens or other multi-factor authentication devices. Think about using an existing authentication system other than passwords. Avoid creating new authentication systems. Mechanisms other than passwords are  preferable if they reduce what a user must remember. For more information about authentication systems, see the [IT Security - Access Control Standard][acs].
 
-A technical risk assessment helps identifies extra controls for systems. This is mandatory for systems that need formal accreditation. The assessment follows [HMG Information Assurance Standard No. 1 \& 2][hmgias2]. Multi-user systems are also subject to a Business Impact Assessment (BIA).
+A technical risk assessment helps identifies extra controls for systems. This is mandatory for systems that need formal accreditation. The assessment follows [HMG Information Assurance Standard No. 1 & 2][hmgias2]. Multi-user systems are also subject to a Business Impact Assessment (BIA).
 
 For example, an assessment might find that you need extra checks for logging in to an account or service. The checks might depend on various factors such as:
 
