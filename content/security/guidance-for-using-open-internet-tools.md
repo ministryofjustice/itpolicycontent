@@ -38,11 +38,11 @@ Open Internet Tools (OITs) are applications or services from suppliers outside t
 
 To help you decide if you can use an OIT to work on an MOJ task, consider the following questions:
 
-- is the information subject to specific rules or requirements in your part of the MOJ?
-- is the information classified as anything other than `OFFICIAL` or `OFFICIAL-SENSITIVE`?
-- does the information include any data identifiable as being about someone?
+- is the task information subject to specific rules or requirements in your part of the MOJ?
+- is the task information classified as anything other than `OFFICIAL` or `OFFICIAL-SENSITIVE`?
+- does the task information include any data identifiable as being about someone?
 - is this the first time anyone has used the tool for MOJ business?
-- could there be damaging consequences if the information you work with using the tool is:
+- could there be damaging consequences if the task information you work with using the tool is:
   - lost
   - stolen
   - published in the media
@@ -120,7 +120,7 @@ For more information about MOJ IT Security, look on the MOJ Intranet [here](http
 
 ### Storage and data retention
 
-Various laws and regulations mean the MOJ and its employees are responsible for managing information. Some examples include:
+Laws and regulations make the MOJ and its employees responsible for managing information. Some examples include:
 
 - the Freedom of Information Act
 - the Data Protection Act and General Data Protection Regulation
@@ -163,9 +163,9 @@ The basic process consists of four steps.
 3. [Beta](#beta), leading to Approved.
 4. [Gamma](#gamma), leading to Assured.
 
-The four steps are intended to encourage and enable adoption of new OITs. You have an essential role to play in the process. If it feels like you are being blocked during one of the steps, it's probably a strong indicator that an earlier step was not completed successfully or correctly.
+The four steps encourage and enable adoption of new OITs. You have an essential role to play in the process. If you get blocked in a steps, it might mean an earlier step was not completed successfully or correctly.
 
-Your role is essential because you are championing the new OIT. It may well be that others join you and help advocate for the new tool. But you are the one who spotted the potential of a  OIT to help you in your work, and to help others in their work. During the early stages of evaluating an OIT, you are the natural focus point for the status of the OIT as it progresses through Acceptance, Approval, and Assurance testing. This might require you to deal with various 'housekeeping' activities, such as:
+Your role is essential because you are championing the new OIT. It may well be that others join you and help advocate for the new tool. But you are the one who spotted the potential of a  OIT to help you in your work, and to help others in their work. During the evaluation of an OIT, you're the natural focus point for status information. This includes monitoring progress through Acceptance, Approval, and Assurance testing. You might have to deal with various 'housekeeping' activities, such as:
 
 - help organise installation or deployment
 - grant access to the OIT functionality
@@ -177,27 +177,29 @@ Your role is essential because you are championing the new OIT. It may well be t
 
 ... as well as many other related responsibilities.
 
-If this list seems burdensome, ask yourself if the OIT is really worth the effort or not.
+If this list seems burdensome, ask yourself if the OIT is worth the effort or not.
 
-Without a specific individual being responsible, these activities can easily get overlooked. In time, this can cause difficulties such as ambiguity about the OITs approval status. Especially important is ensuring a good handover from one custodian to another if the tool is becoming critical to the business unit. Often, when the tool is first used, someone sets up an account and grants others access to that account. If the account holder leaves, granting and closing access might become difficult or even impossible. Solving problems of this kind for tools that are not recognised or supported by MOJ technology can be very difficult. It probably makes sense for the individual that sets up the account to also be the custodian.
+Without a specific individual being responsible, these activities can get overlooked. In time, this can cause difficulties such as ambiguity about the OITs approval status.
+
+It's important that there's always a champion when a tool is critical to the business unit. Often, when the tool is first used, someone sets up an account and grants others access to that account. If the account holder leaves, access control might become difficult or even impossible. Solving problems of this kind for tools that are not recognised or supported by MOJ technology can be very difficult.
 
 <a id="definition"></a>
 
 ### Definition
 
-During the Definition stage, you describe and validate the business requirement. This basically confirms the characteristics of the task, and why a specific instance of the task is a good representative of similar tasks.
+During the Definition stage, you describe and confirm the business need. Describe example tasks, and why they are good representatives of other tasks.
 
-Having validated the business requirement, you can then show why the existing allowed OITs cannot meet that requirement.
+Next, show why the existing tools cannot meet that the business need.
 
-Next, you work to identify a suitable OIT. Suitability is defined in many ways. Obviously, it must solve the business requirement, or at least make significant progress towards completion. It should work in a way that aligns and promotes the overall MOJ principles and objectives. Sometimes, you might learn of a new tool from colleagues elsewhere in Government, or through professional bodies.
+You can now work to identify a suitable OIT. It must solve the business need, or provide significant help in fulfilling it. The OIT should work in a way that aligns with and promotes MOJ principles and objectives. You might also learn of a new tool from across Government, or through professional bodies.
 
 When you have an OIT in mind, you can investigate the characteristics of the tool. Ask fundamental questions, such as:
 
 - is the tool suitable for general information at `OFFICIAL` classification?
-- does the tool work in a way that is completely compatible with legislative obligations, such as:
-    - compliance with data protection legislation
-    - ability to protect and then delete information in accord with data retention requirements
-    - providing features to extract information in a form suitable for Freedom of Information requests?
+- is the tool compatible with legislative obligations, such as:
+    - complying with data protection legislation
+    - protecting and deleting information in accord with data retention requirements
+    - providing features that support Freedom of Information requests
 - what is the cost to try out the tool? What pricing model applies for more extensive or formal use?
 - what are the licensing requirements?
 - what are the hardware, software, and other operational requirements?
@@ -208,7 +210,9 @@ At the end of this stage, you should have a clear idea of:
 
 - the specific task you want the OIT to perform
 - the general tasks the OIT could perform
-- the resources needed to use the OIT, both on your allocated IT equipment and the wider MOJ IT infrastructure and staff
+- the resources needed to use the OIT:
+  - on your allocated IT equipment
+  - on the wider MOJ IT infrastructure and staff
 - the security characteristics of the OIT
 
 With these answers ready, you can seek permission to prototype the tool for performing the task. Do this by contacting your Line Manager and your Tech Support team, so that they know what your plan is and that you have approval to prototype.
@@ -219,7 +223,13 @@ With these answers ready, you can seek permission to prototype the tool for perf
 
 During this step, you use the prototype tool to perform the task. Take plenty of notes about how easy it is to configure and use the tool. While focusing on the main task, consider 'edge cases' or unusual scenarios where the tool might not be so successful.
 
-At the end of the task, you should have collected sufficient evidence to show that the OIT aligns with MOJ good practice and obligations, and that it is capable of performing tasks for others within the MOJ. In summary, you have collected material to help justify more serious consideration: acceptance.
+At the end of the task, you should have collected enough evidence to show that:
+
+- the OIT aligns with MOJ good practice and obligations
+- it is capable of performing tasks for others within the MOJ
+- is it cost-effective
+
+In summary, you have collected material to help justify more serious consideration: acceptance.
 
 For more help with the Alpha step, contact your Line Manager and your Tech Support team.
 
@@ -270,10 +280,15 @@ For further help about aspects of using OITs within the MOJ, contact:
 
 <table border='1'>
 <tr>
-<td>This information is dated March 2018.<br/>
-To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent+guidance-for-using-open-internet-tools@digital.justice.gov.uk?subject=guidance-for-using-open-internet-tools">itpolicycontent@digital.justice.gov.uk</a>.</td>
-</tr>
+<td><table>
+<tr><td colspan='4'>This guidance is dated April 2018.
+<p>
+To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent+guidance-for-using-open-internet-tools@digital.justice.gov.uk?subject=guidance-for-using-open-internet-tools">itpolicycontent@digital.justice.gov.uk</a>, or click one of the following icons.</p></td></tr>
 <tr>
-<td>To rate this document quickly, click one of the following links:</td>
+<td width='25%'><a href="mailto:itpolicycontent+guidance-for-using-open-internet-tools-2@digital.justice.gov.uk?subject=guidance-for-using-open-internet-tools-2"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/DoubleCross.gif" alt="Content was very unhelpful">Very unhelpful.</a></td>
+<td width='25%'><a href="mailto:itpolicycontent+guidance-for-using-open-internet-tools-1@digital.justice.gov.uk?subject=guidance-for-using-open-internet-tools-1"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/Cross.gif" alt="Content was unhelpful">Unhelpful.</a></td>
+<td width='25%'><a href="mailto:itpolicycontent+guidance-for-using-open-internet-tools+1@digital.justice.gov.uk?subject=guidance-for-using-open-internet-tools+1"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/Tick.gif" alt="Content was helpful">Helpful.</a></td>
+<td width='25%'><a href="mailto:itpolicycontent+guidance-for-using-open-internet-tools+2@digital.justice.gov.uk?subject=guidance-for-using-open-internet-tools+2"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/DoubleTick.gif" alt="Content was very helpful">Very helpful.</a></td>
+</table></td>
 </tr>
 </table>

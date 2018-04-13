@@ -24,7 +24,7 @@ OITs are often described as being: assured, approved, or acceptable.
 
 *Acceptable* means that the OIT has not been tested. No review has been done of the available information about the OIT. Other people within the MOJ might be using the OIT, and have not reported any problems. It should be OK to use the tool with `OFFICIAL` or `OFFICIAL-SENSITIVE` information. When you use the OIT, think about any consequences of information disclosure.
 
-It's always a good idea to let your Line Manager know you are planning to use an OIT for your work.
+Always let your Line Manager know if you are planning to use an OIT for your work, _before_ you start the work.
 
 ## List and status of OITs
 
@@ -46,7 +46,7 @@ Gandi | | | Y | DNS registration & web hosting
 Geckoboard | | | Y | Dashboard
 Gemnasium | | | Y | Product update and VA service
 GetSentry | | | Y | Crash reporting
-Github | | | Y | Online project hosting
+GitHub | | | Y | Online project hosting
 Google Apps (G-Suite) | Y | | | SaaS
 Google Hangouts | | | Y | Video conferencing
 Hipchat | | | Y | Group chat / IM
@@ -63,7 +63,7 @@ Pager Duty | | | Y | Incident management
 Pingdom | | | Y | Website monitoring
 Pivotal Tracker | | | Y | Project management
 Rattic | | | Y | Password management
-Red Hat / OpenShift | | | Y | Dev and deployment
+Red Hat / OpenShift | | | Y | Development and deployment
 Sauce Labs | | | Y | Web & mobile testing
 SendGrid | | | Y | Email service
 Skype for Business | | | Y | Video conferencing
@@ -75,9 +75,19 @@ Trello | | | Y | Project tracking / management
 URL2PNG | | | Y | Screenshots as a service
 Zendesk | | | Y | Ticketing
 
+<p>&nbsp;</p>
+
 <table border='1'>
 <tr>
-<td>This information is dated March 2018.<br/>
-To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=open-internet-tools">itpolicycontent@digital.justice.gov.uk</a>.</td>
+<td><table>
+<tr><td colspan='4'>This guidance is dated April 2018.
+<p>
+To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent+open-internet-tools@digital.justice.gov.uk?subject=open-internet-tools">itpolicycontent@digital.justice.gov.uk</a>, or click one of the following icons.</p></td></tr>
+<tr>
+<td width='25%'><a href="mailto:itpolicycontent+open-internet-tools-2@digital.justice.gov.uk?subject=open-internet-tools-2"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/DoubleCross.gif" alt="Content was very unhelpful">Very unhelpful.</a></td>
+<td width='25%'><a href="mailto:itpolicycontent+open-internet-tools-1@digital.justice.gov.uk?subject=open-internet-tools-1"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/Cross.gif" alt="Content was unhelpful">Unhelpful.</a></td>
+<td width='25%'><a href="mailto:itpolicycontent+open-internet-tools+1@digital.justice.gov.uk?subject=open-internet-tools+1"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/Tick.gif" alt="Content was helpful">Helpful.</a></td>
+<td width='25%'><a href="mailto:itpolicycontent+open-internet-tools+2@digital.justice.gov.uk?subject=open-internet-tools+2"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/DoubleTick.gif" alt="Content was very helpful">Very helpful.</a></td>
+</table></td>
 </tr>
 </table>
