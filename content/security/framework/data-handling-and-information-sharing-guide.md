@@ -215,10 +215,7 @@ SecureZip is a compression and encryption product which can be used to encrypt s
 
 ### Self generated passwords
 
-SecureZip requires self generating passwords which must conform to the MoJ IT Security – Password Standard, a summary is provided below:
-
-*   password length must be at least 9 characters
-*   password composition must include a mixture of upper and lower case letters, numeric and special characters
+SecureZip requires self generating passwords which must conform to the [MoJ IT Security – Password Standard](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/password-standard/).
 
 The general rules for transmitting a password to a recipient are:
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: System Lockdown and Hardening Standard
 ---
 
@@ -32,7 +32,7 @@ The CESG Information Assurance Maturity Model (IAMM) sets out the minimum maturi
  
 ## Generic hardening standard
 
-Table 1 below provides a generic set of hardening procedures designed to guide ICT system development and supplement the IT Security – Technical Controls Policy.
+Table 1 below provides a generic set of hardening procedures designed to guide ICT system development and supplement the [IT Security – Technical Controls Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/technical-controls-policy/).
 
 Those configuring MoJ ICT systems must consider additional sources of reference such as the Government Assurance Pack (GAP) for MS Windows based systems; Microsoft TechNet and NIST to ensure that specific systems (e.g. SQL server or a UNIX based server) are built to a secure standard. A selection of external reference sources can be found below.
 
@@ -50,22 +50,48 @@ Table 1 is split into 5 sections:
 
 #### General
 
-| Name | Description |
-| --- | --- | 
-| BIOS Lockdown | Access to the BIOS must be restricted to system administrators only. |
-| Removal of unnecessary applications and services | All applications and system services which are not required must be uninstalled or disabled. |
-| Auto-run of data on remote media devices | Auto-run must be disabled. |
-| Screen lockout | Desktops and servers must be configured to lock after 5 minutes of inactivity. Unlock must be by password only. |
-| Time and Date | The Time and Date setting must be configured to central synchronisation servers which synchronises with the GSi time server. |
-| System Preferences | Non-system administrative Users must not have access to change: |
-| | *   The desktop background or screensaver setting; |
-| | *   The date or time; |
-| | *   Network settings or internet browser settings; |
-| | *   System security settings or group policy settings. |
-| | Non-system administrative Users must not have access to the following system settings / utilities: |
-| | *   The system registry; |
-| | *   Access to operating system directories and files; |
-| | *   Access to CMD / Command Line Prompt and local system utilities such as disk defragmenter and disk cleanup. |
+<table>
+<tr>
+<th>Name</th>
+<th>Description</th></tr>
+<tr>
+<td>BIOS Lockdown</td>
+<td>Access to the BIOS must be restricted to system administrators only.</td>
+</tr>
+<tr>
+<td>Removal of unnecessary applications and services</td>
+<td>All applications and system services which are not required must be uninstalled or disabled.</td>
+</tr>
+<tr>
+<td>Auto-run of data on remote media devices</td>
+<td>Auto-run must be disabled.</td>
+</tr>
+<tr>
+<td>Screen lockout</td>
+<td>Desktops and servers must be configured to lock after 5 minutes of inactivity. Unlock must be by password only.</td>
+</tr>
+<tr>
+<td>Time and Date</td>
+<td>The Time and Date setting must be configured to central synchronisation servers which synchronises with the GSi time server.</td>
+</tr>
+<tr>
+<td>System Preferences</td>
+<td>Non-system administrative Users must not have access to change:
+<ul>
+<li>The desktop background or screensaver setting;</li>
+<li>The date or time;</li>
+<li>Network settings or internet browser settings;</li>
+<li>System security settings or group policy settings.</li>
+</ul>
+<br/>
+Non-system administrative Users must not have access to the following system settings / utilities:
+<ul>
+<li>The system registry;</li>
+<li>Access to operating system directories and files;</li>
+<li>Access to CMD / Command Line Prompt and local system utilities such as disk defragmenter and disk cleanup.</li>
+</ul></td>
+</tr>
+</table>
 
 #### External Devices
 
@@ -75,37 +101,72 @@ Table 1 is split into 5 sections:
 | Webcam | The webcam lens must be obstructed when not in use. |
 | Infrared receiver | The IR receiver must be disabled, ideally at the hardware level (by physically disconnecting the component). |
 | Sound input (microphone) | Sound input from a microphone must be kept at zero level when not in use. |
-| Media drives and external data ports (e.g. USB, FireWire, CD/DVD drive, …) | All media drives and external data ports must be disabled. Where there is a business justification to allow access that access must be access must be audited and restricted to an individual User (e.g. using a technical control such as Lumension). |
+| Media drives and external data ports (e.g. USB, FireWire, CD/DVD drive, \.\.\.) | All media drives and external data ports must be disabled. Where there is a business justification to allow access that access must be access must be audited and restricted to an individual User (for example using a technical control such as Lumension). |
 
 #### Account Log-on
 
 | Name | Description |
 | --- | --- | 
-| Passwords | All passwords must conform to the IT Security – Password Standard. |
-| Guest and ‘null’ accounts | Guest and ‘null’ accounts (I.e. accounts with a blank username and password) must be disabled and removed where possible. |
+| Passwords | All passwords must conform to the [IT Security – Password Standard](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/password-standard/). |
+| Guest and \'null\' accounts | Guest and \'null\' accounts (accounts with a blank username and password) must be disabled and removed where possible. |
 | Fast User Switching | Fast User Switching must be disabled. |
 | Login failure logging | Failed logins must be logged after the 1st failed attempt. |
 | Automatic log in | Any automatic log in feature must be disabled. This does not include Single Sign On functionality where a User has already authenticated themselves to the system. |
 | User list | The option to display a set of usernames list or the previous logged in User’s username at logon must be disabled. |
-| Logon Banner | The standard MoJ login banner must be displayed at login, both locally and remotely, see Appendix A. |
+| Logon Banner | The standard MoJ login banner must be displayed at login, both locally and remotely, see [Appendix A](#appendixa). |
 
 #### Services, security and networking applications
 
-| Name | Description |
-| --- | --- | 
-| Firewalls | An Application Firewall should be installed which: |
-| | *   Must be configured to ‘allow only essential services’; |
-| | *   Must log Firewall activity; |
-| | *   Must operate in ‘stealth mode’ (I.e. undiscoverable). |
-| Anonymous FTP | Anonymous FTP must be disabled. Where there is a business requirement for FTP, FTP(S) or SFTP must be used. |
-| Simple Network Management Protocol (SNMP) | Where SNMP is required, v2.0 must be used. |
-| Cisco Discovery Protocol (CDP) | CDP must be disabled. |
-| Telnet based administration interface | Telnet access must be disabled. |
-| SSH based administration interface | SSH access must be disabled. |
-| HTTP based administration interface | All web based administration interfaces which are accessible over a network (I.e. not restricted to a localhost) must be encrypted for the entire session using SSL version 3 or TLS version 1.0 or above. |
-| Connection Timeouts | Idle connections must be dropped after a default period. |
-| ICMP Redirects | ICMP redirects must be disabled. |
-| Clear text authentication  protocols | All plain-text authentication protocols must be disabled and their functionality replaced with encrypted alternatives. |
+<table>
+<tr>
+<th>Name</th>
+<th>Description</th></tr>
+<tr>
+<td>Firewalls</td>
+<td>An Application Firewall should be installed which:
+<ul>
+<li>Must be configured to \'allow only essential services\';</li>
+<li>Must log Firewall activity;</li>
+<li>Must operate in \'stealth mode\' (undiscoverable).</li>
+</ul></td>
+</tr>
+<tr>
+<td>Anonymous FTP</td>
+<td>Anonymous FTP must be disabled. Where there is a business requirement for FTP, FTP(S) or SFTP must be used.</td>
+</tr>
+<tr>
+<td>Simple Network Management Protocol (SNMP)</td>
+<td>Where SNMP is required, v2.0 must be used.</td>
+</tr>
+<tr>
+<td>Cisco Discovery Protocol (CDP)</td>
+<td>CDP must be disabled.</td>
+</tr>
+<tr>
+<td>Telnet based administration interface</td>
+<td>Telnet access must be disabled.</td>
+</tr>
+<tr>
+<td>SSH based administration interface</td>
+<td>SSH access must be disabled.</td>
+</tr>
+<tr>
+<td>HTTP based administration interface</td>
+<td>All web based administration interfaces which are accessible over a network (in other words, not restricted to a localhost) must be encrypted for the entire session using SSL version 3 or TLS version 1.0 or above.</td>
+</tr>
+<tr>
+<td>Connection Timeouts</td>
+<td>Idle connections must be dropped after a default period.</td>
+</tr>
+<tr>
+<td>ICMP Redirects</td>
+<td>ICMP redirects must be disabled.</td>
+</tr>
+<tr>
+<td>Clear text authentication protocols</td>
+<td>All plain-text authentication protocols must be disabled and their functionality replaced with encrypted alternatives.</td>
+</tr>
+</table>
 
 #### Server specific
 
@@ -149,6 +210,8 @@ Microsoft provides detailed information and configuration details covering the l
 <br/>
 [External Link – Microsoft security portal] 
 <br/><http://www.nist.gov/computer-security-portal.cfm>
+
+<a id="appendixa"></a>
  
 ## Appendix A – Login banner
 
