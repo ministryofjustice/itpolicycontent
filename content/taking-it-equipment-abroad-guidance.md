@@ -22,7 +22,7 @@ Remove unnecessary files from your device when travelling abroad so that the ris
 
 Be aware that voice calls and SMS messages are not secure and voice calls can be intercepted whilst abroad. Keeping your phone with you at all times helps in having a high level of physical control over the equipment;
  
-* keep any password/pin separate from the device
+* keep any password/PIN separate from the device
 * be careful when using your device in situations where it may be lost or stolen, such as busy public places and while transiting customs or security at airports.
 * think about where you are working to ensure that you are not being observed (for instance, somebody looking over your shoulder in a crowded place).
 * never leave the device unattended - not even for a moment. 
@@ -43,7 +43,7 @@ Examples of sensitive information might include prisoner/offence details, court 
 
 * do not use public charging stations or connect the phone to a vehicle by USB or Bluetooth as information can be downloaded from your phone
 * be aware that hotel and public WiFi spots are not secure, as they can easily be monitored
-* make sure you use the phone’s password or pin
+* make sure you use the phone’s password or PIN
 * if the phone is taken from you or you believe it may have been compromised in any way, report it to the Departmental Security Officer on: 
 
 ![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/03/ded132e3a381831f3412183f7248a28c.gif) &nbsp;
