@@ -1,5 +1,5 @@
 ﻿---
-title: Accessing MoJ IT Systems From Abroad
+title: Taking IT equipment abroad (business or personal) 
 ---
 
 <table border='1'>
