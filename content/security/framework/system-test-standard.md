@@ -1,4 +1,4 @@
-﻿---
+---
 title: System Test Standard
 ---
 
@@ -154,7 +154,7 @@ This type of scanning is intended to provide regular internal assurance to the I
 
 #### Compliance Scanning
 
-Besides simply testing for the absence of correctly patched software, some vulnerability scanners can also test when an ICT system's settings correspond to an established benchmark, for example, to the MoJ password policy or a commercial security standard such as PCI DSS. The scanner operates by examining the security configuration settings of each ICT system client (through a client installed agent) against one or more benchmarks (e.g. PCI DSS or ISO 27001) producing a compliance report as an output which can be supplied as assurance evidence to an Accreditor.
+Besides simply testing for the absence of correctly patched software, some vulnerability scanners can also test when an ICT system's settings correspond to an established benchmark, for example, to the [MoJ password requirements](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/password-standard/) or a commercial security standard such as PCI DSS. The scanner operates by examining the security configuration settings of each ICT system client (through a client installed agent) against one or more benchmarks (e.g. PCI DSS or ISO 27001) producing a compliance report as an output which can be supplied as assurance evidence to an Accreditor.
 
 ### Pre-live security testing
 

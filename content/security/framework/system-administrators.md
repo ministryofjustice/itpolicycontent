@@ -81,7 +81,7 @@ If this document does not provide all the security related information needed, p
 </tr>
 <tr valign='top'>
 <td>Passwords</td>
-<td><ul><li>Administrator passwords must be created in line with the [ORGANISATION] Password Standard. Passwords must be a minimum of 12 characters long and use a mix of lower case, upper case, numbers and special characters.</li>
+<td><ul><li>Administrator passwords must be created in line with the [ORGANISATION] Password Standard.</li>
 <li>The password for an Administrator account must not be re-used with another Administrator or Normal User account.</li></ul></td>
 </tr>
 <tr valign='top'>

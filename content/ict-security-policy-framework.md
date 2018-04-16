@@ -31,7 +31,7 @@ The ICT security guide gives you advice and guidance on the main security issues
 
 There are further detailed ICT security policies which __must__ be taken into consideration if you are developing, procuring or configuring MoJ ICT.
 
-##ICT security policies - tier 2
+## ICT security policies - tier 2
 These polices form the core set of detailed security policies covering both IT usage and technical security controls:
 
 *   [Forensics readiness policy](/documents/2015/04/forensic-readiness-policy.pdf)
@@ -39,7 +39,7 @@ These polices form the core set of detailed security policies covering both IT u
 *   [Technical controls policy](/documents/2015/04/technical-controls-policy.pdf)
 *   [Use of HMG Cryptography policy](/documents/2015/04/hmg-cryptography-policy.pdf)
 
-##IT security policies - tier 3
+## IT security policies - tier 3
 
 Tier 3 documents are available on request and provide: benchmark standards, implementation guidance on specific security controls, and procedures for a particular policy (or policy statement/s).
 
@@ -55,7 +55,7 @@ Email Operational Security Team ![](https://intranet.justice.gov.uk/app/uploads/
 *   IT disaster recovery plan and process guide
 *   Malware protection guide
 *   Offshoring guide
-*   Password standard
+*   [Password standard](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/password-standard/)
 *   Patch management standard
 *   Protective monitoring guide
 *   System backup standard
