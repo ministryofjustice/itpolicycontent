@@ -1,5 +1,5 @@
 ﻿---
-title: Taking IT equipment abroad (business or personal) 
+title: taking-it-equipment-abroad-business-or-personal 
 ---
 
 <table border='1'>
@@ -107,7 +107,15 @@ MOJ-issued phones might still have some functionality, to let you make phone cal
 
 <table border='1'>
 <tr>
-<td>This document is dated March 2018.<br/>
-To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=taking-it-equipment-abroad">itpolicycontent@digital.justice.gov.uk</a>.</td>
+<td><table>
+<tr><td colspan='4'>This guidance is dated April 2018.
+<p>
+To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent+taking-it-equipment-abroad-business-or-personal@digital.justice.gov.uk?subject=taking-it-equipment-abroad-business-or-personal">itpolicycontent@digital.justice.gov.uk</a>, or click one of the following icons.</p></td></tr>
+<tr>
+<td width='25%'><a href="mailto:itpolicycontent+taking-it-equipment-abroad-business-or-personal-2@digital.justice.gov.uk?subject=taking-it-equipment-abroad-business-or-personal-2"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/DoubleCross.gif" alt="Content was very unhelpful">Very unhelpful.</a></td>
+<td width='25%'><a href="mailto:itpolicycontent+taking-it-equipment-abroad-business-or-personal-1@digital.justice.gov.uk?subject=taking-it-equipment-abroad-business-or-personal-1"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/Cross.gif" alt="Content was unhelpful">Unhelpful.</a></td>
+<td width='25%'><a href="mailto:itpolicycontent+taking-it-equipment-abroad-business-or-personal+1@digital.justice.gov.uk?subject=taking-it-equipment-abroad-business-or-personal+1"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/Tick.gif" alt="Content was helpful">Helpful.</a></td>
+<td width='25%'><a href="mailto:itpolicycontent+taking-it-equipment-abroad-business-or-personal+2@digital.justice.gov.uk?subject=taking-it-equipment-abroad-business-or-personal+2"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/DoubleTick.gif" alt="Content was very helpful">Very helpful.</a></td>
+</table></td>
 </tr>
 </table>
