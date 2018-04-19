@@ -1,31 +1,17 @@
----
+﻿---
 title: Data Handling and Information Sharing Guide
 ---
 
 <table border='1'>
 <tr>
-<td>This content is a version of the Data Handling and Information Sharing Guide, August 2013.<br/>
+<td>This draft is based on the initial content of the Data Handling and Information Sharing Guide, August 2013.<br/>
 This is Legacy IA Policy. It is under review and likely to be withdrawn or substantially revised soon. Please contact us before using this on a new project: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=data-handling-and-information-sharing-guide">itpolicycontent@digital.justice.gov.uk</a>.</td>
 </tr>
 </table>
 
 This guide is designed to help protect MoJ information (held on MoJ ICT systems) by providing guidance on how it should be handled and shared in a safe and secure manner.
 
-## Overview
-
-### Introduction
-
-[HMG Security Policy Framework](https://www.gov.uk/government/publications/security-policy-framework/hmg-security-policy-framework) mandatory requirements concern valuing and classifying information assets. To comply with these, the MoJ needs to ensure that:
-
-> Where information is shared for business purposes departments and agencies must ensure the receiving party understands the obligations and protects the assets appropriately.
-
-and
-
-> All staff handling sensitive government assets are briefed about how legislation (particularly the OSA, FOIA and DPA) specifically relates to their role, including the potential disciplinary or criminal penalties that may result from failure to comply with security policies. Appropriate management structures must be in place to ensure the proper handling, control and (if appropriate) managed disclosure of sensitive assets.
-
-The policy on data handling and information sharing is covered in the IT Security – Information Classification and Handling Policy, whilst this document sets out the MoJ guidance sharing information within the MoJ and externally with other Government departments and 3rd parties.
-
-### Scope
+## Scope
 
 The MoJ Central Information Assurance (IA) team provide general guidance on the handling of protectively marked data, whilst this document concentrates on providing guidance on information stored on MoJ ICT systems and exchanged electronically within the MoJ and with external parties.
 
@@ -37,11 +23,7 @@ This guide is split into three sections:
 
 [Data Movement Form](#dmf) includes a copy of the MoJ Data Movement Form (DMF). This form must be completed for all transfers where information is transferred from a MoJ ICT system to another MoJ ICT system or external party, further details on the form can be found in [Data Movement Form](#dmf).
 
-**Note:** This document provides guidance for handling and sharing of information / data up to and including Impact Level (IL) 3 REST*. Where information attracts a high protective marking or IL, advice must be sought from the MoJ Operation Security Team (OST) and MoJ IT Security Officer (ITSO).
-
-### Demonstration of Compliance
-
-The [CESG Information Assurance Maturity Model (IAMM)](https://www.ncsc.gov.uk/guidance/information-assurance-maturity-model-and-assessment-framework-gpg-40) sets out the minimum maturity level Government departments should attain. Safeguarding data is captured as a basic requirement in Level 1 and the MoJ will need to demonstrate compliance against this requirement.
+**Note:** This document provides guidance for handling and sharing of information / data up to and including Impact Level (IL) 3 REST*. Where information attracts a high protective marking or IL, advice must be sought from the MoJ Operation Security Team (OST) and MoJ Chief Information Security Officer (CISO).
 
 ## Handling data on MoJ ICT systems
 
@@ -86,7 +68,7 @@ As these networks can support data up to and including IL3 REST*, a base level o
 *   frequency
 *   any 'need-to-know' considerations (see IT Security – Access Control Standard for further information)
 
-Any additional controls must be captured on the DMF (see [Data Movement Form](#dmf) where advice should be obtained from the MoJ ITSO when required.
+Any additional controls must be captured on the DMF (see [Data Movement Form](#dmf) where advice should be obtained from the MoJ CISO when required.
 
 ##### USB mass storage device
 
@@ -95,20 +77,7 @@ If using a secure network is not feasible, the next preferred option is to use a
 *   MoJ issued FIPS 140-2 USB memory sticks
 *   CESG approved USB mass storage devices with whole hard encryption (using CESG provided cryptographic material)
 
-The type of device selected is normally dependant on the sensitivity of the data and the amount of data being transferred. Advice must be sought from the MoJ OST or MoJ ITSO on the best device to use when completing the DMF (see [Data Movement Form](#dmf) ).
-
-##### Optical media
-
-The use of optical media (i.e. CD/DVD) is not recommended for data transfer especially where the data is marked at IL3 REST*.
-
-Where there is a business need to use optical media:
-
-*   for data at IL3 REST*, a CESG approved product (using CESG provided cryptographic material) must be used, further information can be obtained from the MoJ OST
-*   for data marked at IL2 or below, then a commercial grade product certified to FIPS 140-2 can be used (see [Using commercial encryption products for low sensitivity information](#using-commercial-encryption-products-for-low-sensitivity-information) section). Further information on suitable products can be obtained from the MoJ OST
-
-#### Data at rest on MoJ issued laptops
-
-'Data at rest' is a term used to refer to all data in computer storage. This excludes data that is traversing a network or temporarily residing in computer memory to be read or updated. The protection of data at rest is achieved by encrypting the hard disk. MoJ issued laptops use a CESG approved whole disk encryption product, this allows IL3 REST* data to be transferred from DOM1 for remote working.
+The type of device selected is normally dependant on the sensitivity of the data and the amount of data being transferred. Advice must be sought from the MoJ OST or MoJ CISO on the best device to use when completing the DMF (see [Data Movement Form](#dmf) ).
 
 #### Disposal and decommissioning
 
@@ -168,7 +137,7 @@ Any transfer of sensitive data to a 3rd party (including sub-contractors or serv
 
 Where the information attracts a marking of IL3 REST*, it must be transferred to an accredited system (accredited to the same level as the data being transferred) provided by the external 3rd party using one of the data in transit options outlined in [Data in transit](#data-in-transit) section.
 
-Any transfer to a 3rd party must be undertaken with appropriate security controls in place, using the guidance from this document, and seeking advice from the system Accreditor and MoJ ITSO as required.
+Any transfer to a 3rd party must be undertaken with appropriate security controls in place, using the guidance from this document, and seeking advice from the system Accreditor and MoJ CISO as required.
 
 #### Sharing across an unsecured network
 
@@ -186,7 +155,7 @@ Where there is a business requirement to do so, information marked at IL2 PROTEC
 
 ### Sharing information above IL3 REST*
 
-Where there is a business requirement to share information which attracts a marking greater than IL3 REST*, advice must be sought from the MoJ OST or MoJ ITSO prior to completing a DMF (see [Data Movement Form](#dmf) ).
+Where there is a business requirement to share information which attracts a marking greater than IL3 REST*, advice must be sought from the MoJ OST or MoJ CISO prior to completing a DMF (see [Data Movement Form](#dmf) ).
 
 ## Reporting data loss
 
