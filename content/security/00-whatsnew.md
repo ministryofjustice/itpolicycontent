@@ -4,16 +4,13 @@ title: 00-whatsnew
 
 ## What's new and Changes
 
-<table border='1'>
-<tr>
-<td>This guidance applies to all staff and contractors who work for the MOJ.</td>
-</tr>
-</table>
+<b>This guidance applies to all staff and contractors who work for the MOJ.</b>
 
 This document summarises what changes were made, and when, to MOJ IT Policy content published on the MOJ Intranet. The most recent changes appear at the top of the list.
 
 Date | Audience | Topic (and link) | Changes
 ---|---|---|---
+May 1 | All | [Acceptable use of Information Technology at work](https://intranet.justice.gov.uk/guidance/security/it-computer-security/acceptable-use/) | Clarification that personal accounts or email addresses should not be used for work tasks.
 April 16 | Developers, System Administrators | [Avoiding too much security](https://intranet.justice.gov.uk/guidance/security/it-computer-security/setecastronomy/) | Guidance to help you avoid over-classifying things, particularly domain names and IP Addresses.
 April 16 | All | [Taking IT equipment abroad (business or personal)](https://intranet.justice.gov.uk/guidance/security/it-computer-security/taking-it-equipment-abroad-business-or-personal/) | What to do if you want to do MOJ tasks while abroad, or if you want to take MOJ IT equipment abroad.
 April 6 | All | [Passwords](https://intranet.justice.gov.uk/guidance/security/it-computer-security/passwords/) | Entry point for password information.
@@ -24,10 +21,10 @@ April 3 | All | [Using your own smartphone, laptop, tablet or PC for work](https
 
 <p>&nbsp;</p>
 
-<table border='1'>
-<tr>
-<td><table>
-<tr><td colspan='4'>This document is dated April 2018.
+---
+
+<table>
+<tr><td colspan='4'>This document is dated May 2018.
 <p>
 To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent+00-whatsnew@digital.justice.gov.uk?subject=00-whatsnew">itpolicycontent@digital.justice.gov.uk</a>, or click one of the following icons.</p></td></tr>
 <tr>
@@ -35,6 +32,4 @@ To provide feedback on this document, please contact us: <a href="mailto:itpolic
 <td width='25%'><a href="mailto:itpolicycontent+00-whatsnew-1@digital.justice.gov.uk?subject=00-whatsnew-1"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/Cross.gif" alt="Content was unhelpful">Unhelpful.</a></td>
 <td width='25%'><a href="mailto:itpolicycontent+00-whatsnew+1@digital.justice.gov.uk?subject=00-whatsnew+1"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/Tick.gif" alt="Content was helpful">Helpful.</a></td>
 <td width='25%'><a href="mailto:itpolicycontent+00-whatsnew+2@digital.justice.gov.uk?subject=00-whatsnew+2"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/DoubleTick.gif" alt="Content was very helpful">Very helpful.</a></td>
-</table></td>
-</tr>
 </table>

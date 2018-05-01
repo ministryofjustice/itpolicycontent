@@ -4,11 +4,7 @@ title: acceptable-use
 
 ## Acceptable use of Information Technology at work
 
-<table border='1'>
-<tr>
-<td>This guidance applies to all staff and contractors who work for the MOJ.</td>
-</tr>
-</table>
+<b>This guidance applies to all staff and contractors who work for the MOJ.</b>
 
 Everyone working at the MOJ has access to MOJ Information Technology (IT) resources. You must use them in an acceptable way. This guidance explains what that means. The definitive list of Acceptable Use Policy statements is [here](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/it-acceptable-use-policy/).
 
@@ -48,6 +44,7 @@ There are many unacceptable uses of IT, making it impossible to provide a comple
 - using resources without permission
 - storing sensitive information where it could easily be lost or stolen
 - using your work email address for personal tasks
+- using a personal account or personal email address for work tasks
 - excessive private use during working time
 - installing unlicensed or unauthorised software
 
@@ -93,9 +90,15 @@ You should also [ask](https://intranet.justice.gov.uk/guidance/security/it-compu
 
 Removable media like memory sticks are portable and easy-to-use. Unfortunately, this makes them a security risk, so [avoid using them](https://intranet.justice.gov.uk/guidance/security/it-computer-security/removable-media/). If however they are essential to your work, please follow the [Use of Removable Media policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/removable-media/).
 
-<table border='1'>
+---
+
+<table>
+<tr><td colspan='4'>This guidance is dated May 2018.
+<p>
+To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent+passwords@digital.justice.gov.uk?subject=acceptable-use">itpolicycontent@digital.justice.gov.uk</a>, or click one of the following icons.</p></td></tr>
 <tr>
-<td>This guidance is dated December 2017.<br/>
-To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=acceptable-use">itpolicycontent@digital.justice.gov.uk</a>.</td>
-</tr>
+<td width='25%'><a href="mailto:itpolicycontent+acceptable-use-2@digital.justice.gov.uk?subject=acceptable-use-2"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/DoubleCross.gif" alt="Content was very unhelpful">Very unhelpful.</a></td>
+<td width='25%'><a href="mailto:itpolicycontent+acceptable-use-1@digital.justice.gov.uk?subject=acceptable-use-1"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/Cross.gif" alt="Content was unhelpful">Unhelpful.</a></td>
+<td width='25%'><a href="mailto:itpolicycontent+acceptable-use+1@digital.justice.gov.uk?subject=acceptable-use+1"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/Tick.gif" alt="Content was helpful">Helpful.</a></td>
+<td width='25%'><a href="mailto:itpolicycontent+acceptable-use+2@digital.justice.gov.uk?subject=acceptable-use+2"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/DoubleTick.gif" alt="Content was very helpful">Very helpful.</a></td>
 </table>
