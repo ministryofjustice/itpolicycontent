@@ -1,5 +1,5 @@
 ﻿---
-title: Accessing MoJ IT Systems From Abroad
+title: Accessing MOJ IT Systems From Abroad
 ---
 
 <table border='1'>
@@ -9,16 +9,16 @@ title: Accessing MoJ IT Systems From Abroad
 </table>
 
 Taking IT equipment abroad (business or personal)
-Anyone who works for MoJ, including staff, contractors and agency staff, who intends to take MoJ ICT assets abroad – which includes laptops, BlackBerrys, and mobile phones – must read and comply with the guidance document.
+Anyone who works for MOJ, including staff, contractors and agency staff, who intends to take MOJ ICT assets abroad – which includes laptops, BlackBerrys, and mobile phones – must read and comply with the guidance document.
 
-You must get approval from a member of the Senior Civil Service (SCS) – or equivalent – and authorisation from MoJ Corporate Security and MoJ Operational Security Team (OST).
+You must get approval from a member of the Senior Civil Service (SCS) – or equivalent – and authorisation from MOJ Corporate Security and MOJ Operational Security Team (OST).
 
 For BlackBerry or ‘talk & text’ phones (not smartphones) you must get approval from your line manager and follow the guidance provided. However, if you want to take a BlackBerry to countries other than in Europe or North America please contact OST.
 
 Before completing the form
 Before completing the form speak to your line manager to establish:
 
-If you need to take MoJ IT equipment abroad to do your job?
+If you need to take MOJ IT equipment abroad to do your job?
 Whether there is sufficient business justification and whether it is essential?
 If taking equipment abroad can be met in another way or by someone else?
 If you just need to manage your inbox while away, whether can you delegate permissions to your inbox to a colleague to manage on your behalf?
@@ -32,7 +32,7 @@ General advice on taking BlackBerry abroad doc
 Please provide as much detail as you can and answer all the questions. This will help speed up the approval process.
 
 Once you’ve completed the form
-MoJ staff should email it to the senior civil servant in their line management. HMPPS HQ staff should email it to their information asset owner.
+MOJ staff should email it to the senior civil servant in their line management. HMPPS HQ staff should email it to their information asset owner.
 
 All other HMPPS staff should email it to their governor.
 
