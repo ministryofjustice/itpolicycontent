@@ -1,4 +1,4 @@
-﻿---
+---
 title: Using your own smartphone, laptop, tablet or PC for work
 ---
 
@@ -64,20 +64,7 @@ If a family member borrows your tablet or laptop (for example), make sure they c
 
 ## If something goes wrong
 
-If you think your device is lost, stolen or 'hacked', you must:
-
-- tell your line manager straight away
-- ring the Service Desk on  where the analyst will ask the relevant questions and note responses on the ticket
-- the contact telephone numbers you need are:
-    - ![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/01/758cf470655d11cc683a6d9511ba3331.gif) &nbsp;
-    - ![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/01/5818419a0f76cd3ad2b515d25b68876e.gif) &nbsp;
-- when back online fill in a [security incident form](https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/)
-- email the form to: [itservicedesk@justice.gsi.gov.uk](mailto:itservicedesk@justice.gsi.gov.uk)
-
-
-If MOJ data or information is lost or compromised, [report it as a data loss](https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/report-a-data-loss/).
-
-Find out more about [how to report a security incident](https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/).
+If you think your device is lost, stolen, 'hacked', or in any way compromised, you _must_ follow the instructions for dealing with [lost laptops or hardware](https://intranet.justice.gov.uk/guidance/security/it-computer-security/lost-laptophardware/).
 
 ## Services you can use on your own devices
 
