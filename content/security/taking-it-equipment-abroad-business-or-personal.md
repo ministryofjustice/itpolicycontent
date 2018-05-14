@@ -10,7 +10,7 @@ title: taking-it-equipment-abroad-business-or-personal
 
 In general, it is acceptable for MOJ users to access MOJ services from abroad, and to do this using their MOJ equipment. 
 
-But before you travel, consider:
+You must seek permission from your line manager and SCS/Governor first, and before you travel, consider:
 
 * if you need to take MOJ IT equipment abroad or access MOJ IT systems to do your job?
 * if the business need can be met in another way or by someone else?
@@ -20,7 +20,9 @@ As a government official travelling overseas, you should consider that you may b
 
 Special case: If you are national security cleared to ‘Enhanced SC’ or DV levels, you must also contact Corporate Security branch before travelling, regardless of whether the trip is for business or personal reasons.
  
-If you need to access MOJ services from abroad and visiting one of the following countries, you must seek permission from your line manager and SCS/Governor first. If they approve, submit your request to Operational Security, giving at least 14 days’ notice. This is because it may be necessary to apply additional technical controls to protect you, your device, and any data they can access.	
+You must seek permission from your line manager and SCS/Governor first if you need to access MOJ services from abroad.
+
+Additionally, if you are visiting one of the following countries, you must seek permission from your line manager and SCS/Governor, and if they approve, submit your request to Operational Security, giving at least 14 days’ notice. This is because it may be necessary to apply additional technical controls to protect you, your device, and any data they can access.	
  
 * China
 * Cyprus
@@ -67,6 +69,10 @@ When you have received business approval, send a copy of your request and the ap
 
 When Operational Security have acknowledged receipt of the request and approval, the process is complete.
 
+If you are a HMPPS staff member, you also need to send your approval to:
+
+![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/05/d41d8cd98f00b204e9800998ecf8427e.gif) &nbsp;
+
 ## International Roaming
 
 While travelling, you might incur roaming charges when using your MOJ equipment for calls or accessing services. These charges can be expensive, and must be paid by your Business Unit. This is another reason for having a good business need to take MOJ equipment abroad.  
@@ -80,6 +86,7 @@ By default, MOJ equipment is not enabled for use abroad. Before travelling, cont
 Contact the  Service Desk immediately. Tell them if the MOJ equipment is lost, stolen or was potentially compromised. This includes any time the equipment is deliberately removed out of your sight, such as by a customs official.
 
 When calling from abroad, the Technology Service Desk number you need is:
+
 ![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/03/c00ec596041772ebc897f46a4b5b4665.gif) &nbsp;
 
 If any security-related incident occurs overseas, you should contact Corporate Security Branch as soon as possible.
@@ -94,6 +101,14 @@ or email:
 It might be necessary to disable your ability to connect to the MOJ network or services from your device. Service Desk will do this if required.
 
 MOJ-issued phones might still have some functionality, to let you make phone calls, but the device should be treated as compromised and not used any more for any MOJ business.
+
+## If you have any problem when using HMPPS equipment abroad
+
+Contact the Incident Desk immediately on:
+
+![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/05/270a2bec6c98b9f13db17e8aff0f4ac0.gif) &nbsp;
+
+Tell them if the HMPPS equipment is lost, stolen or was potentially compromised. This includes any time the equipment is deliberately removed out of your sight, such as by a customs official.
  
 ### Related pages
 
