@@ -45,7 +45,7 @@ Public Key Cryptography | A class of cryptographic algorithms which requires two
 Public Key Infrastructure (PKI) | A set of hardware, software, people, policies, and procedures needed to create, manage, distribute, use, store, validate and revoke digital certificates.
 Registration Authority (RA) | An entity that validates the identities of actors in a PKI, and processes certificate signing requests and certificate revocation requests on behalf of authorised actors sending these to the CA for processing.
 Trust Anchor | An authoritative entity for which trust is presumed and not derived. Root CAs must be Trust Anchors.
-Validation authority (VA) | A service that authenticates and validates the certificates of a PKI. The VA provides a public key directory and also enables access to certificate revocation information either by providing CRLs or using the OCSP protocol.
+Validation Authority (VA) | A service that authenticates and validates the certificates of a PKI. The VA provides a public key directory and also enables access to certificate revocation information either by providing CRLs or using the OCSP protocol.
 
 <a id="general-pki-policy"></a>
 
@@ -220,7 +220,7 @@ The Trust Anchor or root Certificate Authority for all FITS services shall be on
 
 The Trust Anchor shall only be used for signing Sub-CA or Issuing CA certificates and related CRLs.
 
-Assurance of the Trust Anchor CA shall be appropriate to the data assets protected by the digital certificates, as agreed with the Crypto Custodian and Accreditor. For `OFFICIAL` and `OFFICIAL-SENSITIVE` material, recognised assurances are stated below:
+Assurance of the Trust Anchor CA shall be appropriate to the data assets protected by the digital certificates. The definition of appropriate should be agreed with the Crypto Custodian and Accreditor. For `OFFICIAL` and `OFFICIAL-SENSITIVE` material, the recognised assurances are:
 
 - CAPS Baseline
 - CPA Foundation
@@ -231,32 +231,60 @@ Assurance of the Trust Anchor CA shall be appropriate to the data assets protect
 
 #### Registration Authority Operational Policy
 
-1. The Registration Authority (RA) shall identify, validate and authorise PKI Customers, i.e. organisations that are permitted to make certificate signing requests of the PKI Service. The RA shall also identify, validate and authorise nominated representatives of the PKI Customer, i.e. individuals who are authorised to represent the PKI Customer in respect of the PKI Services. Authorisation will be dependent upon a mutual agreement between the Authority and the PKI Customer specifying the conditions for registration. This may be in the form of a Memo of Understanding or a formal contract.
-2. Subordinate Registration Authorities, i.e. those that register entities at a lower level in the trust authority than the root, must comply with any obligations set by the root authority, including the right of the root authority to audit compliance.
-3. Identity validation shall comply, where possible, with HMG Good Practice Guide 45 (Identity Proofing and Verification of an Individual) and Good Practice Guide 46 (Organisational Identity).
-4. A Registration Authority shall register each authorised organisation requesting certificates for subordinate CAs. On registration, the Registration Authority shall ensure that the registered party is provided with the Certificate Policy of the required service. The registered party shall provide a Certificate Practice Statement in response.
-5. The PKI Customer shall at all times have at least two nominated representatives registered with the RA that can act on behalf of the Customer and are authorised to submit CSRs, CRRs and perform other formal tasks.
-6. The PKI Customer must notify the RA when any of their nominated representatives are no longer authorised to access the services. Individuals will become unauthorised if their security clearance is expired or revoked, if their employment is terminated, if they are under investigation for malpractice, or if they no longer work on the MOJ account.
-7. The RA must notify the appropriate Crypto Custodian for potential escalation in respect of the incidents specified at para 2.4.3.6 or any other relevant security incident.
-8. Certificates issued to PKI Customers must be revoked when the business relationship is ended. It may be permitted to transfer ownership of certificates in some cases where responsibility is transferred to another party, e.g. contract novation, but each case must be individually agreed with the MOJ Crypto Custodian.
-9. Auditing and accounting of RA functions must be carried out in accordance with HMG Good Practice Guide 13. The integrity and confidentiality of accounting logs must maintained to British Standard BS 10008 as appropriate for legal admissibility of evidence, in the event that disputes need to be heard in a court of law.
-10. For online submission of CSR and CRR the RA shall use two-factor authentication to authenticate and authorise enrolled users.
-11. The CSR/CRR form shall have fields for all mandatory information and attachment of a public key in PKCS\#10 format.
-12. The CSR/CRR shall be approved by one person (e.g. ComSO) and actioned by another (e.g. Crypto Custodian), except in cases where this process is automated. For automated process, e.g. automated generation of device certificates for EUCS client devices, the MOJ Crypto Custodian and ComSo must approve the automation process.
-13. The CA shall distribute certificates in PKCS \#7 format to the requestor and VA as appropriate.
+The Registration Authority (RA) shall identify, validate and authorise PKI Customers. PKI Customers are any organisations that are permitted to make certificate signing requests of the PKI Service. The RA shall also identify, validate and authorise nominated representatives of the PKI Customer. These representatives are the individuals who are authorised to represent the PKI Customer in respect of the PKI Services. Authorisation will be dependent upon a mutual agreement between the Authority and the PKI Customer. The agreement specifies the conditions for registration. The agreement may be in the form of a Memo of Understanding or a formal contract.
+
+Subordinate Registration Authorities (SRAs) are RAs that register entities at a lower level in the trust authority than the root. SRAs must comply with any obligations set by the root authority, including the right of the root authority to audit compliance.
+
+Identity validation processes shall comply, where possible, with both of:
+
+- [HMG Good Practice Guide 45 (Identity Proofing and Verification of an Individual)](https://www.ncsc.gov.uk/guidance/identity-proofing-and-verification-individual-gpg-45)
+- [Good Practice Guide 46 (Organisational Identity)](https://www.ncsc.gov.uk/guidance/organisation-identity-gpg-46)
+
+A Registration Authority shall register each authorised organisation requesting certificates for subordinate CAs. On registration, the Registration Authority shall ensure that the registered party is provided with the Certificate Policy of the required service. The registered party shall provide a Certificate Practice Statement in response.
+
+The PKI Customer shall at all times have at least two nominated representatives registered with the RA. These representatives can act on behalf of the Customer. They are authorised to submit CSRs and CRRs, and also perform other formal tasks.
+
+The PKI Customer must notify the RA when any of their nominated representatives are no longer authorised to access the services. Individuals will also become unauthorised if:
+
+- their security clearance is expired or revoked
+- their employment is terminated
+- they are under investigation for malpractice
+- they no longer work on the MOJ account
+
+The RA must notify the appropriate Crypto Custodian for potential escalation in respect of the incidents specified at para 2.4.3.6 or any other relevant security incident. HERE
+
+Certificates issued to PKI Customers must be revoked when the business relationship is ended. It is permitted to transfer ownership of certificates in some cases where responsibility is transferred to another party, for example when a new contract replaces an older one. Each transfer case must be individually agreed with the MOJ Crypto Custodian.
+
+Auditing and accounting of RA functions must be carried out in accordance with [HMG Good Practice Guide 13](https://www.ncsc.gov.uk/guidance/protective-monitoring-hmg-ict-systems-gpg-13). The integrity and confidentiality of accounting logs must maintained to British Standard [BS 10008](https://www.bsigroup.com/en-GB/bs-10008-electronic-information-management/) as appropriate for legal admissibility of evidence, in the event that disputes need to be heard in a court of law.
+
+For online submission of CSR and CRR, the RA shall use two-factor authentication to authenticate and authorise enrolled users.
+
+The CSR and CRR forms shall have fields for all mandatory information. The forms shall also support attachment of a public key in [PKCS#10](https://tools.ietf.org/html/rfc2986) format.
+
+For non-automated processes, a CSR or CRR shall be approved by one person for example the ComSO, and actioned by another for example the Crypto Custodian. For automated processes, such as automated generation of device certificates for EUCS client devices, the MOJ Crypto Custodian and ComSo must approve the automation process.
+
+The CA shall distribute certificates in [PKCS#7](https://tools.ietf.org/html/rfc2315) format to the requestor and VA as appropriate.
 
 <a id="certificate-authority-operational-policy"></a>
 
 #### Certificate Authority Operational Policy
 
-1.  This section is applicable to root and subordinate CAs. For policy that is specific to Trust Anchor CAs, see [here](#general-operational-policy).
-2.  Any CA shall be patched against all known vulnerabilities for which a vendor-published patch is available, in accordance with the Authority's patching policy. The operating system supporting the CA must be less than five (5) years old and must have three (3) or more years of vendor support remaining (5/3 rule).
-3.  Assurance of CA shall be appropriate to the data assets protected by the digital certificates, as agreed with the Crypto Custodian and Accreditor. For OFFICIAL and OFFICIAL-SENSITIVE material, assurance preferences are stated below:
-  - CAPS Baseline
-  - CPA Foundation
-  - FIPS140-2 (Level 2)
-  - Other assurance (permitted in exceptional circumstances when other assurances are not available, and must be supported by a business case, agreed with Accreditor, and signed off by the IAO or SIRO)
-4.  Any CA connected to a network shall be protected from unauthorised access by a security Gateway that minimises the exposure of the CA to attack.
+This section applies to root and subordinate CAs. For policy that is specific to Trust Anchor CAs, see [here](#general-operational-policy). HERE
+
+Any CA shall be patched against all known vulnerabilities for which a vendor-published patch is available, in accordance with the Authority's patching policy. The operating system supporting the CA must comply with the 5/3 rule; it must:
+
+- be less than 5 years old
+- have 3 or more years of vendor support remaining
+
+CA assurance shall be appropriate to the data assets protected by the digital certificates. The definition of appropriate should be agreed with the Crypto Custodian and Accreditor. For `OFFICIAL` and `OFFICIAL-SENSITIVE` material, the recognised assurances are:
+
+- CAPS Baseline
+- CPA Foundation
+- FIPS140-2 (Level 2)
+- other assurance. Permitted only in exceptional circumstances when other assurances are not available. The assurance must be supported by a business case, agreed with Accreditor, and signed off by the IAO or SIRO
+
+Any CA connected to a network shall be protected from unauthorised access by a security Gateway that minimises the exposure of the CA to attack.
+
 5.  Auditing and accounting of RA functions must be carried out in accordance with HMG Good Practice Guide 13. The integrity and confidentiality of accounting logs must maintained to British Standard BS 10008 as appropriate for legal admissibility of evidence, in the event that disputes need to be heard in a court of law.
 6.  The CA shall be operated in accordance with HMG IS4.
 
