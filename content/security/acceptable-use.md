@@ -14,10 +14,10 @@ Be sensible when using MOJ IT resources:
 
 - the resources are for you to do MOJ work
 - protect the resources at all times, to help prevent unacceptable use
-- if the use would cause problems, upset, or embarrassment, it's probably not acceptable
-- context is important: remember that security risks can increase when working outside your normal workplace
-- be aware that your use of resources is monitored and that as part of an investigation into a security incident, IT forensic techniques might be used to capture evidence
-- if you have any doubt about whether something is acceptable, ask for clarification or permission first
+- if the use would cause problems, upset, offence, or embarrassment, it's probably not acceptable
+- context is important. Security risks can increase when working outside your normal workplace
+- be aware that your use of resources is monitored. During an investigation into a security incident, IT forensic techniques capture evidence
+- if you're not sure if something is acceptable, ask for help first
 - above all, if you think there is a problem, [report it](https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/) or ask for help
 
 The way you use IT is important, because it indicates your approach to work, and can be taken into account when assessing your behaviour and performance.
@@ -36,7 +36,7 @@ Acceptable use can also vary according to context. For example, checking sensiti
 
 ## Unacceptable use of MOJ IT
 
-Unacceptable use of IT prevents you or your colleagues from doing work, or  is unlawful or illegal, or does not take the context into account.
+Unacceptable use of IT prevents you or your colleagues from doing work, or is unlawful or illegal, or does not take the context into account.
 
 There are many unacceptable uses of IT, making it impossible to provide a complete list. Examples of things to avoid include:
 
@@ -90,12 +90,16 @@ You should also [ask](https://intranet.justice.gov.uk/guidance/security/it-compu
 
 Removable media like memory sticks are portable and easy-to-use. Unfortunately, this makes them a security risk, so [avoid using them](https://intranet.justice.gov.uk/guidance/security/it-computer-security/removable-media/). If however they are essential to your work, please follow the [Use of Removable Media policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/removable-media/).
 
+## Personalisation of equipment
+
+A popular trend is to adorn laptops with stickers. As long as the material does not cause problems such as upset, offence, or embarrassment, external customisation of this kind is acceptable. However, do not customise the desktop environment of your equipment, for example by changing the desktop image or attempting to install themes.
+
 ---
 
 <table>
 <tr><td colspan='4'>This guidance is dated May 2018.
 <p>
-To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent+passwords@digital.justice.gov.uk?subject=acceptable-use">itpolicycontent@digital.justice.gov.uk</a>, or click one of the following icons.</p></td></tr>
+To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent+acceptable-use@digital.justice.gov.uk?subject=acceptable-use">itpolicycontent@digital.justice.gov.uk</a>, or click one of the following icons.</p></td></tr>
 <tr>
 <td width='25%'><a href="mailto:itpolicycontent+acceptable-use-2@digital.justice.gov.uk?subject=acceptable-use-2"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/DoubleCross.gif" alt="Content was very unhelpful">Very unhelpful.</a></td>
 <td width='25%'><a href="mailto:itpolicycontent+acceptable-use-1@digital.justice.gov.uk?subject=acceptable-use-1"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/Cross.gif" alt="Content was unhelpful">Unhelpful.</a></td>
