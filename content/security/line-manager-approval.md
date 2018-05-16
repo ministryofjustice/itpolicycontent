@@ -6,12 +6,12 @@ title: line-manager-approval
 
 <b>This guidance applies to all staff and contractors who work for the MOJ.</b>
 
-Some MOJ IT Policy documents need you to get a review or approval from a Line Manager before taking an action or working in a particular way. Examples include:
+Some MOJ IT Policy documents need you to get a review or approval from a Line Manager or other senior person. Do this before taking an action or working in a particular way. Examples include:
 
-- [Using your own smartphone, laptop, tablet or PC for work](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/using-your-own-smartphone-laptop-tablet-or-pc-for-work/)
 - [Taking IT equipment abroad (business or personal)](https://intranet.justice.gov.uk/guidance/security/it-computer-security/taking-it-equipment-abroad-business-or-personal/)
+- [Using your own smartphone, laptop, tablet or PC for work](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/using-your-own-smartphone-laptop-tablet-or-pc-for-work/)
 
-This guidance describes what you should do. The guidance contains information for [Line Managers](#steps-to-follow-line-managers), and their [Direct Reports](#steps-to-follow-direct-reports).
+This guidance describes what you should do. The guidance contains steps to follow for [Line Managers](#steps-to-follow-line-managers), and their [Direct Reports](#steps-to-follow-direct-reports).
 
 <a id="steps-to-follow-line-managers"></a>
 
@@ -21,8 +21,8 @@ This guidance describes what you should do. The guidance contains information fo
 
 1. Check that your direct report (DR) has said what they want in their request. The request should identify which MOJ IT Policies apply.
 2. Check that the request is valid from a business perspective. If not, deny the request ([step 7](#step7) ).
-3. Make sure that the [Acceptable Use Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/acceptable-use/) is in the list of applicable policies.
-4. Review the requirements or obligations within those MOJ IT Policies.
+3. Check that [Acceptable Use](https://intranet.justice.gov.uk/guidance/security/it-computer-security/acceptable-use/) is in the list of applicable policies.
+4. Review the requirements or obligations within the MOJ IT Policies that apply to the request.
 5. Check that the DR understands and will follow the requirements or obligations. For example, have a discussion with them, or ask them for more information or evidence.
 6. If they are able to follow the applicable MOJ IT Policies, send a formal approval to the DR. An email is enough for this.
 7. <a id="step7"></a>If you don't think they can follow the Policies, or there's a weak business case for the request, refuse it.
@@ -36,7 +36,7 @@ This guidance describes what you should do. The guidance contains information fo
 > Note: If at _any_ time you need help about this process, or the applicable MOJ IT Policies, [just ask](mailto:itpolicycontent+line-manager-approval@digital.justice.gov.uk?subject=line-manager-approval).
 
 1. Check that your business need is valid.
-2. Check which MOJ IT Policies apply to your request. Include the [Acceptable Use Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/acceptable-use/) in the list of applicable policies.
+2. Check which MOJ IT Policies apply to your request. Include [Acceptable Use](https://intranet.justice.gov.uk/guidance/security/it-computer-security/acceptable-use/) in the list of applicable policies.
 3. Check that you understand the requirements or obligations within those MOJ IT Policies.
 4. Prepare evidence to show that you will follow all the requirements or obligations. Check that you have all the required information.
 5. Send a formal approval request to the authorities required by the MOJ IT Policies. Ensure that you include:
