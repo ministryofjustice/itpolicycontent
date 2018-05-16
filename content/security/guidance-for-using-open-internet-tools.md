@@ -68,7 +68,7 @@ OITs offer some significant advantages for you and the MOJ, including:
 - good use of open standards, such as file formats
 - reduced need to have specific hardware or software on computers
 - rapid patching to address security issues
-- easy updating as new features are deployed
+- easy updates and deployment of new features
 - a large pool of help and support
 - easy access, whenever you have a network connection
 - increasing availability of some or all capabilities when disconnected from the network
@@ -105,7 +105,7 @@ This guidance helps you:
 
 ### Privacy and personal information
 
-Data protection legislation makes you responsible for personal information you work with. You must keep it safe and secure.
+Data protection legislation makes you responsible for personal information you work with. You must keep it safe and secure. In particular, you must follow General Data Protection Regulation (GDPR) obligations.
 
 Without advance consent from anyone affected, don't use OITs for storing personal data. Never use OITs if unlawful disclosure of the information they process might cause damage or distress to an individual.
 
@@ -143,9 +143,9 @@ Laws and regulations make the MOJ and its employees responsible for managing inf
 
 When we receive a request for information, we need to know where we hold all the relevant information. Storing business information on appropriate MOJ systems helps us, because:
 
-- it protects us by making it easy to provide evidence of why decisions were made
-- it helps everyone understand what information is held, and where to find it
-- it enables the MOJ to transfer policy and court records to The National Archives
+- we can provide evidence about decisions
+- we understand the information held, and where to find it
+- we can transfer records to The National Archives
 
 Always store MOJ information in MOJ systems. If you use an OIT, make sure the key information is also stored in an appropriate MOJ system. Guidance on what you must keep is available [here](https://intranet.justice.gov.uk/guidance/knowledge-information/managing-information/what-to-keep/). At regular and convenient intervals, transfer the information to an appropriate MOJ system. Do the same when you finish the work. Don't forget to remove any redundant information from the OIT.
 
