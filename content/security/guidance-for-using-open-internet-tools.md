@@ -2,11 +2,7 @@
 title: guidance-for-using-open-internet-tools
 ---
 
-<table border='1'>
-<tr>
-<td>This information applies to all staff and contractors who work for the MOJ.</td>
-</tr>
-</table>
+<b>This information applies to all staff and contractors who work for the MOJ.</b>
 
 [oitlist]: https://intranet.justice.gov.uk/guidance/security/it-computer-security/open-internet-tools/
 
@@ -25,6 +21,15 @@ Also:
 https://www.gov.uk/government/publications/digital-skills-in-the-civil-service/internet-tools-for-civil-servants-an-introduction (Withdrawn April 4th, 2017)
 -->
 
+This guidance gives you:
+
+- an [overview](#overview) of Open Internet Tools (OIT)
+- a [quick checklist](#quick-checklist) to help you decide if you can use an OIT
+- reasons why you [might](#why-oits-are-an-opportunity), or [might not](#why-oits-are-a-risk), want to use an OIT
+- things you [must think about](#using-oits) when using an OIT, such as [data protection](#privacy-and-personal-information)
+
+<a id="overview"></a>
+
 ## Overview
 
 Open Internet Tools (OITs) are applications or services from suppliers outside the MOJ. They often have the following characteristics:
@@ -33,6 +38,8 @@ Open Internet Tools (OITs) are applications or services from suppliers outside t
 - they are accessed using the Internet. This means that if you have Internet access, you can connect to the tools
 - they often have a basic 'free-to-use' version. This means that you can use some or all the capabilities, but with some constraints. For example, an online word-processor might limit you to 5 documents in your account
 - they often have one or more 'paid for' versions. By paying for the tool, you unlock some or all the constraints
+
+<a id="quick-checklist"></a>
 
 ### Quick checklist
 
@@ -49,6 +56,8 @@ To help you decide if you can use an OIT to work on an MOJ task, consider the fo
 
 If the answer to _any_ of these questions is 'Yes', get guidance from your Line Manager, _before_ using the OIT.
 
+<a id="why-oits-are-an-opportunity"></a>
+
 ### Why OITs are an opportunity
 
 OITs offer some significant advantages for you and the MOJ, including:
@@ -63,6 +72,8 @@ OITs offer some significant advantages for you and the MOJ, including:
 - a large pool of help and support
 - easy access, whenever you have a network connection
 - increasing availability of some or all capabilities when disconnected from the network
+
+<a id="why-oits-are-a-risk"></a>
 
 ### Why OITs are a risk
 
@@ -79,6 +90,8 @@ But as long you consider the threats or risks, and address them, OITS provide ma
 
 With careful use, OITs help you to work more effectively and efficiently. Think about them as serious and preferable options for performing tasks.
 
+<a id="using-oits"></a>
+
 ## Using OITs
 
 This guidance helps you:
@@ -87,6 +100,8 @@ This guidance helps you:
 - identify and address threats or risks posed by a new tool
 - understand what tools are available for you to use
 - identify and champion new tools that might benefit the MOJ
+
+<a id="privacy-and-personal-information"></a>
 
 ### Privacy and personal information
 
@@ -148,39 +163,27 @@ Check the OIT usage agreement to find out more about the service and support ava
 
 There are already many OITs used across the MOJ. Permission to use an OIT might vary, depending on where you work in the MOJ. For example, some teams must not access or use some OITs, for security or operational reasons.
 
-It's always a good idea to let your Line Manager know you are planning to use an OIT for your work.
+> Note: Check with your Line Manager if you want to use an OIT for your work, _before_ you use it.
 
+<!--
 A current list of OITs, and their status, is available [here][oitlist].
+-->
 
 ## Getting help
 
 For further help about aspects of using OITs within the MOJ, contact:
 
-<table border='1'>
-<tr>
-<td valign='top'>Classification and Security</td>
-<td><a href="https://peoplefinder.service.gov.uk/teams/corporate-security-business-continuity-branch">MOJ Cyber Security team</a></td>
-</tr>
-<tr>
-<td valign='top'>Storage and Data Retention</td>
-<td>Knowledge and Information Management team:<br/><img src="https://intranet.justice.gov.uk/app/uploads/2018/02/7bb6ccaac44b0602cc182711471b30f4.gif"></td>
-</tr>
-<tr>
-<td valign='top'>Information Assurance</td>
-<td><a href="https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/information-assurance-roles/">Compliance and Information Assurance Branch</a></td>
-</tr>
-<tr>
-<td valign='top'>Personal Data</td>
-<td>Data Access and Compliance Unit:<br/><img src="https://intranet.justice.gov.uk/app/uploads/2018/02/ada3c2470495d8e52076e388c0f0d518.gif"></td>
-</tr>
-</table>
+Subject | Contact
+---|---
+Classification and Security | [MOJ Cyber Security team](https://peoplefinder.service.gov.uk/teams/corporate-security-business-continuity-branch)
+Storage and Data Retention | Knowledge and Information Management team:<br/>![](https://intranet.justice.gov.uk/app/uploads/2018/02/7bb6ccaac44b0602cc182711471b30f4.gif)&nbsp;
+Information Assurance | [Compliance and Information Assurance Branch](https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/information-assurance-roles/)
+Personal Data | Data Access and Compliance Unit:<br/>![](https://intranet.justice.gov.uk/app/uploads/2018/02/ada3c2470495d8e52076e388c0f0d518.gif)&nbsp;
 
-<p>&nbsp;</p>
+---
 
-<table border='1'>
-<tr>
-<td><table>
-<tr><td colspan='4'>This guidance is dated April 2018.
+<table>
+<tr><td colspan='4'>This guidance is dated May 2018.
 <p>
 To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent+guidance-for-using-open-internet-tools@digital.justice.gov.uk?subject=guidance-for-using-open-internet-tools">itpolicycontent@digital.justice.gov.uk</a>, or click one of the following icons.</p></td></tr>
 <tr>
@@ -188,6 +191,4 @@ To provide feedback on this document, please contact us: <a href="mailto:itpolic
 <td width='25%'><a href="mailto:itpolicycontent+guidance-for-using-open-internet-tools-1@digital.justice.gov.uk?subject=guidance-for-using-open-internet-tools-1"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/Cross.gif" alt="Content was unhelpful">Unhelpful.</a></td>
 <td width='25%'><a href="mailto:itpolicycontent+guidance-for-using-open-internet-tools+1@digital.justice.gov.uk?subject=guidance-for-using-open-internet-tools+1"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/Tick.gif" alt="Content was helpful">Helpful.</a></td>
 <td width='25%'><a href="mailto:itpolicycontent+guidance-for-using-open-internet-tools+2@digital.justice.gov.uk?subject=guidance-for-using-open-internet-tools+2"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/DoubleTick.gif" alt="Content was very helpful">Very helpful.</a></td>
-</table></td>
-</tr>
 </table>
