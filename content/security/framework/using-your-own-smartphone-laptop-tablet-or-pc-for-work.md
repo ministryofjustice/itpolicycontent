@@ -89,12 +89,6 @@ If you are not sure whether the information is sensitive, assume that it is sens
 
 - The MOJ Digital & Technology Slack. This team uses the domain "`mojdt.slack.com`"
 
-### Other services
-
-You might be allowed to use other services for working on your own device.
-
-To find out if you can, email [itservicedesk@justice.gsi.gov.uk](mailto:itservicedesk@justice.gsi.gov.uk) with the subject "`Access to a new service on my own device`" and details of the service you'd like to use.
-
 <table border='1'>
 <tr>
 <td>This document is dated April 2018.<br/>
