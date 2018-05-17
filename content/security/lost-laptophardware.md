@@ -10,43 +10,15 @@ title: lost-laptophardware
 
 If you think your device is lost, stolen, 'hacked', or in some way compromised, you must:
 
-- tell your line manager straight away
-- for a lost or stolen device, contact the Police and make sure you get the incident reference number
-- contact the Service Desk; the analyst will ask the relevant questions and note responses on the ticket
-  - the contact telephone number you need is Technology Service Desk:<br/>![](https://intranet.justice.gov.uk/app/uploads/2017/12/74015bc20bb1c38fb4249c4ef6d3cfed.gif) &nbsp;<br/>or if calling from overseas:<br/>![](https://intranet.justice.gov.uk/app/uploads/2018/05/8fc27c901ed47aa9d7edcb8ff4121e66.gif)&nbsp;
-- when back online fill in a [security incident form](https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/)
-- email the form to:<br/>![](https://intranet.justice.gov.uk/app/uploads/2017/12/e6404c31d65821489a775401ce4b941d.gif) &nbsp;
+1.  Contact the Technology Service Desk. The analyst will ask the relevant questions and note responses on the ticket. The contact telephone number you need is:<br/>![](https://intranet.justice.gov.uk/app/uploads/2017/12/74015bc20bb1c38fb4249c4ef6d3cfed.gif)<br/>or if calling from overseas:<br/>![](https://intranet.justice.gov.uk/app/uploads/2018/05/8fc27c901ed47aa9d7edcb8ff4121e66.gif)
+2.  Tell your line manager as soon as possible.
+3.  For a lost or stolen device, contact the Police and make sure you get the incident reference number.
+4.  When back online fill in a [security incident form](https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/).
+5.  Email the completed form to:<br/>![](https://intranet.justice.gov.uk/app/uploads/2017/12/e6404c31d65821489a775401ce4b941d.gif)
 
 If MOJ data or information is lost or compromised, [report it as a data loss](https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/report-a-data-loss/).
 
 Find out more about how to report a security incident [here](https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/).
-
-### Legacy content
-
-Who should they contact? - Contact the Incident Response and Tuning Team:<br/>
-![](https://intranet.justice.gov.uk/app/uploads/2018/01/3ab6c2967979a0681cbd8a512f45bbb9.gif)&nbsp;
-
-**If you do not have access to email call:**
-
-<ul>
-<li><b>In hours calls:</b><br/><img src="https://intranet.justice.gov.uk/app/uploads/2018/01/b6671e8f462bb54587f54b1738e23699.gif">&nbsp;</li>
-<li><b>Out of hours call (best efforts):</b><br/><img src="https://intranet.justice.gov.uk/app/uploads/2018/01/5a456037048cd81f7e65596ae2eb165d.gif">&nbsp;</li>
-</ul>
-
-How do we know? Incident Team to inform IA Team at earliest opportunity.
-
-Who does what? Incident Response and Tuning Team raise incident and inform Operational Security Team.
-
-What info is recorded? Details of loss:
-
-*   Time, place, circumstances, reported to, actions taken to resolve;
-*   If macbook, was it shutdown, locked or logged on?
-*   If other hardware containing information, e.g. drive, was it encrypted?
-*   Any other relevant details.
-
-Where is it recorded? - Incident Response and Tuning Team log on .....
-
-Do we tell others? - Operational Security Team, IT Admin Team.
 
 ---
 
