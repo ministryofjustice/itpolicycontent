@@ -35,9 +35,9 @@ This guidance gives you:
 Open Internet Tools (OITs) are applications or services from suppliers outside the MOJ. They often have the following characteristics:
 
 - they are general purpose. This means they are not specific to the MOJ. Other organisations can use them
-- they are accessed using the Internet. This means that if you have Internet access, you can connect to the tools
-- they often have a basic 'free-to-use' version. This means that you can use some or all the capabilities, but with some constraints. For example, an online word-processor might limit you to 5 documents in your account
-- they often have one or more 'paid for' versions. By paying for the tool, you unlock some or all the constraints
+- they are accessed using the Internet, usually through a web browser. This means that if you have Internet access, you are able to connect to the tools
+- they have a basic 'free-to-use' version. This means that you are able to use some or all the capabilities, but with some constraints. For example, an online word-processor might limit you to 5 documents in your account
+- they have one or more 'paid for' versions. By paying for the tool, you unlock some or all the constraints
 
 <a id="quick-checklist"></a>
 
@@ -53,8 +53,12 @@ To help you decide if you can use an OIT to work on an MOJ task, consider the fo
   - lost
   - stolen
   - published in the media
+- are you prevented from exporting all the data from the tool?
+- are you prevented from deleting all the data from the tool when you finish working on the task?
 
-If the answer to _any_ of these questions is 'Yes', get guidance from your Line Manager, _before_ using the OIT.
+If the answer to _any_ of these questions is 'Yes', you might not be able to use the OIT.
+
+When you have all the answers, request formal approval to use the OIT from your Line Manager. Do this _before_ using the OIT.
 
 <a id="why-oits-are-an-opportunity"></a>
 
@@ -98,8 +102,11 @@ This guidance helps you:
 
 - understand the conditions or constraints that apply to a tool, or a task performed using a tool
 - identify and address threats or risks posed by a new tool
+
+<!--
 - understand what tools are available for you to use
 - identify and champion new tools that might benefit the MOJ
+-->
 
 <a id="privacy-and-personal-information"></a>
 
@@ -159,6 +166,8 @@ OITs are often intuitive and reliable. But that doesn't mean they are always ava
 
 Check the OIT usage agreement to find out more about the service and support available.
 
+> Note: The MOJ cannot provide technical support for OITs.
+
 ## Common OITs
 
 There are already many OITs used across the MOJ. Permission to use an OIT might vary, depending on where you work in the MOJ. For example, some teams must not access or use some OITs, for security or operational reasons.
@@ -176,9 +185,9 @@ For further help about aspects of using OITs within the MOJ, contact:
 Subject | Contact
 ---|---
 Classification and Security | [MOJ Cyber Security team](https://peoplefinder.service.gov.uk/teams/corporate-security-business-continuity-branch)
-Storage and Data Retention | Knowledge and Information Management team:<br/>![](https://intranet.justice.gov.uk/app/uploads/2018/02/7bb6ccaac44b0602cc182711471b30f4.gif)&nbsp;
+Storage and Data Retention | Knowledge and Information Management team:<br/>![](https://intranet.justice.gov.uk/app/uploads/2018/02/7bb6ccaac44b0602cc182711471b30f4.gif)
 Information Assurance | [Compliance and Information Assurance Branch](https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/information-assurance-roles/)
-Personal Data | Data Access and Compliance Unit:<br/>![](https://intranet.justice.gov.uk/app/uploads/2018/02/ada3c2470495d8e52076e388c0f0d518.gif)&nbsp;
+Personal Data | Data Access and Compliance Unit:<br/>![](https://intranet.justice.gov.uk/app/uploads/2018/02/ada3c2470495d8e52076e388c0f0d518.gif)
 
 ---
 
