@@ -88,7 +88,7 @@ OITs also pose some threats or risks, including:
 - security of information stored within or processed by the tool
 - potential difficulty of enhancing or customising the tool for MOJ-specific requirements
 
-But as long you consider the threats or risks, and address them, OITS provide many benefits for you and the MOJ.
+But as long you consider the threats or risks, and address them, OITs provide many benefits for you and the MOJ.
 
 ### Summary
 
@@ -123,6 +123,8 @@ Be sure you can fulfil your data protection responsibilities when using an OIT. 
 Complying with personal information requirements can be complex. Don't hesitate to ask for advice:<br/>
 ![](https://intranet.justice.gov.uk/app/uploads/2018/02/3d58a7dd7083aa02245a5c9c8796bcd6.gif)
 
+<p>&nbsp;</p>
+
 ### Classification and security
 
 An OIT can only store or process information [classified](https://www.gov.uk/government/publications/government-security-classifications) at `OFFICIAL` level.
@@ -131,6 +133,8 @@ Think about the MOJ information you work with.  What would happen if you lost it
 
 Think also about information moving across the Internet. The data might be safe within the MOJ and in an approved OIT. But what about the connection between the two? Sending information might involve insecure networks. Be aware of the security implications. Check that enough suitable security measures are in place to protect the information. For example, check for encryption of network connections using [SSL/TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security). A simple way to do this is to look for the secure connection indicator in your web browser:<br/>
 ![](https://intranet.justice.gov.uk/app/uploads/2018/02/guidance-for-using-open-internet-tools-01.png)
+
+<p>&nbsp;</p>
 
 You have a duty of confidentiality and a responsibility to safeguard any HMG information or data that you access. This is [Principle 2](https://www.gov.uk/government/publications/government-security-classifications) of the Government Security Classifications. The MOJ trusts you to work with `OFFICIAL` information. In the same way, you're trusted to make a reasoned judgement about whether it's safe to use an OIT.
 
@@ -166,13 +170,13 @@ OITs are often intuitive and reliable. But that doesn't mean they are always ava
 
 Check the OIT usage agreement to find out more about the service and support available.
 
-> Note: The MOJ cannot provide technical support for OITs.
+<b>Note: The MOJ cannot provide technical support for OITs.</b>
 
 ## Common OITs
 
 There are already many OITs used across the MOJ. Permission to use an OIT might vary, depending on where you work in the MOJ. For example, some teams must not access or use some OITs, for security or operational reasons.
 
-> Note: Check with your Line Manager if you want to use an OIT for your work, _before_ you use it.
+<b>Note: Check with your Line Manager if you want to use an OIT for your work, _before_ you use it.</b>
 
 <!--
 A current list of OITs, and their status, is available [here][oitlist].
