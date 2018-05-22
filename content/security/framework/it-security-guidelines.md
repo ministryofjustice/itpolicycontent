@@ -414,11 +414,13 @@ Where use of additional measures has been advised the sender needs to be sure:
 - that there is sufficient confidence/assurance that the recipient will give the `OFFICIAL` information the appropriate level of protection;
 - that the following caveat is included in the document/electronic messaging:
 
-<blockquote>This document has been provided on a strictly 'Need-To-Know' basis. For the storage and control of assets marked `OFFICIAL` you should do everything possible to:
-
-- Make accidental compromise or damage unlikely during storage, handling, use, processing, transmission or transport.
-- Deter deliberate compromise or opportunist attack.
-- Dispose of or destroy in a manner to make reconstruction unlikely.</blockquote>
+<blockquote>This document has been provided on a strictly 'Need-To-Know' basis. For the storage and control of assets marked <code>OFFICIAL</code> you should do everything possible to:
+<ul>
+<li>Make accidental compromise or damage unlikely during storage, handling, use, processing, transmission or transport.</li>
+<li>Deter deliberate compromise or opportunist attack.</li>
+<li>Dispose of or destroy in a manner to make reconstruction unlikely.</li>
+</ul>
+</blockquote>
 
 ### Using CJSM securely
 
@@ -515,3 +517,16 @@ Use the first letters of a phrase (e.g. '`This is now a Secure system for me!`' 
 Do not make obvious letter / number substitutions to disguise recognisable words e.g. `0` for `O`, `5` for `S`, `1` for `I`, as this is a well known technique and therefore offers little security.
 
 If you would like the information in this booklet in an alternative format, please email the Operational Security Team:<br/>![](https://intranet.justice.gov.uk/app/uploads/2018/05/c210534c474fcf88f5303ed6aa7dccee.gif)<br/> <br/>Or call:<br/>![](https://intranet.justice.gov.uk/app/uploads/2017/12/64a07aab5f77479e27c487c3f8e20296.gif)<br/> <br/>
+
+---
+
+<table>
+<tr><td colspan='4'>This guidance is dated May 2018.
+<p>
+To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent+it-security-guidelines@digital.justice.gov.uk?subject=it-security-guidelines">itpolicycontent@digital.justice.gov.uk</a>, or click one of the following icons.</p></td></tr>
+<tr>
+<td width='25%'><a href="mailto:itpolicycontent+it-security-guidelines-2@digital.justice.gov.uk?subject=it-security-guidelines-2"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/DoubleCross.gif" alt="Content was very unhelpful">Very unhelpful.</a></td>
+<td width='25%'><a href="mailto:itpolicycontent+it-security-guidelines-1@digital.justice.gov.uk?subject=it-security-guidelines-1"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/Cross.gif" alt="Content was unhelpful">Unhelpful.</a></td>
+<td width='25%'><a href="mailto:itpolicycontent+it-security-guidelines+1@digital.justice.gov.uk?subject=it-security-guidelines+1"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/Tick.gif" alt="Content was helpful">Helpful.</a></td>
+<td width='25%'><a href="mailto:itpolicycontent+it-security-guidelines+2@digital.justice.gov.uk?subject=it-security-guidelines+2"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/DoubleTick.gif" alt="Content was very helpful">Very helpful.</a></td>
+</table>
