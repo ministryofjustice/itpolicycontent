@@ -2,14 +2,7 @@
 title: Using your own smartphone, laptop, tablet or PC for work
 ---
 
-<table border='1'>
-<tr>
-<td>This guidance information applies to all staff, contractors and agency staff who work for the MOJ.<br>
-Note: Some agencies, bodies, or other areas within the MOJ might have additional or alternative policy, standard or guidance that applies to this topic. Check your local Intranet or ask your Line Manager for information about any local variation.</td>
-</tr>
-</table>
-
-The MOJ provides the IT equipment you need for your work. But you might prefer to use your own smartphone, laptop, tablet, or PC.
+The MOJ provides the IT equipment you need for your work. But you might prefer to use your own smartphone, laptop, tablet, or PC. It can even be cheaper for the MOJ.
 
 Using your personally-owned device is often acceptable as long as you take some precautions first. Remember that you are responsible for the MOJ information held on, or accessed by, your device. It might be your equipment, but you have the same obligations and responsibilities for protecting MOJ information and resources. In particular, the policies, standards and guidance that apply to MOJ-issued devices will also apply to your device.
 
@@ -34,9 +27,8 @@ Be clear about what tools you will use, and the tasks you will perform: if it's 
 
 To stop other people accessing MOJ systems or information, your device must:
 
-- ask for a [good password](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/password-standard/), PIN, fingerprint or other ID verification whenever you log on
+- ask for a [strong password](https://www.cyberaware.gov.uk/passwords), PIN, fingerprint or other ID verification whenever you log on
 - lock the screen if you don’t use it for 10 minutes
-- make sure your device is using data-at-rest encryption (the Service Desk can help you if you're not sure)
 
 Ensure that your device is completely up-to-date with security patches as well as antivirus and anti-malware tools.
 
@@ -64,15 +56,15 @@ If a family member borrows your tablet or laptop (for example), make sure they c
 
 ## If something goes wrong
 
-If you think your device is lost, stolen or 'hacked', you must:
+If your device is lost, stolen or 'hacked', you must:
 
-- tell your line manager straight away
-- ring the Service Desk on  where the analyst will ask the relevant questions and note responses on the ticket
+- ring the Service Desk where the analyst will ask the relevant questions and note responses on the ticket
 - the contact telephone numbers you need are:
     - ![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/01/758cf470655d11cc683a6d9511ba3331.gif) &nbsp;
     - ![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/01/5818419a0f76cd3ad2b515d25b68876e.gif) &nbsp;
 - when back online fill in a [security incident form](https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/)
 - email the form to: [itservicedesk@justice.gsi.gov.uk](mailto:itservicedesk@justice.gsi.gov.uk)
+- tell your line manager straight away
 
 
 If MOJ data or information is lost or compromised, [report it as a data loss](https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/report-a-data-loss/).
@@ -102,15 +94,25 @@ If you are not sure whether the information is sensitive, assume that it is sens
 
 - The MOJ Digital & Technology Slack. This team uses the domain "`mojdt.slack.com`"
 
-### Other services
+---
 
-You might be allowed to use other services for working on your own device.
-
-To find out if you can, email [itservicedesk@justice.gsi.gov.uk](mailto:itservicedesk@justice.gsi.gov.uk) with the subject "`Access to a new service on my own device`" and details of the service you'd like to use.
-
-<table border='1'>
+<table>
+<tr><td colspan='4'>This guidance is dated May 2018.
+<p>
+To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent+using-your-own-smartphone-laptop-tablet-or-pc-for-work
+@digital.justice.gov.uk?subject=using-your-own-smartphone-laptop-tablet-or-pc-for-work
+">itpolicycontent@digital.justice.gov.uk</a>, or click one of the following icons.</p></td></tr>
 <tr>
-<td>This document is dated April 2018.<br/>
-To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=using-your-own-smartphone-laptop-tablet-or-pc-for-work">itpolicycontent@digital.justice.gov.uk</a>.</td>
-</tr>
+<td width='25%'><a href="mailto:itpolicycontent+using-your-own-smartphone-laptop-tablet-or-pc-for-work
+-2@digital.justice.gov.uk?subject=using-your-own-smartphone-laptop-tablet-or-pc-for-work
+-2"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/DoubleCross.gif" alt="Content was very unhelpful">Very unhelpful.</a></td>
+<td width='25%'><a href="mailto:itpolicycontent+using-your-own-smartphone-laptop-tablet-or-pc-for-work
+-1@digital.justice.gov.uk?subject=using-your-own-smartphone-laptop-tablet-or-pc-for-work
+-1"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/Cross.gif" alt="Content was unhelpful">Unhelpful.</a></td>
+<td width='25%'><a href="mailto:itpolicycontent+using-your-own-smartphone-laptop-tablet-or-pc-for-work
++1@digital.justice.gov.uk?subject=using-your-own-smartphone-laptop-tablet-or-pc-for-work
++1"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/Tick.gif" alt="Content was helpful">Helpful.</a></td>
+<td width='25%'><a href="mailto:itpolicycontent+using-your-own-smartphone-laptop-tablet-or-pc-for-work
++2@digital.justice.gov.uk?subject=using-your-own-smartphone-laptop-tablet-or-pc-for-work
++2"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/DoubleTick.gif" alt="Content was very helpful">Very helpful.</a></td>
 </table>
