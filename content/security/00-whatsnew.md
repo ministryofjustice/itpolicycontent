@@ -10,6 +10,7 @@ This document summarises what changes were made, and when, to MOJ IT Policy cont
 
 Date | Audience | Topic (and link) | Changes
 ---|---|---|---
+May 25 | All | [IT Security Guidelines](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/it-security-guidelines/) | Convert PDF to Intranet page, to enable update to [Leaver's checklist](https://intranet.justice.gov.uk/documents/2018/05/leavers-checklist-for-managers-3.docx).
 May 18 | All | [Line Manager approval](https://intranet.justice.gov.uk/guidance/security/it-computer-security/line-manager-approval/) | Guidance on getting approval when required by an IT Policy.
 May 16 | All | [Using your own smartphone, laptop, tablet or PC for work](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/using-your-own-smartphone-laptop-tablet-or-pc-for-work/) | Removed section which was adding ambiguity.
 May 16 | All | [Taking IT equipment abroad (business or personal)](https://intranet.justice.gov.uk/guidance/security/it-computer-security/taking-it-equipment-abroad-business-or-personal/) | Clarity added to the approval process following feedback from users and the OST. Also, included a section customised for HMPPS.

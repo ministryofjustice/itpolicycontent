@@ -32,7 +32,7 @@ The ICT security policy framework is designed to:
 
 The ICT security guide gives you advice and guidance on the main security issues that are likely to affect you as a computer user within MOJ, including its agencies and associated offices. It also sets out your individual responsibilities for ICT security.
 
-- [IT security guide](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/ict-security-guidelines/)
+- [IT security guide](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/it-security-guidelines/)
 - [Security guidance for contractors](https://intranet.justice.gov.uk/documents/2015/04/policy-for-contractors-on-data-security-and-it-equipment.doc)
 - [Remote working & mobile guide](https://intranet.justice.gov.uk/documents/2017/12/remote-working-and-mobile-computing-security-guide-november-2017.pdf)
 
