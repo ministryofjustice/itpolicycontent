@@ -16,11 +16,15 @@ title: public-key-infrastructure-policy
 
 **This information applies to those who provide MOJ technology services, including technical architects, developers, product or service owners, system administrators, and operations teams.**
 
-Note: Use of the word MUST in this document complies with [RFC 2119][rfc2119].
+Note: Use of the word MUST or SHALL in this document complies with [RFC 2119][rfc2119].
 
-Good practice in encryption today uses asymmetric technologies. Asymmetric encryption uses public and private keys. Managing all aspects of the keys requires a suitable set of organisational structures, facilities, and processes. Together, these are a Public Key Infrastructure (PKI). The infrastructure defines encryption key services. The services ensure that use of encryption keys maintains confidentiality, integrity, and authentication for organisational data and services.
+Good practice in encryption today uses asymmetric technologies. Asymmetric encryption uses public and private keys. We need organisational processes and tools to manage all aspects of these keys. Together, these are a Public Key Infrastructure (PKI). The infrastructure defines encryption key services. The services make sure that when using keys, we maintain:
 
-This policy document describes the PKI policy requirements for the MOJ. In particular, it applies to the following:
+- confidentiality
+- integrity
+- authentication
+
+This document describes the MOJ PKI policy requirements. It applies to:
 
 - PSN Wide Area Network VPN cryptography
 - server-side certificates for:
@@ -30,34 +34,35 @@ This policy document describes the PKI policy requirements for the MOJ. In parti
 - user and device certificates for network access control using 802.1x EAP/TLS
 - user certificates for digital signature functions
 
-For any other functions requiring PKI services, for example RAS VPNs, contact the system Accreditor, or MOJ Crypto Custodian.
-
 This policy does not apply to:
 
 - any information, service, or component classified as `SECRET` or `TOP SECRET`
 - non-[802.1x][802.1x] authentications systems
 
+For anything else requiring PKI services, contact the system Accreditor, or MOJ Crypto Custodian.
+
 ### Defined Terms
 
 Term | Definition
 ---|---
-Certificate Authority (CA) | An entity that issues digital certificates. Certificate Authorities are hierarchical, with subordinate CAs being authorised to issue certificates by a trusted, top level, "Root" CA.
-Certificate Policy (CP) | A document that states the different actors of a public key infrastructure (PKI), specifying their roles and their duties. Its content and structure is described in [IETF RFC3647][rfc3647]. This is often a legal document forming part of a contract.
-Certificate Practice Statement (CPS) | A document from a Certificate Authority which describes their practice for issuing and managing public key certificates in line with the root CA Certificate Policy. Its content and structure is described in [IETF RFC3647][rfc3647].
-Certificate Revocation List (CRL) | A signed list of certificates (or more specifically, a list of serial numbers for certificates) that have been revoked before they expire, and therefore, entities presenting those (revoked) certificates should no longer be trusted. CRL is described in [IETF RFC5280][rfc5280].
-Certificate Revocation Request (CRR) | A message sent from the registered owner of a digital certificate to a certificate authority in order to revoke a compromised digital certificate. Normally complies with PKCS #10 as defined in [IETF RFC 2986][rfc2986].
-Certificate Signing Request (CSR) | A message sent from an applicant to a certificate authority in order to apply for a digital identity certificate. Normally complies with PKCS #10 as defined in [IETF RFC 2986][rfc2986].
-Key | A piece of information that determines the functional output of a cryptographic algorithm or cipher.
-Online Certificate Status Protocol (OCSP) | An Internet protocol used for obtaining the revocation status of an X.509 digital certificate. It is described in [IETF RFC 6960][rfc6960].
-PKI Customer | An entity (a user or organisation) that is authorised to access the PKI Services for the purposes of signing or revoking digital certificates. Some PKI customers may also provide delegated PKI Services.
-PKI Services | The services provided in the delivery of Public Key Infrastructure. PKI Services includes those provided either as a root or subordinate Certificate Authority, Registration Authority, and Validation Authority. The usage of digital certificates for cryptography or digital signatures within applications and other ICT systems is not considered a PKI Service, but those systems would consume PKI Services.
-Private Key (PrK) | A secret key used to decrypt or digitally sign information.
-Public Key (PuK) | A non-sensitive key that is used to encrypt information or validate digital signatures.
-Public Key Cryptography | A class of cryptographic algorithms which requires two separate keys, one of which is kept private (secret) and one of which is made public usually embedded in a certificate.
-Public Key Infrastructure (PKI) | A set of hardware, software, people, policies, and procedures needed to create, manage, distribute, use, store, validate and revoke digital certificates.
-Registration Authority (RA) | An entity that validates the identities of actors in a PKI, and processes certificate signing requests and certificate revocation requests on behalf of authorised actors sending these to the CA for processing.
+Certificate Authority (CA) | An entity that issues digital certificates. Certificate Authorities are hierarchical. Subordinate CAs issue certificates on behalf of a trusted, higher level, "Root" CA.
+Certificate Policy (CP) | A document describing the different actors of a public key infrastructure (PKI). It specifies their roles and their duties. Its content and structure follows the format in [IETF RFC3647][rfc3647]. It is often a legal document forming part of a contract.
+Certificate Practice Statement (CPS) | A document from a Certificate Authority. It describes their practice for issuing and managing public key certificates. It aligns with the root CA Certificate Policy. Its content and structure follows the format in [IETF RFC3647][rfc3647].
+Certificate Revocation List (CRL) | A signed list of certificates that have been revoked before they expire. Do not trust anyone or anything presenting a revoked certificate from the list. The CRL is a list of certificate serial numbers. It follows the format in [IETF RFC5280][rfc5280].
+Certificate Revocation Request (CRR) | A message sent to a CA from the registered owner of a digital certificate. It's used to revoke a compromised digital certificate. The message follows the PKCS #10 format defined in [IETF RFC 2986][rfc2986].
+Certificate Signing Request (CSR) | A message sent to a CA from an applicant who wants to apply for a digital identity certificate. The message follows the PKCS #10 format as defined in [IETF RFC 2986][rfc2986].
+Key | A piece of information that affects the output from a cryptographic algorithm.
+keymat | An abbreviation for cryptographic key materials. These are physical devices or media that hold Public Key Cryptography materials.
+Online Certificate Status Protocol (OCSP) | An Internet protocol used to find the revocation status of an X.509 digital certificate. The protocol follows the format in [IETF RFC 6960][rfc6960].
+PKI Customer | A user or organisation that is allowed to access the PKI Services. They can use the services for signing or revoking digital certificates. Some PKI customers might also provide delegated PKI Services.
+PKI Services | The services provided in the delivery of Public Key Infrastructure. PKI Service examples include: root or subordinate CA, RA, and VA. Using digital certificates for cryptography or digital signatures is not a PKI Service.
+Private Key (PrK) | A secret key used to decrypt or sign information.
+Public Key (PuK) | A non-sensitive key used to encrypt information or to validate digital signatures.
+Public Key Cryptography | A class of cryptography. It has two separate keys. One key is private: the secret key. The other key is public, and often embedded in a certificate.
+Public Key Infrastructure (PKI) | A set of hardware, software, people, policies, and procedures. Use them to create, manage, distribute, use, store, validate, and revoke digital certificates.
+Registration Authority (RA) | An entity that validates the identities of actors in a PKI. It processes certificate signing requests and certificate revocation requests. It does so on behalf of authorised actors sending these to the CA for processing.
 Trust Anchor | An authoritative entity for which trust is presumed and not derived. Root CAs must be Trust Anchors.
-Validation Authority (VA) | A service that authenticates and validates the certificates of a PKI. The VA provides a public key directory and also enables access to certificate revocation information either by providing CRLs or using the OCSP protocol.
+Validation Authority (VA) | A service that authenticates and validates the certificates of a PKI. The VA provides a public key directory. It also enables access to certificate revocation information. It does this by providing CRLs, or by using the OCSP protocol.
 
 <a id="general-pki-policy"></a>
 
@@ -67,7 +72,7 @@ Validation Authority (VA) | A service that authenticates and validates the certi
 
 ### Overview
 
-This section describes the common PKI policy that applies regardless of the type of PKI service in question. It covers the following subsections:
+This section describes the common PKI policy. The policy always applies, regardless of the service requested. It includes:
 
 - [governance structure](#governance-structure)
 - [technical architecture](#technical-architecture)
@@ -84,13 +89,15 @@ This section describes the common PKI policy that applies regardless of the type
 
 Role | Responsibility
 ---|---
-Administrators | Responsible for configuration, maintenance and support of the PKI services.
-Auditors | Internal and external auditors including UKKPA and MOJ Information Assurance who ensure that the PKI Services are running within specification and comply with legal and regulatory requirements, HMG Policy and MOJ Policy.
+Administrators | Look after the configuration, maintenance and support of PKI services.
+Auditors | Auditors ensure that PKI Services meet specification, and follow legal and regulatory requirements. The requirements include HMG Policy and MOJ Policy. Internal auditors include MOJ Information Assurance. External auditors include the UKKPA.
 Communication Security Officer (ComSO) | Responsible for day to day management of the PKI Services, relationship management with CESG and UKKPA (GCHQ's UK key production authority), mustering and other formal processes. First point of escalation for incidents and managing initial incident response.
 Crypto Custodians | Responsible for day to day operation of the PKI services, including the distribution of keys from the UKKPA. Where keymat is provided from the UKKPA they shall be formally trained and authorised Crypto Custodians. For other services they should be formally trained. Note that the Authority's Crypto Custodian may delegate key management responsibilities to Supplier Crypto Custodians.
-Departmental Security Officer (DSO) | Responsible for the operational governance of the PKI Services and the report line for the ComSO.
+Departmental Security Officer (DSO) | Responsible for the operational governance of the PKI Services and the report line for the ComSO. In the MOJ, this role is now replaced by the SSA.
 IT Security Officer (ITSO) | Responsible for operational IT security management.
 Senior Information Risk Owner (SIRO) | Responsible for all risks to do with the PKI Services. Final point of escalation for incidents.
+Senior Security Advisor (SSA) | Understands the major threats to the MOJ and wider government. Uses this information to assess the risks to MOJ business, and determines how to manage security risks affecting all business areas.
+United Kingdom Key Production Authority (UKKPA) | Part of the National Cyber Security Centre (NCSC). Provides digitally resilient cryptographic materials ('keymat') across HMG and the public sector.
 
 <a id="incident-response"></a>
 
