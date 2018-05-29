@@ -22,7 +22,7 @@ April 6 | All | [Passwords](https://intranet.justice.gov.uk/guidance/security/it
 April 6 | Developers, System Suppliers | [Password Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/password-policy/) | Password policy information.
 April 6 | All | [Password Standard](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/password-standard/) | The standard for choosing and using passwords.
 April 6 | All | [Password Guidance](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/password-guidance/) | General guidance for using passwords.
-April 3 | All | [Using your own smartphone, laptop, tablet or PC for work](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/using-your-own-smartphone-laptop-tablet-or-pc-for-work/) | Why you might want to use a personally-owned device for MOJ tasks, and when it is acceptable to do so.
+April 3 | All | Using your own smartphone, laptop, tablet or PC for work | Why you might want to use a personally-owned device for MOJ tasks, and when it is acceptable to do so. (Review in progress.)
 
 <p>&nbsp;</p>
 
