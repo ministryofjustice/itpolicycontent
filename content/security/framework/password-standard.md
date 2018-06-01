@@ -45,7 +45,6 @@ Follow the [GOV.UK advice][govukpasswords] to generate your passwords. Use a sep
 Make sure you read the MOJ [guidance][pg] information about passwords. The most important points are that passwords should be:
 
 - at least 8 characters long
-- contain a mix of character types
 - unlimited in length
 - not obvious
 
@@ -103,7 +102,17 @@ Extra guidance for system administrators or developers is available [here][ncsch
 
 Follow the [Government Service Manual for Passwords][smdp] when you administer or develop MOJ systems or services.
 
-Suppliers and vendors must ensure that systems support the password requirements. Systems must be able to issue, change, reset, and revoke passwords. This must be possible using well-defined and fully-described processes. Supply enough information and procedures to fulfil MOJ password  policy.
+Suppliers and vendors must ensure that systems support the password requirements. Systems must be able to issue, change, reset, and revoke passwords. This must be possible using well-defined and fully-described processes. Supply enough information and procedures to fulfil MOJ password policy.
+
+The [NCSC guidance][ncscpasswordguidancesimplify] for simplifying passwords says that forcing complex passwords has:
+
+- marginal security benefit
+- a high user burden
+
+Technical controls are more effective at protecting password-based authentication. Examples include:
+
+- [locking accounts](#password-access-attempts) after repeated access attempts
+- [blocking](#blocking-passwords) common password choices
 
 ### Default passwords
 
@@ -138,11 +147,19 @@ Never store, display or print passwords [in the clear](https://en.wikipedia.org/
 
 Extra information on handling and protecting passwords is in the [IT Security SyOPs - System Administrators][sa] guide.
 
+<a id="password-access-attempts"></a>
+
 ### Password access attempts
 
 If a password is ever entered incorrectly, a count should start. After at most 10 (ten) consecutive failed attempts at using the correct password, lock the account or system access. A successful use of the password resets the count to zero again.
 
 If a password lock occurs, a reset is necessary. This requires action by the system administrator or MOJ Service Desk. The process should be like issuing the password for the first time. The main difference between the processes for first-time password and for password reset are that the account details are kept intact during the reset, to avoid losing any work. Checks ensure that an attacker cannot use the password reset process.
+
+<a id="blocking-passwords"></a>
+
+### Blocking passwords
+
+Don't let users choose [obvious passwords](https://en.wikipedia.org/wiki/List_of_the_most_common_passwords). Be careful to detect and prevent obvious passwords embedded within a password. For example, `SecretPassword` is not a good password!
 
 ### Distributing passwords to users
 
