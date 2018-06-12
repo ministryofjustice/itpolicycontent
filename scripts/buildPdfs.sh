@@ -19,9 +19,11 @@ mkdir -p $resultDir
 
 array=(
   it-computer-security
+  it-computer-security/00-whatsnew
   it-computer-security/acceptable-use
   it-computer-security/acceptable-use-policy
   it-computer-security/access-control
+  it-computer-security/setecastronomy
   it-computer-security/clear-screen-and-desk-policy
   it-computer-security/email
   it-computer-security/forensic-principles
@@ -39,17 +41,22 @@ array=(
   it-computer-security/ict-security-policy-framework/it-acceptable-use-policy
   it-computer-security/ict-security-policy-framework/it-disaster-recovery-policy
   it-computer-security/ict-security-policy-framework/it-incident-management-policy
+  it-computer-security/ict-security-policy-framework/it-security-guidelines
   it-computer-security/ict-security-policy-framework/malware-protection-guide
   it-computer-security/ict-security-policy-framework/moj-enterprise-access-control-policy
   it-computer-security/ict-security-policy-framework/moj-forensic-readiness-policy
   it-computer-security/ict-security-policy-framework/moj-ict-security-guide
   it-computer-security/ict-security-policy-framework/offshoring-guide
+  it-computer-security/ict-security-policy-framework/password-guidance
+  it-computer-security/ict-security-policy-framework/password-policy
   it-computer-security/ict-security-policy-framework/password-standard
   it-computer-security/ict-security-policy-framework/patch-management-standard
   it-computer-security/ict-security-policy-framework/protective-monitoring-guide
   it-computer-security/ict-security-policy-framework/public-key-infrastructure-policy
   it-computer-security/ict-security-policy-framework/remote-working
   it-computer-security/ict-security-policy-framework/system-administrators
+  it-computer-security/ict-security-policy-framework/system-backup-guidance
+  it-computer-security/ict-security-policy-framework/system-backup-policy
   it-computer-security/ict-security-policy-framework/system-backup-standard
   it-computer-security/ict-security-policy-framework/system-lockdown-and-hardening-standard
   it-computer-security/ict-security-policy-framework/system-test-standard
@@ -59,9 +66,11 @@ array=(
   it-computer-security/incident-reporting
   it-computer-security/infrastructure-system-accreditation
   it-computer-security/laptops
+  it-computer-security/line-manager-approval
   it-computer-security/locking-and-shutdown
   it-computer-security/lost-laptophardware
   it-computer-security/passwords
+  it-computer-security/patching
   it-computer-security/policies-for-google-apps-administrators
   it-computer-security/policies-for-macbook-administrators
   it-computer-security/policies-for-macbook-users
