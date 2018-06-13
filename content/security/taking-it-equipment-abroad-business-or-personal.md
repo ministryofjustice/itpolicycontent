@@ -1,12 +1,6 @@
 ﻿---
-title: taking-it-equipment-abroad-business-or-personal 
+title: taking-it-equipment-abroad-business-or-personal
 ---
-
-<table border='1'>
-<tr>
-<td>This guidance information applies to all staff, contractors and agency staff who work for the MOJ.</td>
-</tr>
-</table>
 
 In general, it is acceptable for MOJ users to access MOJ services from abroad, and to do this using their MOJ equipment. 
 
@@ -20,9 +14,7 @@ As a government official travelling overseas, you should consider that you may b
 
 Special case: If you are national security cleared to ‘Enhanced SC’ or DV levels, you must also contact Corporate Security branch before travelling, regardless of whether the trip is for business or personal reasons.
  
-You must seek permission from your line manager and SCS/Governor first if you need to access MOJ services from abroad.
-
-Additionally, if you are visiting one of the following countries, you must seek permission from your line manager and SCS/Governor, and if they approve, submit your request to Operational Security, giving at least 14 days’ notice. This is because it may be necessary to apply additional technical controls to protect you, your device, and any data they can access.	
+If you are visiting or stopping over at one of the following countries you must still seek permission from your line manager and SCS/Governor, and if they approve, additionally submit your request to Operational Security giving at least 14 days’ notice. This is because it may be necessary to apply additional technical controls to protect you, your device, and any data they can access.	
  
 * China
 * Cyprus
@@ -42,7 +34,7 @@ Additionally, if you are visiting one of the following countries, you must seek 
 * Turkey
 * UAE
  
-## To make a request
+## To make a request if visiting one of the countries listed above
 
 First, collect the following information:
 
@@ -79,8 +71,8 @@ While travelling, you might incur roaming charges when using your MOJ equipment 
 
 By default, MOJ equipment is not enabled for use abroad. Before travelling, contact the MOJ Phone and Mobile Devices team. Ask them to enable International Roaming, and to activate the remote wipe function. This protects the MOJ equipment in case of loss or theft.
 
-**NOTE:** Remote wipe function is available by default on iPhones issued by O365. On older phones using Win8.1 remote wiping function is not available, and you should consider whether to take your mobile abroad after discussing it with your line manager.
- 
+**NOTE:** Remote wipe function is available by default on iPhones issued by O365. On older phones using the Good Technology app for email access, remote wiping function is not available and you should consider whether to take your mobile abroad after discussing it with your line manager
+
 ## If you have any problem when using MOJ equipment abroad
 
 Contact the  Service Desk immediately. Tell them if the MOJ equipment is lost, stolen or was potentially compromised. This includes any time the equipment is deliberately removed out of your sight, such as by a customs official.
@@ -89,8 +81,7 @@ When calling from abroad, the Technology Service Desk number you need is:
 
 ![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/03/c00ec596041772ebc897f46a4b5b4665.gif) &nbsp;
 
-If any security-related incident occurs overseas, you should contact Corporate Security Branch as soon as possible.
-If there is any emergency outside normal UK business hours, contact the Duty Security Officer on:
+If any security-related incident occurs overseas, you should contact the Duty Security Officer as soon as possible on:
 
 ![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/03/ded132e3a381831f3412183f7248a28c.gif) &nbsp;
 
@@ -120,17 +111,15 @@ Tell them if the HMPPS equipment is lost, stolen or was potentially compromised.
 
 [Foreign & Commonwealth Office – travel & living abroad](https://www.gov.uk/browse/abroad)
 
-<table border='1'>
-<tr>
-<td><table>
-<tr><td colspan='4'>This guidance is dated April 2018.
+---
+
+<table>
+<tr><td colspan='4'>This guidance is dated May 2018.
 <p>
-To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent+taking-it-equipment-abroad-business-or-personal@digital.justice.gov.uk?subject=taking-it-equipment-abroad-business-or-personal">itpolicycontent@digital.justice.gov.uk</a>, or click one of the following icons.</p></td></tr>
+To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=taking-it-equipment-abroad-business-or-personal">itpolicycontent@digital.justice.gov.uk</a>, or click one of the following icons.</p></td></tr>
 <tr>
 <td width='25%'><a href="mailto:itpolicycontent+taking-it-equipment-abroad-business-or-personal-2@digital.justice.gov.uk?subject=taking-it-equipment-abroad-business-or-personal-2"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/DoubleCross.gif" alt="Content was very unhelpful">Very unhelpful.</a></td>
 <td width='25%'><a href="mailto:itpolicycontent+taking-it-equipment-abroad-business-or-personal-1@digital.justice.gov.uk?subject=taking-it-equipment-abroad-business-or-personal-1"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/Cross.gif" alt="Content was unhelpful">Unhelpful.</a></td>
 <td width='25%'><a href="mailto:itpolicycontent+taking-it-equipment-abroad-business-or-personal+1@digital.justice.gov.uk?subject=taking-it-equipment-abroad-business-or-personal+1"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/Tick.gif" alt="Content was helpful">Helpful.</a></td>
 <td width='25%'><a href="mailto:itpolicycontent+taking-it-equipment-abroad-business-or-personal+2@digital.justice.gov.uk?subject=taking-it-equipment-abroad-business-or-personal+2"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/DoubleTick.gif" alt="Content was very helpful">Very helpful.</a></td>
-</table></td>
-</tr>
 </table>
