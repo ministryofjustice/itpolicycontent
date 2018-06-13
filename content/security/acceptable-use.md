@@ -92,12 +92,12 @@ Removable media like memory sticks are portable and easy-to-use. Unfortunately, 
 
 ## Personalisation of equipment
 
-A popular trend is to adorn laptops with stickers. As long as the material does not cause problems such as upset, offence, or embarrassment, external customisation of this kind is acceptable. However, do not customise the desktop environment of your equipment, for example by changing the desktop image or attempting to install themes.
+A popular trend is to adorn laptops with stickers. This is acceptable as long as the material does not cause problems such as upset, offence, or embarrassment. The same applies if you customise the desktop environment of your equipment, for example by changing the desktop image.
 
 ---
 
 <table>
-<tr><td colspan='4'>This guidance is dated May 2018.
+<tr><td colspan='4'>This guidance is dated June 2018.
 <p>
 To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent+acceptable-use@digital.justice.gov.uk?subject=acceptable-use">itpolicycontent@digital.justice.gov.uk</a>, or click one of the following icons.</p></td></tr>
 <tr>
