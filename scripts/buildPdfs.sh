@@ -95,7 +95,7 @@ do
   printf "Processing: %s " $simpleFileName
   curl "$BASEURL/$fileName/" --output "$resultDir/index.html" 2> /dev/null
   cat "$resultDir/index.html" | perl -pe "s| rel=.external.||g" | perl -pe "s|–|-|g" | perl -pe "s|’|\'|g"| perl -pe "s|“|\"|g" | perl -pe "s|”|\"|g" | perl -pe "s|</title>|</title><h5><i>Note: This file is dated $DATE, and is not necessarily accurate, complete, correct, or current. Definitive content is published at <a href="$BASEURL/$fileName/">$BASEURL/$fileName/</a></i></h5>|g" > "$resultDir/$simpleFileName.html" 2> /dev/null
-  cupsfilter "$resultDir/$simpleFileName.html" > "$resultDir/$simpleFileName.pdf" 2> /dev/null
+  cupsfilter -o media=A4 -o landscape -o fit-to-page "$resultDir/$simpleFileName.html" > "$resultDir/$simpleFileName.pdf" 2> /dev/null
   rm "$resultDir/index.html"
   printf "Completed.\n"
 done
