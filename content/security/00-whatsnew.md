@@ -10,6 +10,8 @@ This document summarises what changes were made, and when, to MOJ IT Policy cont
 
 Date | Audience | Topic (and link) | Changes
 ---|---|---|---
+June 14 | All | [Acceptable use of Information Technology at work](https://intranet.justice.gov.uk/guidance/security/it-computer-security/acceptable-use/) | Clarification regarding customisation of devices.
+May 29 | All | [Taking IT equipment abroad (business or personal)](https://intranet.justice.gov.uk/guidance/security/it-computer-security/taking-it-equipment-abroad-business-or-personal/) | Minor change after feedback from Corporate Security.
 May 25 | All | [IT Security Guidelines](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/it-security-guidelines/) | Convert PDF to Intranet page, to enable update to [Leaver's checklist](https://intranet.justice.gov.uk/documents/2018/05/leavers-checklist-for-managers-3.docx).
 May 18 | All | [Line Manager approval](https://intranet.justice.gov.uk/guidance/security/it-computer-security/line-manager-approval/) | Guidance on getting approval when required by an IT Policy.
 May 16 | All | [Using your own smartphone, laptop, tablet or PC for work](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/using-your-own-smartphone-laptop-tablet-or-pc-for-work/) | Removed section which was adding ambiguity.
@@ -21,14 +23,14 @@ April 6 | All | [Passwords](https://intranet.justice.gov.uk/guidance/security/it
 April 6 | Developers, System Suppliers | [Password Policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/password-policy/) | Password policy information.
 April 6 | All | [Password Standard](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/password-standard/) | The standard for choosing and using passwords.
 April 6 | All | [Password Guidance](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/password-guidance/) | General guidance for using passwords.
-April 3 | All | [Using your own smartphone, laptop, tablet or PC for work](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/using-your-own-smartphone-laptop-tablet-or-pc-for-work/) | Why you might want to use a personally-owned device for MOJ tasks, and when it is acceptable to do so.
+April 3 | All | Using your own smartphone, laptop, tablet or PC for work | Why you might want to use a personally-owned device for MOJ tasks, and when it is acceptable to do so. (Review in progress.)
 
 <p>&nbsp;</p>
 
 ---
 
 <table>
-<tr><td colspan='4'>This document is dated May 2018.
+<tr><td colspan='4'>This document is dated June 2018.
 <p>
 To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent+00-whatsnew@digital.justice.gov.uk?subject=00-whatsnew">itpolicycontent@digital.justice.gov.uk</a>, or click one of the following icons.</p></td></tr>
 <tr>

@@ -81,8 +81,7 @@ When calling from abroad, the Technology Service Desk number you need is:
 
 ![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/03/c00ec596041772ebc897f46a4b5b4665.gif) &nbsp;
 
-If any security-related incident occurs overseas, you should contact Corporate Security Branch as soon as possible.
-If there is any emergency outside normal UK business hours, contact the Duty Security Officer on:
+If any security-related incident occurs overseas, you should contact the Duty Security Officer as soon as possible on:
 
 ![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/03/ded132e3a381831f3412183f7248a28c.gif) &nbsp;
 
