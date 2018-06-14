@@ -114,7 +114,7 @@ This guidance helps you:
 
 Data protection legislation makes you responsible for personal information you work with. You must keep it safe and secure. In particular, you must follow General Data Protection Regulation (GDPR) obligations.
 
-Without advance consent from anyone affected, don't use OITs for storing personal data. Never use OITs if unlawful disclosure of the information they process might cause damage or distress to an individual.
+Don't use OITs for storing personal data until you have consent from anyone affected. Don't use OITs if unlawful disclosure of the information they process might cause damage or distress.
 
 Data protection legislation might also limit _where_ you can process personal data. An OIT should have a privacy statement that describes where it stores or processes data. Be ready to contact the OIT provider for more information about this aspect of their service.
 
@@ -189,9 +189,9 @@ For further help about aspects of using OITs within the MOJ, contact:
 Subject | Contact
 ---|---
 Classification and Security | [MOJ Cyber Security team](https://peoplefinder.service.gov.uk/teams/corporate-security-business-continuity-branch)
-Storage and Data Retention | Knowledge and Information Management team:<br/>![](https://intranet.justice.gov.uk/app/uploads/2018/02/7bb6ccaac44b0602cc182711471b30f4.gif)
+Storage and Data Retention | Departmental Library & Records Management Services (DLRMS):<br/>![](https://intranet.justice.gov.uk/app/uploads/2018/02/7bb6ccaac44b0602cc182711471b30f4.gif)
 Information Assurance | [Compliance and Information Assurance Branch](https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/information-assurance-roles/)
-Personal Data | Data Access and Compliance Unit:<br/>![](https://intranet.justice.gov.uk/app/uploads/2018/02/ada3c2470495d8e52076e388c0f0d518.gif)
+Personal Data | Disclosure Team:<br/>![](https://intranet.justice.gov.uk/app/uploads/2018/02/ada3c2470495d8e52076e388c0f0d518.gif)
 
 ---
 
