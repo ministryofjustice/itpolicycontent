@@ -2,11 +2,7 @@
 title: password-standard
 ---
 
-<table border='1'>
-<tr>
-<td>This guidance applies to everyone who works for the MOJ, or who supply systems or services to the MOJ.</td>
-</tr>
-</table>
+<b>This guidance applies to everyone who works for the MOJ, or who supply systems or services to the MOJ.</b>
 
 [acs]: https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/moj-enterprise-access-control-policy/
 [gcs]: https://intranet.justice.gov.uk/guidance/security/it-computer-security/government-classification-scheme/
@@ -186,10 +182,10 @@ The following table shows the valid lifetime of a single-use password:
 
 All multi-user systems and services must check for redundant User IDs and accounts. If necessary, remove the redundant IDs or accounts. The [IT Security - Access Control Standard][acs] discusses the management and removal of accounts. If someone is no longer allowed to access a system, check for and change any shared account or common password they might still have.
 
-<table border='1'>
-<tr>
-<td><table>
-<tr><td colspan='4'>This guidance is dated April 2018.
+---
+
+<table>
+<tr><td colspan='4'>This guidance is dated June 2018.
 <p>
 To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent+password-standard@digital.justice.gov.uk?subject=password-standard">itpolicycontent@digital.justice.gov.uk</a>, or click one of the following icons.</p></td></tr>
 <tr>
@@ -197,6 +193,4 @@ To provide feedback on this document, please contact us: <a href="mailto:itpolic
 <td width='25%'><a href="mailto:itpolicycontent+password-standard-1@digital.justice.gov.uk?subject=password-standard-1"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/Cross.gif" alt="Content was unhelpful">Unhelpful.</a></td>
 <td width='25%'><a href="mailto:itpolicycontent+password-standard+1@digital.justice.gov.uk?subject=password-standard+1"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/Tick.gif" alt="Content was helpful">Helpful.</a></td>
 <td width='25%'><a href="mailto:itpolicycontent+password-standard+2@digital.justice.gov.uk?subject=password-standard+2"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/DoubleTick.gif" alt="Content was very helpful">Very helpful.</a></td>
-</table></td>
-</tr>
 </table>

@@ -2,14 +2,13 @@
 title: 00-whatsnew
 ---
 
-## What's new and Changes
-
 <b>This guidance applies to all staff and contractors who work for the MOJ.</b>
 
 This document summarises what changes were made, and when, to MOJ IT Policy content published on the MOJ Intranet. The most recent changes appear at the top of the list.
 
 Date | Audience | Topic (and link) | Changes
 ---|---|---|---
+June 15 | All | [Password Standard](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/password-standard/) | Simplification regarding complex passwords.
 June 14 | All | [Acceptable use of Information Technology at work](https://intranet.justice.gov.uk/guidance/security/it-computer-security/acceptable-use/) | Clarification regarding customisation of devices.
 May 29 | All | [Taking IT equipment abroad (business or personal)](https://intranet.justice.gov.uk/guidance/security/it-computer-security/taking-it-equipment-abroad-business-or-personal/) | Minor change after feedback from Corporate Security.
 May 25 | All | [IT Security Guidelines](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/it-security-guidelines/) | Convert PDF to Intranet page, to enable update to [Leaver's checklist](https://intranet.justice.gov.uk/documents/2018/05/leavers-checklist-for-managers-3.docx).
