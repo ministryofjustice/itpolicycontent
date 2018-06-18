@@ -27,6 +27,7 @@ This guidance gives you:
 - a [quick checklist](#quick-checklist) to help you decide if you can use an OIT
 - reasons why you [might](#why-oits-are-an-opportunity), or [might not](#why-oits-are-a-risk), want to use an OIT
 - things you [must think about](#using-oits) when using an OIT, such as [data protection](#privacy-and-personal-information)
+- information on who to contact if you would like help or advice
 
 <a id="overview"></a>
 
@@ -49,6 +50,7 @@ To help you decide if you can use an OIT to work on an MOJ task, consider the fo
 - is the task information classified as anything other than `OFFICIAL` or `OFFICIAL-SENSITIVE`?
 - does the task information include any data identifiable as being about someone?
 - is this the first time anyone has used the tool for MOJ business?
+- does the tool require access to your account or other data you can access? for example, asks for authorisation on your MOJ Google G-Suite or Microsoft Office 365 account; installs a browser extension or is a plug-in for existing OITs we use such as Slack or Confluence/Jira
 - could there be damaging consequences if the task information you work with using the tool is:
   - lost
   - stolen
@@ -112,9 +114,9 @@ This guidance helps you:
 
 ### Privacy and personal information
 
-Data protection legislation makes you responsible for personal information you work with. You must keep it safe and secure. In particular, you must follow General Data Protection Regulation (GDPR) obligations.
+Data protection legislation makes you responsible for personal information you work with. You must keep it safe and secure. In particular, you must follow Data Protection Act 2018 and General Data Protection Regulation (GDPR) obligations.
 
-Don't use OITs for storing personal data until you have consent from anyone affected. Don't use OITs if unlawful disclosure of the information they process might cause damage or distress.
+Don't use OITs for storing personal data until you have consider the implications such as needing to obtain consent or update existing privacy policies or notices. Don't use OITs if unlawful disclosure of the information they process might cause damage or distress.
 
 Data protection legislation might also limit _where_ you can process personal data. An OIT should have a privacy statement that describes where it stores or processes data. Be ready to contact the OIT provider for more information about this aspect of their service.
 
