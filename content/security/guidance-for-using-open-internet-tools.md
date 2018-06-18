@@ -27,7 +27,7 @@ This guidance gives you:
 - a [quick checklist](#quick-checklist) to help you decide if you can use an OIT
 - reasons why you [might](#why-oits-are-an-opportunity), or [might not](#why-oits-are-a-risk), want to use an OIT
 - things you [must think about](#using-oits) when using an OIT, such as [data protection](#privacy-and-personal-information)
-- information on who to contact if you would like help or advice
+- information on [who to contact](#getting-help) if you would like help or advice
 
 <a id="overview"></a>
 
@@ -50,7 +50,9 @@ To help you decide if you can use an OIT to work on an MOJ task, consider the fo
 - is the task information classified as anything other than `OFFICIAL` or `OFFICIAL-SENSITIVE`?
 - does the task information include any data identifiable as being about someone?
 - is this the first time anyone has used the tool for MOJ business?
-- does the tool require access to your account or other data you can access? for example, asks for authorisation on your MOJ Google G-Suite or Microsoft Office 365 account; installs a browser extension or is a plug-in for existing OITs we use such as Slack or Confluence/Jira
+- does the tool need access to your account or other data you can access? For example, does it ask to use your MOJ Google or Microsoft Office account?
+- does the tool install a web-browser extension?
+- is the tool a plug-in for existing OITs we use, such as Slack, Confluence, or Jira?
 - could there be damaging consequences if the task information you work with using the tool is:
   - lost
   - stolen
@@ -60,7 +62,7 @@ To help you decide if you can use an OIT to work on an MOJ task, consider the fo
 
 If the answer to _any_ of these questions is 'Yes', you might not be able to use the OIT.
 
-When you have all the answers, request formal approval to use the OIT from your Line Manager. Do this _before_ using the OIT.
+When you have all the answers, request formal approval to use the OIT from your [Line Manager](https://intranet.justice.gov.uk/guidance/security/it-computer-security/line-manager-approval/). Do this _before_ using the OIT.
 
 <a id="why-oits-are-an-opportunity"></a>
 
@@ -114,9 +116,9 @@ This guidance helps you:
 
 ### Privacy and personal information
 
-Data protection legislation makes you responsible for personal information you work with. You must keep it safe and secure. In particular, you must follow Data Protection Act 2018 and General Data Protection Regulation (GDPR) obligations.
+Data protection legislation makes you responsible for personal information you work with. You must keep it safe and secure. In particular, you must follow data protection obligations. These include the Data Protection Act 2018 and the General Data Protection Regulation (GDPR).
 
-Don't use OITs for storing personal data until you have consider the implications such as needing to obtain consent or update existing privacy policies or notices. Don't use OITs if unlawful disclosure of the information they process might cause damage or distress.
+Don't use OITs for storing personal data until you have addressed the need to get consent first. Check if using the OIT might need an update to existing privacy policies or notices. Don't use OITs if unlawful disclosure of the information they process might cause damage or distress.
 
 Data protection legislation might also limit _where_ you can process personal data. An OIT should have a privacy statement that describes where it stores or processes data. Be ready to contact the OIT provider for more information about this aspect of their service.
 
@@ -183,6 +185,8 @@ There are already many OITs used across the MOJ. Permission to use an OIT might 
 <!--
 A current list of OITs, and their status, is available [here][oitlist].
 -->
+
+<a id="getting-help"></a>
 
 ## Getting help
 
