@@ -111,6 +111,8 @@ Technical controls are more effective at protecting password-based authenticatio
 - [locking accounts](#password-access-attempts) after repeated access attempts
 - [blocking](#blocking-passwords) common password choices
 
+<a id="service-accounts"></a>
+
 ### Service Accounts
 
 System and application authentication must always use service accounts . Use certificates for service account authentication. Follow [NCSC guidelines][ncsccertificates] for issuing and securing the certificates. If you can't use certificates, passwords are an acceptable alternative.
