@@ -8,6 +8,7 @@ title: password-standard
 [gcs]: https://intranet.justice.gov.uk/guidance/security/it-computer-security/government-classification-scheme/
 [govukpasswords]: https://www.cyberaware.gov.uk/passwords
 [hmgias2]: https://www.ncsc.gov.uk/guidance/information-risk-management-hmg-ia-standard-numbers-1-2
+[ncsccertificates]: https://www.ncsc.gov.uk/guidance/provisioning-and-securing-security-certificates
 [ncscpasswordguidance]: https://www.ncsc.gov.uk/guidance/using-passwords-protect-your-data
 [ncscpasswordguidancesimplify]: https://www.ncsc.gov.uk/guidance/password-guidance-simplifying-your-approach
 [pg]: https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/password-guidance/
@@ -109,6 +110,19 @@ Technical controls are more effective at protecting password-based authenticatio
 
 - [locking accounts](#password-access-attempts) after repeated access attempts
 - [blocking](#blocking-passwords) common password choices
+
+### Service Accounts
+
+System and application authentication must always use service accounts . Use certificates for service account authentication. Follow [NCSC guidelines][ncsccertificates] for issuing and securing the certificates. If you can't use certificates, passwords are an acceptable alternative.
+
+Service account passwords:
+
+- must be system generated
+- must be at least 15 characters long
+- must be complex, including upper-case and lower-case letters, digits, punctuation, and special characters
+- must be kept secure, by using hashes or encryption
+- must not be stored in the clear in any systems or applications
+- must not be used by standard or administrative users for any purpose
 
 ### Default passwords
 
