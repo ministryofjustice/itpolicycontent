@@ -59,6 +59,8 @@ To help you decide if you can use an OIT to work on an MOJ task, consider the fo
   - published in the media
 - are you prevented from exporting all the data from the tool?
 - are you prevented from deleting all the data from the tool when you finish working on the task?
+- do you have to sign (electronically or otherwise) anything to accept the OIT terms of use?
+- do you have to pay anything or purchase anything to use the OIT?
 
 If the answer to _any_ of these questions is 'Yes', you might not be able to use the OIT.
 
