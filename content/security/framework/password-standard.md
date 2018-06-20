@@ -165,7 +165,7 @@ Examples of these extra mechanisms include:
 
 ### Password storage
 
-Never store, display or print passwords [in the clear](https://en.wikipedia.org/wiki/Plaintext). If you must store them, do so by using [salt](https://www.owasp.org/index.php/Password_Storage_Cheat_Sheet#Use_a_cryptographically_strong_credential-specific_salt)ed [hash](https://en.wikipedia.org/wiki/Hash_function)es, preferably [PBKDF2](https://en.wikipedia.org/wiki/PBKDF2) or [bcrypt](https://en.wikipedia.org/wiki/Bcrypt). Make sure the password storage security matches the [classification][gcs] of the system or data. Contact the Security Engineering or Information Assurance team to discuss what the appropriate strength of hashing should be.
+Never store, display or print passwords [in the clear](https://en.wikipedia.org/wiki/Plaintext). If you must store them, do so by using [salt](https://www.owasp.org/index.php/Password_Storage_Cheat_Sheet#Use_a_cryptographically_strong_credential-specific_salt)ed [hash](https://en.wikipedia.org/wiki/Hash_function)es, preferably [PBKDF2](https://en.wikipedia.org/wiki/PBKDF2), [Argon2](https://en.wikipedia.org/wiki/Argon2), [bcrypt](https://en.wikipedia.org/wiki/Bcrypt), or [scrypt](https://en.wikipedia.org/wiki/Scrypt). Make sure the password storage security matches the [classification][gcs] of the system or data. Contact the Security Engineering or Information Assurance team to discuss what the appropriate strength of hashing should be.
 
 Extra information on handling and protecting passwords is in the [IT Security SyOPs - System Administrators][sa] guide.
 
@@ -179,9 +179,11 @@ If a password lock occurs, a reset is necessary. This requires action by the sys
 
 <a id="blocking-passwords"></a>
 
-### Blocking passwords
+### Blocking bad passwords
 
 Don't let users choose [obvious passwords](https://en.wikipedia.org/wiki/List_of_the_most_common_passwords). Be careful to detect and prevent obvious passwords embedded within a password. For example, `SecretPassword` is not a good password!
+
+Use password/hash lists from [SecLists](https://github.com/danielmiessler/SecLists/tree/master/Passwords) or [Have I Been Pwned](https://haveibeenpwned.com/Passwords) to prevent users from using 'known bad' passwords.
 
 ### Distributing passwords to users
 
