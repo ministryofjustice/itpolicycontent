@@ -130,6 +130,16 @@ Service account passwords:
 
 Change all default passwords when a new, modified, or replacement system arrives. Complete the changes before making the system available for any MOJ work.
 
+### Multi-factor Authentication (MFA)
+
+[Multi-factor Authentication (MFA)](https://en.wikipedia.org/wiki/Multi-factor_authentication) (also referred to as Two-Factor Authentication or '2FA') provides meaningful addition security around login and access controls.
+
+MFA can also be used within systems for priviledged or important step confirmation (for example, the user must enter their MFA code when deleting a record).
+
+[Time-based One-Time Password Algorithm (TOTP)](https://en.wikipedia.org/wiki/Time-based_One-time_Password_algorithm) or hardware and software tokens are preferred over SMS.
+
+Systems must offer MFA to users where available. Systems should require the use of MFA where the user experience supports the implementation (for example, MFA codes sent by SMS are not suitable if mobile devices are not permitted into the room/building in which the user resides).
+
 ### Extra measures
 
 Check that a system, service, or information protected by a password is not [classified][gcs] as `SECRET` or `TOP SECRET`. Make sure that it doesn't contain delicate material such as contracts, or personal data or information. If it does contain such material, you might need extra access control.
@@ -155,7 +165,7 @@ Examples of these extra mechanisms include:
 
 ### Password storage
 
-Never store, display or print passwords [in the clear](https://en.wikipedia.org/wiki/Plaintext). If you must store them, do so by using [salt](https://www.owasp.org/index.php/Password_Storage_Cheat_Sheet#Use_a_cryptographically_strong_credential-specific_salt)ed [hash](https://en.wikipedia.org/wiki/Hash_function)es, preferably [PBKDF2](https://en.wikipedia.org/wiki/PBKDF2). Make sure the password storage security matches the [classification][gcs] of the system or data. Use the [IA Implementation Guide No. 3 User Authentication Systems][uas] to determine the appropriate strength of hashing.
+Never store, display or print passwords [in the clear](https://en.wikipedia.org/wiki/Plaintext). If you must store them, do so by using [salt](https://www.owasp.org/index.php/Password_Storage_Cheat_Sheet#Use_a_cryptographically_strong_credential-specific_salt)ed [hash](https://en.wikipedia.org/wiki/Hash_function)es, preferably [PBKDF2](https://en.wikipedia.org/wiki/PBKDF2) or [bcrypt](https://en.wikipedia.org/wiki/Bcrypt). Make sure the password storage security matches the [classification][gcs] of the system or data. Contact the Security Engineering or Information Assurance team to discuss what the appropriate strength of hashing should be.
 
 Extra information on handling and protecting passwords is in the [IT Security SyOPs - System Administrators][sa] guide.
 
@@ -197,6 +207,12 @@ The following table shows the valid lifetime of a single-use password:
 ### Multi-user systems and services
 
 All multi-user systems and services must check for redundant User IDs and accounts. If necessary, remove the redundant IDs or accounts. The [IT Security - Access Control Standard][acs] discusses the management and removal of accounts. If someone is no longer allowed to access a system, check for and change any shared account or common password they might still have.
+
+## Identity Providers (IdP) / Single Sign-On (SSO)
+
+Where possible, integration into existing MOJ IdP or SSO solutions (such as MOJ Office 365 or MOJ D&T Google G-Suite) should be used to entirely mitigate the need to design, create, implement and manage an authentication solution.
+
+SSO integration into existing MOJ IdP solutions improves the user experience by seamlessly providing authentication to systems using existing MOJ credentials.
 
 ---
 
