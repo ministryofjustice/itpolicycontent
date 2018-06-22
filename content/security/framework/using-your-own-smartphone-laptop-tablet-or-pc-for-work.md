@@ -1,4 +1,4 @@
-﻿---
+---
 title: Using your own smartphone, laptop, tablet or PC for work
 ---
 
@@ -19,7 +19,7 @@ You must always:
 
 ### Check with your line manager
 
-If you want to work using your own equipment, ask your line manager for permission first, so you can discuss any issues.
+If you want to work using your own equipment, [ask your line manager for permission _first_](https://intranet.justice.gov.uk/guidance/security/it-computer-security/line-manager-approval/), so you can discuss any issues.
 
 Be clear about what tools you will use, and the tasks you will perform: if it's not discussed, it's not approved.
 
@@ -58,16 +58,18 @@ If a family member borrows your tablet or laptop (for example), make sure they c
 
 If your device is lost, stolen or 'hacked', you must:
 
+- contact [Operational Security](#getting-help-regarding-security)
+- [report it as a data loss](https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/report-a-data-loss/) if MOJ data or information is or might be lost or compromised
+- tell your line manager
+
+<!--
 - ring the Service Desk where the analyst will ask the relevant questions and note responses on the ticket
 - the contact telephone numbers you need are:
     - ![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/01/758cf470655d11cc683a6d9511ba3331.gif) &nbsp;
     - ![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/01/5818419a0f76cd3ad2b515d25b68876e.gif) &nbsp;
 - when back online fill in a [security incident form](https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/)
 - email the form to: [itservicedesk@justice.gsi.gov.uk](mailto:itservicedesk@justice.gsi.gov.uk)
-- tell your line manager straight away
-
-
-If MOJ data or information is lost or compromised, [report it as a data loss](https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/report-a-data-loss/).
+-->
 
 Find out more about [how to report a security incident](https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/).
 
@@ -94,10 +96,16 @@ If you are not sure whether the information is sensitive, assume that it is sens
 
 - The MOJ Digital & Technology Slack. This team uses the domain "`mojdt.slack.com`"
 
+<a id="getting-help-regarding-security"></a>
+
+## Getting help regarding security
+
+For further help about security aspects of using your own smartphone, laptop, tablet or PC for work, contact Operational Security:<br/>![](https://intranet.justice.gov.uk/app/uploads/2018/05/c210534c474fcf88f5303ed6aa7dccee.gif)
+
 ---
 
 <table>
-<tr><td colspan='4'>This guidance is dated May 2018.
+<tr><td colspan='4'>This guidance is dated June 2018.
 <p>
 To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent+using-your-own-smartphone-laptop-tablet-or-pc-for-work
 @digital.justice.gov.uk?subject=using-your-own-smartphone-laptop-tablet-or-pc-for-work
