@@ -9,6 +9,7 @@ title: password-standard
 [govukpasswords]: https://www.cyberaware.gov.uk/passwords
 [hmgias2]: https://www.ncsc.gov.uk/guidance/information-risk-management-hmg-ia-standard-numbers-1-2
 [ncsccertificates]: https://www.ncsc.gov.uk/guidance/provisioning-and-securing-security-certificates
+[ncscmfa]: https://www.ncsc.gov.uk/guidance/multi-factor-authentication-online-services
 [ncscpasswordguidance]: https://www.ncsc.gov.uk/guidance/using-passwords-protect-your-data
 [ncscpasswordguidancesimplify]: https://www.ncsc.gov.uk/guidance/password-guidance-simplifying-your-approach
 [pg]: https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/password-guidance/
@@ -68,7 +69,7 @@ The following table shows the maximum time allowed for changing a password when 
 
 You don't have to change a password because it is old. The reason is that time-expiry of passwords is an "[...outdated and ineffective practice](https://www.ncsc.gov.uk/blog-post/your-password-expiry-policy-may-have-reached-its-expiry-date)".
 
-Some current or legacy systems do not permit passwords that comply fully with MOJ [guidance][pg]. For example, some mobile devices, laptop hard drive encryption tools, or older computers might not be able to support a mix of character types. For such systems, choose passwords that are as close as possible to MOJ [guidance][pg].
+Some current or legacy systems don't allow passwords that follow MOJ [guidance][pg]. For example, some mobile devices, laptop hard drive encryption tools, or older computers might not be able to support a mix of character types. For such systems, choose passwords that are as close as possible to MOJ [guidance][pg].
 
 <!--
 
@@ -109,7 +110,7 @@ The [NCSC guidance][ncscpasswordguidancesimplify] for simplifying passwords says
 Technical controls are more effective at protecting password-based authentication. Examples include:
 
 - [locking accounts](#password-access-attempts) after repeated access attempts
-- [blocking](#blocking-passwords) common password choices
+- [blocking](#blocking-bad-passwords) common password choices
 
 <a id="service-accounts"></a>
 
@@ -132,13 +133,15 @@ Change all default passwords when a new, modified, or replacement system arrives
 
 ### Multi-factor Authentication (MFA)
 
-[Multi-factor Authentication (MFA)](https://en.wikipedia.org/wiki/Multi-factor_authentication) (also referred to as Two-Factor Authentication or '2FA') provides meaningful addition security around login and access controls.
+[Multi-factor Authentication (MFA)](https://en.wikipedia.org/wiki/Multi-factor_authentication) provides extra security for login and access controls. MFA is also referred to as Two-Factor Authentication or 2FA.
 
-MFA can also be used within systems for priviledged or important step confirmation (for example, the user must enter their MFA code when deleting a record).
+Additionally, use MFA in systems for privileged or important step confirmation. For example, the user must enter their MFA code when deleting a record.
 
-[Time-based One-Time Password Algorithm (TOTP)](https://en.wikipedia.org/wiki/Time-based_One-time_Password_algorithm) or hardware and software tokens are preferred over SMS.
+Follow the [NCSC guidance][ncscmfa] for enabling MFA.
 
-Systems must offer MFA to users where available. Systems should require the use of MFA where the user experience supports the implementation (for example, MFA codes sent by SMS are not suitable if mobile devices are not permitted into the room/building in which the user resides).
+Use [Time-based One-Time Password Algorithm (TOTP)](https://en.wikipedia.org/wiki/Time-based_One-time_Password_algorithm) or hardware and software tokens. Avoid SMS or email messages containing one-time login codes.
+
+Systems must offer MFA alternatives to users where they are available. For example, MFA codes sent by SMS are not suitable if mobile devices are not allowed in the room or building.
 
 ### Extra measures
 
@@ -146,7 +149,7 @@ Check that a system, service, or information protected by a password is not [cla
 
 Check which other systems have access to the system or service. Make sure that the access control suits the material at both ends of the connection.
 
-Appropriate extra measures might include tokens or other multi-factor authentication devices. Think about using an existing authentication system other than passwords. Avoid creating new authentication systems. Mechanisms other than passwords are  preferable if they reduce what a user must remember. For more information about authentication systems, see the [IT Security - Access Control Standard][acs].
+Appropriate extra measures might include tokens or other multi-factor authentication devices. Think about using an existing authentication system other than passwords. Avoid creating new authentication systems. Try to reduce what a user must remember. For more information about authentication systems, see the [IT Security - Access Control Standard][acs].
 
 A technical risk assessment helps identifies extra controls for systems. This is mandatory for systems that need formal accreditation. The assessment follows [HMG Information Assurance Standard No. 1 & 2][hmgias2]. Multi-user systems are also subject to a Business Impact Assessment (BIA).
 
@@ -165,7 +168,21 @@ Examples of these extra mechanisms include:
 
 ### Password storage
 
-Never store, display or print passwords [in the clear](https://en.wikipedia.org/wiki/Plaintext). If you must store them, do so by using [salt](https://www.owasp.org/index.php/Password_Storage_Cheat_Sheet#Use_a_cryptographically_strong_credential-specific_salt)ed [hash](https://en.wikipedia.org/wiki/Hash_function)es, preferably [PBKDF2](https://en.wikipedia.org/wiki/PBKDF2), [Argon2](https://en.wikipedia.org/wiki/Argon2), [bcrypt](https://en.wikipedia.org/wiki/Bcrypt), or [scrypt](https://en.wikipedia.org/wiki/Scrypt). Make sure the password storage security matches the [classification][gcs] of the system or data. Contact the Security Engineering or Information Assurance team to discuss what the appropriate strength of hashing should be.
+Never store, display or print passwords [in the clear](https://en.wikipedia.org/wiki/Plaintext). If you must store them, do so by using [salt](https://www.owasp.org/index.php/Password_Storage_Cheat_Sheet#Use_a_cryptographically_strong_credential-specific_salt)ed [hash](https://en.wikipedia.org/wiki/Hash_function)es.
+
+Suitable storage tools include:
+
+- [Argon2](https://en.wikipedia.org/wiki/Argon2)
+- [bcrypt](https://en.wikipedia.org/wiki/Bcrypt)
+- [PBKDF2](https://en.wikipedia.org/wiki/PBKDF2)
+- [scrypt](https://en.wikipedia.org/wiki/Scrypt)
+
+Make sure the password storage security matches the [classification][gcs] of the system or data. Contact the Security Engineering or Information Assurance team to discuss what the appropriate strength of hashing should be.
+
+Ensure the password storage security matches the [classification][gcs] of the system or data. For help with the appropriate strength of hashing, contact:
+
+- [information assurance](https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/information-assurance-roles/)
+- security engineering
 
 Extra information on handling and protecting passwords is in the [IT Security SyOPs - System Administrators][sa] guide.
 
@@ -178,12 +195,13 @@ If a password is ever entered incorrectly, a count should start. After at most 1
 If a password lock occurs, a reset is necessary. This requires action by the system administrator or MOJ Service Desk. The process should be like issuing the password for the first time. The main difference between the processes for first-time password and for password reset are that the account details are kept intact during the reset, to avoid losing any work. Checks ensure that an attacker cannot use the password reset process.
 
 <a id="blocking-passwords"></a>
+<a id="blocking-bad-passwords"></a>
 
 ### Blocking bad passwords
 
-Don't let users choose [obvious passwords](https://en.wikipedia.org/wiki/List_of_the_most_common_passwords). Be careful to detect and prevent obvious passwords embedded within a password. For example, `SecretPassword` is not a good password!
+Don't let users choose [obvious passwords](https://en.wikipedia.org/wiki/List_of_the_most_common_passwords). Check for and block obvious passwords embedded within a password. For example, `SecretPassword` is not a good password!
 
-Use password/hash lists from [SecLists](https://github.com/danielmiessler/SecLists/tree/master/Passwords) or [Have I Been Pwned](https://haveibeenpwned.com/Passwords) to prevent users from using 'known bad' passwords.
+Use password and hash lists from [SecLists](https://github.com/danielmiessler/SecLists/tree/master/Passwords) or [Have I Been Pwned](https://haveibeenpwned.com/Passwords), to help prevent bad passwords.
 
 ### Distributing passwords to users
 
@@ -210,11 +228,12 @@ The following table shows the valid lifetime of a single-use password:
 
 All multi-user systems and services must check for redundant User IDs and accounts. If necessary, remove the redundant IDs or accounts. The [IT Security - Access Control Standard][acs] discusses the management and removal of accounts. If someone is no longer allowed to access a system, check for and change any shared account or common password they might still have.
 
-## Identity Providers (IdP) / Single Sign-On (SSO)
+### Identity Providers and Single Sign-On
 
-Where possible, integration into existing MOJ IdP or SSO solutions (such as MOJ Office 365 or MOJ D&T Google G-Suite) should be used to entirely mitigate the need to design, create, implement and manage an authentication solution.
+When you need an authentication solution, try to use existing MOJ services. Examples include Identity Provider (IdP) or Single Sign-On (SSO) services, such as Office 365 or D&T Google G-Suite.
+This helps reduce the need to design, create, deploy and manage yet another solution.
 
-SSO integration into existing MOJ IdP solutions improves the user experience by seamlessly providing authentication to systems using existing MOJ credentials.
+SSO integration in existing IdP solutions improves the user experience. This is because you can authenticate to systems using existing MOJ credentials.
 
 ---
 

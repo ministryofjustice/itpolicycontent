@@ -15,6 +15,7 @@ auditable
 AUP
 AWS
 BCP
+bcrypt
 BeCrypt
 BIL
 biometrics
@@ -150,7 +151,9 @@ RTO
 SaaS
 sanitisation
 screensaver
+scrypt
 SCS
+SecLists
 SendGrid
 Sharepoint
 SIRO
@@ -165,6 +168,7 @@ Squiz
 SSL
 SyOPs
 TLS
+TOTP
 Transifex
 Trello
 Trustwave
