@@ -34,6 +34,8 @@ IT helps you complete your tasks as efficiently and effectively as possible. Som
 
 Acceptable use can also vary according to context. For example, checking sensitive personal details might be perfectly normal within a secured office, but is not acceptable in a public space where anyone else might see those details.
 
+Acceptable use takes account of the sensitivity of the material you're working with. For example, many MOJ systems are approved only for material classified as `OFFICIAL` or `OFFICIAL-SENSITIVE`. So you mustn't use those systems for material of a higher classificaito
+
 ## Unacceptable use of MOJ IT
 
 Unacceptable use of IT prevents you or your colleagues from doing work, or is unlawful or illegal, or does not take the context into account.
@@ -97,7 +99,7 @@ A popular trend is to adorn laptops with stickers. This is acceptable as long as
 ---
 
 <table>
-<tr><td colspan='4'>This guidance is dated June 2018.
+<tr><td colspan='4'>This guidance is dated July 2018.
 <p>
 To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent+acceptable-use@digital.justice.gov.uk?subject=acceptable-use">itpolicycontent@digital.justice.gov.uk</a>, or click one of the following icons.</p></td></tr>
 <tr>
