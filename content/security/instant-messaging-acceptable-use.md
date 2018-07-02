@@ -54,12 +54,13 @@ Turn on 2-factor authentication (2FA) for your account
   - the official application
   - a standard web browser
 
-### ...and Don'ts
+## ...and Don'ts
 
 - don't post anonymously
 - don't share personal information about your colleagues without their permission
+- don't rely on Slack to be available all the time
 
-### And finally...
+## And finally...
 
 - if you're not sure if something is acceptable, ask for help first
 - if you think there is a problem, [report it](https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/)
