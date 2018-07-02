@@ -8,7 +8,7 @@ This document summarises what changes were made, and when, to MOJ IT Policy cont
 
 Date | Audience | Topic (and link) | Changes
 ---|---|---|---
-June 22 | All | [Using your own smartphone, laptop, tablet or PC for work](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/using-your-own-smartphone-laptop-tablet-or-pc-for-work/) | Published interim guidance on using your own devices.
+July 2 | All | [Using your own smartphone, laptop, tablet or PC for work](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/using-your-own-smartphone-laptop-tablet-or-pc-for-work/) | Published interim guidance on using your own devices.
 June 19 | All | [Guidance for using Open Internet Tools](https://intranet.justice.gov.uk/guidance/security/it-computer-security/guidance-for-using-open-internet-tools/) | Guidance about using Open Internet Tools (work in progress).
 June 15 | All | [Password Standard](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/password-standard/) | Simplification regarding complex passwords.
 June 14 | All | [Acceptable use of Information Technology at work](https://intranet.justice.gov.uk/guidance/security/it-computer-security/acceptable-use/) | Clarification regarding customisation of devices.
@@ -27,7 +27,7 @@ April 6 | All | [Password Guidance](https://intranet.justice.gov.uk/guidance/sec
 ---
 
 <table>
-<tr><td colspan='4'>This document is dated June 2018.
+<tr><td colspan='4'>This document is dated July 2018.
 <p>
 To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent+00-whatsnew@digital.justice.gov.uk?subject=00-whatsnew">itpolicycontent@digital.justice.gov.uk</a>, or click one of the following icons.</p></td></tr>
 <tr>

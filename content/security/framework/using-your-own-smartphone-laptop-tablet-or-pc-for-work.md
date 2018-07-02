@@ -105,7 +105,7 @@ For further help about security aspects of using your own smartphone, laptop, ta
 ---
 
 <table>
-<tr><td colspan='4'>This guidance is dated June 2018.
+<tr><td colspan='4'>This guidance is dated July 2018.
 <p>
 To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent+using-your-own-smartphone-laptop-tablet-or-pc-for-work
 @digital.justice.gov.uk?subject=using-your-own-smartphone-laptop-tablet-or-pc-for-work
