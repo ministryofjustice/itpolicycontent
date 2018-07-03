@@ -17,11 +17,11 @@ Instant messages include information such as:
   - calls
   - videos
 
+Remember that, like email, instant messages are part of your work, and that the MOJ monitors them. Messages are subject to Freedom of Information, data retention, and privacy considerations.
+
 Instant messaging tools include [Slack](https://slack.com/), [Skype](https://www.skype.com/en/), [Yammer](https://www.yammer.com/), and some others. This document refers to Slack, but applies to all instant messaging within the MOJ.
 
-Remember that, like email, instant messages are part of your work. The MOJ monitors messages. Messages are subject to Freedom of Information, data retention, and privacy considerations.
-
-You must use Slack in an acceptable way. This guidance provides extra points to bear in mind when using Slack. Start by reviewing the general information in the MOJ Acceptable Use guidance, [here](https://intranet.justice.gov.uk/guidance/security/it-computer-security/acceptable-use/).
+These aspects mean that you must use Slack in an acceptable way. This guidance provides extra points to bear in mind when using Slack. Start by reviewing the general information in the MOJ Acceptable Use guidance, [here](https://intranet.justice.gov.uk/guidance/security/it-computer-security/acceptable-use/).
 
 ## Classified information
 
@@ -34,6 +34,8 @@ Use common sense to help you decide what can be in an instant message. Be guided
 ## Avoid embarrassment
 
 In Slack, messages can go to individuals or groups, so think before you send them. If a message would cause problems, upset, offence, or embarrassment, it's not acceptable. Remember that the work discussions can become public in the future. This might include Slack messages and conversations.
+
+You shouldn't discuss personal information about other people on Slack without their knowledge. You might choose to discuss a personal medical issue with your line manager. But your line manager wouldn't start a conversation with you about a medical issue.
 
 Context is important:
 - think about who might be looking over your shoulder reading the messages
@@ -62,8 +64,8 @@ Turn on 2-factor authentication (2FA) for your account
 
 ## And finally...
 
-- if you're not sure if something is acceptable, ask for help first
-- if you think there is a problem, [report it](https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/)
+- if you're not sure if something's acceptable, ask for help first
+- if you think there's a problem, [report it](https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/)
 
 ---
 

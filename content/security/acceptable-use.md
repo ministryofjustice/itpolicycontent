@@ -20,11 +20,13 @@ Be sensible when using MOJ IT resources:
 - if you're not sure if something is acceptable, ask for help first
 - above all, if you think there is a problem, [report it](https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/) or ask for help
 
-The way you use IT is important, because it indicates your approach to work, and can be taken into account when assessing your behaviour and performance.
+The way you use IT is important. It indicates your approach to work. It can be taken into account when assessing your behaviour and performance.
 
 ## What is meant by IT?
 
 IT means the devices or services you use for creating, storing, or sharing information. This includes everything from devices (laptops, printers, USB 'memory sticks') through to online services (citizen-facing online services, staff tools, corporate email).
+
+IT also includes Instant Messaging systems, such as [Slack](https://slack.com/). There is more guidance about acceptable use of messaging systems [here](https://intranet.justice.gov.uk/guidance/security/it-computer-security/instant-messaging-acceptable-use/).
 
 ## Acceptable use of MOJ IT
 
@@ -32,13 +34,17 @@ Acceptable use of IT is when you use it to do your work.
 
 IT helps you complete your tasks as efficiently and effectively as possible. Sometimes, you might need account details such as passwords to use the IT. Acceptable use means protecting this kind of information, too.
 
-Acceptable use can also vary according to context. For example, checking sensitive personal details might be perfectly normal within a secured office, but is not acceptable in a public space where anyone else might see those details.
+Acceptable use can also vary according to context. For example, checking sensitive personal details might be normal within a secured office. But it's not acceptable in a public space where anyone else might see those details.
 
-Acceptable use takes account of the sensitivity of the material you're working with. For example, many MOJ systems are approved only for material classified as `OFFICIAL` or `OFFICIAL-SENSITIVE`. So you mustn't use those systems for material of a higher classificaito
+Acceptable use takes account of the sensitivity of the material you're working with. For example, many MOJ systems are approved only for material classified as `OFFICIAL` or `OFFICIAL-SENSITIVE`. So you mustn't use those systems for material of a higher classification.
 
 ## Unacceptable use of MOJ IT
 
-Unacceptable use of IT prevents you or your colleagues from doing work, or is unlawful or illegal, or does not take the context into account.
+Unacceptable use of IT:
+
+- prevents you or your colleagues from doing work
+- is unlawful or illegal
+- doesn't take the context
 
 There are many unacceptable uses of IT, making it impossible to provide a complete list. Examples of things to avoid include:
 
@@ -80,7 +86,7 @@ If there is any doubt, or you are worried that the [email might be malicious](ht
 
 ## Personal use of MOJ IT
 
-Limited personal use of MOJ IT is acceptable as long as it does not cause a problem with your work or that of your colleagues. Context is important. For example, doing personal internet banking during your lunch break might be acceptable, but doing the same thing during a work meeting would not.
+Limited personal use of MOJ IT is acceptable. Make sure it doesn't cause a problem with your work or for your colleagues. Context is important. For example, doing personal internet banking during your lunch break might be acceptable. Doing the same thing during a work meeting would not.
 
 ## Using MOJ IT outside your usual workplace
 
@@ -90,7 +96,7 @@ You should also [ask](https://intranet.justice.gov.uk/guidance/security/it-compu
 
 ## Avoid using removable media
 
-Removable media like memory sticks are portable and easy-to-use. Unfortunately, this makes them a security risk, so [avoid using them](https://intranet.justice.gov.uk/guidance/security/it-computer-security/removable-media/). If however they are essential to your work, please follow the [Use of Removable Media policy](https://intranet.justice.gov.uk/guidance/security/it-computer-security/removable-media/).
+Removable media like memory sticks are portable and easy-to-use. Unfortunately, this makes them a security risk, so [avoid using them](https://intranet.justice.gov.uk/guidance/security/it-computer-security/removable-media/). If they are essential to your work, follow the [Use of Removable Media](https://intranet.justice.gov.uk/guidance/security/it-computer-security/removable-media/) policy.
 
 ## Personalisation of equipment
 
