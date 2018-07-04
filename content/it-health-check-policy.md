@@ -44,7 +44,7 @@ There must be ring-fenced funding for ITHCs and any necessary remediation of vul
 
 ## Internal Testing 
 
-For systems that are developed by MoJ in-house staff, the assurance lead may agree to ITHCs being undertaken by appropriately trained MOJ staff, and hence potentially not undertaken under either the CHECK nor CREST schemes. In agreeing to this approach, the assurance lead obtains the assurance that the ITHC will be undertaken to their satisfaction from knowing the MOJ staff and from the lack of commercial conflict that might arise if a non-MOJ supplier was being contracted to deliver the system.
+For systems that are developed by MOJ in-house staff, the assurance lead may agree to ITHCs being undertaken by appropriately trained MOJ staff, and hence potentially not undertaken under either the CHECK nor CREST schemes. In agreeing to this approach, the assurance lead obtains the assurance that the ITHC will be undertaken to their satisfaction from knowing the MOJ staff and from the lack of commercial conflict that might arise if a non-MOJ supplier was being contracted to deliver the system.
 
 ## Report Construction 
 
