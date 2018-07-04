@@ -36,7 +36,7 @@ Your service should have more possible states than simply ‘on’ or ‘off’.
 
 - design your components so that they fall back to minimal functions if something goes wrong
 - introduce a read-only mode where users can look at information but not change it
-- build in redundancy and avoid single points of failure (eg having only one vendor could be a single point of failure)
+- build in redundancy and avoid single points of failure (for example, having only one vendor could be a single point of failure)
 - use more than one web server and allow load-balancing between servers, to avoid servers failing
 - use database systems which spread data and queries across a cluster, to minimise database crashes
 
