@@ -1,11 +1,11 @@
 ﻿---
-title: ICT Disaster Recovery Plan and Process Guide
+title: ICT Disaster Recovery Plan
 ---
 
 <table border='1'>
 <tr>
-<td>This content is a version of the ICT Disaster Recovery Plan and Process Guide, May 2015.<br/>
-This is Legacy IA Policy. It is under review and likely to be withdrawn or substantially revised soon. Please contact us before using this on a new project: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=ict-disaster-recovery-plan-and-process-guide">itpolicycontent@digital.justice.gov.uk</a>.</td>
+<td>This content is a working draft of the of a new DR Plan which will replace the ICT Disaster Recovery Plan and Process Guide, May 2015.<br/>
+</td>
 </tr>
 </table>
 
