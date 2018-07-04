@@ -1,7 +1,7 @@
-<h2>IT Heath Check Policy</h2>
+﻿<h2>IT Heath Check Policy</h2>
 <table border='1'>
 <tr>
-<td>This draft is based on the legacy ITKC document, and it will be renamed in the final release.</td>
+<td>This draft is based on the legacy ITHC document, and it will be renamed in the final release.</td>
 </tr>
 </table>
 
@@ -18,7 +18,7 @@ It is designed to ensure that security functionality has been implemented correc
 
 The need for an ITHC will often be identified by the Accreditor, IA consultant, or IA Analyst when building or designing new IT systems. For new projects and programmes, this will generally be determined based on a number of factors, including: 
 
-- the project�s delivery plan, 
+- the project’s delivery plan, 
 - scope of delivery, 
 - maturity of the product, 
 - available architecture assurance on the product  
@@ -48,7 +48,7 @@ For systems that are developed by MoJ in-house staff, the assurance lead may agr
 
 ## Report Construction 
 
-Once the ITHC has been completed a report identifying the findings must be completed as soon as possible and submitted to the MoJ within a maximum of 5 working days unless agreed with the Accreditor. 
+Once the ITHC has been completed a report identifying the findings must be completed as soon as possible and submitted to the MOJ within a maximum of 5 working days unless agreed with the Accreditor. 
  
 As a minimum the output of the health check report must include the following: 
 
@@ -72,3 +72,5 @@ Any risk higher than LOW must be owned and managed by the IAO/System Owner.
 A copy of this plan must be given by the Accreditor to the relevant IAO and/or System Owner. The Accreditor will ensure that the IAO and/or System Owner is aware that they own the remediation plan, relevant actions and associated risks. It is the responsibility of the IAO/System Owner to review this plan and ensure actions are reviewed and completed.  
 
 A copy of the remediation plan must be held by the Accreditor in a central location and risks should be reviewed periodically with the IAO/System Owner and, as a minimum, during any re-accreditation process. 
+
+
