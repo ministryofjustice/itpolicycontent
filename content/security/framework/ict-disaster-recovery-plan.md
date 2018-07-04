@@ -15,7 +15,7 @@ This document is the Ministry of Justice (MOJ) IT Security – IT Disaster Recov
 
 ### How to use this document
 
-This document provides guidance on implementing the MoJ [IT Security – IT Disaster Recovery Policy][drp]. It should be used to guide the development of a MoJ business group level IT Security Disaster Recovery Plan whose scope covers all IT systems used to support that business group.
+This document provides guidance on implementing the MOJ [IT Security – IT Disaster Recovery Policy][drp]. It should be used to guide the development of a MOJ business group level IT Security Disaster Recovery Plan whose scope covers all IT systems used to support that business group.
 
 For the purposes of this document, the following terms will be used:
 
@@ -28,7 +28,7 @@ For the purposes of this document, the following terms will be used:
 
 The ability of the Ministry of Justice (MOJ) to react quickly to ITDR events will ensure that losses are minimised and the business will be able to resume or continue operations as quickly as possible.
 
-ITDR management is the ability to react to ITDR events in a controlled, pre-planned manner. Preparation and planning are key factors to successful incident management and all MoJ systems will rely upon the development and implementation of an ITDR plan as described in this guide.
+ITDR management is the ability to react to ITDR events in a controlled, pre-planned manner. Preparation and planning are key factors to successful incident management and all MOJ systems will rely upon the development and implementation of an ITDR plan as described in this guide.
 
 ## Design to maximise uptime
 
@@ -49,7 +49,7 @@ You need to have a plan for what to do if your service goes offline so that you 
 
 ### Demonstration of compliance
 
-The [CESG Information Assurance Maturity Model (IAMM)](https://www.ncsc.gov.uk/guidance/information-assurance-maturity-model-and-assessment-framework-gpg-40) sets out the minimum maturity level Government departments should attain. ICT asset disposal is captured as a basic requirement in Level 1 where the MoJ will need to demonstrate compliance against.
+The [CESG Information Assurance Maturity Model (IAMM)](https://www.ncsc.gov.uk/guidance/information-assurance-maturity-model-and-assessment-framework-gpg-40) sets out the minimum maturity level Government departments should attain. ICT asset disposal is captured as a basic requirement in Level 1 where the MOJ will need to demonstrate compliance against.
 
 ### Link to IT Security Incident Management
 
