@@ -53,7 +53,7 @@ All MOJ business groups **must maintain** a list of information assets, their as
 
 ## Deriving a classification
 
-At the MOJ, all information assets are assessed against HMG guidance on business impact (contained within [HMG IA Standard No.1 & 2][hmgia12] ) and HMG guidance on the rotection of personal data (see HMG Information Assurance Standard No.6, [here][hmgia6] ). This assessment can be used to select the appropriate classification from the HMG protective marking scheme however a classification is primarily derived from the Government Protective Marking Scheme (GPMS).
+At the MOJ, all information assets are assessed against HMG guidance on business impact (contained within [HMG IA Standard No.1 & 2][hmgia12] ) and HMG guidance on the protection of personal data (see HMG Information Assurance Standard No.6, [here][hmgia6] ). This assessment can be used to select the appropriate classification from the HMG protective marking scheme however a classification is primarily derived from the Government Protective Marking Scheme (GPMS).
 
 All information assets stored or processed on MOJ IT systems **must be** assessed against [HMG IA Standard No.1 & 2 – Business Impact Levels][hmgia12] and [HMG IA Standard No.6][hmgia6] where an impact level for the Confidentiality, Integrity and Availability (for each asset) is derived.
 
