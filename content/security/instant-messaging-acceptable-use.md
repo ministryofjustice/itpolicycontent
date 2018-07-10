@@ -21,7 +21,7 @@ Remember that, like email, instant messages are part of your work, and that the 
 
 Instant messaging tools include [Slack](https://slack.com/), [Skype](https://www.skype.com/en/), [Yammer](https://www.yammer.com/), and some others. This document refers to Slack, but applies to all instant messaging within the MOJ.
 
-These aspects mean that you must use Slack in an acceptable way. This guidance provides extra points to bear in mind when using Slack. Start by reviewing the general information in the MOJ Acceptable Use guidance, [here](https://intranet.justice.gov.uk/guidance/security/it-computer-security/acceptable-use/).
+You must use Slack in an acceptable way. This guidance provides extra points to bear in mind when using Slack. Start by reviewing the general information in the MOJ Acceptable Use guidance, [here](https://intranet.justice.gov.uk/guidance/security/it-computer-security/acceptable-use/).
 
 ## Classified information
 
