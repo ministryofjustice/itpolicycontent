@@ -39,6 +39,7 @@ cryptographic
 Cryptographic
 CSJM
 CSP
+CTC
 Ctrl
 cutover
 CVSSv
@@ -181,6 +182,7 @@ SMTP
 Spyware
 SQL
 Squiz
+SSCL
 SSL
 SyOPs
 TLS
