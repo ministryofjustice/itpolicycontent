@@ -293,5 +293,5 @@ The MOJ will monitor the use of electronic communications and web-browsing. Your
 
 ### Further reading from NCSC
 
-[Email security and anti-spoofing](https://www.ncsc.gov.uk/guidance/email-security-and-spoofing)
+[Email security and anti-spoofing](https://www.ncsc.gov.uk/guidance/email-security-and-anti-spoofing)
 
