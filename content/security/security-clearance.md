@@ -6,10 +6,11 @@ title: security-clearance
 
 [GOV.UK](https://www.gov.uk/guidance/security-vetting-and-clearance) has general information about the security vetting and clearance process.
 
-Information specific to the MOJ is available on the Intranet. It refers to pre-employment vetting and clearance. It also applies to anyone who needs a new or changed clearance. The two main articles are:
+Information specific to the MOJ is available on the Intranet. It refers to pre-employment vetting and clearance. It also applies to anyone who needs a new or changed clearance. The three main articles are:
 
 - [Personnel security prior to employment](https://intranet.justice.gov.uk/guidance/security/staff-security-and-responsibilities/personnel-security-prior-to-employment/)
 - [National Security Vetting Contact](https://intranet.justice.gov.uk/guidance/hr/recruitment/security-vetting/vetting-contact-point-vcp/)
+- [Other Government Department (OGD) Transfers](https://intranet.justice.gov.uk/documents/2017/12/ogd-pecs-and-vetting-faqs.docx)
 
 From June 1st, 2018, there is a new National Security Vetting Process:
 <!-- https://intranet.justice.gov.uk/news/changes-to-hq-building-passes-national-security-vetting-and-palace-of-westminster-pass-requests/ -->
