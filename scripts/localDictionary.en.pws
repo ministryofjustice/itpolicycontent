@@ -14,6 +14,7 @@ Atos
 auditable
 AUP
 AWS
+BAU
 BCP
 bcrypt
 BeCrypt
@@ -25,10 +26,14 @@ Botnets
 BPSS
 Browserstack
 CDs
+centric
 CESG
+CISO
 CJIT
+CJSE
 CJSM
 CMDB
+CoCo
 CRB
 criticality
 cryptographic
@@ -36,6 +41,8 @@ Cryptographic
 CSJM
 CSP
 Ctrl
+cutover
+CVSSv
 cyber
 Cyber
 DACU
@@ -44,6 +51,7 @@ degauss
 despatch
 deregistration
 DLRMS
+DMF
 DNS
 DOM
 DV
@@ -63,10 +71,12 @@ Gandi
 GCHQ
 GCHQ's
 GDPR
+GDS
 Geckoboard
 Gemnasium
 GetSentry
 GitHub
+GPMS
 GPRS
 GSi
 gsi
@@ -78,16 +88,20 @@ HMG
 HMPPS
 hoc
 hotsynch
+htm
 IaaS
 IAMM
 IAO
 IAOs
+IAS
 ICO
 ICT
+ITSIM
 ie
 iFrame
 IM
 inbox
+informationsecurity
 Invisionapp
 IP
 iPhone
@@ -95,6 +109,7 @@ iPhones
 iStock
 ITDR
 ITHC
+ITHCs
 ITSO
 Jira
 Kahootz
@@ -116,6 +131,7 @@ MOJ
 MOJ's
 multi
 NCSC
+NDA
 NICT
 NIST
 NLE
@@ -125,6 +141,7 @@ offshoring
 offsite
 OIT
 OITs
+OMNI
 onsite
 OpenShift
 OSN
@@ -141,6 +158,7 @@ Personalisation
 PIA
 Pingdom
 PNG
+pre
 PSO
 ransomware
 Rattic
@@ -154,6 +172,7 @@ screensaver
 scrypt
 SCS
 SecLists
+SecureZip
 SendGrid
 Sharepoint
 SIRO
@@ -176,10 +195,12 @@ TYR
 UAE
 un
 Unscannable
+uptime
 username
 usernames
 Vodafone
 VPN
+walkthrough
 WiFi
 WordPress
 writeable
