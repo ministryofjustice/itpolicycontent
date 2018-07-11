@@ -58,9 +58,7 @@ You must change a password whenever:
 - there was a security incident with the service that you access using the password. For example, if someone broke into the system that provides the service you use
 - your line manager or other authorised person tells you to do so
 
-When required to change a password, you must do so within a limited time. If you don't change the password soon enough, the account will be locked.
-
-The following table shows the maximum time allowed for changing a password when required to do so:
+When required to change a password, you must do so as soon as possible. If you don't change the password soon enough, the account locks. The following table shows the maximum time allowed:
 
 | Type of system | Maximum time to change a password |
 |---|---|
@@ -145,11 +143,11 @@ Systems must offer MFA alternatives to users where they are available. For examp
 
 ### Extra measures
 
-Check that a system, service, or information protected by a password is not [classified][gcs] as `SECRET` or `TOP SECRET`. Make sure that it doesn't contain delicate material such as contracts, or personal data or information. If it does contain such material, you might need extra access control.
+Check that a system, service, or information protected by a password is not [classified][gcs] as `SECRET` or `TOP SECRET`. Make sure that it doesn't contain delicate material. Examples include contracts, or personal data or information. If it does contain such material, you might need extra access control.
 
 Check which other systems have access to the system or service. Make sure that the access control suits the material at both ends of the connection.
 
-Appropriate extra measures might include tokens or other multi-factor authentication devices. Think about using an existing authentication system other than passwords. Avoid creating new authentication systems. Try to reduce what a user must remember. For more information about authentication systems, see the [IT Security - Access Control Standard][acs].
+Appropriate extra measures might include tokens or other multi-factor authentication devices. Think about using an existing authentication system other than passwords. Avoid creating new authentication systems. Try to reduce what a user must remember. For more information about authentication, see the [IT Security - Access Control Standard][acs].
 
 A technical risk assessment helps identifies extra controls for systems. This is mandatory for systems that need formal accreditation. The assessment follows [HMG Information Assurance Standard No. 1 & 2][hmgias2]. Multi-user systems are also subject to a Business Impact Assessment (BIA).
 
@@ -177,7 +175,7 @@ Suitable storage tools include:
 - [PBKDF2](https://en.wikipedia.org/wiki/PBKDF2)
 - [scrypt](https://en.wikipedia.org/wiki/Scrypt)
 
-Make sure the password storage security matches the [classification][gcs] of the system or data. Contact the Security Engineering or Information Assurance team to discuss what the appropriate strength of hashing should be.
+Make sure the password storage security matches the system or data [classification][gcs]. Contact the Security Engineering or Information Assurance team for help determining suitable security.
 
 Ensure the password storage security matches the [classification][gcs] of the system or data. For help with the appropriate strength of hashing, contact:
 
@@ -199,7 +197,7 @@ If a password lock occurs, a reset is necessary. This requires action by the sys
 
 ### Blocking bad passwords
 
-Don't let users choose [obvious passwords](https://en.wikipedia.org/wiki/List_of_the_most_common_passwords). Check for and block obvious passwords embedded within a password. For example, `SecretPassword` is not a good password!
+Don't let users choose [obvious passwords](https://en.wikipedia.org/wiki/List_of_the_most_common_passwords). Check for and block obvious passwords embedded within a password. For example, `MySecretPassword` is not a good password!
 
 Use password and hash lists from [SecLists](https://github.com/danielmiessler/SecLists/tree/master/Passwords) or [Have I Been Pwned](https://haveibeenpwned.com/Passwords), to help prevent bad passwords.
 
@@ -238,7 +236,7 @@ SSO integration in existing IdP solutions improves the user experience. This is 
 ---
 
 <table>
-<tr><td colspan='4'>This guidance is dated June 2018.
+<tr><td colspan='4'>This guidance is dated July 2018.
 <p>
 To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent+password-standard@digital.justice.gov.uk?subject=password-standard">itpolicycontent@digital.justice.gov.uk</a>, or click one of the following icons.</p></td></tr>
 <tr>
