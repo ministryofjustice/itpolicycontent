@@ -2,6 +2,8 @@
 title: security-clearance
 ---
 
+[css]: https://intranet.justice.gov.uk/guidance/hr/contact-shared-services/
+
 <b>This guidance applies to all staff and contractors who work for the MOJ.</b>
 
 [GOV.UK](https://www.gov.uk/guidance/security-vetting-and-clearance) has general information about the security vetting and clearance process.
@@ -15,8 +17,8 @@ Information specific to the MOJ is available on the Intranet. It refers to pre-e
 From June 1st, 2018, there is a new National Security Vetting Process:
 <!-- https://intranet.justice.gov.uk/news/changes-to-hq-building-passes-national-security-vetting-and-palace-of-westminster-pass-requests/ -->
 
-- Shared Services Connected Limited (SSCL) processes Baseline Personnel Security Standard (BPSS) checks. For any BPSS enquiries, contact [SSCL](https://intranet.justice.gov.uk/guidance/hr/contact-shared-services/).
-- Send clearance enquiries about Counter Terrorist Check (CTC), Security Clearance (SC) or Developed Vetting (DV) to the [Cluster 2 Security Unit (C2SU) Help Desk](mailto:C2SUContactUs@homeoffice.gsi.gov.uk).
+- Shared Services Connected Limited (SSCL) processes Baseline Personnel Security Standard (BPSS) checks. For any BPSS enquiries, [contact SSCL][css].
+- The Cluster 2 Security Unit (C2SU) handle Counter Terrorist Check (CTC), Security Clearance (SC), and Developed Vetting (DV). For any National Security Vetting requests, [contact SSCL][css]. SSCL will organise processing by C2SU.
 
 ---
 
