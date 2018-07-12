@@ -8,6 +8,7 @@ This document summarises what changes were made, and when, to MOJ IT Policy cont
 
 Date | Audience | Topic (and link) | Changes
 ---|---|---|---
+July 12 | All | [Taking IT equipment abroad (business or personal)](https://intranet.justice.gov.uk/guidance/security/it-computer-security/taking-it-equipment-abroad-business-or-personal/) | Added contact details for Operational Security.
 July 2 | All | [Using your own smartphone, laptop, tablet or PC for work](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/using-your-own-smartphone-laptop-tablet-or-pc-for-work/) | Published interim guidance on using your own devices.
 June 19 | All | [Guidance for using Open Internet Tools](https://intranet.justice.gov.uk/guidance/security/it-computer-security/guidance-for-using-open-internet-tools/) | Guidance about using Open Internet Tools (work in progress).
 June 15 | All | [Password Standard](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/password-standard/) | Simplification regarding complex passwords.
