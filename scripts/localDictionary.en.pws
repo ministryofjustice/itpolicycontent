@@ -16,6 +16,7 @@ AUP
 AWS
 BAU
 BCP
+bcrypt
 BeCrypt
 BIL
 biometrics
@@ -96,6 +97,7 @@ IAOs
 IAS
 ICO
 ICT
+IdP
 ITSIM
 ie
 iFrame
@@ -170,7 +172,9 @@ RTO
 SaaS
 sanitisation
 screensaver
+scrypt
 SCS
+SecLists
 SecureZip
 SendGrid
 Sharepoint
@@ -185,8 +189,10 @@ SQL
 Squiz
 SSCL
 SSL
+SSO
 SyOPs
 TLS
+TOTP
 Transifex
 Trello
 Trustwave
