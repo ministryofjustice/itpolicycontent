@@ -1,4 +1,4 @@
-﻿---
+---
 title: taking-it-equipment-abroad-business-or-personal
 ---
 
@@ -57,7 +57,7 @@ Next, request business approval as follows:
 | All HMPPS staff except HQ | Send your request to your governor |
 
 
-When you have received business approval, send a copy of your request and the approval to Operational Security.
+When you have received business approval, send a copy of your request and the approval to Operational Security:<br/>![](https://intranet.justice.gov.uk/app/uploads/2018/05/c210534c474fcf88f5303ed6aa7dccee.gif)&nbsp;
 
 When Operational Security have acknowledged receipt of the request and approval, the process is complete.
 
@@ -114,7 +114,7 @@ Tell them if the HMPPS equipment is lost, stolen or was potentially compromised.
 ---
 
 <table>
-<tr><td colspan='4'>This guidance is dated May 2018.
+<tr><td colspan='4'>This guidance is dated July 2018.
 <p>
 To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=taking-it-equipment-abroad-business-or-personal">itpolicycontent@digital.justice.gov.uk</a>, or click one of the following icons.</p></td></tr>
 <tr>
