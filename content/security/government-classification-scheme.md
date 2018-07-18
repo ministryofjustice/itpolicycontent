@@ -27,5 +27,5 @@ Where appropriate they have been expanded to reference the systems generally ava
 <table>
 <tr><td colspan='4'>This guidance is dated July 2018.
 <p>
-To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent+government-classification-scheme@digital.justice.gov.uk?subject=using-your-own-smartphone-laptop-tablet-or-pc-for-work
+To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent+government-classification-scheme@digital.justice.gov.uk?subject=government-classification-scheme
 ">itpolicycontent@digital.justice.gov.uk</a>.</p></td></tr>
