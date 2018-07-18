@@ -1,4 +1,4 @@
----
+﻿---
 title: Government Classification Scheme
 ---
 
@@ -17,9 +17,15 @@ OFFICIAL information must only be shared on a need-to-know basis.  Interpretatio
 
 ## Source
 
-These guidelines are based on “The Government Security Classification (GSC)” as issued by the Cabinet Office in 2014:
+These guidelines are based on “The Government Security Classification (GSC)” as issued by the Cabinet Office in 2018:
 
 The link, below, provides handling guidance for Authority data covering OFFICIAL (which includes OFFICIAL – SENSITIVE).
 [https://www.gov.uk/government/publications/government-security-classifications](https://www.gov.uk/government/publications/government-security-classifications)
 
 Where appropriate they have been expanded to reference the systems generally available to Authority suppliers.
+
+<table>
+<tr><td colspan='4'>This guidance is dated July 2018.
+<p>
+To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent+government-classification-scheme@digital.justice.gov.uk?subject=using-your-own-smartphone-laptop-tablet-or-pc-for-work
+">itpolicycontent@digital.justice.gov.uk</a>.</p></td></tr>
