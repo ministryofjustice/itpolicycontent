@@ -4,7 +4,7 @@ title: Government Classification Scheme
 
 ## Source  
 
-This summary guidelines are based on “The Government Security Classification (GSC)” as issued by the Cabinet Office in 2018. The link below provides full handling guidance for Authority data covering OFFICIAL, SECRET and TOP SECRET:
+These summary guidelines are based on “The Government Security Classification (GSC)” as issued by the Cabinet Office in 2018. The link below provides full handling guidance for Authority data covering OFFICIAL, SECRET and TOP SECRET:
 
 [https://www.gov.uk/government/publications/government-security-classifications](https://www.gov.uk/government/publications/government-security-classifications)
 
