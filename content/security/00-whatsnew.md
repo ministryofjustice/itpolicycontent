@@ -8,6 +8,7 @@ This document summarises what changes were made, and when, to MOJ IT Policy cont
 
 Date | Audience | Topic (and link) | Changes
 ---|---|---|---
+July 19 | All | [Government Classification Scheme](https://intranet.justice.gov.uk/guidance/security/it-computer-security/government-classification-scheme/) | Incorporated the Cabinet Office update.
 July 13 | All | [Password Standard](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/password-standard/) | Additional information on Service Accounts, Multi-Factor Authentication, and Single Sign-On.
 July 13 | All | [Security Clearance](https://intranet.justice.gov.uk/guidance/security/it-computer-security/security-clearance/) | Updated information on the Security Clearance process.
 July 12 | All | [Taking IT equipment abroad (business or personal)](https://intranet.justice.gov.uk/guidance/security/it-computer-security/taking-it-equipment-abroad-business-or-personal/) | Added contact details for Operational Security.
