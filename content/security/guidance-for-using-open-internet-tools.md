@@ -24,10 +24,11 @@ https://www.gov.uk/government/publications/digital-skills-in-the-civil-service/i
 This guidance gives you:
 
 - an [overview](#overview) of Open Internet Tools (OIT)
+- essential [security and privacy](#security-and-privacy) considerations
 - a [quick checklist](#quick-checklist) to help you decide if you can use an OIT
 - reasons why you [might](#why-oits-are-an-opportunity), or [might not](#why-oits-are-a-risk), want to use an OIT
 - things you [must think about](#using-oits) when using an OIT, such as [data protection](#privacy-and-personal-information)
-- information on [who to contact](#getting-help) if you would like help or advice
+- information on [who to ask](#getting-help) if you want help or advice
 
 <a id="overview"></a>
 
@@ -35,19 +36,31 @@ This guidance gives you:
 
 Open Internet Tools (OITs) are applications or services from suppliers outside the MOJ. They often have the following characteristics:
 
-- they are general purpose. This means they are not specific to the MOJ. Other organisations can use them
+- they are general purpose. This means they are not specific to the MOJ. Other organisations might use them, too
 - they are accessed using the Internet, usually through a web browser. This means that if you have Internet access, you are able to connect to the tools
 - they have a basic 'free-to-use' version. This means that you are able to use some or all the capabilities, but with some constraints. For example, an online word-processor might limit you to 5 documents in your account
 - they have one or more 'paid for' versions. By paying for the tool, you unlock some or all the constraints
+
+Example OITs include [Slack](www.slack.com) and [Trello](www.trello.com).
+
+<a id="security-and-privacy"></a>
+
+### Security and Privacy
+
+As with all other MOJ IT resources, OITs used for MOJ tasks are subject to [Acceptable Use guidance](https://intranet.justice.gov.uk/guidance/security/it-computer-security/acceptable-use/).
+
+Be aware of the sensitivity of the information you work with. Ensure you always use OITs with due regard to [classification and security](#classification-and-security) obligations.
+
+Be especially careful about [personal or private information](#privacy-and-personal-information).
 
 <a id="quick-checklist"></a>
 
 ### Quick checklist
 
-To help you decide if you can use an OIT to work on an MOJ task, consider the following questions:
+To help you decide if it's OK to use an OIT to work on an MOJ task, consider the following questions:
 
 - is the task information subject to specific rules or requirements in your part of the MOJ?
-- is the task information classified as anything other than `OFFICIAL` or `OFFICIAL-SENSITIVE`?
+- is the task information classified as anything other than `OFFICIAL`?
 - does the task information include any data identifiable as being about someone?
 - is this the first time anyone has used the tool for MOJ business?
 - does the tool need access to your account or other data you can access? For example, does it ask to use your MOJ Google or Microsoft Office account?
@@ -60,7 +73,7 @@ To help you decide if you can use an OIT to work on an MOJ task, consider the fo
 - are you prevented from exporting all the data from the tool?
 - are you prevented from deleting all the data from the tool when you finish working on the task?
 
-If the answer to _any_ of these questions is 'Yes', you might not be able to use the OIT.
+If the answer to _any_ of these questions is 'Yes', it might not be OK to use the OIT.
 
 When you have all the answers, request formal approval to use the OIT from your [Line Manager](https://intranet.justice.gov.uk/guidance/security/it-computer-security/line-manager-approval/). Do this _before_ using the OIT.
 
@@ -120,20 +133,20 @@ Data protection legislation makes you responsible for personal information you w
 
 Don't use OITs for storing personal data until you have addressed the need to get consent first. Check if using the OIT might need an update to existing privacy policies or notices. Don't use OITs if unlawful disclosure of the information they process might cause damage or distress.
 
-Data protection legislation might also limit _where_ you can process personal data. An OIT should have a privacy statement that describes where it stores or processes data. Be ready to contact the OIT provider for more information about this aspect of their service.
+Data protection legislation might also limit _where_ you can process personal data. An OIT should have a privacy statement that describes where it stores or processes data. Be ready to ask the OIT provider for more information about this aspect of their service.
 
-Be sure you can fulfil your data protection responsibilities when using an OIT. It might be helpful to complete a [Privacy Impact Assessment (PIA)](https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/privacy-impact-assessments/).
+Be sure you're able to fulfil your data protection responsibilities when using an OIT. It might be helpful to complete a [Privacy Impact Assessment (PIA)](https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/privacy-impact-assessments/).
 
-Complying with personal information requirements can be complex. Don't hesitate to ask for advice:<br/>
+Complying with personal information requirements is often complex. Don't hesitate to ask for advice:<br/>
 ![](https://intranet.justice.gov.uk/app/uploads/2018/02/3d58a7dd7083aa02245a5c9c8796bcd6.gif)
 
-<p>&nbsp;</p>
+<a id="classification-and-security"></a>
 
 ### Classification and security
 
 An OIT can only store or process information [classified](https://www.gov.uk/government/publications/government-security-classifications) at `OFFICIAL` level.
 
-Think about the MOJ information you work with.  What would happen if you lost it, or it's stolen, or published in the media? Suppose the information was overheard in a cafe, or read from your screen on a crowded train. Could there be damaging consequences? If the answer is 'No', then it's probably OK to use OITs to store or send that information.
+Think about the MOJ information you work with.  What might happen if you lost it, or it's stolen, or published in the media? Suppose the information was overheard in a cafe, or read from your screen on a crowded train. Might there be damaging consequences? If the answer is 'No', then it's probably OK to use OITs to store or send that information.
 
 Think also about information moving across the Internet. The data might be safe within the MOJ and in an approved OIT. But what about the connection between the two? Sending information might involve insecure networks. Be aware of the security implications. Check that enough suitable security measures are in place to protect the information. For example, check for encryption of network connections using [SSL/TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security). A simple way to do this is to look for the secure connection indicator in your web browser:<br/>
 ![](https://intranet.justice.gov.uk/app/uploads/2018/02/guidance-for-using-open-internet-tools-01.png)
@@ -142,7 +155,7 @@ Think also about information moving across the Internet. The data might be safe 
 
 You have a duty of confidentiality and a responsibility to safeguard any HMG information or data that you access. This is [Principle 2](https://www.gov.uk/government/publications/government-security-classifications) of the Government Security Classifications. The MOJ trusts you to work with `OFFICIAL` information. In the same way, you're trusted to make a reasoned judgement about whether it's safe to use an OIT.
 
-Useful help for deciding what is OK is in [existing social media guidance](https://intranet.justice.gov.uk/documents/2015/11/social-media-policy-guidance.pdf). While it's more about how to act online, the principles are helpful for OITs.
+Useful help for deciding what is OK is in [existing social media guidance](https://intranet.justice.gov.uk/documents/2015/11/social-media-policy-guidance.pdf). Although it's more about how to act online, the principles are helpful for OITs.
 
 Remember that it is impossible to delete information after it's released in public.
 
@@ -166,11 +179,11 @@ Always store MOJ information in MOJ systems. If you use an OIT, make sure the ke
 
 Most OITs let you export your data. You can then store it on an appropriate MOJ system. Sometimes it's easier to copy and paste text into a new document. Make sure that only the correct people have access to the information. This is important after staff or organisational changes, for example.
 
-For more guidance, read the [MOJ Information Management Policy](https://intranet.justice.gov.uk/documents/2015/04/information-management-policy.pdf). There is also help on [responding to requests for information](https://intranet.justice.gov.uk/guidance/knowledge-information/providing-information-to-the-public/freedom-of-information/).
+For more guidance, read the [MOJ Information Management Policy](https://intranet.justice.gov.uk/documents/2015/04/information-management-policy.pdf). Help is also available on [responding to requests for information](https://intranet.justice.gov.uk/guidance/knowledge-information/providing-information-to-the-public/freedom-of-information/).
 
 ### Service and support
 
-OITs are often intuitive and reliable. But that doesn't mean they are always available and always work as you expect. The MOJ can't provide technical support or ensure service availability for them. Always have another way of working if the OIT is not available for some reason or for any length of time. In other words, don't let an OIT become business critical.
+OITs are often intuitive and reliable. But that doesn't mean an OIT is are always available, and that it will always work as you expect. The MOJ doesn't provide technical support or guarantee service availability for OITs. Always have another way of working if the OIT isn't available for some reason, or for any length of time. In other words, don't let an OIT become business critical.
 
 Check the OIT usage agreement to find out more about the service and support available.
 
@@ -178,7 +191,7 @@ Check the OIT usage agreement to find out more about the service and support ava
 
 ## Common OITs
 
-There are already many OITs used across the MOJ. Permission to use an OIT might vary, depending on where you work in the MOJ. For example, some teams must not access or use some OITs, for security or operational reasons.
+Many OITs are already in use across the MOJ. Permission to use an OIT might vary, depending on where you work in the MOJ. For example, some teams must not access or use some OITs, for security or operational reasons.
 
 <b>Note: Check with your Line Manager if you want to use an OIT for your work, _before_ you use it.</b>
 
@@ -190,7 +203,7 @@ A current list of OITs, and their status, is available [here][oitlist].
 
 ## Getting help
 
-For further help about aspects of using OITs within the MOJ, contact:
+For more help about aspects of using OITs within the MOJ, ask:
 
 Subject | Contact
 ---|---
@@ -202,12 +215,7 @@ Personal Data | Disclosure Team:<br/>![](https://intranet.justice.gov.uk/app/upl
 ---
 
 <table>
-<tr><td colspan='4'>This guidance is dated June 2018.
+<tr><td colspan='4'>This guidance is dated July 2018.
 <p>
-To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent+guidance-for-using-open-internet-tools@digital.justice.gov.uk?subject=guidance-for-using-open-internet-tools">itpolicycontent@digital.justice.gov.uk</a>, or click one of the following icons.</p></td></tr>
-<tr>
-<td width='25%'><a href="mailto:itpolicycontent+guidance-for-using-open-internet-tools-2@digital.justice.gov.uk?subject=guidance-for-using-open-internet-tools-2"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/DoubleCross.gif" alt="Content was very unhelpful">Very unhelpful.</a></td>
-<td width='25%'><a href="mailto:itpolicycontent+guidance-for-using-open-internet-tools-1@digital.justice.gov.uk?subject=guidance-for-using-open-internet-tools-1"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/Cross.gif" alt="Content was unhelpful">Unhelpful.</a></td>
-<td width='25%'><a href="mailto:itpolicycontent+guidance-for-using-open-internet-tools+1@digital.justice.gov.uk?subject=guidance-for-using-open-internet-tools+1"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/Tick.gif" alt="Content was helpful">Helpful.</a></td>
-<td width='25%'><a href="mailto:itpolicycontent+guidance-for-using-open-internet-tools+2@digital.justice.gov.uk?subject=guidance-for-using-open-internet-tools+2"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/DoubleTick.gif" alt="Content was very helpful">Very helpful.</a></td>
+To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent+guidance-for-using-open-internet-tools@digital.justice.gov.uk?subject=guidance-for-using-open-internet-tools">itpolicycontent@digital.justice.gov.uk</a>.</p></td></tr>
 </table>
