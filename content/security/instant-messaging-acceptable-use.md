@@ -6,9 +6,9 @@ title: instant-messaging-acceptable-use
 
 <b>This guidance applies to all staff and contractors who work for the MOJ.</b>
 
-Instant messaging is a variation of email. It's quick and simple, making it an important way of working for everyone at the MOJ. The main difference is that you can send and receive messages 'instantly'. This lets you have interactive conversations.
+Instant messaging is the near real-time exchange of electronic messages. It's quick and simple, making it an important way of working for everyone at the MOJ. The main difference is that you can send and receive messages 'instantly'. This lets you have interactive conversations.
 
-Instant messages include information such as:
+Instant messages can include information, multimedia content and attachments such as:
 
 - text
 - links to websites
@@ -20,24 +20,27 @@ Instant messages include information such as:
 
 Remember that, like email, instant messages are part of your work, and that the MOJ monitors them. Messages are subject to Freedom of Information, data retention, and privacy considerations.
 
-Instant messaging tools include [Slack](https://slack.com/), [Skype](https://www.skype.com/en/), [Yammer](https://www.yammer.com/), [WhatsApp](https://www.whatsapp.com/), [Telegram](https://telegram.org/), and some others. This document applies to all instant messaging within the MOJ.
+Popular and well-known instant messaging tools include [Slack](https://slack.com/), [Skype](https://www.skype.com/en/), [Yammer](https://www.yammer.com/), [WhatsApp](https://www.whatsapp.com/), and [Telegram](https://telegram.org/). This document applies to all instant messaging that you use for your work.
 
 You must use IM in an acceptable way. This guidance provides extra points to bear in mind when using IM. Start by reviewing the general information in the MOJ Acceptable Use guidance, [here](https://intranet.justice.gov.uk/guidance/security/it-computer-security/acceptable-use/).
 
 ## Classified information
 
-In general, you can use IM for `OFFICIAL` and `OFFICIAL-SENSITIVE` information. Most IM systems are not approved for the higher classifications: `SECRET` or `TOP SECRET`. Some IM systems such as Rosa are MOJ- or government-specific. They might be approved for use with higher classification information.
+In general, you can use IM for `OFFICIAL` (including information with the `SENSITIVE` handling caveat) information. Most IM systems are not approved for the higher classifications: `SECRET` or `TOP SECRET`. Some IM systems such as Rosa are MOJ- or government-specific. They might be approved for use with higher classification information.
 
-Avoid using IM to share or discuss operational information. Examples include:
+Avoid using IM to share information that has additional information management or privacy requirements. Examples include:
 
-- configuration details
+- passwords and other information we should keep private
 - personnel or HR information
-- log file content
+- personal data other than your own
 - details of legal cases
-- MOJ security investigations
-- MOJ system vulnerabilities
+- commercial or proprietary information under enhance confidentiality (such as non-disclosure agreements)
 
-You can't use IM for all `OFFICIAL` information. For example, some commercial or proprietary information might not have a high classification. But you shouldn't discuss it using IM.
+## Information management and record keeping
+
+IM tools are generally designed for near real-time communication and it can be quite difficult to identify individual messages later on such as finding when a decision was taken or an outcome decided.
+
+If discussions using IM tools are important (such as a key decision, or the discussion timeline around an incident) the conversation may need to be copied and archived into another tool designed for persistent and searchable data, such as Confluence, Trello, G-Suite or Office 365.
 
 ## Avoid embarrassment
 
