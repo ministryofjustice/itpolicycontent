@@ -6,9 +6,9 @@ title: instant-messaging-acceptable-use
 
 <b>This guidance applies to all staff and contractors who work for the MOJ.</b>
 
-Instant messaging is the near real-time exchange of electronic messages. It's quick and simple, making it an important way of working for everyone at the MOJ. The main difference is that you can send and receive messages 'instantly'. This lets you have interactive conversations.
+Instant messaging is the near real-time exchange of electronic messages. It's quick and simple, making it an important way of working for everyone at the MOJ. The main difference is that you send and receive messages 'instantly'. This lets you have interactive conversations.
 
-Instant messages can include information, multimedia content and attachments such as:
+Instant messages include information, multimedia content and attachments such as:
 
 - text
 - links to websites
@@ -16,39 +16,55 @@ Instant messages can include information, multimedia content and attachments suc
 - emojis
 - calls
 - videos
-- attachments such as files
+- files
 
-Remember that, like email, instant messages are part of your work, and that the MOJ monitors them. Messages are subject to Freedom of Information, data retention, and privacy considerations.
+Remember that, as with email, instant messages are part of your work, and that the MOJ monitors them. Messages are subject to Freedom of Information, data retention, and privacy considerations.
 
-Popular and well-known instant messaging tools include [Slack](https://slack.com/), [Skype](https://www.skype.com/en/), [Yammer](https://www.yammer.com/), [WhatsApp](https://www.whatsapp.com/), and [Telegram](https://telegram.org/). This document applies to all instant messaging that you use for your work.
+Popular and well-known Instant Messaging (IM) tools include:
+
+- [Skype](https://www.skype.com/en/)
+- [Slack](https://slack.com/)
+- [Telegram](https://telegram.org/)
+- [WhatsApp](https://www.whatsapp.com/)
+- [Yammer](https://www.yammer.com/)
+
+This document applies to all IM that you use for your work.
 
 You must use IM in an acceptable way. This guidance provides extra points to bear in mind when using IM. Start by reviewing the general information in the MOJ Acceptable Use guidance, [here](https://intranet.justice.gov.uk/guidance/security/it-computer-security/acceptable-use/).
 
 ## Classified information
 
-In general, you can use IM for `OFFICIAL` (including information with the `SENSITIVE` handling caveat) information. Most IM systems are not approved for the higher classifications: `SECRET` or `TOP SECRET`. Some IM systems such as Rosa are MOJ- or government-specific. They might be approved for use with higher classification information.
+In general, you use IM only for `OFFICIAL` information. This includes information with the `SENSITIVE` handling caveat. Most IM systems are not approved for the higher classifications: `SECRET` or `TOP SECRET`. Some IM systems such as Rosa are MOJ- or government-specific. They might be approved for use with higher classification information.
 
-Avoid using IM to share information that has additional information management or privacy requirements. Examples include:
+Avoid using IM to share material with extra information management or privacy requirements. Examples include:
 
-- passwords and other information we should keep private
+- passwords and other data we should keep private
 - personnel or HR information
-- personal data other than your own
+- personal data that is not your own
 - details of legal cases
-- commercial or proprietary information under enhance confidentiality (such as non-disclosure agreements)
+- commercial or proprietary information under enhanced confidentiality, such as Non-Disclosure Agreements (NDAs)
 
 ## Information management and record keeping
 
-IM tools are generally designed for near real-time communication and it can be quite difficult to identify individual messages later on such as finding when a decision was taken or an outcome decided.
+IM tools are generally designed for near real-time communication. It might be difficult to find individual messages later, such as who made a decision.
 
-If discussions using IM tools are important (such as a key decision, or the discussion timeline around an incident) the conversation may need to be copied and archived into another tool designed for persistent and searchable data, such as Confluence, Trello, G-Suite or Office 365.
+This is especially important for discussions you have to keep. Examples include key decisions or incident timelines. Consider copying or archiving the conversations.
+
+Suitable tools for storing and searching IM data include:
+
+- Confluence
+- G-Suite
+- Office 365
+- Trello
 
 ## Avoid embarrassment
 
-IM messages can go to individuals or groups, so think before you send them. If a message would cause problems, upset, offence, or embarrassment, it's not acceptable. Remember that the work discussions can become public in the future. This might include IM messages and conversations.
+IM messages might go to individuals or groups. Think before you send them. If a message might cause problems, upset, offence, or embarrassment, it's not acceptable. Remember that the work discussions might become public in the future. This includes IM messages and conversations.
 
 You shouldn't discuss personal information about other people using IM without their knowledge. You might choose to discuss a personal medical issue with your line manager. But your line manager wouldn't start a conversation with you about a medical issue.
 
 Context is important:
+
 - think about who might be looking over your shoulder reading the messages
 - think about what people on a video call might see behind you, or hear on a conference call
 
@@ -56,7 +72,7 @@ Context is important:
 
 Improve the security of your IM tools by using 2-factor authentication (2FA).
 
-2FA requires you to supply more information when you use your account. This extra information is usually one of:
+2FA requires you to supply more information when you use your account. This extra information could be:
 
 - a unique code sent to your mobile device
 - a frequently-changing code generated by an authentication device or app
@@ -72,7 +88,7 @@ Find 2FA details for the more popular IM tools here:
 ## Do's
 
 - always identify yourself and your organisation
-- access the IM system using:
+- access IM using:
   - the official application
   - a standard web browser
 
@@ -84,8 +100,8 @@ Find 2FA details for the more popular IM tools here:
 
 ## Summary
 
-- only post information at the appropriate security classification for the IM system
-- use common sense to help you decide what can be in an instant message
+- post information only at the appropriate security classification for the IM tool
+- use common sense to help you decide what is acceptable in an instant message
 - be guided by the [Civil Service Code][csc].
 - if you're not sure if something's acceptable, ask for help first
 - if you think there's a problem, [report it](https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/)
