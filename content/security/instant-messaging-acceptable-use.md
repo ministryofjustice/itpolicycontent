@@ -10,12 +10,13 @@ Instant messaging is a variation of email. It's quick and simple, making it an i
 
 Instant messages include information such as:
 
-  - text
-  - links to websites
-  - images
-  - emojis
-  - calls
-  - videos
+- text
+- links to websites
+- images
+- emojis
+- calls
+- videos
+- attachments such as files
 
 Remember that, like email, instant messages are part of your work, and that the MOJ monitors them. Messages are subject to Freedom of Information, data retention, and privacy considerations.
 
@@ -25,11 +26,18 @@ You must use IM in an acceptable way. This guidance provides extra points to bea
 
 ## Classified information
 
-You can use IM for `OFFICIAL` and `OFFICIAL-SENSITIVE` information. It is not approved for the higher classifications: `SECRET` or `TOP SECRET`. Don't share or discuss operational information using IM. Other examples to avoid include details of cases, investigations or system vulnerabilities.
+In general, you can use IM for `OFFICIAL` and `OFFICIAL-SENSITIVE` information. Most IM systems are not approved for the higher classifications: `SECRET` or `TOP SECRET`. Some IM systems such as Rosa are MOJ- or government-specific. They might be approved for use with higher classification information.
+
+Avoid using IM to share or discuss operational information. Examples include:
+
+- configuration details
+- personnel or HR information
+- log file content
+- details of legal cases
+- MOJ security investigations
+- MOJ system vulnerabilities
 
 You can't use IM for all `OFFICIAL` information. For example, some commercial or proprietary information might not have a high classification. But you shouldn't discuss it using IM.
-
-Use common sense to help you decide what can be in an instant message. Be guided by the [Civil Service Code][csc].
 
 ## Avoid embarrassment
 
@@ -71,8 +79,11 @@ Find 2FA details for the more popular IM tools here:
 - don't share personal information about your colleagues without their permission
 - don't rely on IM tools to be available all the time
 
-## And finally...
+## Summary
 
+- only post information at the appropriate security classification for the IM system
+- use common sense to help you decide what can be in an instant message
+- be guided by the [Civil Service Code][csc].
 - if you're not sure if something's acceptable, ask for help first
 - if you think there's a problem, [report it](https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/)
 
