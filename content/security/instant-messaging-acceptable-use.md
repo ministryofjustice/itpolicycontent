@@ -50,13 +50,6 @@ IM tools are generally designed for near real-time communication. It might be di
 
 This is especially important for discussions you have to keep. Examples include key decisions or incident timelines. Consider copying or archiving the conversations.
 
-Suitable tools for storing and searching IM data include:
-
-- Confluence
-- G-Suite
-- Office 365
-- Trello
-
 ## Avoid embarrassment
 
 IM messages might go to individuals or groups. Think before you send them. If a message might cause problems, upset, offence, or embarrassment, it's not acceptable. Remember that the work discussions might become public in the future. This includes IM messages and conversations.
@@ -67,6 +60,10 @@ Context is important:
 
 - think about who might be looking over your shoulder reading the messages
 - think about what people on a video call might see behind you, or hear on a conference call
+
+## Invitations
+
+IM tools make it easy to 'invite' people to join your conversations. This might be fine for MOJ colleagues, but avoid giving invites to external people. Once someone has access to an IM tool, it's hard to know what else they access using the tool.
 
 ## Securing your instant messaging account
 
@@ -79,11 +76,14 @@ Improve the security of your IM tools by using 2-factor authentication (2FA).
 
 Find 2FA details for the more popular IM tools here:
 
-- Skype supports 2FA through the associated [Office 365 account](https://support.office.com/en-gb/article/Set-up-multi-factor-authentication-for-Office-365-users-8f0454b2-f51a-4d9c-bcde-2c48e41621c6)
-- Slack [support for 2FA](https://get.slack.help/hc/en-us/articles/204509068-Set-up-two-factor-authentication)
-- Telegram [support for 2FA](https://telegram.org/faq#q-how-does-2-step-verification-work)
-- WhatsApp [support for 2FA](https://faq.whatsapp.com/en/android/26000021/)
-- Yammer supports 2FA through the associated [Office 365 account](https://support.office.com/en-gb/article/Set-up-multi-factor-authentication-for-Office-365-users-8f0454b2-f51a-4d9c-bcde-2c48e41621c6)
+- Skype supports 2FA through the associated [Office 365 account](https://support.microsoft.com/en-us/help/12408/microsoft-account-about-two-step-verification)
+- Slack [support for 2FA](https://get.slack.help/hc/en-us/articles/204509068-Enabling-two-factor-authentication)
+- Telegram [support for 2FA](https://telegram.org/blog/sessions-and-2-step-verification)
+- WhatsApp [support for 2FA](https://faq.whatsapp.com/en/general/26000021)
+
+Yammer does not currently support 2FA.
+
+<!-- https://twofactorauth.org/ for details of all current 2FA capabilities for many, many tools. -->
 
 ## Do's
 
@@ -91,6 +91,7 @@ Find 2FA details for the more popular IM tools here:
 - access IM using:
   - the official application
   - a standard web browser
+- use 2FA
 
 ## ...and Don'ts
 
