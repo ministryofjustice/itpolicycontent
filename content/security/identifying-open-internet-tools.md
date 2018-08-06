@@ -2,11 +2,16 @@
 title: identifying-open-internet-tools
 ---
 
-<table border='1'>
-<tr>
-<td>This information applies to all staff and contractors who work for the MOJ.</td>
-</tr>
-</table>
+<b>This information applies to all staff and contractors who work for the MOJ.</b>
+
+## Important note
+
+Open Internet Tools (OITs) are applications or services from suppliers outside the MOJ. When using an OIT, ensure you address privacy and personal information considerations. In particular:
+
+- you must follow data protection obligations
+- don't use OITs if unlawful disclosure of the information they process might cause damage or distress
+
+More information about OITs and privacy and personal information is available [here](https://intranet.justice.gov.uk/guidance/security/it-computer-security/guidance-for-using-open-internet-tools/#privacy-and-personal-information).
 
 ## Identifying and championing new tools
 
@@ -14,10 +19,10 @@ New OITs are being developed all the time. Some of these might be better suited 
 
 The basic process consists of four steps.
 
-1. [Definition](#definition), leading to Prototype.
-2. [Alpha](#alpha), leading to Acceptance.
-3. [Beta](#beta), leading to Approved.
-4. [Gamma](#gamma), leading to Assured.
+1. [Prototype](#prototype)
+2. [Accept](#acceptance)
+3. [Approve](#approved)
+4. [Assure](#assured)
 
 The four steps encourage and enable adoption of new OITs. You have an essential role to play in the process. If you get blocked in a steps, it might mean an earlier step was not completed successfully or correctly.
 
@@ -37,19 +42,19 @@ If this list seems burdensome, ask yourself if the OIT is worth the effort or no
 
 Without a specific individual being responsible, these activities can get overlooked. In time, this can cause difficulties such as ambiguity about the OITs approval status.
 
-It's important that there's always a champion when a tool is critical to the business unit. Often, when the tool is first used, someone sets up an account and grants others access to that account. If the account holder leaves, access control might become difficult or even impossible. Solving problems of this kind for tools that are not recognised or supported by MOJ technology can be very difficult.
+It's important that there's always a champion when a tool is critical to the business unit. Often, when the tool is first used, someone sets up an account and grants others access to that account. If the account holder leaves, access control might become difficult or even impossible. It's difficult to solve problems like this for tools that are not recognised or supported by the MOJ.
 
-<a id="definition"></a>
+<a id="prototype"></a>
 
-### Definition
+### Prototype
 
-During the Definition stage, you describe and confirm the business need. Describe example tasks, and why they are good representatives of other tasks.
+To start this stage, describe and confirm the business need. Think about example tasks, and why they are good representatives of other tasks.
 
-Next, show why the existing tools cannot meet that the business need.
+Next, show why existing MOJ tools cannot meet that the business need.
 
-You can now work to identify a suitable OIT. It must solve the business need, or provide significant help in fulfilling it. The OIT should work in a way that aligns with and promotes MOJ principles and objectives. You might also learn of a new tool from across Government, or through professional bodies.
+You can now work to identify a suitable OIT. You might also learn of a new tool from across Government, or through professional bodies. It must solve the business need, or provide significant help in fulfilling it. The OIT should work in a way that aligns with and promotes MOJ principles and objectives.
 
-When you have an OIT in mind, you can investigate the characteristics of the tool. Ask fundamental questions, such as:
+When you have an OIT in mind, investigate the characteristics of the tool. Ask fundamental questions, such as:
 
 - is the tool suitable for general information at `OFFICIAL` classification?
 - is the tool compatible with legislative obligations, such as:
@@ -61,6 +66,9 @@ When you have an OIT in mind, you can investigate the characteristics of the too
 - what are the hardware, software, and other operational requirements?
 - how is information within the tool kept secure?
 - how compatible is the tool with other, existing approved tools within the MOJ?
+- how do users or customer organisations supply feedback to the OIT supplier?
+- how are individual user accounts managed?
+- is it possible to have team accounts?
 
 At the end of this stage, you should have a clear idea of:
 
@@ -71,43 +79,67 @@ At the end of this stage, you should have a clear idea of:
   - on the wider MOJ IT infrastructure and staff
 - the security characteristics of the OIT
 
-With these answers ready, you can seek permission to prototype the tool for performing the task. Do this by contacting your Line Manager and your Tech Support team, so that they know what your plan is and that you have approval to prototype.
+When you have the answers, ask permission to prototype the tool for performing the task. Do this by contacting your [Line Manager](https://intranet.justice.gov.uk/guidance/security/it-computer-security/line-manager-approval/) and your Tech Support team. Make sure that they know what your plan is. Ensure you have their approval to prototype.
 
-<a id="alpha"></a>
+<a id="acceptance"></a>
 
-### Alpha
+### Accept
 
-During this step, you use the prototype tool to perform the task. Take plenty of notes about how easy it is to configure and use the tool. While focusing on the main task, consider 'edge cases' or unusual scenarios where the tool might not be so successful.
+During this step, you use the prototype tool to perform the task. Take plenty of notes about how easy it is to configure and use the tool. Think about 'edge cases' or unusual scenarios where the tool might not be so successful.
 
-At the end of the task, you should have collected enough evidence to show that:
+Collect evidence to show that:
 
 - the OIT aligns with MOJ good practice and obligations
 - it is capable of performing tasks for others within the MOJ
 - is it cost-effective
+- it does not represent an obvious threat to MOJ tasks or information
 
-In summary, you have collected material to help justify more serious consideration: acceptance.
+In summary, aim to collect material to help justify the claim that the OIT is acceptable for use within the MOJ.
 
-For more help with the Alpha step, contact your Line Manager and your Tech Support team.
+*Outline*
 
-<a id="beta"></a>
+- sanity check material with LM.
+- likewise with tech support
+- likewise with operational security
+- likewise with EUCS
+- request that the OIT is added to list in 'accept' state
 
-### Beta
+For more help with this step, contact your Line Manager and your Tech Support team.
 
-During the [Alpha](#alpha) step, you showed that the OIT is capable of performing tasks to advance MOJ business, and to do so in a way that aligns with MOJ good practice and obligations. However, you were almost certainly using the OIT in evaluation mode. Perhaps not all functions were available. Or they were limited to a small number of components or data sets.
+<a id="approved"></a>
 
-The Beta step focuses on getting the tool recognised as Approved for use within the MOJ. This typically requires funding, technical support, and more formal evaluation within a Triage process. The process is based on the Project Triage process, described [here](https://intranet.justice.gov.uk/guidance/it-services/approvals-to-spend/).
+### Approve
 
-For more help with the Beta step, contact your Line Manager and your Tech Support team.
+During the [Accept](#acceptance) stage, you showed that:
 
-<a id="gamma"></a>
+- the OIT is capable of performing tasks to advance MOJ business
+- the OIT works in a way that aligns with MOJ good practice and obligations
 
-### Gamma
+During acceptance, you probably used the OIT in some kind of evaluation mode. Perhaps not all functions were available. Or there were limits such as a small number of components or data sets.
 
-The Gamma step focuses on a technical and information assurance evaluation. This is to help ensure that the technical characteristics, constraints and capabilities are fully understood. This helps with on-going support and strategic planning, now that the OIT is being added to the portfolio of tactical and operational tools.
+This step focuses on getting the tool recognised as Approved for use within the MOJ. This typically requires:
 
-Not all OITs progress through the Gamma step. However, it provides a greater level of assurance and therefore confidence.
+- funding
+- technical support
+- more formal evaluation
 
-For more help with the Gamma step, contact your Line Manager and your Tech Support team.
+The evaluation process uses the MOJ project triage process, described [here](https://intranet.justice.gov.uk/guidance/it-services/approvals-to-spend/).
+
+*Outline*
+
+- need information about administration capability for 'approve' or higher
+
+For more help with this step, contact your Line Manager and your Tech Support team.
+
+<a id="assured"></a>
+
+### Assure
+
+This step focuses on a technical and information assurance evaluation. This ensures that the technical characteristics, constraints and capabilities are understood. It also helps with on-going support and strategic planning. Successful completion of this step means that the OIT is added to the MOJ portfolio of tactical and operational tools.
+
+Not all OITs progress through this step. However, it provides a greater level of assurance and therefore confidence.
+
+For more help with this step, contact your Line Manager and your Tech Support team.
 
 ## Getting help
 
@@ -134,10 +166,8 @@ For further help about aspects of using OITs within the MOJ, contact:
 
 <p>&nbsp;</p>
 
-<table border='1'>
-<tr>
-<td><table>
-<tr><td colspan='4'>This guidance is dated April 2018.
+<table>
+<tr><td colspan='4'>This guidance is dated August 2018.
 <p>
 To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent+identifying-open-internet-tools@digital.justice.gov.uk?subject=identifying-open-internet-tools">itpolicycontent@digital.justice.gov.uk</a>, or click one of the following icons.</p></td></tr>
 <tr>
@@ -145,6 +175,5 @@ To provide feedback on this document, please contact us: <a href="mailto:itpolic
 <td width='25%'><a href="mailto:itpolicycontent+identifying-open-internet-tools-1@digital.justice.gov.uk?subject=identifying-open-internet-tools-1"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/Cross.gif" alt="Content was unhelpful">Unhelpful.</a></td>
 <td width='25%'><a href="mailto:itpolicycontent+identifying-open-internet-tools+1@digital.justice.gov.uk?subject=identifying-open-internet-tools+1"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/Tick.gif" alt="Content was helpful">Helpful.</a></td>
 <td width='25%'><a href="mailto:itpolicycontent+identifying-open-internet-tools+2@digital.justice.gov.uk?subject=identifying-open-internet-tools+2"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/DoubleTick.gif" alt="Content was very helpful">Very helpful.</a></td>
-</table></td>
 </tr>
 </table>

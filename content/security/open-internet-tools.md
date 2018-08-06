@@ -2,11 +2,16 @@
 title: open-internet-tools
 ---
 
-<table border='1'>
-<tr>
-<td>This information applies to all staff and contractors who work for the MOJ.</td>
-</tr>
-</table>
+<b>This information applies to all staff and contractors who work for the MOJ.</b>
+
+## Important note
+
+Open Internet Tools (OITs) are applications or services from suppliers outside the MOJ. When using an OIT, ensure you address privacy and personal information considerations. In particular:
+
+- you must follow data protection obligations
+- don't use OITs if unlawful disclosure of the information they process might cause damage or distress
+
+More information about OITs and privacy and personal information is available [here](https://intranet.justice.gov.uk/guidance/security/it-computer-security/guidance-for-using-open-internet-tools/#privacy-and-personal-information).
 
 ## Overview
 
@@ -16,19 +21,21 @@ There are already many OITs used across the MOJ. Permission to use an OIT might 
 
 ## Assured, approved, or acceptable
 
-OITs are often described as being: assured, approved, or acceptable.
-
-*Assured* means that the OIT has been tested. No specific problems were found that would prevent you from using the tool with `OFFICIAL` or `OFFICIAL-SENSITIVE` information.
-
-*Approved* means that the OIT has not been tested. A review of the available information about the OIT didn't find any obvious problems. It should be OK to use the tool with `OFFICIAL` or `OFFICIAL-SENSITIVE` information.
+OITs are often described as being: acceptable, approved, or assured.
 
 *Acceptable* means that the OIT has not been tested. No review has been done of the available information about the OIT. Other people within the MOJ might be using the OIT, and have not reported any problems. It should be OK to use the tool with `OFFICIAL` or `OFFICIAL-SENSITIVE` information. When you use the OIT, think about any consequences of information disclosure.
 
-Always let your Line Manager know if you are planning to use an OIT for your work, _before_ you start the work.
+*Approved* means that the OIT has not been tested. A review of the available information about the OIT has taken place, but didn't find any obvious problems. It should be OK to use the tool with `OFFICIAL` or `OFFICIAL-SENSITIVE` information.
+
+*Assured* means that the OIT has been tested. No specific problems were found that would prevent you from using the tool with `OFFICIAL` or `OFFICIAL-SENSITIVE` information.
+
+Always check with your [Line Manager](https://intranet.justice.gov.uk/guidance/security/it-computer-security/line-manager-approval/) if you are thinking of using an OIT for your work. Do this _before_ you start the work.
 
 ## List and status of OITs
 
 **DRAFT: NOT DEFINITIVE**
+
+*This list will subsequently be available in additional forms, including list-by-type eg all communication tools grouped together.*
 
 OIT | Assured | Approved | Acceptable | Type
 ---|---|---|---|---
@@ -77,10 +84,8 @@ Zendesk | | | Y | Ticketing
 
 <p>&nbsp;</p>
 
-<table border='1'>
-<tr>
-<td><table>
-<tr><td colspan='4'>This guidance is dated April 2018.
+<table>
+<tr><td colspan='4'>This guidance is dated August 2018.
 <p>
 To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent+open-internet-tools@digital.justice.gov.uk?subject=open-internet-tools">itpolicycontent@digital.justice.gov.uk</a>, or click one of the following icons.</p></td></tr>
 <tr>
@@ -88,6 +93,5 @@ To provide feedback on this document, please contact us: <a href="mailto:itpolic
 <td width='25%'><a href="mailto:itpolicycontent+open-internet-tools-1@digital.justice.gov.uk?subject=open-internet-tools-1"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/Cross.gif" alt="Content was unhelpful">Unhelpful.</a></td>
 <td width='25%'><a href="mailto:itpolicycontent+open-internet-tools+1@digital.justice.gov.uk?subject=open-internet-tools+1"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/Tick.gif" alt="Content was helpful">Helpful.</a></td>
 <td width='25%'><a href="mailto:itpolicycontent+open-internet-tools+2@digital.justice.gov.uk?subject=open-internet-tools+2"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/DoubleTick.gif" alt="Content was very helpful">Very helpful.</a></td>
-</table></td>
 </tr>
 </table>

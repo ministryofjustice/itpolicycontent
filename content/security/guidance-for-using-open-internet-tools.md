@@ -60,7 +60,7 @@ To help you decide if you can use an OIT to work on an MOJ task, consider the fo
 - are you prevented from exporting all the data from the tool?
 - are you prevented from deleting all the data from the tool when you finish working on the task?
 - do you have to sign (electronically or otherwise) anything to accept the OIT terms of use?
-- do you have to pay anything or purchase anything to use the OIT?
+- do you have to pay anything or buy anything to use the OIT?
 
 If the answer to _any_ of these questions is 'Yes', you might not be able to use the OIT.
 
@@ -98,7 +98,7 @@ But as long you consider the threats or risks, and address them, OITs provide ma
 
 ### Summary
 
-With careful use, OITs help you to work more effectively and efficiently. Think about them as serious and preferable options for performing tasks.
+With careful use, OITs help you to work more effectively and efficiently. Think about them as sensible options for performing tasks.
 
 <a id="using-oits"></a>
 
@@ -144,7 +144,7 @@ Think also about information moving across the Internet. The data might be safe 
 
 You have a duty of confidentiality and a responsibility to safeguard any HMG information or data that you access. This is [Principle 2](https://www.gov.uk/government/publications/government-security-classifications) of the Government Security Classifications. The MOJ trusts you to work with `OFFICIAL` information. In the same way, you're trusted to make a reasoned judgement about whether it's safe to use an OIT.
 
-Useful help for deciding what is OK is in [existing social media guidance](https://intranet.justice.gov.uk/documents/2015/11/social-media-policy-guidance.pdf). While it's more about how to act online, the principles are helpful for OITs.
+There's some useful help for deciding what is OK is in [existing social media guidance](https://intranet.justice.gov.uk/documents/2015/11/social-media-policy-guidance.pdf). While it's more about how to act online, the principles are helpful for OITs.
 
 Remember that it is impossible to delete information after it's released in public.
 
@@ -204,7 +204,7 @@ Personal Data | Disclosure Team:<br/>![](https://intranet.justice.gov.uk/app/upl
 ---
 
 <table>
-<tr><td colspan='4'>This guidance is dated June 2018.
+<tr><td colspan='4'>This guidance is dated August 2018.
 <p>
 To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent+guidance-for-using-open-internet-tools@digital.justice.gov.uk?subject=guidance-for-using-open-internet-tools">itpolicycontent@digital.justice.gov.uk</a>, or click one of the following icons.</p></td></tr>
 <tr>
@@ -212,4 +212,5 @@ To provide feedback on this document, please contact us: <a href="mailto:itpolic
 <td width='25%'><a href="mailto:itpolicycontent+guidance-for-using-open-internet-tools-1@digital.justice.gov.uk?subject=guidance-for-using-open-internet-tools-1"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/Cross.gif" alt="Content was unhelpful">Unhelpful.</a></td>
 <td width='25%'><a href="mailto:itpolicycontent+guidance-for-using-open-internet-tools+1@digital.justice.gov.uk?subject=guidance-for-using-open-internet-tools+1"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/Tick.gif" alt="Content was helpful">Helpful.</a></td>
 <td width='25%'><a href="mailto:itpolicycontent+guidance-for-using-open-internet-tools+2@digital.justice.gov.uk?subject=guidance-for-using-open-internet-tools+2"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/DoubleTick.gif" alt="Content was very helpful">Very helpful.</a></td>
+</tr>
 </table>
