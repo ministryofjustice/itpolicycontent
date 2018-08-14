@@ -6,7 +6,7 @@ title: web-browsing
 
 The MOJ provides access to the Intranet and Internet for business use. The access helps you to do your job effectively and efficiently. MOJ security policies governs your use of these facilities.
 
-Reasonable [personal use is allowed](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/it-acceptable-use-policy/), if:
+Reasonable [personal use is allowed](https://intranet.justice.gov.uk/guidance/security/it-computer-security/acceptable-use/), if:
 
 - your line manager agrees
 - it does not interfere with the performance of your duties
@@ -28,9 +28,9 @@ As part of the move to new technology, we are updating the department's approach
 - **Technical** - the site causes technical issues which interfere with business activities. For example, a video site uses too much network capacity
 - **Business Policy** - only a specific individual or group of users can access the site. For example, social media sites are blocked for systems or users in frontline roles
 
-The list of websites included in each of the categories is as small as possible. But if you cannot access a site that you think should be OK, you can [request a review](#what-to-do-if-you-are-blocked-from-a-website-that-you-think-should-be-ok). Similarly, if you can access a site that you think should be blocked, [request a review](what-to-do-if-you-are-able-to-access-a-website-that-you-think-should-be-blocked).
+The list of websites included in each of the categories is as small as possible. But if you cannot access a site that you think should be OK, you can [request a review](#what-to-do-if-you-are-blocked-from-a-website-that-you-think-should-be-ok). Similarly, if you can access a site that you think should be blocked, [request a review](#what-to-do-if-you-are-able-to-access-a-website-that-you-think-should-be-blocked).
 
-The access rules that apply depend on your system. For users that have been migrated to Microsoft Office 365 (O365), [this document](https://intranet.justice.gov.uk/guidance/security/it-computer-security/web-browsing-security-policy-profiles/) applies. For users that have not been migrated to O365, [this document](https://intranet.justice.gov.uk/guidance/security/it-computer-security/web-browsing-security-policy-profiles/) applies.
+The access rules that apply depend on your system. For users that have been migrated to Microsoft Office 365 (O365), [this document](https://intranet.justice.gov.uk/guidance/security/it-computer-security/web-browsing-security-policy-profiles-new/) applies. For users that have not been migrated to O365, [this document](https://intranet.justice.gov.uk/guidance/security/it-computer-security/web-browsing-security-policy-profiles/) applies.
 
 <!--
 The categories are based on the [`Forcepoint` definitions](https://www.forcepoint.com/master-database-url-categories).
