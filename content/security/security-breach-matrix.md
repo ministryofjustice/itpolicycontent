@@ -27,6 +27,47 @@ Breach investigations should include a review of local practices. These help sta
 
 The matrix table uses scoring for breaches involving classified information. The classification follows current Government Security Classification (GSC) guidance. Some breaches might involve information using the old Government Protective Marking Scheme (GPMS). An example would be legacy information. If this applies, assess the information and decide which GSC tier is appropriate. You can then score the breach using the matrix. Seek advice where necessary from MOJ Security.
 
+<!--
+Colours chosen from https://s3.amazonaws.com/edwardtufte.com/colorblind_palette.png,
+to be as friendly as possible for people with colour blindness.
+
+red    = #D55E00
+yellow = #F0E442
+green  = #2B9F78
+-->
+
+<table border="1">
+<tr>
+<td style="vertical-align:top" rowspan="3">Security Classification and Impact of Breach</td>
+<td style="vertical-align:top;font-weight:bold">Top Secret</td>
+<td style="background-color:#D55E00;text-align:center;color:white">Code: Red<br/>Score: 8</td>
+<td style="background-color:black;text-align:center;color:white">Code: Black<br/>Score: 10</td>
+<td style="background-color:black;text-align:center;color:white">Code: Black<br/>Score: 11</td>
+<td style="background-color:black;text-align:center;color:white">Code: Black<br/>Score: 12</td>
+</tr>
+<tr>
+<td style="vertical-align:top;font-weight:bold">Secret</td>
+<td style="background-color:#F0E442;text-align:center;color:black">Code: Yellow<br/>Score: 4</td>
+<td style="background-color:#D55E00;text-align:center;color:white">Code: Red<br/>Score: 6</td>
+<td style="background-color:#D55E00;text-align:center;color:white">Code: Red<br/>Score: 7</td>
+<td style="background-color:black;text-align:center;color:white">Code: Black<br/>Score: 9</td>
+</tr>
+<tr>
+<td style="vertical-align:top;font-weight:bold">Official</td>
+<td style="background-color:#2B9F78;text-align:center;color:black">Code: Green<br/>Score: 1</td>
+<td style="background-color:#2B9F78;text-align:center;color:black">Code: Green<br/>Score: 2</td>
+<td style="background-color:#F0E442;text-align:center;color:black">Code: Yellow<br/>Score: 3</td>
+<td style="background-color:#D55E00;text-align:center;color:white">Code: Red<br/>Score: 5</td>
+</tr>
+<tr>
+<td style="vertical-align:top" colspan="2">Care and precautions taken to avoid loss/compromise</td>
+<td>Carelessness which could have been avoided had guidance been followed</td>
+<td>High degree of carelessness shown, bordering on recklessness</td>
+<td>Almost total lack of care; high degree of negligence or recklessness</td>
+<td>Total lack of care; gross negligence; deliberately reckless behaviour</td>
+</tr>
+</table>
+
 ====
 ====
 
