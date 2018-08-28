@@ -17,15 +17,17 @@ The matrix considers two important measures which apply to any breach:
 1. The care or lack of care, on the horizontal axis.
 2. The security classification of the asset and the impact of a  compromise, on the vertical axis.
 
-Evaluating the two measures produces a score. You assess the score, and decide whether to take informal or formal action. Some actions  score highly. Examples include serious neglect or reckless behaviour, especially involving highly classified information. The actions to take in response vary. A misconduct investigation might be appropriate, or a review of security clearance.
+Evaluating the two measures produces a score. You assess the score, and decide whether to take informal or formal action. Some actions have a high score. Examples include serious neglect or reckless behaviour, especially involving classified information. The actions to take in response vary. A misconduct investigation might be appropriate, or a review of security clearance.
 
-The matrix is a helpful and indicative tool, providing a useful guide. But it's not meant to be precise. Specific circumstances will vary. In practice, pragmatic judgement and flexibility helps ensure you reach an appropriate decision.  Use the matrix as a starting point to consider the breach and decide on proportionate action. In general, the higher the score, the more likely you'll need help from MOJ Security and perhaps HR.
+The matrix is a helpful and indicative tool, providing a useful guide. But it's not meant to be precise. Specific circumstances will vary. In practice, pragmatic judgement and flexibility helps ensure you reach an appropriate decision.  Use the matrix as a starting point to consider the breach and decide on proportionate action. In general, the higher the score, the more likely you'll need help from MOJ Security or HR.
 
-Not all breaches involve data or information. Examples include not escorting non-security cleared visitors properly, or losing a building pass.
+Not all breaches involve data or information. Examples include not escorting non-security cleared visitors, or losing a building pass.
 
 Breach investigations should include a review of local practices. These help staff promote and ensure security and information management best practices.
 
 The matrix table uses scoring for breaches involving classified information. The classification follows current Government Security Classification (GSC) guidance. Some breaches might involve information using the old Government Protective Marking Scheme (GPMS). An example would be legacy information. If this applies, assess the information and decide which GSC tier is appropriate. You can then score the breach using the matrix. Seek advice where necessary from MOJ Security.
+
+The final decision about what score applies for a breach lies with MOJ Security. This is to ensure consistency across the MOJ estate.
 
 <!--
 Colours chosen from https://s3.amazonaws.com/edwardtufte.com/colorblind_palette.png,
@@ -68,57 +70,36 @@ green  = #2B9F78
 </tr>
 </table>
 
-====
-====
-
 ## Colour coding
 
-Green scores (1-2) suggest a low severity security breach. The breach probably doesn't need formal action, such as discipline through HR. Informal action is most likely. This could include training and awareness, or managers reminding staff of their responsibilities. Managers should still consult MOJ Security about the individual circumstances of the case.
+Green scores (1-2) suggest a low severity security breach. It's unlikely that the breach needs formal action, such as discipline through HR. Informal action is most likely. This could include training and awareness, or managers reminding staff of their responsibilities. Managers should still consult MOJ Security about the individual circumstances of the case.
+
+Discuss amber scores (3-4) with MOJ security. Breaches with these scores are likely to be instances of minor misconduct.
+
+Consult MOJ Security before taking any action following a red score (5-8). Consider actions on a case-by-case basis. It's likely that the breach will need formal involvement with HR. MOJ security might take informal action, but again this is on a case-by-case basis.
+
+Similarly, consult MOJ Security before taking any action following a black score (9-12). Consider actions on a case-by-case basis. Again, it's likely that the breach will need formal involvement with HR. MOJ security might take informal action, on a case-by-case basis. Depending on the nature of the breach, it might be necessary to involve the police.
 
 ## Examples to illustrate scoring
 
 Please find below some examples of scoring (the list is not exhaustive):
 
-Green		Scores 1-2
-First instance of leaving classified (OFFICIAL) information insecure. First instance of losing or failing to display a building pass.
-Second instance of an incident that scored 1 before.
-Any instance of emailing classified (OFFICIAL) information to the wrong recipient.
+Colour code | Score | Examples of corresponding security breach
+------------|-------|------------------------------------------
+Green       |   1   | First instance of leaving `OFFICIAL` information insecure. First instance of losing or failing to display a building pass.
+Green       |   2   | Second instance of an incident that scored 1 before. Any instance of emailing `OFFICIAL` information to the wrong recipient.
+Amber       |   3   | Failing to follow management instructions after scoring 1 or 2. Poor treatment of classified information that might embarrass the MOJ. Loss of a MOJ warrant, ID card, PPE (?), MoE (?), or uniform. Loss or compromise of an MOJ port stamp (?).
+Amber       |   4   | First instance of leaving SECRET information insecure by accident.
+Red         |   5   | Second instance of scoring 4 within a rolling 12 month period. Deliberately reckless behaviour with `OFFICIAL` information. Intentional misuse of an MOJ asset such as warrant or building pass.
+Red         |   6   | First instance of careless handling of `SECRET` information.
+Red         |   7   | First instance of negligence with `SECRET` information. Examples include viewing it in a public place, losing documents, or allowing some other compromise.
+Red         |   8   | First instance of  leaving `TOP SECRET` information insecure, by accident.
+Black       |   9   | Repeated instances of careless handling of `SECRET` information. This includes behaviour which might be criminal, but is not yet proven.
+Black       |   10  | First instance of carelessness with `TOP SECRET` information. This includes leaving it insecure or compromised. An example is taking information to a meeting in another government building, using an unsecured briefcase.
+Black       |   11  | Repeated instances of compromising `TOP SECRET` information. Examples include leaving it insecure, or failing to address spoken or written warnings about the behaviour.
+Black       |   12  | Evidence of possible criminal behaviour. For example, deliberate provision of `TOP SECRET` information to an unauthorised person.
 
-Amber	Scores 3-4
-Repeated failure to heed management instructions from issues 1-2 above, resulting in behaviour almost guaranteed to bring the Home Office embarrassment because of implications with respect to poor treatment of classified information.  Or, loss of a HO warrant/ID card/PPE/MoE/uniform.  Loss/compromise of a HO port stamp.
-First occasion of leaving SECRET information unsecure due to pure oversight.
-
-Consult with Home Office Security before any action is taken.  Scores in the Amber region (scores 3-4) of the matrix could be considered as minor misconduct, potential Home Office Security, resulting in, for example, the member of staff being referred to the Aftercare Team.
-
-
-Red		Scores 5-8
-Second occasion of 4 within a rolling 12 month period.  Behaviour that is considered deliberately reckless with OFFICIAL information or intentional misuse of a HO asset such as warrant/building pass.
-First occasion of high degree of carelessness shown in handling of SECRET information.
-First occasion of high degree of negligence with SECRET information including reviewing in a public place, losing documents and/or otherwise allowing compromise.
-First occasion of leaving TOP SECRET or STRAP information unsecure due to pure oversight.
-
-Consult with Home Office Security immediately before any action is taken.   Action taken for scores in the Red region (scores 5-8) will be considered on a case by case basis, but it is highly likely that formal action through HR will be taken.  Informal action will also most likely be taken forward by Home Office Security, but again will be considered on a case by case basis.
-
-
-
-Black		Scores 9-12
-Repeated occasions of careless handling of SECRET information, including behaviour which is considered potentially criminal (but not yet proven)
-First occasion of leaving unsecure or otherwise compromising TOP SECRET or STRAP information in circumstances of great carelessness.  For example, taking information to a meeting in another government building using an unsecured briefcase.
-Repeated occasions of leaving unsecure or otherwise compromising TOP SECRET or STRAP information and failure to address any spoken or written warning about this behaviour.
-Possible criminal behaviour evidenced.  For example deliberate provision of TOP SECRET or STRAP information to an unauthorised person.
-
-Consult with Home Office Security immediately before any action is taken.   Action taken for scores in the Black region (scores 9-12) will be considered on a case by case basis, but it is highly likely that formal action through HR will be taken.  Informal action will also be taken forward by Home Office Security, but again will be considered on a case by case basis.  Any breach involving STRAP material must be reported immediately to the Home Office STRAPSO team in Home Office Security.
-
-Dependent on the nature of the breach, the police may also be involved.
-
-
-
-
-
-The final decision as to what score is awarded following a breach lies with Home Office Security as the breach policy lead and to ensure consistency across the Home Office estate.
-
-Below are some breach examples and possible scores:
-
+### Example scenarios and resulting scores
 
 Example 1: a member of staff who is normally security conscious loses a low impact OFFICIAL document on public transport – you may consider this to be carelessness which could have been avoided, but if the risk overall is negligible: score 1 or 2.
 
