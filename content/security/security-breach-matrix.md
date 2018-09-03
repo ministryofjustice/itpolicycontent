@@ -15,11 +15,11 @@ A breach can occur in many ways, such as:
 The matrix considers two important measures which apply to any breach:
 
 1. The care or lack of care, on the horizontal axis.
-2. The security classification of the asset and the impact of a  compromise, on the vertical axis.
+2. The security classification of the asset and the impact of a compromise, on the vertical axis.
 
 Evaluating the two measures produces a score. You assess the score, and decide whether to take informal or formal action. Some actions have a high score. Examples include serious neglect or reckless behaviour, especially involving classified information. The actions to take in response vary. A misconduct investigation might be appropriate, or a review of security clearance.
 
-The matrix is a helpful and indicative tool, providing a useful guide. But it's not meant to be precise. Specific circumstances will vary. In practice, pragmatic judgement and flexibility helps ensure you reach an appropriate decision.  Use the matrix as a starting point to consider the breach and decide on proportionate action. In general, the higher the score, the more likely you'll need help from MOJ Security or HR.
+The matrix is a helpful and indicative tool, providing a useful guide. But it's not meant to be precise. Specific circumstances will vary. In practice, pragmatic judgement and flexibility helps ensure you reach an appropriate decision. Use the matrix as a starting point to consider the breach and decide on proportionate action. In general, the higher the score, the more likely you'll need help from MOJ Security or HR.
 
 Not all breaches involve data or information. Examples include not escorting non-security cleared visitors, or losing a building pass.
 
@@ -33,9 +33,9 @@ The final decision about what score applies for a breach lies with MOJ Security.
 Colours chosen from https://s3.amazonaws.com/edwardtufte.com/colorblind_palette.png,
 to be as friendly as possible for people with colour blindness.
 
-red    = #D55E00
+red = #D55E00
 yellow = #F0E442
-green  = #2B9F78
+green = #2B9F78
 -->
 
 <table border="1">
@@ -86,59 +86,54 @@ Please find below some examples of scoring (the list is not exhaustive):
 
 Colour code | Score | Examples of corresponding security breach
 ------------|-------|------------------------------------------
-Green       |   1   | First instance of leaving `OFFICIAL` information insecure. First instance of losing or failing to display a building pass.
-Green       |   2   | Second instance of an incident that scored 1 before. Any instance of emailing `OFFICIAL` information to the wrong recipient.
-Amber       |   3   | Failing to follow management instructions after scoring 1 or 2. Poor treatment of classified information that might embarrass the MOJ. Loss of a MOJ warrant, ID card, PPE (?), MoE (?), or uniform. Loss or compromise of an MOJ port stamp (?).
-Amber       |   4   | First instance of leaving SECRET information insecure by accident.
-Red         |   5   | Second instance of scoring 4 within a rolling 12 month period. Deliberately reckless behaviour with `OFFICIAL` information. Intentional misuse of an MOJ asset such as warrant or building pass.
-Red         |   6   | First instance of careless handling of `SECRET` information.
-Red         |   7   | First instance of negligence with `SECRET` information. Examples include viewing it in a public place, losing documents, or allowing some other compromise.
-Red         |   8   | First instance of  leaving `TOP SECRET` information insecure, by accident.
-Black       |   9   | Repeated instances of careless handling of `SECRET` information. This includes behaviour which might be criminal, but is not yet proven.
-Black       |   10  | First instance of carelessness with `TOP SECRET` information. This includes leaving it insecure or compromised. An example is taking information to a meeting in another government building, using an unsecured briefcase.
-Black       |   11  | Repeated instances of compromising `TOP SECRET` information. Examples include leaving it insecure, or failing to address spoken or written warnings about the behaviour.
-Black       |   12  | Evidence of possible criminal behaviour. For example, deliberate provision of `TOP SECRET` information to an unauthorised person.
+Green | 1 | First instance of leaving `OFFICIAL` information insecure. First instance of losing or failing to display a building pass.
+Green | 2 | Second instance of an incident that scored 1 before. Any instance of emailing `OFFICIAL` information to the wrong recipient.
+Amber | 3 | Failing to follow management instructions after scoring 1 or 2. Poor treatment of classified information that might embarrass the MOJ. Loss of a MOJ warrant, ID card, PPE (?), MoE (?), or uniform. Loss or compromise of an MOJ port stamp (?).
+Amber | 4 | First instance of leaving SECRET information insecure by accident.
+Red | 5 | Second instance of scoring 4 within a rolling 12 month period. Deliberately reckless behaviour with `OFFICIAL` information. Intentional misuse of an MOJ asset such as warrant or building pass.
+Red | 6 | First instance of careless handling of `SECRET` information.
+Red | 7 | First instance of negligence with `SECRET` information. Examples include viewing it in a public place, losing documents, or allowing some other compromise.
+Red | 8 | First instance of leaving `TOP SECRET` information insecure, by accident.
+Black | 9 | Repeated instances of careless handling of `SECRET` information. This includes behaviour which might be criminal, but is not yet proven.
+Black | 10 | First instance of carelessness with `TOP SECRET` information. This includes leaving it insecure or compromised. An example is taking information to a meeting in another government building, using an unsecured briefcase.
+Black | 11 | Repeated instances of compromising `TOP SECRET` information. Examples include leaving it insecure, or failing to address spoken or written warnings about the behaviour.
+Black | 12 | Evidence of possible criminal behaviour. For example, deliberate provision of `TOP SECRET` information to an unauthorised person.
 
 ### Example scenarios and resulting scores
 
-Example 1: a member of staff who is normally security conscious loses a low impact OFFICIAL document on public transport – you may consider this to be carelessness which could have been avoided, but if the risk overall is negligible: score 1 or 2.
+Example 1: A member of staff who is normally security conscious loses a low impact `OFFICIAL` document on public transport. It appears to be accidental carelessness which could have been avoided, but the risk overall is negligible. Score 1 or 2.
 
-Example 2: a member of staff fails to collect an OFFICIAL document from a printer.  The document is left unsecure and discovered during a breach patrol.  This breach would score a 1, rising to a 3 if the member of staff is continually responsible for this type of breach.
+Example 2: A member of staff fails to collect an `OFFICIAL` document from a printer. The document is left insecure, and discovered during a breach patrol. This breach scores 1, rising to a 3 if the member of staff repeats this type of breach.
 
-Example 3: a member of staff repeatedly does not comply with Home Office ‘Clear Desk policy’ leaving OFFICIAL documents unsecure, despite having been subject to previous informal discussions with regards to a breach of this nature.  For a first occurrence of this breach a score of 1 would be awarded, but as this is repeated behaviour and the member of staff has been spoken to about this, the score would increase to a 5.
+Example 3: A member of staff repeatedly does not comply with MOJ 'Clear Desk' policy. They leave `OFFICIAL` documents insecure, despite previous informal discussions about breaches of this kind. The first occurrence of this breach scores 1. Repeated behaviour, and failing to heed informal warnings, means the score increases to 5.
 
-Example 4: a member of staff emails the PDR of one of their direct reports to their personal email account so that they can access it from home and work on it in the evening.  This contravenes Home Office policy and Information management training taken by all staff, so would therefore be considered an almost total lack of care; high degree of negligence and/or recklessness.  This breach would score a 3.
+Example 4: A member of staff emails the performance review of one of their direct reports to their personal email account. They intend to  access it from home, and so work on it in the evening. This contravenes MOJ policy and Information Management training taken by all staff. This shows almost total lack of care, and a high degree of negligence or recklessness. This breach would score 3.
 
-Example 5: a cabinet is found unsecure containing SECRET information after a member of staff fails to check it is properly locked.  This breach would score a 4, rising to a 6 if the member of staff is continually responsible for this type of breach.
+Example 5: A member of staff fails to check that a cabinet is properly locked. The insecure cabinet is found to contain `SECRET` information. This breach would score 4. If the member of staff is repeats this breach, the score rises to 6.
 
-Example 6: a member of staff takes a SECRET document out of the office and views it whilst on public transport.  This breach would score a 7.
+Example 6: A member of staff takes a `SECRET` document out of the office. They view the document while travelling on public transport. This breach would score 7.
 
-Example 7: a member of staff leaves a classified STRAP document on their desk while they go for lunch.  This breach would score an 8.  As a line manager, you must consult the Home Office Security STRAPSO team before taking any action.
+Example 7: A member of staff leaves a `TOP SECRET` document on their desk while they go for lunch. This breach would score 8. Their line manager must consult with MOJ Security team before taking any action.
 
-Example 8: a member of staff does not store STRAP materials appropriately or dispatches material not using a secure courier.  This breach would score a 10.  As a line manager, you must consult the Home Office Security STRAPSO team before taking any action.
+Example 8: A member of staff does not store `TOP SECRET` materials appropriately. Alternatively, they dispatch the material without using a secure courier. This breach would score 10. Their line manager must consult with MOJ Security before taking any action.
 
-Example 9: a member of staff gives a hard copy STRAP document to someone who is not appropriately cleared to see the material.  This breach would score a 10.  As a line manager, you must consult the Home Office Security STRAPSO team before taking any action.
+Example 9: A member of staff gives a print out of a `TOP SECRET` document to someone who is not appropriately cleared to see the material. This breach would score 10. Their line manager must consult with MOJ Security before taking any action. It is possible that the police will become involved.
 
-Example 10:  Deliberate declassification of STRAP material by a member of staff.  This breach would score a 12.  As a line manager, you must consult the Home Office Security STRAPSO team before taking any action.
+Example 10: A member of staff deliberately declassifies some `TOP SECRET` material. This breach would score 12. Their line manager must consult with MOJ Security before taking any action.
 
+## Other factors to consider
 
+In a hot desking environment, it might be difficult to confirm who was responsible for a breach. It might be argued that someone else was using the space, and so caused the breach. In practice, the individual involved will have the opportunity to explain the situation, highlighting any mitigating factors. Each instance is considered on a case-by-case basis. The key message here is that if a staff member is known to adhere robustly to a clear desk policy and where a system is in place to ensure all photocopiers, printers etc are cleared at the end of the day, this clearly strengthens any argument that they themselves did not leave classified information unsecure.
 
-
-Frequently Asked Questions (FAQs)
-
-How do we confirm the owner of a breach, especially where flexible desk sharing occurs?  The individual could contend that someone else must have caused the breach.
-	
-The individual concerned will have the opportunity to explain the situation, advancing any mitigating factors.  Each instance will be considered on a case by case basis.  The key message here is that if a staff member is known to adhere robustly to a clear desk policy and where a system is in place to ensure all photocopiers, printers etc are cleared at the end of the day, this clearly strengthens any argument that they themselves did not leave classified information unsecure.
-
-Will line managers be penalised if their staff continue to breach security?  If so, under what circumstances?
+Will line managers be penalised if their staff continue to breach security? If so, under what circumstances?
 	
 All staff are personally responsible for security, but managers will be expected to monitor their staff’s approach and adherence and to take action where appropriate: whether they have done this will be part of any breach investigation. Certainly, if there were a number of breaches by more than one person in one area then Home Office Security would want to explore the efforts made by managers and might decide to escalate their findings if they were seriously concerned.
 
-All breaches are investigated on a case by case basis.  If an individual cannot be identified as being responsible for the breach, but a business area is, Home Office Security will expect the Head of Unit to take responsibility for the breach.  They are ultimately responsible for ensuring the information held by their team is appropriately handled.
+All breaches are investigated on a case by case basis. If an individual cannot be identified as being responsible for the breach, but a business area is, Home Office Security will expect the Head of Unit to take responsibility for the breach. They are ultimately responsible for ensuring the information held by their team is appropriately handled.
 
 What support will be available for those who may be suffering from stress or a medical condition that may have contributed to a momentary oversight and/or a more serious security breach?
 	
-We recognise that even the most security conscious staff can make mistakes and that concentration can be affected by a range of factors.  There are specific HR procedures that will have to be followed in all cases where serious breaches occur.  Staff members will obviously have the opportunity to put forward any mitigating factors during this process.  Each case will be considered on its individual merits.
+We recognise that even the most security conscious staff can make mistakes and that concentration can be affected by a range of factors. There are specific HR procedures that will have to be followed in all cases where serious breaches occur. Staff members will obviously have the opportunity to put forward any mitigating factors during this process. Each case will be considered on its individual merits.
 
 
 
@@ -157,7 +152,7 @@ Some information which was previously marked CONFIDENTIAL under the Government P
 
 The current IT infrastructure does not provide the appropriate level of protection to defend against the threat profile for GSC SECRET. Therefore, whilst a new SECRET system is being developed to address this capability gap, the use of GPMS CONFIDENTIAL has remained as an interim measure.
 
-To remain consistent and ensure staff are treated fairly and to the same standards, any breaches involving information at interim CONFIDENTIAL will be scored the same as legacy information using the breach matrix.  Under GSC this information would fall into the SECRET tier and therefore should be scored as SECRET.   Any information which does not meet the threshold for SECRET is now OFFICIAL and should be treated as such.
+To remain consistent and ensure staff are treated fairly and to the same standards, any breaches involving information at interim CONFIDENTIAL will be scored the same as legacy information using the breach matrix. Under GSC this information would fall into the SECRET tier and therefore should be scored as SECRET. Any information which does not meet the threshold for SECRET is now OFFICIAL and should be treated as such.
 
 Annex B
 
