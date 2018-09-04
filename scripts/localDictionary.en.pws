@@ -22,6 +22,7 @@ BIL
 biometrics
 BlackBerry
 BlackBerrys
+BlackScore
 Botnets
 BPSS
 Browserstack
@@ -80,6 +81,7 @@ GetSentry
 GitHub
 GPMS
 GPRS
+GreenScore
 GSC
 GSi
 gsi
@@ -91,6 +93,7 @@ HMG
 HMG's
 HMPPS
 hoc
+hotdesk
 hotsynch
 htm
 IaaS
@@ -132,6 +135,8 @@ Malware
 malware
 middleware
 Middleware
+mitigations
+MoE
 MOJ
 MOJ's
 multi
@@ -164,10 +169,12 @@ Personalisation
 PIA
 Pingdom
 PNG
+PPE
 pre
 PSO
 ransomware
 Rattic
+RedScore
 RMADS
 routable
 RPO
@@ -213,5 +220,6 @@ WiFi
 WordPress
 writeable
 xGSI
+YellowScore
 Zendesk
 ZZ
