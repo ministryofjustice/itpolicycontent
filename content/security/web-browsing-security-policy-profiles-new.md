@@ -1,14 +1,10 @@
 ---
-title: Web browsing security policy profiles
+title: web-browsing-security-policy-profiles-new
 ---
 
 ## Web browsing security policy profiles
 
-<table border='1'>
-<tr valign='top'>
-<td>This policy applies to all staff and contractors who work for the MOJ.</td>
-</tr>
-</table>
+<b>This policy applies to all staff and contractors who work for the MOJ, _and_ who have been migrated to Microsoft Office 365.</b>
 
 There are two policy profiles, one for the [Judiciary](#judiciary), and one for [all other staff](#allotherstaff).
 
@@ -87,11 +83,15 @@ The following categories of content are blocked for this profile:
 - Unauthorised Mobile Marketplaces
 - User-Defined list
 
-<p>&nbsp;</p>
+---
 
-<table border='1'>
-<tr valign='top'>
-<td>This policy is dated March 2018.<br/>
-To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=web-browsing-security-policy-profiles-new">itpolicycontent@digital.justice.gov.uk</a>.</td>
-</tr>
+<table>
+<tr><td colspan='4'>This document is dated August 2018.
+<p>
+To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent+web-browsing-security-policy-profiles-new@digital.justice.gov.uk?subject=web-browsing-security-policy-profiles-new">itpolicycontent@digital.justice.gov.uk</a>, or click one of the following icons.</p></td></tr>
+<tr>
+<td width='25%'><a href="mailto:itpolicycontent+web-browsing-security-policy-profiles-new-2@digital.justice.gov.uk?subject=web-browsing-security-policy-profiles-new-2"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/DoubleCross.gif" alt="Content was very unhelpful">Very unhelpful.</a></td>
+<td width='25%'><a href="mailto:itpolicycontent+web-browsing-security-policy-profiles-new-1@digital.justice.gov.uk?subject=web-browsing-security-policy-profiles-new-1"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/Cross.gif" alt="Content was unhelpful">Unhelpful.</a></td>
+<td width='25%'><a href="mailto:itpolicycontent+web-browsing-security-policy-profiles-new+1@digital.justice.gov.uk?subject=web-browsing-security-policy-profiles-new+1"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/Tick.gif" alt="Content was helpful">Helpful.</a></td>
+<td width='25%'><a href="mailto:itpolicycontent+web-browsing-security-policy-profiles-new+2@digital.justice.gov.uk?subject=web-browsing-security-policy-profiles-new+2"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/DoubleTick.gif" alt="Content was very helpful">Very helpful.</a></td>
 </table>

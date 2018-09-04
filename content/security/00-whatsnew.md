@@ -8,6 +8,7 @@ This document summarises what changes were made, and when, to MOJ IT Policy cont
 
 Date | Audience | Topic (and link) | Changes
 ---|---|---|---
+Aug 14 | All | [Web browsing and web mail](https://intranet.justice.gov.uk/guidance/security/it-computer-security/web-browsing/) | Updates to the Web mail and Internet access rules.
 July 19 | All | [Government Classification Scheme](https://intranet.justice.gov.uk/guidance/security/it-computer-security/government-classification-scheme/) | Incorporated the Cabinet Office update.
 July 13 | All | [Password Standard](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/password-standard/) | Additional information on Service Accounts, Multi-Factor Authentication, and Single Sign-On.
 July 13 | All | [Security Clearance](https://intranet.justice.gov.uk/guidance/security/it-computer-security/security-clearance/) | Updated information on the Security Clearance process.
@@ -31,7 +32,7 @@ April 6 | All | [Password Guidance](https://intranet.justice.gov.uk/guidance/sec
 ---
 
 <table>
-<tr><td colspan='4'>This document is dated July 2018.
+<tr><td colspan='4'>This document is dated August 2018.
 <p>
 To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent+00-whatsnew@digital.justice.gov.uk?subject=00-whatsnew">itpolicycontent@digital.justice.gov.uk</a>, or click one of the following icons.</p></td></tr>
 <tr>

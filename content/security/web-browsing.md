@@ -2,15 +2,11 @@
 title: web-browsing
 ---
 
-<table border='1'>
-<tr valign='top'>
-<td>This policy applies to all staff and contractors who work for the MOJ.</td>
-</tr>
-</table>
+<b>This policy applies to all staff and contractors who work for the MOJ.</b>
 
 The MOJ provides access to the Intranet and Internet for business use. The access helps you to do your job effectively and efficiently. MOJ security policies governs your use of these facilities.
 
-Reasonable [personal use is allowed](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/it-acceptable-use-policy/), if:
+Reasonable [personal use is allowed](https://intranet.justice.gov.uk/guidance/security/it-computer-security/acceptable-use/), if:
 
 - your line manager agrees
 - it does not interfere with the performance of your duties
@@ -26,19 +22,21 @@ The Department monitors the use of electronic communications and web-browsing ac
 
 ### What websites can I access?
 
-As part of the move to new technology, we are updating the department's approach to website access. By default, we try to allow access to the entire internet for all users. There will be some restrictions, for the following reasons:
+As part of the move to new technology, we are updating the department's approach to website access. By default, we try to allow access to as much as possible of the internet for all users. Inevitably, there are some restrictions, for the following reasons:
 
-- **Cyber security** - the site is an unacceptable security risk for the MOJ systems or users.
-- **Technical** - the site causes technical issues which interfere with business activities. For example, a video site uses too much network capacity.
-- **Business Policy** - only a specific individual or group of users can access the site.
+- **Cyber security** - the site is an unacceptable security risk for the MOJ systems or users. For example, sites known to host malware
+- **Technical** - the site causes technical issues which interfere with business activities. For example, a video site uses too much network capacity
+- **Business Policy** - only a specific individual or group of users can access the site. For example, social media sites are blocked for systems or users in frontline roles
 
-The list of websites included in each of the categories is as small as possible. But if you cannot access a site that you think should be OK, you can request a review.
+The list of websites included in each of the categories is as small as possible. But if you cannot access a site that you think should be OK, you can [request a review](#what-to-do-if-you-are-blocked-from-a-website-that-you-think-should-be-ok). Similarly, if you can access a site that you think should be blocked, [request a review](#what-to-do-if-you-are-able-to-access-a-website-that-you-think-should-be-blocked).
 
-[This document](https://intranet.justice.gov.uk/guidance/security/it-computer-security/web-browsing-security-policy-profiles/) provides more details about the access rules that apply to websites. The rules control access from DOM1, Win10 systems, and the MOJ infrastructure. The rules identify website categories that are either permitted or blocked.
+The access rules that apply depend on your system. For users that have been migrated to Microsoft Office 365 (O365), [this document](https://intranet.justice.gov.uk/guidance/security/it-computer-security/web-browsing-security-policy-profiles-new/) applies. For users that have not been migrated to O365, [this document](https://intranet.justice.gov.uk/guidance/security/it-computer-security/web-browsing-security-policy-profiles/) applies.
 
 <!--
 The categories are based on the [`Forcepoint` definitions](https://www.forcepoint.com/master-database-url-categories).
 -->
+
+<a id="what-to-do-if-you-are-blocked-from-a-website-that-you-think-should-be-ok"></a>
 
 ### What to do if you are blocked from a website that you think should be OK
 
@@ -46,15 +44,27 @@ Log an incident with your [Service Desk](#service-desks).
 
 Provide the following details:
 
-- The address of the website
-- Time you visited the site
-- The details of any block message that you received
+- the address of the website
+- time you visited the site
+- the details of any block message that you received
 
 The Service Desk will investigate the reason why you cannot access the website.
 
 If there was a system error or fault, remedial action will restore access.
 
 If the block is due to an access rule, Operational Security reviews whether to change the rule.
+
+<a id="what-to-do-if-you-are-able-to-access-a-website-that-you-think-should-be-blocked"></a>
+
+### What to do if you are able to access a website that you think should be blocked
+
+Log an incident with your [Service Desk](#service-desks).
+
+Provide the following details:
+
+- the address of the website
+- time you visited the site
+- the reason why you think the site should be blocked
 
 ## Contacts
 
@@ -65,7 +75,7 @@ If the block is due to an access rule, Operational Security reviews whether to c
 <ul>
 <li>For DOM1, WIN10, and HMPPS Probation, call:<br/><img src="https://intranet.justice.gov.uk/app/uploads/2017/12/74015bc20bb1c38fb4249c4ef6d3cfed.gif">&nbsp;</li>
 <li>For HMPPS Prison, open a catalogue request through Quantum.</li>
-<li>For all others, contact the <a href="mailto:ITservicedesk@justice.gsi.gov.uk">IT Service Desk</a>.</li>
+<li>For all others, contact the IT Service Desk:<br/><img src="https://intranet.justice.gov.uk/app/uploads/2017/12/e6404c31d65821489a775401ce4b941d.gif">&nbsp;</li>
 </ul>
 
 ### Other help
@@ -80,9 +90,15 @@ If the block is due to an access rule, Operational Security reviews whether to c
 
 [IT Portal](https://intranet.justice.gov.uk/guidance-and-support/it-services/it-portal/)
 
-<table border='1'>
-<tr valign='top'>
-<td>This policy is dated March 2018, and is an update of the Web browsing guidance.<br/>
-To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=web-browsing">itpolicycontent@digital.justice.gov.uk</a>.</td>
-</tr>
+---
+
+<table>
+<tr><td colspan='4'>This document is dated August 2018.
+<p>
+To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent+web-browsing@digital.justice.gov.uk?subject=web-browsing">itpolicycontent@digital.justice.gov.uk</a>, or click one of the following icons.</p></td></tr>
+<tr>
+<td width='25%'><a href="mailto:itpolicycontent+web-browsing-2@digital.justice.gov.uk?subject=web-browsing-2"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/DoubleCross.gif" alt="Content was very unhelpful">Very unhelpful.</a></td>
+<td width='25%'><a href="mailto:itpolicycontent+web-browsing-1@digital.justice.gov.uk?subject=web-browsing-1"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/Cross.gif" alt="Content was unhelpful">Unhelpful.</a></td>
+<td width='25%'><a href="mailto:itpolicycontent+web-browsing+1@digital.justice.gov.uk?subject=web-browsing+1"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/Tick.gif" alt="Content was helpful">Helpful.</a></td>
+<td width='25%'><a href="mailto:itpolicycontent+web-browsing+2@digital.justice.gov.uk?subject=web-browsing+2"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/DoubleTick.gif" alt="Content was very helpful">Very helpful.</a></td>
 </table>
