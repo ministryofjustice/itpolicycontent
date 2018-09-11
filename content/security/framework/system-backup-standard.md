@@ -131,7 +131,7 @@ Low impact (RTO is more than one day) | 4 weeks | Within 4 weeks after the end o
 Email | 2 weeks | Within 4 weeks after the end of the retention period.
 
 The actual data retention schedule for an MOJ system is agreed between the business and the Departmental Library and Records Management Service:<br/>
-<img src="https://intranet.justice.gov.uk/app/uploads/2018/01/e4351e3683b3f6f5fc633d8568d528d7.gif">&nbsp;<br/>
+<img src="https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/01/e4351e3683b3f6f5fc633d8568d528d7.gif">&nbsp;<br/>
 
 The Departmental Records Officer has responsibility for the records, and signs off the schedules which the business follows.
 

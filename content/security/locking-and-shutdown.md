@@ -78,7 +78,7 @@ If you need further assistance or information about this process, email Operatio
 
 <ul>
 <li>IT Service Desk:<br/>
-<img src="https://intranet.justice.gov.uk/app/uploads/2018/03/b7f051a0a8b22b9c13341267027ece9b.gif">&nbsp;</li>
+<img src="https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/03/b7f051a0a8b22b9c13341267027ece9b.gif">&nbsp;</li>
 <li>Operational Security:<br/>
-<img src="https://intranet.justice.gov.uk/app/uploads/2017/12/c44e91c8a5d308c4953ef918b987f543.gif">&nbsp;</li>
+<img src="https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2017/12/c44e91c8a5d308c4953ef918b987f543.gif">&nbsp;</li>
 </ul>

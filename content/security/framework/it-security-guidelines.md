@@ -233,7 +233,7 @@ All media should be securely disposed of. Electronic media that have been used t
 
 All computers, laptops and personal electronic devices, must be returned to the ICT service provider for re-use and disposal.
 
-For re-use and disposal of any locally purchased ICT equipment, ask for advice from the Operational Security Team:<br/>![](https://intranet.justice.gov.uk/app/uploads/2018/05/c210534c474fcf88f5303ed6aa7dccee.gif)<br/> <br/>
+For re-use and disposal of any locally purchased ICT equipment, ask for advice from the Operational Security Team:<br/>![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/05/c210534c474fcf88f5303ed6aa7dccee.gif)<br/> <br/>
 
 ## ICT Security Incidents
 
@@ -516,7 +516,7 @@ Use the first letters of a phrase (e.g. '`This is now a Secure system for me!`' 
 
 Do not make obvious letter / number substitutions to disguise recognisable words e.g. `0` for `O`, `5` for `S`, `1` for `I`, as this is a well known technique and therefore offers little security.
 
-If you would like the information in this booklet in an alternative format, please email the Operational Security Team:<br/>![](https://intranet.justice.gov.uk/app/uploads/2018/05/c210534c474fcf88f5303ed6aa7dccee.gif)<br/> <br/>Or call:<br/>![](https://intranet.justice.gov.uk/app/uploads/2017/12/64a07aab5f77479e27c487c3f8e20296.gif)<br/> <br/>
+If you would like the information in this booklet in an alternative format, please email the Operational Security Team:<br/>![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/05/c210534c474fcf88f5303ed6aa7dccee.gif)<br/> <br/>Or call:<br/>![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2017/12/64a07aab5f77479e27c487c3f8e20296.gif)<br/> <br/>
 
 ---
 
@@ -525,8 +525,8 @@ If you would like the information in this booklet in an alternative format, plea
 <p>
 To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent+it-security-guidelines@digital.justice.gov.uk?subject=it-security-guidelines">itpolicycontent@digital.justice.gov.uk</a>, or click one of the following icons.</p></td></tr>
 <tr>
-<td width='25%'><a href="mailto:itpolicycontent+it-security-guidelines-2@digital.justice.gov.uk?subject=it-security-guidelines-2"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/DoubleCross.gif" alt="Content was very unhelpful">Very unhelpful.</a></td>
-<td width='25%'><a href="mailto:itpolicycontent+it-security-guidelines-1@digital.justice.gov.uk?subject=it-security-guidelines-1"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/Cross.gif" alt="Content was unhelpful">Unhelpful.</a></td>
-<td width='25%'><a href="mailto:itpolicycontent+it-security-guidelines+1@digital.justice.gov.uk?subject=it-security-guidelines+1"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/Tick.gif" alt="Content was helpful">Helpful.</a></td>
-<td width='25%'><a href="mailto:itpolicycontent+it-security-guidelines+2@digital.justice.gov.uk?subject=it-security-guidelines+2"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/DoubleTick.gif" alt="Content was very helpful">Very helpful.</a></td>
+<td width='25%'><a href="mailto:itpolicycontent+it-security-guidelines-2@digital.justice.gov.uk?subject=it-security-guidelines-2"><img src="https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/04/DoubleCross.gif" alt="Content was very unhelpful">Very unhelpful.</a></td>
+<td width='25%'><a href="mailto:itpolicycontent+it-security-guidelines-1@digital.justice.gov.uk?subject=it-security-guidelines-1"><img src="https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/04/Cross.gif" alt="Content was unhelpful">Unhelpful.</a></td>
+<td width='25%'><a href="mailto:itpolicycontent+it-security-guidelines+1@digital.justice.gov.uk?subject=it-security-guidelines+1"><img src="https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/04/Tick.gif" alt="Content was helpful">Helpful.</a></td>
+<td width='25%'><a href="mailto:itpolicycontent+it-security-guidelines+2@digital.justice.gov.uk?subject=it-security-guidelines+2"><img src="https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/04/DoubleTick.gif" alt="Content was very helpful">Very helpful.</a></td>
 </table>

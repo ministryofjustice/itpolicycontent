@@ -73,9 +73,9 @@ Provide the following details:
 ### Service Desks
 
 <ul>
-<li>For DOM1, WIN10, and HMPPS Probation, call:<br/><img src="https://intranet.justice.gov.uk/app/uploads/2017/12/74015bc20bb1c38fb4249c4ef6d3cfed.gif">&nbsp;</li>
+<li>For DOM1, WIN10, and HMPPS Probation, call:<br/><img src="https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2017/12/74015bc20bb1c38fb4249c4ef6d3cfed.gif">&nbsp;</li>
 <li>For HMPPS Prison, open a catalogue request through Quantum.</li>
-<li>For all others, contact the IT Service Desk:<br/><img src="https://intranet.justice.gov.uk/app/uploads/2017/12/e6404c31d65821489a775401ce4b941d.gif">&nbsp;</li>
+<li>For all others, contact the IT Service Desk:<br/><img src="https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2017/12/e6404c31d65821489a775401ce4b941d.gif">&nbsp;</li>
 </ul>
 
 ### Other help
@@ -83,7 +83,7 @@ Provide the following details:
 <ul>
 <li>HMPPS Prison - All requests should be directed to the HP Service Desk via a local or area IT Manager.</li>
 <li>HMPPS Probation - Log an incident with your <a href="#service-desks">Service Desk</a>.</li>
-<li>All other teams, contact the Operational Security Team:<br/><img src="https://intranet.justice.gov.uk/app/uploads/2017/12/c44e91c8a5d308c4953ef918b987f543.gif">&nbsp;</li>
+<li>All other teams, contact the Operational Security Team:<br/><img src="https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2017/12/c44e91c8a5d308c4953ef918b987f543.gif">&nbsp;</li>
 </ul>
 
 ## Related Pages
@@ -97,8 +97,8 @@ Provide the following details:
 <p>
 To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent+web-browsing@digital.justice.gov.uk?subject=web-browsing">itpolicycontent@digital.justice.gov.uk</a>, or click one of the following icons.</p></td></tr>
 <tr>
-<td width='25%'><a href="mailto:itpolicycontent+web-browsing-2@digital.justice.gov.uk?subject=web-browsing-2"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/DoubleCross.gif" alt="Content was very unhelpful">Very unhelpful.</a></td>
-<td width='25%'><a href="mailto:itpolicycontent+web-browsing-1@digital.justice.gov.uk?subject=web-browsing-1"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/Cross.gif" alt="Content was unhelpful">Unhelpful.</a></td>
-<td width='25%'><a href="mailto:itpolicycontent+web-browsing+1@digital.justice.gov.uk?subject=web-browsing+1"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/Tick.gif" alt="Content was helpful">Helpful.</a></td>
-<td width='25%'><a href="mailto:itpolicycontent+web-browsing+2@digital.justice.gov.uk?subject=web-browsing+2"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/DoubleTick.gif" alt="Content was very helpful">Very helpful.</a></td>
+<td width='25%'><a href="mailto:itpolicycontent+web-browsing-2@digital.justice.gov.uk?subject=web-browsing-2"><img src="https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/04/DoubleCross.gif" alt="Content was very unhelpful">Very unhelpful.</a></td>
+<td width='25%'><a href="mailto:itpolicycontent+web-browsing-1@digital.justice.gov.uk?subject=web-browsing-1"><img src="https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/04/Cross.gif" alt="Content was unhelpful">Unhelpful.</a></td>
+<td width='25%'><a href="mailto:itpolicycontent+web-browsing+1@digital.justice.gov.uk?subject=web-browsing+1"><img src="https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/04/Tick.gif" alt="Content was helpful">Helpful.</a></td>
+<td width='25%'><a href="mailto:itpolicycontent+web-browsing+2@digital.justice.gov.uk?subject=web-browsing+2"><img src="https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/04/DoubleTick.gif" alt="Content was very helpful">Very helpful.</a></td>
 </table>
