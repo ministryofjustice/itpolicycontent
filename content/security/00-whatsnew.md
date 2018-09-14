@@ -8,6 +8,7 @@ This document summarises what changes were made, and when, to MOJ IT Policy cont
 
 Date | Audience | Topic (and link) | Changes
 ---|---|---|---
+Aug 14 | All | [Web browsing and web mail](https://intranet.justice.gov.uk/guidance/security/it-computer-security/web-browsing/) | Updates to the Web mail and Internet access rules.
 July 19 | All | [Government Classification Scheme](https://intranet.justice.gov.uk/guidance/security/it-computer-security/government-classification-scheme/) | Incorporated the Cabinet Office update.
 July 13 | All | [Password Standard](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/password-standard/) | Additional information on Service Accounts, Multi-Factor Authentication, and Single Sign-On.
 July 13 | All | [Security Clearance](https://intranet.justice.gov.uk/guidance/security/it-computer-security/security-clearance/) | Updated information on the Security Clearance process.
@@ -31,12 +32,12 @@ April 6 | All | [Password Guidance](https://intranet.justice.gov.uk/guidance/sec
 ---
 
 <table>
-<tr><td colspan='4'>This document is dated July 2018.
+<tr><td colspan='4'>This document is dated August 2018.
 <p>
 To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent+00-whatsnew@digital.justice.gov.uk?subject=00-whatsnew">itpolicycontent@digital.justice.gov.uk</a>, or click one of the following icons.</p></td></tr>
 <tr>
-<td width='25%'><a href="mailto:itpolicycontent+00-whatsnew-2@digital.justice.gov.uk?subject=00-whatsnew-2"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/DoubleCross.gif" alt="Content was very unhelpful">Very unhelpful.</a></td>
-<td width='25%'><a href="mailto:itpolicycontent+00-whatsnew-1@digital.justice.gov.uk?subject=00-whatsnew-1"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/Cross.gif" alt="Content was unhelpful">Unhelpful.</a></td>
-<td width='25%'><a href="mailto:itpolicycontent+00-whatsnew+1@digital.justice.gov.uk?subject=00-whatsnew+1"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/Tick.gif" alt="Content was helpful">Helpful.</a></td>
-<td width='25%'><a href="mailto:itpolicycontent+00-whatsnew+2@digital.justice.gov.uk?subject=00-whatsnew+2"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/DoubleTick.gif" alt="Content was very helpful">Very helpful.</a></td>
+<td width='25%'><a href="mailto:itpolicycontent+00-whatsnew-2@digital.justice.gov.uk?subject=00-whatsnew-2"><img src="https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/04/DoubleCross.gif" alt="Content was very unhelpful">Very unhelpful.</a></td>
+<td width='25%'><a href="mailto:itpolicycontent+00-whatsnew-1@digital.justice.gov.uk?subject=00-whatsnew-1"><img src="https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/04/Cross.gif" alt="Content was unhelpful">Unhelpful.</a></td>
+<td width='25%'><a href="mailto:itpolicycontent+00-whatsnew+1@digital.justice.gov.uk?subject=00-whatsnew+1"><img src="https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/04/Tick.gif" alt="Content was helpful">Helpful.</a></td>
+<td width='25%'><a href="mailto:itpolicycontent+00-whatsnew+2@digital.justice.gov.uk?subject=00-whatsnew+2"><img src="https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/04/DoubleTick.gif" alt="Content was very helpful">Very helpful.</a></td>
 </table>

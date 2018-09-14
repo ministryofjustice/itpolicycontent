@@ -69,4 +69,4 @@ IT security branch can provide help in all areas of security risk management of 
 
 ## Contacts
 
-- Operational Security:<br/>![](https://intranet.justice.gov.uk/app/uploads/2017/12/c44e91c8a5d308c4953ef918b987f543.gif)
+- Operational Security:<br/>![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2017/12/c44e91c8a5d308c4953ef918b987f543.gif)

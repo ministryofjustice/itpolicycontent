@@ -20,11 +20,11 @@ As a government official travelling overseas, you should consider that you may b
 
 **Special case:** If you are national security cleared to 'Enhanced SC' or DV levels, you must also contact [Corporate Security](mailto:corporatesecuritybranch@justice.gsi.gov.uk) branch before travelling, regardless of whether the trip is for business or personal reasons.
  
-If you need to access MOJ services from abroad and visiting one of the following countries, you must seek permission from your line manager and SCS/Governor first. If they approve, submit your request to Operational Security ![](https://intranet.justice.gov.uk/app/uploads/2017/12/c44e91c8a5d308c4953ef918b987f543.gif), giving at least 14 days' notice. This is because it may be necessary to apply additional technical controls to protect you, your device, and any data they can access.
+If you need to access MOJ services from abroad and visiting one of the following countries, you must seek permission from your line manager and SCS/Governor first. If they approve, submit your request to Operational Security ![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2017/12/c44e91c8a5d308c4953ef918b987f543.gif), giving at least 14 days' notice. This is because it may be necessary to apply additional technical controls to protect you, your device, and any data they can access.
 
 - China, Cyprus, Egypt, France, Germany, India, Iran, Israel, North Korea, Pakistan, Russia, Saudi Arabia, South Africa, South Korea, Syria, Turkey, UAE
 
-If you want to take an MOJ 'Blackberry' device to countries other than in Europe or North America, contact Operational Security ![](https://intranet.justice.gov.uk/app/uploads/2017/12/c44e91c8a5d308c4953ef918b987f543.gif)&nbsp; for additional guidance.
+If you want to take an MOJ 'Blackberry' device to countries other than in Europe or North America, contact Operational Security ![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2017/12/c44e91c8a5d308c4953ef918b987f543.gif)&nbsp; for additional guidance.
 
 ## Making a request
 
@@ -51,7 +51,7 @@ Next, obtain formal business approval by sending your request [form](https://int
 | HMPPS HQ staff | Send your request to your Information Asset Owner (IAO) |
 | All HMPPS staff *except* HQ | Send your request to your governor |
 
-When you have received business approval, send a copy of your request and the approval to Operational Security ![](https://intranet.justice.gov.uk/app/uploads/2017/12/c44e91c8a5d308c4953ef918b987f543.gif)&nbsp;
+When you have received business approval, send a copy of your request and the approval to Operational Security ![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2017/12/c44e91c8a5d308c4953ef918b987f543.gif)&nbsp;
 
 When Operational Security have acknowledged receipt of the request and approval, the process is complete.
 

@@ -2,12 +2,8 @@
 title: Web browsing security policy profiles
 ---
 
-<table border='1'>
-<tr valign='top'>
-<td>This policy applies to all staff and contractors who work for the MOJ.<br/>
-These are legacy profiles. They under review and likely to be revised soon. Please <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=web-browsing-security-policy-profiles">contact us</a> before using them in your work.</td>
-</tr>
-</table>
+<b>This policy applies to all staff and contractors who work for the MOJ, _but_ have not yet been migrated to Microsoft Office 365.<br/>
+These are legacy profiles. They under review and likely to be revised soon. Please <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=web-browsing-security-policy-profiles">contact us</a> before using them in your work.</b>
 
 There are 5 different policy groups including a default for the Judiciary and a Standard Internet profile. A further 3 groups have been specifically set up to allow different access levels to the Internet depending on business need. An audit exercise has been undertaken by Operational Security to obtain business case approvals for any user requiring access to any group other than the Standard Internet profile and this has resulted in everyone being mapped to the appropriate group prior to the Trustwave implementation.
 
@@ -112,11 +108,15 @@ The following categories of content are normally blocked for this profile:
 - Weapons
 - Web-based Email
 
-<p>&nbsp;</p>
+---
 
-<table border='1'>
-<tr valign='top'>
-<td>This policy is dated March 2018.<br/>
-To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=web-browsing-security-policy-profiles">itpolicycontent@digital.justice.gov.uk</a>.</td>
-</tr>
+<table>
+<tr><td colspan='4'>This document is dated August 2018.
+<p>
+To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent+web-browsing-security-policy-profiles@digital.justice.gov.uk?subject=web-browsing-security-policy-profiles">itpolicycontent@digital.justice.gov.uk</a>, or click one of the following icons.</p></td></tr>
+<tr>
+<td width='25%'><a href="mailto:itpolicycontent+web-browsing-security-policy-profiles-2@digital.justice.gov.uk?subject=web-browsing-security-policy-profiles-2"><img src="https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/04/DoubleCross.gif" alt="Content was very unhelpful">Very unhelpful.</a></td>
+<td width='25%'><a href="mailto:itpolicycontent+web-browsing-security-policy-profiles-1@digital.justice.gov.uk?subject=web-browsing-security-policy-profiles-1"><img src="https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/04/Cross.gif" alt="Content was unhelpful">Unhelpful.</a></td>
+<td width='25%'><a href="mailto:itpolicycontent+web-browsing-security-policy-profiles+1@digital.justice.gov.uk?subject=web-browsing-security-policy-profiles+1"><img src="https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/04/Tick.gif" alt="Content was helpful">Helpful.</a></td>
+<td width='25%'><a href="mailto:itpolicycontent+web-browsing-security-policy-profiles+2@digital.justice.gov.uk?subject=web-browsing-security-policy-profiles+2"><img src="https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/04/DoubleTick.gif" alt="Content was very helpful">Very helpful.</a></td>
 </table>
