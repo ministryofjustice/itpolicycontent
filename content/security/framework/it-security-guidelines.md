@@ -141,7 +141,7 @@ Managers are responsible for ensuring that all staff, including casuals and cont
 
 When a member of staff is known to be leaving, line managers have specific responsibilities. The manager is responsible for ensuring:
 
-- the [Leaver's checklist](https://intranet.justice.gov.uk/documents/2018/05/leavers-checklist-for-managers-3.docx) is completed and actioned;
+- the [Leaver's checklist](https://intranet.justice.gov.uk/documents/2015/04/leavers-checklist-for-managers.doc) is completed and actioned;
 - access to ICT-based systems is removed; and
 - the appropriate handover of electronic data such as emails and MS Office files that may be required for business continuity - such data should be saved in an accessible location such as a shared drive so that information can be accessed when required
 
@@ -521,7 +521,7 @@ If you would like the information in this booklet in an alternative format, plea
 ---
 
 <table>
-<tr><td colspan='4'>This guidance is dated May 2018.
+<tr><td colspan='4'>This guidance is dated September 2018.
 <p>
 To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent+it-security-guidelines@digital.justice.gov.uk?subject=it-security-guidelines">itpolicycontent@digital.justice.gov.uk</a>, or click one of the following icons.</p></td></tr>
 <tr>
