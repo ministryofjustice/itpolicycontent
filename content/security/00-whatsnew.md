@@ -8,8 +8,8 @@ This document summarises what changes were made, and when, to MOJ IT Policy cont
 
 Date | Audience | Topic (and link) | Changes
 ---|---|---|---
-Sep 14 | All | [IT Security Guidelines](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/it-security-guidelines/) | Updated links to revised [Leaver's checklist](https://intranet.justice.gov.uk/documents/2015/04/leavers-checklist-for-managers.doc).
-Aug 14 | All | [Web browsing and web mail](https://intranet.justice.gov.uk/guidance/security/it-computer-security/web-browsing/) | Updates to the Web mail and Internet access rules.
+September 14 | All | [IT Security Guidelines](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/it-security-guidelines/) | Updated links to revised [Leaver's checklist](https://intranet.justice.gov.uk/documents/2015/04/leavers-checklist-for-managers.doc).
+August 14 | All | [Web browsing and web mail](https://intranet.justice.gov.uk/guidance/security/it-computer-security/web-browsing/) | Updates to the Web mail and Internet access rules.
 July 19 | All | [Government Classification Scheme](https://intranet.justice.gov.uk/guidance/security/it-computer-security/government-classification-scheme/) | Incorporated the Cabinet Office update.
 July 13 | All | [Password Standard](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/password-standard/) | Additional information on Service Accounts, Multi-Factor Authentication, and Single Sign-On.
 July 13 | All | [Security Clearance](https://intranet.justice.gov.uk/guidance/security/it-computer-security/security-clearance/) | Updated information on the Security Clearance process.
