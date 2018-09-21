@@ -231,6 +231,7 @@ All multi-user systems and services must check for redundant User IDs and accoun
 ### Identity Providers and Single Sign-On
 
 When you need an authentication solution, try to use existing MOJ services. Examples include Identity Provider (IdP) or Single Sign-On (SSO) services, such as Office 365 or D&T Google G-Suite.
+
 This helps reduce the need to design, create, deploy and manage yet another solution.
 
 SSO integration in existing IdP solutions improves the user experience. This is because you can authenticate to systems using existing MOJ credentials.
