@@ -17,6 +17,17 @@ echo ""
 echo "If no parameters are supplied, output this help information."
 }
 
+if [ -e /sbin/md5 ]
+then
+  # We are on a Mac
+  osIs="mac"
+  md5Exec=/sbin/md5
+else
+  # We are on Linux
+  osIs="linux"
+  md5Exec=/usr/bin/md5sum
+fi
+
 if [ "${paramCount}" -lt "3" ]
 then
   help
@@ -35,6 +46,16 @@ else
     sed ${startLine},${endLine}'!d' ${sourceFile} > ${tmpFile}
     # echo "Created:"
     # cat ${tmpFile}
+    # echo "osIs=${osIs}, md5Exec=${md5Exec}"
+    if [ "${osIs}" = "mac" ]
+    then
+      # Using Mac
+      md5Sum=`${md5Exec} ${tmpFile} | awk '{print $4}'`
+    else
+      # Using Linux
+      md5Sum=`${md5Exec} ${tmpFile} | awk '{print $1}'`
+    fi
+    echo "Hashcode is ${md5Sum}"
     echo "Proceed."
   fi
 fi
