@@ -127,7 +127,7 @@ Data protection legislation might also limit _where_ you can process personal da
 Be sure you can fulfil your data protection responsibilities when using an OIT. It might be helpful to complete a [Privacy Impact Assessment (PIA)](https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/privacy-impact-assessments/).
 
 Complying with personal information requirements can be complex. Don't hesitate to ask for advice:<br/>
-![](https://intranet.justice.gov.uk/app/uploads/2018/02/3d58a7dd7083aa02245a5c9c8796bcd6.gif)
+![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/02/3d58a7dd7083aa02245a5c9c8796bcd6.gif)
 
 <p>&nbsp;</p>
 
@@ -138,7 +138,7 @@ An OIT can only store or process information [classified](https://www.gov.uk/gov
 Think about the MOJ information you work with.  What would happen if you lost it, or it's stolen, or published in the media? Suppose the information was overheard in a cafe, or read from your screen on a crowded train. Could there be damaging consequences? If the answer is 'No', then it's probably OK to use OITs to store or send that information.
 
 Think also about information moving across the Internet. The data might be safe within the MOJ and in an approved OIT. But what about the connection between the two? Sending information might involve insecure networks. Be aware of the security implications. Check that enough suitable security measures are in place to protect the information. For example, check for encryption of network connections using [SSL/TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security). A simple way to do this is to look for the secure connection indicator in your web browser:<br/>
-![](https://intranet.justice.gov.uk/app/uploads/2018/02/guidance-for-using-open-internet-tools-01.png)
+![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/02/guidance-for-using-open-internet-tools-01.png)
 
 <p>&nbsp;</p>
 
@@ -197,9 +197,9 @@ For further help about aspects of using OITs within the MOJ, contact:
 Subject | Contact
 ---|---
 Classification and Security | [MOJ Cyber Security team](https://peoplefinder.service.gov.uk/teams/corporate-security-business-continuity-branch)
-Storage and Data Retention | Departmental Library & Records Management Services (DLRMS):<br/>![](https://intranet.justice.gov.uk/app/uploads/2018/02/7bb6ccaac44b0602cc182711471b30f4.gif)
+Storage and Data Retention | Departmental Library & Records Management Services (DLRMS):<br/>![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/02/7bb6ccaac44b0602cc182711471b30f4.gif)
 Information Assurance | [Compliance and Information Assurance Branch](https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/information-assurance-roles/)
-Personal Data | Disclosure Team:<br/>![](https://intranet.justice.gov.uk/app/uploads/2018/02/ada3c2470495d8e52076e388c0f0d518.gif)
+Personal Data | Disclosure Team:<br/>![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/02/ada3c2470495d8e52076e388c0f0d518.gif)
 
 ---
 
@@ -208,9 +208,8 @@ Personal Data | Disclosure Team:<br/>![](https://intranet.justice.gov.uk/app/upl
 <p>
 To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent+guidance-for-using-open-internet-tools@digital.justice.gov.uk?subject=guidance-for-using-open-internet-tools">itpolicycontent@digital.justice.gov.uk</a>, or click one of the following icons.</p></td></tr>
 <tr>
-<td width='25%'><a href="mailto:itpolicycontent+guidance-for-using-open-internet-tools-2@digital.justice.gov.uk?subject=guidance-for-using-open-internet-tools-2"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/DoubleCross.gif" alt="Content was very unhelpful">Very unhelpful.</a></td>
-<td width='25%'><a href="mailto:itpolicycontent+guidance-for-using-open-internet-tools-1@digital.justice.gov.uk?subject=guidance-for-using-open-internet-tools-1"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/Cross.gif" alt="Content was unhelpful">Unhelpful.</a></td>
-<td width='25%'><a href="mailto:itpolicycontent+guidance-for-using-open-internet-tools+1@digital.justice.gov.uk?subject=guidance-for-using-open-internet-tools+1"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/Tick.gif" alt="Content was helpful">Helpful.</a></td>
-<td width='25%'><a href="mailto:itpolicycontent+guidance-for-using-open-internet-tools+2@digital.justice.gov.uk?subject=guidance-for-using-open-internet-tools+2"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/DoubleTick.gif" alt="Content was very helpful">Very helpful.</a></td>
-</tr>
+<td width='25%'><a href="mailto:itpolicycontent+guidance-for-using-open-internet-tools-2@digital.justice.gov.uk?subject=guidance-for-using-open-internet-tools-2"><img src="https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/04/DoubleCross.gif" alt="Content was very unhelpful">Very unhelpful.</a></td>
+<td width='25%'><a href="mailto:itpolicycontent+guidance-for-using-open-internet-tools-1@digital.justice.gov.uk?subject=guidance-for-using-open-internet-tools-1"><img src="https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/04/Cross.gif" alt="Content was unhelpful">Unhelpful.</a></td>
+<td width='25%'><a href="mailto:itpolicycontent+guidance-for-using-open-internet-tools+1@digital.justice.gov.uk?subject=guidance-for-using-open-internet-tools+1"><img src="https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/04/Tick.gif" alt="Content was helpful">Helpful.</a></td>
+<td width='25%'><a href="mailto:itpolicycontent+guidance-for-using-open-internet-tools+2@digital.justice.gov.uk?subject=guidance-for-using-open-internet-tools+2"><img src="https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/04/DoubleTick.gif" alt="Content was very helpful">Very helpful.</a></td>
 </table>

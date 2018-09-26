@@ -196,7 +196,7 @@ The ICT security management structure falls within the overall MoJ security mana
 
 The Permanent Secretary, as Accounting Officer, has overall responsibility for all aspects of security. The Departmental Security Officer (DSO) and MoJ SIRO support the Permanent Secretary by providing advice on personal, physical and information security policy and procedure. The IT Security Officer (ITSO) supports the DSO by providing advice on ICT security policy. This structure is depicted in Figure 2.
 
-![ICT security management structure](https://intranet.justice.gov.uk/app/uploads/2017/11/ict-security-policy-diagram-1.png)
+![ICT security management structure](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2017/11/ict-security-policy-diagram-1.png)
 
 Figure 2 - ICT security management structure
 

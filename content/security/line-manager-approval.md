@@ -27,7 +27,7 @@ This guidance describes what you should do. The guidance contains steps to follo
 6. If they are able to follow the applicable MOJ IT Policies, send a formal approval to the DR. An email is enough for this.
 7. <a id="step7"></a>If you don't think they can follow the Policies, or there's a weak business case for the request, refuse it.
 8. Keep a copy of your formal reply, in accord with Data Retention requirements.
-9. Some MOJ IT Policies need a copy of formal approval for other parties. For example, before your DR [travels to some countries on MOJ business]((https://intranet.justice.gov.uk/guidance/security/it-computer-security/taking-it-equipment-abroad-business-or-personal/)), send a copy of your approval to Operational Security:<br/>![](https://intranet.justice.gov.uk/app/uploads/2018/05/c210534c474fcf88f5303ed6aa7dccee.gif)
+9. Some MOJ IT Policies need a copy of formal approval for other parties. For example, before your DR [travels to some countries on MOJ business]((https://intranet.justice.gov.uk/guidance/security/it-computer-security/taking-it-equipment-abroad-business-or-personal/)), send a copy of your approval to Operational Security:<br/>![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/05/c210534c474fcf88f5303ed6aa7dccee.gif)
 
 <p>&nbsp;</p>
 
@@ -57,8 +57,8 @@ This guidance describes what you should do. The guidance contains steps to follo
 <p>
 To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent+line-manager-approval@digital.justice.gov.uk?subject=line-manager-approval">itpolicycontent@digital.justice.gov.uk</a>, or click one of the following icons.</p></td></tr>
 <tr>
-<td width='25%'><a href="mailto:itpolicycontent+line-manager-approval-2@digital.justice.gov.uk?subject=line-manager-approval-2"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/DoubleCross.gif" alt="Content was very unhelpful">Very unhelpful.</a></td>
-<td width='25%'><a href="mailto:itpolicycontent+line-manager-approval-1@digital.justice.gov.uk?subject=line-manager-approval-1"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/Cross.gif" alt="Content was unhelpful">Unhelpful.</a></td>
-<td width='25%'><a href="mailto:itpolicycontent+line-manager-approval+1@digital.justice.gov.uk?subject=line-manager-approval+1"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/Tick.gif" alt="Content was helpful">Helpful.</a></td>
-<td width='25%'><a href="mailto:itpolicycontent+line-manager-approval+2@digital.justice.gov.uk?subject=line-manager-approval+2"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/DoubleTick.gif" alt="Content was very helpful">Very helpful.</a></td>
+<td width='25%'><a href="mailto:itpolicycontent+line-manager-approval-2@digital.justice.gov.uk?subject=line-manager-approval-2"><img src="https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/04/DoubleCross.gif" alt="Content was very unhelpful">Very unhelpful.</a></td>
+<td width='25%'><a href="mailto:itpolicycontent+line-manager-approval-1@digital.justice.gov.uk?subject=line-manager-approval-1"><img src="https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/04/Cross.gif" alt="Content was unhelpful">Unhelpful.</a></td>
+<td width='25%'><a href="mailto:itpolicycontent+line-manager-approval+1@digital.justice.gov.uk?subject=line-manager-approval+1"><img src="https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/04/Tick.gif" alt="Content was helpful">Helpful.</a></td>
+<td width='25%'><a href="mailto:itpolicycontent+line-manager-approval+2@digital.justice.gov.uk?subject=line-manager-approval+2"><img src="https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/04/DoubleTick.gif" alt="Content was very helpful">Very helpful.</a></td>
 </table>

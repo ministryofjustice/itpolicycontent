@@ -61,7 +61,7 @@ https://accountselfservice.dom1.infra.int/pmf/SelfService/ and set up your perso
 
 <ul>
 <li>IT Service Desk:<br/>
-<img src="https://intranet.justice.gov.uk/app/uploads/2017/12/e6404c31d65821489a775401ce4b941d.gif">&nbsp;</li>
+<img src="https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2017/12/e6404c31d65821489a775401ce4b941d.gif">&nbsp;</li>
 <li>Operational Security:<br/>
-<img src="https://intranet.justice.gov.uk/app/uploads/2017/12/c44e91c8a5d308c4953ef918b987f543.gif">&nbsp;</li>
+<img src="https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2017/12/c44e91c8a5d308c4953ef918b987f543.gif">&nbsp;</li>
 </ul>

@@ -2,8 +2,6 @@
 title: removable-media
 ---
 
-## Secure use of removable media
-
 <b>This content is a version of the guidance on removable media, January 2015.<br/>
 This is Legacy IA Policy. It is under review and likely to be withdrawn or substantially revised soon. Please contact us before using this on a new project: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=removable-media">itpolicycontent@digital.justice.gov.uk</a></b>
 
@@ -46,4 +44,4 @@ Keeping MOJ's information safe is everyone's responsibility. Anyone using portab
 
 ## Contacts
 
-- Operational Security:<br/>![](https://intranet.justice.gov.uk/app/uploads/2017/12/c44e91c8a5d308c4953ef918b987f543.gif)
+- Operational Security:<br/>![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2017/12/c44e91c8a5d308c4953ef918b987f543.gif)

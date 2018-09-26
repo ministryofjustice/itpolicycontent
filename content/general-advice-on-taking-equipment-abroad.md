@@ -46,9 +46,9 @@ Hotel and public WiFi spots are not secure. They are easily intercepted or monit
 Secure the phone with a password or PIN.
 
 If the phone is taken from you, or you think it might have been compromised in any way, report it to the MOJ Duty Security Officer:<br/>
-![](https://intranet.justice.gov.uk/app/uploads/2018/01/77e213539ab18a8ba125f09e86bf760a.gif)&nbsp;<br/>
+![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/01/77e213539ab18a8ba125f09e86bf760a.gif)&nbsp;<br/>
 or email:<br/>
-![](https://intranet.justice.gov.uk/app/uploads/2018/01/f6fd401432d8835f5584cc37b6585c9f.gif)&nbsp;
+![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/01/f6fd401432d8835f5584cc37b6585c9f.gif)&nbsp;
 
 ## General guidance
 
@@ -82,18 +82,18 @@ When calling from abroad, the contact telephone numbers you need are:
 
 <ol>
 <li>Technology Service Desk (DOM1):<br/>
-<img src="https://intranet.justice.gov.uk/app/uploads/2018/01/3ef9bd6be404912edb6107ff037a6923.gif">&nbsp;</li>
+<img src="https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/01/3ef9bd6be404912edb6107ff037a6923.gif">&nbsp;</li>
 <li>NICT Service Desk:<br/>
-<img src="https://intranet.justice.gov.uk/app/uploads/2018/01/27f20c27c0b6cfdce06742d8e1715f36.gif">&nbsp;</li>
+<img src="https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/01/27f20c27c0b6cfdce06742d8e1715f36.gif">&nbsp;</li>
 </ol>
 
 If any security-related incident occurs overseas, regardless of whether it involves MOJ equipment, you should contact Corporate Security Branch:<br/>
-![](https://intranet.justice.gov.uk/app/uploads/2018/01/aa8a3e195912bdef0559e23657009e94.gif)&nbsp;<br/> as soon as possible.
+![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/01/aa8a3e195912bdef0559e23657009e94.gif)&nbsp;<br/> as soon as possible.
 
 For any emergency outside normal UK business hours, contact the MOJ Duty Security Officer:<br/>
-![](https://intranet.justice.gov.uk/app/uploads/2018/01/77e213539ab18a8ba125f09e86bf760a.gif)&nbsp;<br/>
+![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/01/77e213539ab18a8ba125f09e86bf760a.gif)&nbsp;<br/>
 or email:<br/>
-![](https://intranet.justice.gov.uk/app/uploads/2018/01/f6fd401432d8835f5584cc37b6585c9f.gif)&nbsp;
+![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/01/f6fd401432d8835f5584cc37b6585c9f.gif)&nbsp;
  
 If there is a problem with your MOJ equipment, it might be necessary to disable your ability to connect to the MOJ network or services from your device. The Service Desk will do this if required. MOJ-issued phones might still have some functionality, to let you make phone calls, but the device should be treated as compromised and not used any more for any MOJ business.
 

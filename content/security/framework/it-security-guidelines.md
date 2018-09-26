@@ -18,29 +18,29 @@ In this section
 
 ### What is ICT security?
 
-Ministry of Justice (MoJ), is dependent upon computers to store, process and communicate information. Information Communication Technology (ICT) security is primarily concerned with maintaining the security of this information. Information is an important business asset and is valuable to MoJ; consequently it needs to be suitably protected from a wide range of threats, in order to ensure business continuity, minimise business damage and protect personal data.
+Ministry of Justice (MOJ), is dependent upon computers to store, process and communicate information. Information Communication Technology (ICT) security is primarily concerned with maintaining the security of this information. Information is an important business asset and is valuable to MOJ; consequently it needs to be suitably protected from a wide range of threats, in order to ensure business continuity, minimise business damage and protect personal data.
 
 Information communication security is characterised as the preservation of:
 
-- confidentiality: ensuring that information is accessible only to thoseauthorised to have access;
+- confidentiality: ensuring that information is accessible only to those authorised to have access;
 - integrity: safeguarding the accuracy and completeness of information and processing methods; and
 - availability: ensuring that authorised users have access to information when required.
 
-The computers on which MoJ's business systems depend are also important business assets with a value of their own, separate to the value of the information they hold, and are particularly vulnerable to loss and damage. Computers are usually high value, attractive to thieves, often easily carried, concealed and damaged.
+The computers on which MOJ's business systems depend are also important business assets with a value of their own, separate to the value of the information they hold, and are particularly vulnerable to loss and damage. Computers are usually high value, attractive to thieves, often easily carried, concealed and damaged.
 
 ### About this guide
 
-This guide gives you advice and guidance on the main security issues that are likely to affect you as a computer user within MoJ, including its Agencies and Associated Offices. It also sets out your individual responsibilities for ICT security.
+This guide gives you advice and guidance on the main security issues that are likely to affect you as a computer user within MOJ, including its Agencies and Associated Offices. It also sets out your individual responsibilities for ICT security.
 
 ### Who needs to read this guide?
 
-This guide applies to all users of computer systems processing MoJ data, including staff working in its Agencies and Associated Offices, contractors, agency and casual staff and service providers' staff. For brevity, these users will be referred to as staff or employees within this guide. All MoJ employees must ensure that they are familiar with the contents of this guide and be aware of and comply with MoJ's ICT Security Policy and procedures. Members of the judiciary who use computer facilities provided by MoJ should additionally refer to any separate security guidance provided for the judiciary.
+This guide applies to all users of computer systems processing MOJ data, including staff working in its Agencies and Associated Offices, contractors, agency and casual staff and service providers' staff. For brevity, these users will be referred to as staff or employees within this guide. All MOJ employees must ensure that they are familiar with the contents of this guide and be aware of and comply with MOJ's ICT Security Policy and procedures. Members of the judiciary who use computer facilities provided by MOJ should additionally refer to any separate security guidance provided for the judiciary.
 
 ### Why you need to read this guide
 
 #### Legislation
 
-You must adhere to legal and regulatory obligations in order to protect both yourself and MoJ's assets. Failure to do so may result in criminal or civil proceedings being taken against you or MoJ.
+You must adhere to legal and regulatory obligations in order to protect both yourself and MOJ's assets. Failure to do so may result in criminal or civil proceedings being taken against you or MOJ.
 
 #### Government policy and standards
 
@@ -48,14 +48,14 @@ The guide is based upon HMG security policy produced by the Cabinet Office and a
 
 #### Financial and operational impact and Ministry of Justice's reputation
 
-MoJ can suffer financially due to:
+MOJ can suffer financially due to:
 
-- compensation claims: if it breaches any regulatory or legislative requirements, MoJ could incur financial penalties;
+- compensation claims: if it breaches any regulatory or legislative requirements, MOJ could incur financial penalties;
 - theft: of ICT equipment and information held on it;
-- fraud: some of MoJ's computer systems are concerned with payments to suppliers and court users - if the use of these computers is not controlled, MoJ runs the risk of fraud against it; and
+- fraud: some of MOJ's computer systems are concerned with payments to suppliers and court users - if the use of these computers is not controlled, MOJ runs the risk of fraud against it; and
 - recovery costs: lost information will need to be recovered - there will usually be a price to pay for this, either in payments to suppliers or overtime payments to staff.
 
-MoJ can suffer operationally due to:
+MOJ can suffer operationally due to:
 
 - operational disruption of Court proceedings;
 - accidental premature release of a prisoner.
@@ -72,21 +72,21 @@ In this section
 
 ### ICT Security Policy framework
 
-MoJ's ICT security policy forms part of MoJ's corporate security policy.
+MOJ's ICT security policy forms part of MOJ's corporate security policy.
 
 - Corporate security policy
 
-IT systems are crucial in delivering the Department's core business activities effectively and all staff are required to understand their obligations in how to safeguard MoJ data and how to use IT appropriately.
+IT systems are crucial in delivering the Department's core business activities effectively and all staff are required to understand their obligations in how to safeguard MOJ data and how to use IT appropriately.
 
 The ICT security policy framework is designed to;
 
-- inform you on the acceptable use of MoJ ICT
+- inform you on the acceptable use of MOJ ICT
 - let you know how to safeguard information assets from unauthorised access and modification
 - describes how you should use, access and disclose information in accordance with security classification policies, regulations and applicable legislation
 - allows the department to detect, manage and recover from security incidents with the least disruption to the organisation
-- ensure MoJ IT suppliers and service providers comply with the minimum requirements set out in this policy and within the wider security policy framework
-- ensure that MoJ information and IT assets are utilised for MoJ business use only
-- enable MoJ to make best use of its investment in IT
+- ensure MOJ IT suppliers and service providers comply with the minimum requirements set out in this policy and within the wider security policy framework
+- ensure that MOJ information and IT assets are utilised for MOJ business use only
+- enable MOJ to make best use of its investment in IT
 
 ### ICT security policies
 
@@ -95,7 +95,7 @@ The ICT security policy framework is designed to;
 
 ### Privacy
 
-MoJ may require access to audit logs in investigating incidents (which may be of a purely technical nature such as a virus incident, but may also include investigations into malicious behaviour). MoJ will comply with all relevant legislation in its monitoring and auditing activities. MoJ provides you with computer equipment and systems to enable you to do your work. MoJ will exercise its rights to ensure that its computer equipment and systems are used in a legitimate and lawful manner. This applies equally to providers.
+MOJ may require access to audit logs in investigating incidents (which may be of a purely technical nature such as a virus incident, but may also include investigations into malicious behaviour). MOJ will comply with all relevant legislation in its monitoring and auditing activities. MOJ provides you with computer equipment and systems to enable you to do your work. MOJ will exercise its rights to ensure that its computer equipment and systems are used in a legitimate and lawful manner. This applies equally to providers.
  
 More information about the Departments policy can be found here: [HR - Conduct - IT usage guidance](https://intranet.justice.gov.uk/documents/2015/04/it-usage-policy.pdf).
 
@@ -114,11 +114,11 @@ The ICT security management structure falls within the overall departmental secu
 
 **Senior Responsible Owner**
 
-The MoJ's Senior Information Risk Owner (SIRO) is responsible for the cross-MoJ information risk policy and guidance and ensuring it continues to provide a suitable risk framework.
+The MOJ's Senior Information Risk Owner (SIRO) is responsible for the cross-MOJ information risk policy and guidance and ensuring it continues to provide a suitable risk framework.
 
-MoJ Business Group/Area SIROs are responsible for implementing and managing information risk in their respective business groups and, reviewing the application of policy and guidance regularly thereafter to ensure it remains appropriate to their business objectives and risk environment.
+MOJ Business Group/Area SIROs are responsible for implementing and managing information risk in their respective business groups and, reviewing the application of policy and guidance regularly thereafter to ensure it remains appropriate to their business objectives and risk environment.
 
-Also, MoJ Business Group/Area SIROs are responsible for authorising any exceptions and deviations from the ICT Security Policy.
+Also, MOJ Business Group/Area SIROs are responsible for authorising any exceptions and deviations from the ICT Security Policy.
 
 #### Senior Responsible Owner
 
@@ -136,16 +136,16 @@ It is the responsibility of the local ICT System Manager to ensure that all ICT 
 
 Managers are responsible for ensuring that all staff, including casuals and contractors:
 
-- receive appropriate induction and training covering the use of MoJ ICT equipment; are aware of the ICT Security Policy and adhere to it; have access to user guides for the computer systems and applications they use; have access to a copy of the **ICT Security Guide** and any other ICT security guides relevant to their work. (any consultants, contractors or agency staff that use their own computer equipment or equipment provided by their parent company must be made aware of and given access to the policy in the **Remote Working and Mobile Computing Security Guide**); and
+- receive appropriate induction and training covering the use of MOJ ICT equipment; are aware of the ICT Security Policy and adhere to it; have access to user guides for the computer systems and applications they use; have access to a copy of the **ICT Security Guide** and any other ICT security guides relevant to their work. (any consultants, contractors or agency staff that use their own computer equipment or equipment provided by their parent company must be made aware of and given access to the policy in the **Remote Working and Mobile Computing Security Guide**); and
 - are provided with the resources needed for ICT security within their business area.
 
 When a member of staff is known to be leaving, line managers have specific responsibilities. The manager is responsible for ensuring:
 
-- the [Leaver's checklist](https://intranet.justice.gov.uk/documents/2018/05/leavers-checklist-for-managers-3.docx) is completed and actioned;
+- the [Leaver's checklist](https://intranet.justice.gov.uk/documents/2015/04/leavers-checklist-for-managers.doc) is completed and actioned;
 - access to ICT-based systems is removed; and
 - the appropriate handover of electronic data such as emails and MS Office files that may be required for business continuity - such data should be saved in an accessible location such as a shared drive so that information can be accessed when required
 
-It is the responsibility of the manager and the member of staff who is leaving to make certain, before the last working day, that all records which require access and retention from email accounts, and any other electronic records, are moved to a storage area that is easily accessible. For areas of MoJ that have access, this is should be TRIM; for other areas a shared drive would be suitable. Accounts will not be permitted to remain open after staff have left MoJ.
+It is the responsibility of the manager and the member of staff who is leaving to make certain, before the last working day, that all records which require access and retention from email accounts, and any other electronic records, are moved to a storage area that is easily accessible. For areas of MOJ that have access, this is should be TRIM; for other areas a shared drive would be suitable. Accounts will not be permitted to remain open after staff have left MOJ.
 
 If the individual has left without notice, the leaving employee's activities will need to be undertaken by the line manager.
 
@@ -167,15 +167,15 @@ The **leaving employee** is responsible for:
 - ensuring the leaver's personal data is deleted; and
 - placing an Out of Office Message on the account providing details of an appropriate alternative contact.
 
-#### MoJ ICT service providers
+#### MOJ ICT service providers
 
-ICT service providers are responsible for ensuring that their staff and Sub-contractors adhere to MoJ's ICT security policy, and that they deliver the security controls required for the systems they provide. More information can be found at [ICT Security Policy Framework](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/).
+ICT service providers are responsible for ensuring that their staff and Sub-contractors adhere to MOJ's ICT security policy, and that they deliver the security controls required for the systems they provide. More information can be found at [ICT Security Policy Framework](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/).
 
 ## Information Security
 
 In this section
 
-- Classification of MoJ systems
+- Classification of MOJ systems
 - Passwords
 - Access control
 - Back-ups
@@ -189,17 +189,17 @@ In this section
 
 This section is to assist the end users understanding of the security controls. There are specific technical policies that are available on request, please see [ICT Security Policy Framework](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/).
 
-### Government Security Classification of MoJ systems
+### Government Security Classification of MOJ systems
 
-MoJ's ICT networks are secured to hold `OFFICIAL` information.
+MOJ's ICT networks are secured to hold `OFFICIAL` information.
 
-Only MoJ computers may be connected to departmental networks. Any computer that is used to connect to the main departmental networks can be assumed to hold `OFFICIAL` information until it is securely deleted or disposed of.
+Only MOJ computers may be connected to departmental networks. Any computer that is used to connect to the main departmental networks can be assumed to hold `OFFICIAL` information until it is securely deleted or disposed of.
 
 ### Passwords
 
 Access to most computer systems (referred to as 'log in' or 'log on') is controlled by a username and password. The user name identifies the user as a valid user of the system and the password authenticates that the user is who they say they are. Secure passwords are therefore crucial to the security of our computer systems. See [this section](#passwords) for more information on passwords.
 
-Audit trail facilities can identify usage of MoJ systems. You are responsible for what you do and may be held responsible for any actions carried out using your username and password. You must therefore not allow any one else to do work on any system using your ID and password.
+Audit trail facilities can identify usage of MOJ systems. You are responsible for what you do and may be held responsible for any actions carried out using your username and password. You must therefore not allow any one else to do work on any system using your ID and password.
 
 ### Access control
 
@@ -217,13 +217,13 @@ If you need to move data the following link will explain that process and forms 
 
 ### Removable media
 
-Removable storage media e.g. USB memory sticks, CDs, floppy disks and personal electronic devices, pose a significant threat to MoJ as it becomes much easier for data to be lost or stolen. In addition, connecting removable media that has not been provided by MoJ, or any authorised removable media that has been connected to non-MoJ ICT systems, can pick up malicious software which could be dangerous to our networks and equipment. Removable media should not be used to store MoJ data. Only in exceptional circumstances, and where there is compelling business justification with no feasible alternative, will approval be given for the use of removable media.
+Removable storage media e.g. USB memory sticks, CDs, floppy disks and personal electronic devices, pose a significant threat to MOJ as it becomes much easier for data to be lost or stolen. In addition, connecting removable media that has not been provided by MOJ, or any authorised removable media that has been connected to non-MOJ ICT systems, can pick up malicious software which could be dangerous to our networks and equipment. Removable media should not be used to store MOJ data. Only in exceptional circumstances, and where there is compelling business justification with no feasible alternative, will approval be given for the use of removable media.
 
 Where removable media has been authorised it must be handled in accordance with the security classification system and protected as such, for example by using appropriate encryption; guidance will have been given at the time of approval.
 
-Unencrypted removable media holding `OFFICIAL` information must not be removed from secure office premises without approval by a member of the Senior Civil Service and an approved business case.
+Un-encrypted removable media holding `OFFICIAL` information must not be removed from secure office premises without approval by a member of the Senior Civil Service and an approved business case.
 
-USB memory sticks are of particular concern because they pose a greater threat than other types of removable media due to their physical size and storage capacity. Only USB memory sticks authorised and supplied by MoJ may be connected to MoJ ICT systems.
+USB memory sticks are of particular concern because they pose a greater threat than other types of removable media due to their physical size and storage capacity. Only USB memory sticks authorised and supplied by MOJ may be connected to MOJ ICT systems.
 
 For information on laptops and personal electronic devices see the **Remote Working and Mobile Computing Security Guide**.
 
@@ -233,7 +233,7 @@ All media should be securely disposed of. Electronic media that have been used t
 
 All computers, laptops and personal electronic devices, must be returned to the ICT service provider for re-use and disposal.
 
-For re-use and disposal of any locally purchased ICT equipment, ask for advice from the Operational Security Team:<br/>![](https://intranet.justice.gov.uk/app/uploads/2018/05/c210534c474fcf88f5303ed6aa7dccee.gif)<br/> <br/>
+For re-use and disposal of any locally purchased ICT equipment, ask for advice from the Operational Security Team:<br/>![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/05/c210534c474fcf88f5303ed6aa7dccee.gif)<br/> <br/>
 
 ## ICT Security Incidents
 
@@ -320,7 +320,7 @@ Malicious software is most commonly introduced onto a computer system by:
 
 To assist in prevention you must:
 
-- only use MoJ authorised software from approved sources;
+- only use MOJ authorised software from approved sources;
 - not copy software to give to other people;
 - not load unauthorised software such as wallpaper, screen savers and games on to your computer;
 - not use removable media unless you have an approved business case
@@ -351,35 +351,35 @@ In this section
 
 **What is Electronic Messaging**
 
-- Electronic messaging includes emails, instant messaging, messaging within social media sites (for example facebook and Twitter but there are many others) and mobile messaging such as SMS messages on BlackBerry or other MoJ issued telephones.
+- Electronic messaging includes emails, instant messaging, messaging within social media sites (for example Facebook and Twitter but there are many others) and mobile messaging such as SMS messages on BlackBerry or other MOJ issued telephones.
 
 ### Risks of using electronic messaging
 
 There are security risks inherent in using electronic messaging, some of which can be countered by technical measures which are the responsibility of our ICT service providers, but many of which are the responsibility of the electronic messaging user.
 
-The risks you may run every time you send an electronic message include: unwittingly committing MoJ, or yourself, to a contractual relationship; sending material whose possession is contrary to UK law (e.g. 'obscene' material); expressing views which are contrary to UK law (e.g. inciting race hatred, or distributing defamatory material); breaching confidentiality by sending or forwarding `OFFICIAL` information across the internet or insecure electronic messaging system (see below); and breaching the Data Protection Act (e.g. by disclosing personal data to someone not entitled to see it).
+The risks you may run every time you send an electronic message include: unwittingly committing MOJ, or yourself, to a contractual relationship; sending material whose possession is contrary to UK law (e.g. 'obscene' material); expressing views which are contrary to UK law (e.g. inciting race hatred, or distributing defamatory material); breaching confidentiality by sending or forwarding `OFFICIAL` information across the internet or insecure electronic messaging system (see below); and breaching the Data Protection Act (e.g. by disclosing personal data to someone not entitled to see it).
 
 You also need to be aware that unnecessary electronic messages or unnecessary communication to a large number of other people uses up valuable computer resources and your and other people's time.
 
 ### Using electronic messaging
 
-MoJ does monitor the use of electronic messaging on MoJ ICT systems and MoJ provided devices. Your manager can request reports detailing your activity if they suspect misuse of a MoJ ICT system that you use to send or receive electronic messages. The content of these reports will be considered by your manager and a nominated HR representative. More information can be found on the HR My Services page of the MoJ Intranet within the [HR - Conduct - IT Usage Guidance](https://intranet.justice.gov.uk/documents/2015/04/it-usage-policy.pdf).
+MOJ does monitor the use of electronic messaging on MOJ ICT systems and MOJ provided devices. Your manager can request reports detailing your activity if they suspect misuse of a MOJ ICT system that you use to send or receive electronic messages. The content of these reports will be considered by your manager and a nominated HR representative. More information can be found on the HR My Services page of the MOJ Intranet within the [HR - Conduct - IT Usage Guidance](https://intranet.justice.gov.uk/documents/2015/04/it-usage-policy.pdf).
 
 You must:
 
-- only use email in a way that is consistent with your duties or is sanctioned by your line manager. Reasonable personal use is allowed, provided that it is sanctioned by your line manager and it does not interfere with the performance of your duties and does not breach ICT security policy. You should be aware that your external email address identifies MoJ, so is equivalent to using MoJ letter-headed paper;
+- only use email in a way that is consistent with your duties or is sanctioned by your line manager. Reasonable personal use is allowed, provided that it is sanctioned by your line manager and it does not interfere with the performance of your duties and does not breach ICT security policy. You should be aware that your external email address identifies MOJ, so is equivalent to using MOJ letter-headed paper;
 - remain polite and respectful of the feelings and beliefs of others when writing emails.
 
 You must not:
 
 - send emails or email attachments that contains obscene, profane, inflammatory, threatening, harassing (racially, sexually or otherwise), disruptive, or otherwise offensive language and including anything that will reflect poorly on Ministry of Justice's name or reputation;
-- make any statements in emails or email attachments that may defame, slander or tend to lower the reputation of any person or organisation (or their goods or services) - you may be found personally liable for any defamatory statements, and MoJ may also be liable for them;
+- make any statements in emails or email attachments that may defame, slander or tend to lower the reputation of any person or organisation (or their goods or services) - you may be found personally liable for any defamatory statements, and MOJ may also be liable for them;
 - conduct trivial debates or exchanges with one individual or with a group of individuals;
 - include unsuitable attachments such as video clips, images and executable files unless there is a genuine business reason to do so;
 - send emails to large numbers of people unless absolutely necessary;
 - send or forward unsolicited emails including jokes and chain letters;
 
-All external mail should be automatically appended with a disclaimer notice so ordinarily no disclaimer notice needs to be added (if in doubt check with your ICT Service Desk). However, if you are exchanging email with an outside organisation with which MoJ could be bound contractually the following text must also be appended:
+All external mail should be automatically appended with a disclaimer notice so ordinarily no disclaimer notice needs to be added (if in doubt check with your ICT Service Desk). However, if you are exchanging email with an outside organisation with which MOJ could be bound contractually the following text must also be appended:
 
 > I am not authorised to bind the Ministry of Justice contractually, nor to make representations or other statements which may bind the Ministry of Justice in any way via electronic means.
 
@@ -424,7 +424,7 @@ Where use of additional measures has been advised the sender needs to be sure:
 
 ### Using CJSM securely
 
-CJSM is not a substitute for an approved remote working solution and must not be used as such by staff or contractors. It must only be used from: MoJ-provided computer equipment with adequate security measures in place such as approved hard disk encryption; computer equipment used by contractors/consultants as professional tools of their trade, with adequate security measures in place such as approved hard disk encryption.
+CJSM is not a substitute for an approved remote working solution and must not be used as such by staff or contractors. It must only be used from: MOJ-provided computer equipment with adequate security measures in place such as approved hard disk encryption; computer equipment used by contractors/consultants as professional tools of their trade, with adequate security measures in place such as approved hard disk encryption.
 
 CJSM must not be used from public, personal, home or family computers. CJSM should only be used for legitimate business purposes relating to the Criminal Justice System.
 
@@ -437,11 +437,11 @@ In this section
 
 ### Intranet and GSi web sites
 
-MoJ intranet sites are private to MoJ or to parts of MoJ. The GSi hosts a number of GSi sites belonging to various government organisations and communities of interest (such as Librarians, IT Security Officers, Government Social Researchers and Government Legal Service) that are only accessible to GSi users. Browsing on these intranet web sites is safe but you should be aware that they include links to internet web sites (i.e on the world wide web or the web).
+MOJ intranet sites are private to MOJ or to parts of MOJ. The GSi hosts a number of GSi sites belonging to various government organisations and communities of interest (such as Librarians, IT Security Officers, Government Social Researchers and Government Legal Service) that are only accessible to GSi users. Browsing on these intranet web sites is safe but you should be aware that they include links to internet web sites (i.e on the world wide web or the web).
 
 ### Internet world wide web
 
-MoJ monitors the use of web browsing and your activity will be logged. Under the IT Misuse procedure your manager can request reports detailing your activity if they suspect inappropriate use of web-browsing facilities. The content of these reports will be considered by your manager and a nominated HR representative and can lead to disciplinary action being taken.
+MOJ monitors the use of web browsing and your activity will be logged. Under the IT Misuse procedure your manager can request reports detailing your activity if they suspect inappropriate use of web-browsing facilities. The content of these reports will be considered by your manager and a nominated HR representative and can lead to disciplinary action being taken.
 
 - You should be aware that some sites might have malicious software such as damaging ActiveX controls, Java applets or JavaScript.
 - Any data sent to and received from secure web sites, such as those using https (e.g online banking) may be momentarily decrypted, scanned for malicious content and then re-encrypted by our network.
@@ -460,7 +460,7 @@ In this section
 
 ### Web-based email
 
-Email accessed via web-based email services bypasses anti-virus protection located on the GSi and MoJ email servers so these services pose a significant risk to MoJ's computer systems. For this reason you should not access web-based email unless you have an approved Business Case to do so.
+Email accessed via web-based email services bypasses anti-virus protection located on the GSi and MOJ email servers so these services pose a significant risk to MOJ's computer systems. For this reason you should not access web-based email unless you have an approved Business Case to do so.
 
 ### Bulletin board and groups
 
@@ -468,7 +468,7 @@ If you subscribe to a bulletin board, newsgroup or discussion group (such as Yah
  
 ### Social networking
 
-Social networking sites such as Facebook and MySpace pose security risks to MoJ and to individuals. Sites like these are often used as a host for malicious software, which could try and attack MoJ systems. Individuals could inadvertently release sensitive information about themselves, or about MoJ.
+Social networking sites such as Facebook and MySpace pose security risks to MOJ and to individuals. Sites like these are often used as a host for malicious software, which could try and attack MOJ systems. Individuals could inadvertently release sensitive information about themselves, or about MOJ.
 
 Social networking sites often have functionality such as web mail and instant messaging, which can also lead to the introduction of malicious code and the unauthorised export of data.
 
@@ -492,16 +492,16 @@ In this section
 
 ### Password policy
 
-Access to most of MoJ's ICT systems is controlled by the use of user identifiers (user IDs) and passwords. Unless specifically authorised passwords must not be shared. Office automation systems provide facilities for controlled file sharing and delegate access to mailboxes and calendars for colleagues, managers and personal assistants which make it unnecessary to allow anyone to use your network account. Make use of these facilities - **do not share your password**.
+Access to most of MOJ's ICT systems is controlled by the use of user identifiers (user IDs) and passwords. Unless specifically authorised passwords must not be shared. Office automation systems provide facilities for controlled file sharing and delegate access to mailboxes and calendars for colleagues, managers and personal assistants which make it unnecessary to allow anyone to use your network account. Make use of these facilities - **do not share your password**.
 
 In order for a password to give an adequate level of security they must be correctly chosen, used and managed:
 
-- your password should be of sufficient length and complexity to ensure it is difficult to guess or decrypt (passwords on MoJ ICT systems should be at least nine characters long);
+- your password should be of sufficient length and complexity to ensure it is difficult to guess or decrypt (passwords on MOJ ICT systems should be at least nine characters long);
 - you should choose your password in a way that makes them difficult for other people to guess it;
 - you should change your password at least once every three months or when prompted by the system;
 - change your password if you think someone else may know it or if it has been disclosed to someone else;
 - memorise your password, do not write it down, and if there is a genuine business reason for recording and storing a password it should be kept in a sealed envelope in a locked drawer or safe;
-- do not use the same password for logins or sign-on to different systems; and
+- do not use the same password for login or sign-on to different systems; and
 - do not re-use passwords (e.g. alternating the same two passwords).
 
 ### Choosing a good password
@@ -516,17 +516,17 @@ Use the first letters of a phrase (e.g. '`This is now a Secure system for me!`' 
 
 Do not make obvious letter / number substitutions to disguise recognisable words e.g. `0` for `O`, `5` for `S`, `1` for `I`, as this is a well known technique and therefore offers little security.
 
-If you would like the information in this booklet in an alternative format, please email the Operational Security Team:<br/>![](https://intranet.justice.gov.uk/app/uploads/2018/05/c210534c474fcf88f5303ed6aa7dccee.gif)<br/> <br/>Or call:<br/>![](https://intranet.justice.gov.uk/app/uploads/2017/12/64a07aab5f77479e27c487c3f8e20296.gif)<br/> <br/>
+If you would like the information in this booklet in an alternative format, please email the Operational Security Team:<br/>![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/05/c210534c474fcf88f5303ed6aa7dccee.gif)<br/> <br/>Or call:<br/>![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2017/12/64a07aab5f77479e27c487c3f8e20296.gif)<br/> <br/>
 
 ---
 
 <table>
-<tr><td colspan='4'>This guidance is dated May 2018.
+<tr><td colspan='4'>This guidance is dated September 2018.
 <p>
 To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent+it-security-guidelines@digital.justice.gov.uk?subject=it-security-guidelines">itpolicycontent@digital.justice.gov.uk</a>, or click one of the following icons.</p></td></tr>
 <tr>
-<td width='25%'><a href="mailto:itpolicycontent+it-security-guidelines-2@digital.justice.gov.uk?subject=it-security-guidelines-2"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/DoubleCross.gif" alt="Content was very unhelpful">Very unhelpful.</a></td>
-<td width='25%'><a href="mailto:itpolicycontent+it-security-guidelines-1@digital.justice.gov.uk?subject=it-security-guidelines-1"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/Cross.gif" alt="Content was unhelpful">Unhelpful.</a></td>
-<td width='25%'><a href="mailto:itpolicycontent+it-security-guidelines+1@digital.justice.gov.uk?subject=it-security-guidelines+1"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/Tick.gif" alt="Content was helpful">Helpful.</a></td>
-<td width='25%'><a href="mailto:itpolicycontent+it-security-guidelines+2@digital.justice.gov.uk?subject=it-security-guidelines+2"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/DoubleTick.gif" alt="Content was very helpful">Very helpful.</a></td>
+<td width='25%'><a href="mailto:itpolicycontent+it-security-guidelines-2@digital.justice.gov.uk?subject=it-security-guidelines-2"><img src="https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/04/DoubleCross.gif" alt="Content was very unhelpful">Very unhelpful.</a></td>
+<td width='25%'><a href="mailto:itpolicycontent+it-security-guidelines-1@digital.justice.gov.uk?subject=it-security-guidelines-1"><img src="https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/04/Cross.gif" alt="Content was unhelpful">Unhelpful.</a></td>
+<td width='25%'><a href="mailto:itpolicycontent+it-security-guidelines+1@digital.justice.gov.uk?subject=it-security-guidelines+1"><img src="https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/04/Tick.gif" alt="Content was helpful">Helpful.</a></td>
+<td width='25%'><a href="mailto:itpolicycontent+it-security-guidelines+2@digital.justice.gov.uk?subject=it-security-guidelines+2"><img src="https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/04/DoubleTick.gif" alt="Content was very helpful">Very helpful.</a></td>
 </table>
