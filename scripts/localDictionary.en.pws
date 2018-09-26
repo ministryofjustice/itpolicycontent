@@ -2,6 +2,7 @@ personal_ws-1.1 en 1000 utf-8
 accreditations
 accreditor
 ACPO
+actioned
 ActiveX
 analytics
 anonymised
@@ -33,6 +34,7 @@ CISO
 CJIT
 CJSE
 CJSM
+CJX
 CMDB
 CoCo
 CRB
@@ -48,6 +50,8 @@ CVSSv
 cyber
 Cyber
 DACU
+decrypt
+decrypted
 decrypts
 degauss
 despatch
@@ -56,6 +60,7 @@ DLRMS
 DMF
 DNS
 DOM
+DSO
 DV
 DVDs
 DXW
@@ -96,6 +101,7 @@ hoc
 hotdesk
 hotsynch
 htm
+https
 IaaS
 IAMM
 IAO
@@ -104,8 +110,8 @@ IAS
 ICO
 ICT
 IdP
-ITSIM
 ie
+IEC
 iFrame
 IM
 inbox
@@ -118,6 +124,7 @@ iStock
 ITDR
 ITHC
 ITHCs
+ITSIM
 ITSO
 Jira
 Kahootz
@@ -189,7 +196,9 @@ SecureZip
 SendGrid
 Sharepoint
 SIRO
+SIROs
 SLA
+SLO
 smartphone
 smartphones
 SMS

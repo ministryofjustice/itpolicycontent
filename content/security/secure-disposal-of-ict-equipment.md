@@ -30,6 +30,6 @@ A high capacity CD/DVD shredder is located in 102 Petty France, 5.32, suitable f
 
 ## Contacts
 
-- TYR security:<br/>![](https://intranet.justice.gov.uk/app/uploads/2018/05/f494c1cf8fe05721b8830637910b0268.gif)&nbsp;<br/>
-- Data eliminate:<br/>![](https://intranet.justice.gov.uk/app/uploads/2018/05/24225787ba1628de2475f05994338173.gif)&nbsp;<br/>
-- Operational Security:<br/>![](https://intranet.justice.gov.uk/app/uploads/2017/12/c44e91c8a5d308c4953ef918b987f543.gif)&nbsp;![](https://intranet.justice.gov.uk/app/uploads/2017/12/64a07aab5f77479e27c487c3f8e20296.gif)&nbsp;
+- TYR security:<br/>![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/05/f494c1cf8fe05721b8830637910b0268.gif)&nbsp;<br/>
+- Data eliminate:<br/>![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/05/24225787ba1628de2475f05994338173.gif)&nbsp;<br/>
+- Operational Security:<br/>![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2017/12/c44e91c8a5d308c4953ef918b987f543.gif)&nbsp;![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2017/12/64a07aab5f77479e27c487c3f8e20296.gif)&nbsp;

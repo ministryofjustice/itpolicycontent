@@ -75,7 +75,7 @@ A Protective Marking must be applied to a document in accordance with the follow
 
 Figure 2 provides an illustrative example of this format being applied.
 
-![Example application of a protective marking to a document or report](https://intranet.justice.gov.uk/app/uploads/2017/12/protective-marking-guide-image-2.png)
+![Example application of a protective marking to a document or report](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2017/12/protective-marking-guide-image-2.png)
 
 Figure 2 - Example application of a protective marking to a document or report
 
@@ -99,7 +99,7 @@ E-mails can undergo an amount of transformation especially where the recipient i
 
 Figure 3 provides an illustration of a Protective Marking being applied to an e-mail.
 
-![Example application of a protective marking to an e-mail](https://intranet.justice.gov.uk/app/uploads/2017/12/protective-marking-guide-image-3.png)
+![Example application of a protective marking to an e-mail](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2017/12/protective-marking-guide-image-3.png)
 
 Figure 3 - Example application of a protective marking to an e-mail
 

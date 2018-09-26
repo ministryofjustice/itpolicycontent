@@ -57,7 +57,7 @@ Next, request business approval as follows:
 | All HMPPS staff except HQ | Send your request to your governor |
 
 
-When you have received business approval, send a copy of your request and the approval to Operational Security:<br/>![](https://intranet.justice.gov.uk/app/uploads/2018/05/c210534c474fcf88f5303ed6aa7dccee.gif)&nbsp;
+When you have received business approval, send a copy of your request and the approval to Operational Security:<br/>![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/05/c210534c474fcf88f5303ed6aa7dccee.gif)&nbsp;
 
 When Operational Security have acknowledged receipt of the request and approval, the process is complete.
 
@@ -118,8 +118,8 @@ Tell them if the HMPPS equipment is lost, stolen or was potentially compromised.
 <p>
 To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=taking-it-equipment-abroad-business-or-personal">itpolicycontent@digital.justice.gov.uk</a>, or click one of the following icons.</p></td></tr>
 <tr>
-<td width='25%'><a href="mailto:itpolicycontent+taking-it-equipment-abroad-business-or-personal-2@digital.justice.gov.uk?subject=taking-it-equipment-abroad-business-or-personal-2"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/DoubleCross.gif" alt="Content was very unhelpful">Very unhelpful.</a></td>
-<td width='25%'><a href="mailto:itpolicycontent+taking-it-equipment-abroad-business-or-personal-1@digital.justice.gov.uk?subject=taking-it-equipment-abroad-business-or-personal-1"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/Cross.gif" alt="Content was unhelpful">Unhelpful.</a></td>
-<td width='25%'><a href="mailto:itpolicycontent+taking-it-equipment-abroad-business-or-personal+1@digital.justice.gov.uk?subject=taking-it-equipment-abroad-business-or-personal+1"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/Tick.gif" alt="Content was helpful">Helpful.</a></td>
-<td width='25%'><a href="mailto:itpolicycontent+taking-it-equipment-abroad-business-or-personal+2@digital.justice.gov.uk?subject=taking-it-equipment-abroad-business-or-personal+2"><img src="https://intranet.justice.gov.uk/app/uploads/2018/04/DoubleTick.gif" alt="Content was very helpful">Very helpful.</a></td>
+<td width='25%'><a href="mailto:itpolicycontent+taking-it-equipment-abroad-business-or-personal-2@digital.justice.gov.uk?subject=taking-it-equipment-abroad-business-or-personal-2"><img src="https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/04/DoubleCross.gif" alt="Content was very unhelpful">Very unhelpful.</a></td>
+<td width='25%'><a href="mailto:itpolicycontent+taking-it-equipment-abroad-business-or-personal-1@digital.justice.gov.uk?subject=taking-it-equipment-abroad-business-or-personal-1"><img src="https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/04/Cross.gif" alt="Content was unhelpful">Unhelpful.</a></td>
+<td width='25%'><a href="mailto:itpolicycontent+taking-it-equipment-abroad-business-or-personal+1@digital.justice.gov.uk?subject=taking-it-equipment-abroad-business-or-personal+1"><img src="https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/04/Tick.gif" alt="Content was helpful">Helpful.</a></td>
+<td width='25%'><a href="mailto:itpolicycontent+taking-it-equipment-abroad-business-or-personal+2@digital.justice.gov.uk?subject=taking-it-equipment-abroad-business-or-personal+2"><img src="https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/04/DoubleTick.gif" alt="Content was very helpful">Very helpful.</a></td>
 </table>

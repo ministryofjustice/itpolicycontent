@@ -288,8 +288,8 @@ The MOJ will monitor the use of electronic communications and web-browsing. Your
 
 ## Contacts
 
-- IT Service Desk:<br/>![](https://intranet.justice.gov.uk/app/uploads/2017/12/e6404c31d65821489a775401ce4b941d.gif)&nbsp;
-- Operational Security:<br/>![](https://intranet.justice.gov.uk/app/uploads/2017/12/c44e91c8a5d308c4953ef918b987f543.gif)&nbsp;
+- IT Service Desk:<br/>![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2017/12/e6404c31d65821489a775401ce4b941d.gif)&nbsp;
+- Operational Security:<br/>![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2017/12/c44e91c8a5d308c4953ef918b987f543.gif)&nbsp;
 
 ### Further reading from NCSC
 

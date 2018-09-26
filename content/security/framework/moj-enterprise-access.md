@@ -29,7 +29,7 @@ Information made available on an open access basis (i.e. not subject to any RBAC
 
 Figure 2 depicts the 4 stage management lifecycle for managing User access control.
 
-<img class="aligncenter" src="https://intranet.justice.gov.uk/app/uploads/2017/12/moj-enterprise-access-diagram-2.png" alt="The 4 stage management lifecycle for managing User access control">
+<img class="aligncenter" src="https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2017/12/moj-enterprise-access-diagram-2.png" alt="The 4 stage management lifecycle for managing User access control">
 
 Figure 2 - Management lifecycle
 
