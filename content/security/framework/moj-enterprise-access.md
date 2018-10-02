@@ -4,27 +4,27 @@ title: moj-enterprise-access
 
 <b>This guidance applies to developers and system administrators who work for the MOJ.</b>
 
-Access control mechanisms manage the levels of access granted to an individual User, or defined groups of individual Users.
+Users and defined groups of users need access to MOJ data and systems. Access control mechanisms manage that access.
 
-This document provides guidance on the process for managing User access to MOJ IT systems, starting from first registration through to the revocation of access rights and removal of their account.
+This document provides guidance on the process for managing user access. It begins with first registration. It finishes with stopping access, and account removal.
 
-In this guidance, the terms data and information are used interchangeably.
+This guidance uses the terms data and information interchangeably.
 
-## User and Information Access management
+## User and information access management
 
-Access control is primarily about enforcing three information security principles:
+Access control focuses on enforcing three information security principles:
 
-- the *'need-to-know'* principle; this restricts access to information, based on a business requirement
-- *non-repudiation* of User actions; this is where the User is accountable for their actions when accessing data or using an MOJ IT system
-- the *'least privilege'* principle; this is where Users are assigned the smallest possible number of privileges required to fulfil their work
+- the *'need-to-know'* principle: restrict access to information, based on a business need
+- *non-repudiation*: users are responsible for their actions when accessing MOJ data or systems
+- the *'least privilege'* principle: users have the least possible privileges for their work
 
-Access control in MOJ is based on Role Based Access Control (RBAC). Each user is assigned a role or set of roles. Access to information is granted on a per role basis. Normally, information is subject to RBAC. Alternatively, information might be explicitly classified as open access. An example would be an HR policy document, published on the MOJ intranet.
+Access control in MOJ uses Role Based Access Control (RBAC). Each user has a role or set of roles. Access to information is granted on a per role basis. All MOJ information is subject to RBAC. By exception, information is classified as open access. An example would be an HR policy document, published on the MOJ intranet.
 
-Information made available on an open access basis is not subject to any RBAC restrictions. Therefore, it must be treated as an exception to general access control rules. Ensure any information made available in this way has been validated by the Information Asset Owner (IAO) beforehand. This helps ensure that the information does not have 'need-to-know' constraints that affect sharing beyond a defined RBAC group. See [this section](#it-system-owner-information-asset-owner-responsibilities) for further details on the role of the IAO.
+Open access information is not subject to RBAC restrictions. So, treat it as an exception to general access control rules. Make sure the Information Asset Owner (IAO) validates each exception first. This is especially important when sharing information outside a defined RBAC group. Validation ensures that you consider 'need-to-know' constraints. See [this section](#it-system-owner-information-asset-owner-responsibilities) for further details on the role of the IAO.
 
-## Management of User access control
+## Management of user access control
 
-There are several stages for managing User access control:
+There are several stages for managing user access control:
 
 1.  [user registration and account creation](#user-registration-and-account-creation)
 2.  [privilege management and review of user access rights](#privilege-management-and-review-of-user-access-rights)
@@ -37,14 +37,16 @@ There are several stages for managing User access control:
 
 ### User registration and account creation
 
-For each new User registration:
+For each new user registration:
 
-- confirm the identity of the new User. For an MOJ member of staff, this is confirmed by MOJ HR
-- confirm the access rights required. For example, a list of RBAC groups or applications is supplied
+- confirm the identity of the new user. MOJ HR do this for MOJ staff members
+- confirm the access rights required. For example, check the list of RBAC groups or applications required
 - confirm the clearance level, as described [here](#minimum-user-clearance-requirements)
-- obtain authorisation from an MOJ senior manager for the User registration application. This authorisation is used as confirmation of the Users identity and that the requested access rights are correct
+- get authorisation from an MOJ senior manager for the user registration application. Use this authorisation to:
+  - confirm the user identity
+  - check the requested access rights are correct
 
-MOJ staff, including contractors and agency staff, are given a User account and a number of roles that correspond to their work. These enable access to the relevant MOJ IT systems, applications and information.
+MOJ staff have a user account and one or more roles that correspond to their work. These enable access to the relevant MOJ IT systems, applications and information.
 
 Temporary use of an MOJ IT system might be permitted where a specific business need exists. An example would be to allow access for an external trainer who will be educating MOJ staff in a new application. Temporary permissions are still subject to clearance checks and a Non-Disclosure Agreement (NDA). An MOJ senior manager must assume total responsibility for the actions undertaken by the temporary User while they are using MOJ IT systems using the temporary account.
 
