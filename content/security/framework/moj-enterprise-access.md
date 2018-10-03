@@ -8,7 +8,9 @@ Users and defined groups of users need access to MOJ data and systems. Access co
 
 This document provides guidance on the process for managing user access. It begins with first registration. It finishes with stopping access, and account removal.
 
-This guidance uses the terms data and information interchangeably.
+**Note:** This guidance uses the terms data and information interchangeably.
+
+**Note:** Some parts of the MOJ have their own processes to follow for some tasks. An example is HMCTS, which has its own HR process for [account removal](#account-removal). Check your local guidance for specific information.
 
 ## User and information access management
 
@@ -48,13 +50,13 @@ For each new user registration:
 
 MOJ staff have a user account and one or more roles that correspond to their work. These enable access to the relevant MOJ IT systems, applications and information.
 
-Temporary use of an MOJ IT system might be permitted where a specific business need exists. An example would be to allow access for an external trainer who will be educating MOJ staff in a new application. Temporary permissions are still subject to clearance checks and a Non-Disclosure Agreement (NDA). An MOJ senior manager must assume total responsibility for the actions undertaken by the temporary User while they are using MOJ IT systems using the temporary account.
+Temporary use of an MOJ IT system might be permitted where a specific business need exists. An example is allowing access for an external trainer to educate MOJ staff in a new application. Temporary permissions are still subject to clearance checks and a Non-Disclosure Agreement (NDA). An MOJ senior manager must have responsibility for the temporary user's actions when they use MOJ IT systems.
 
 <a id="minimum-user-clearance-requirements"></a>
 
 #### Minimum user clearance requirements
 
-Most MOJ IT systems operate in a way that allows processing of protectively marked data. Users must have a sufficient [clearance level](https://intranet.justice.gov.uk/guidance/security/it-computer-security/security-clearance/) before they can be granted access rights. The exact level depends on the type of access rights required, and the job role.
+Most MOJ IT systems operate in a way that allows processing of protectively marked data. Users must have an appropriate [clearance level](https://intranet.justice.gov.uk/guidance/security/it-computer-security/security-clearance/) before they are granted access rights. The exact level depends on the type of access rights required, and the job role.
 
 In this guidance, access rights apply to three User account types. [Table 1](#table-1) provides a description for each type, and the minimum clearance required.
 
@@ -66,24 +68,24 @@ In this guidance, access rights apply to three User account types. [Table 1](#ta
 | Application Administrator or Privileged User | Typically an application system manager, i.e. those with the rights to create/remove user accounts, and provide internal support. | BPSS |
 | Systems Administrator | A systems administrator does not necessarily have a 'need-to-know' over any of the business information held on the systems they support however they do have administrative privileges which allows them to view data held on those systems and change their configuration. | SC |
 
-The clearance level indicated in [Table 1](#table-1) is separate to the [clearance level](https://intranet.justice.gov.uk/guidance/security/it-computer-security/security-clearance/) required for a particular job role. [Table 1](#table-1) sets the minimum requirement for access to an MOJ IT system. Most job roles at the MOJ require an individual to attain BPSS. However, some job roles require an individual to have a higher clearance such as SC or DV.
+Clearance levels in [Table 1](#table-1) are distinct from the [clearance s](https://intranet.justice.gov.uk/guidance/security/it-computer-security/security-clearance/) for a particular job role. [Table 1](#table-1) sets the minimum requirement for access to an MOJ IT system. Most job roles at the MOJ need you to have BPSS. Other job roles need you to have a higher clearance such as SC or DV.
 
 <a id="privilege-management-and-review-of-user-access-rights"></a>
 
 ### Privilege management and review of user access rights
 
-Privileges must be assigned on a least privilege basis. To help ensure this, the following must be supplied when requesting a new User account or additional privileges:
+Privileges are assigned on a least privilege basis. To help ensure this, supply the following when requesting a new user account or extra privileges:
 
-- a statement of the access required, for example a path to a folder containing data, or functionality provided by an application
-- the name or identity of the User requiring access, and the associated User account identify. This applies where the request relates to an existing User account
-- the Business justification
+- a statement of the access required. An example is the data required, or the functionality provided by an application
+- the name or identity of the user requiring access, and the associated user account. This applies where the request relates to an existing user account
+- the business justification
 - approval from an MOJ senior manager
 
 <a id="review-of-user-access-rights"></a>
 
 ### Review of user access rights
 
-Access rights must be reviewed on a regular basis. They might need to be updated as a result of any change in job role, security clearance, or employment status. The review schedule is described in more detail [here](#review-of-user-privileges-and-accounts-schedule).
+Review access rights on a regular basis. Update them as a result of any change in job role, security clearance, or employment status. More detail about the review schedule is [here](#review-of-user-privileges-and-accounts-schedule).
 
 There are two roles in the review process:
 
@@ -141,6 +143,8 @@ The relevant IAO must ensure that all information in a repository, or a well-def
 Remote access to an MOJ IT system normally requires the use of an authentication token in addition to the standard network logon. An example authentication token is the RSA key.
 
 Each token is unique to a particular individual. A token must only be issued to Users with a business need to access MOJ IT systems remotely. An example would be home workers.
+
+<a id="account-removal"></a>
 
 ## Account removal
 
