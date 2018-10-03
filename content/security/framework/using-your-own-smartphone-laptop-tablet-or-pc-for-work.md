@@ -15,6 +15,12 @@ You must always:
 
 **Note:** There is no MOJ technical support for your device. However, any problems or issues regarding an MOJ capability or service should be [reported](#if-something-goes-wrong).
 
+## Device management
+
+To access some MOJ services, MOJ management packages or configurations are required. Installing these provides access and control of the access. Device management also limits your device from performing some tasks. Some of these tasks are ones that you might take for granted. For example, storing data 'in the cloud' is blocked. This is necessary to protect MOJ data from loss or unauthorised sharing. **Note:** An important side effect is that on Apple devices, automatic backup to iCloud no longer works at all.
+
+Device management by the MOJ is necessary to protect MOJ resources. If you do not wish to accept MOJ management of your device, you should not use your own device for work purposes.
+
 ## Before you start using your device
 
 ### Check with your line manager
