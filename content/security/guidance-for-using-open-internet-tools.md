@@ -204,7 +204,7 @@ Personal Data | Disclosure Team:<br/>![](https://s3-eu-west-2.amazonaws.com/intr
 ---
 
 <table>
-<tr><td colspan='4'>This guidance is dated June 2018.
+<tr><td colspan='4'>This guidance is dated October 2018.
 <p>
 To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent+guidance-for-using-open-internet-tools@digital.justice.gov.uk?subject=guidance-for-using-open-internet-tools">itpolicycontent@digital.justice.gov.uk</a>, or click one of the following icons.</p></td></tr>
 <tr>
