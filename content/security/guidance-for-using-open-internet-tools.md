@@ -40,6 +40,8 @@ Open Internet Tools (OITs) are applications or services from suppliers outside t
 - they have a basic 'free-to-use' version. This means that you are able to use some or all the capabilities, but with some constraints. For example, an online word-processor might limit you to 5 documents in your account
 - they have one or more 'paid for' versions. By paying for the tool, you unlock some or all the constraints
 
+Some OITs are available as standalone applications. Other OITs are available as web browser extensions or plug-ins. This guidance applies to all OITs.
+
 <a id="quick-checklist"></a>
 
 ### Quick checklist
