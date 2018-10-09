@@ -116,7 +116,7 @@ Technical controls are more effective at protecting password-based authenticatio
 
 ### User facing services
 
-Authenticate people accessing user facing services by using the GOV.UK Verify service. It is not necessary for someone to be a UK Citizen to use the GOV.UK Verify service, but they must have a UK address.
+Authenticate people accessing user facing services by using the [GOV.UK Verify](https://www.gov.uk/government/publications/introducing-govuk-verify/introducing-govuk-verify) service. It is not necessary for someone to be a UK Citizen to use the GOV.UK Verify service, but they must have a UK address.
 
 If it is not possible to use GOV.UK Verify, follow the advice in this standard to support citizen passwords. Pay extra attention to the following points:
 
