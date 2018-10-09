@@ -112,6 +112,19 @@ Technical controls are more effective at protecting password-based authenticatio
 - [locking accounts](#password-access-attempts) after repeated access attempts
 - [blocking](#blocking-bad-passwords) common password choices
 
+<a id="user-facing-services"></a>
+
+### User facing services
+
+Authenticate people accessing user facing services by using the GOV.UK Verify service. It is not necessary for someone to be a UK Citizen to use the GOV.UK Verify service, but they must have a UK address.
+
+If it is not possible to use GOV.UK Verify, follow the advice in this standard to support citizen passwords. Pay extra attention to the following points:
+
+- Services should always let users paste passwords into web forms.  This makes it easier to use password managers. People should have complex passwords, and different passwords for each website.
+- Don't force [regular password expiry](#password-expiry). Make it easy to [change passwords](#password-reset) when required.
+- Force password changes when required. For example after [exceeding a count of unsuccessful password entry attempts](#password-access-attempts).
+- Make the process of [resetting a password](#password-reset) like providing a password for the first time. Include a way to [prevent attackers using the reset process](#distributing-passwords-to-users) to conduct an attack.
+
 <a id="service-accounts"></a>
 
 ### Service Accounts
@@ -192,6 +205,8 @@ Extra information on handling and protecting passwords is in the [IT Security Sy
 
 If a password is ever entered incorrectly, a count should start. After at most 10 (ten) consecutive failed attempts at using the correct password, lock the account or system access. A successful use of the password resets the count to zero again.
 
+<a id="password-reset"></a>
+
 If a password lock occurs, a reset is necessary. This requires action by the system administrator or MOJ Service Desk. The process should be like issuing the password for the first time. The main difference between the processes for first-time password and for password reset are that the account details are kept intact during the reset, to avoid losing any work. Checks ensure that an attacker cannot use the password reset process.
 
 <a id="blocking-passwords"></a>
@@ -202,6 +217,8 @@ If a password lock occurs, a reset is necessary. This requires action by the sys
 Don't let users choose [obvious passwords](https://en.wikipedia.org/wiki/List_of_the_most_common_passwords). Check for and block obvious passwords embedded within a password. For example, `MySecretPassword` is not a good password!
 
 Use password and hash lists from [SecLists](https://github.com/danielmiessler/SecLists/tree/master/Passwords) or [Have I Been Pwned](https://haveibeenpwned.com/Passwords), to help prevent bad passwords.
+
+<a id="distributing-passwords-to-users"></a>
 
 ### Distributing passwords to users
 
@@ -245,7 +262,7 @@ The guidance on passwords is separate from guidance on account management. You s
 ---
 
 <table>
-<tr><td colspan='4'>This guidance is dated September 2018.
+<tr><td colspan='4'>This guidance is dated October 2018.
 <p>
 To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent+password-standard@digital.justice.gov.uk?subject=password-standard">itpolicycontent@digital.justice.gov.uk</a>, or click one of the following icons.</p></td></tr>
 <tr>
