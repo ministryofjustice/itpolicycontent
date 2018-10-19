@@ -7,6 +7,7 @@ title: password-standard
 [acs]: https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/moj-enterprise-access-control-policy/
 [gcs]: https://intranet.justice.gov.uk/guidance/security/it-computer-security/government-classification-scheme/
 [cyberawarepasswords]: https://www.cyberaware.gov.uk/passwords
+[govukpasswords]: https://www.cyberaware.gov.uk/passwords
 [hmgias2]: https://www.ncsc.gov.uk/guidance/information-risk-management-hmg-ia-standard-numbers-1-2
 [ncsccertificates]: https://www.ncsc.gov.uk/guidance/provisioning-and-securing-security-certificates
 [ncscmfa]: https://www.ncsc.gov.uk/guidance/multi-factor-authentication-online-services
@@ -24,7 +25,7 @@ title: password-standard
 
 ## About this document
 
-This document is the MOJ IT Security - Password Standard. It helps you protect MOJ IT systems by informing you about choosing and using passwords. Whenever you see the word 'system' here, it applies to:
+This document is the MOJ IT Security - Password Standard. It helps you protect MOJ IT systems by telling you about choosing and using passwords. Whenever you see the word 'system' here, it applies to:
 
 - hardware, such as laptops, PCs, servers, mobile devices, and any ICT equipment
 - software, such as the OS, or applications installed on hardware, or mobile device apps
@@ -32,7 +33,7 @@ This document is the MOJ IT Security - Password Standard. It helps you protect M
 
 You can see the formal [User Password Management](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/technical-controls-policy/#user-password-management) rules in the [IT Security - Technical Controls Policy][tcp].
 
-This document has a section on [account management for user facing services](#user-facing-services).
+This document has guidance on passwords for [all users](#all-users). It also includes more detail for [system administrators or developers](#system-administrators-or-developers).
 
 <a id="all-users"></a>
 
@@ -40,16 +41,17 @@ This document has a section on [account management for user facing services](#us
 
 The MOJ password guidance uses [NCSC guidance][ncscpasswordguidance]. It recommends a [simpler][ncscpasswordguidancesimplify] approach to passwords. Some agencies or bodies might have specific requirements or variations. Check your team Intranet or ask your Line Manager for more information.
 
-Follow the [CyberAware advice][cyberawarepasswords] to generate your passwords.
+Follow the [CyberAware advice][cyberawarepasswords] to generate your passwords. Always use a separate and unique password for each account or service.
 
 Make sure you read the MOJ [guidance][pg] information about passwords. The most important points are that passwords should be:
 
 - at least 8 characters long
-- unlimited in length
+- no more than 128 characters long
 - not obvious
-- use a seperate and unique password for each account or service
+- not a dictionary word. A combination of dictionary words might be suitable, such as '`CorrectHorseBatteryStaple`'
+- unique for each account or service
 
-If a system or another person provides you with a password you _must_ change the password before doing any other MOJ work on that system. Examples of such 'single-use' passwords include:
+If a system or another person provides you with a password, change it before doing any MOJ work on that system. Examples of 'single-use' passwords include:
 
 - your own account on a work-provided laptop
 - a shared account for accessing a data analytics service
@@ -61,7 +63,7 @@ You must change a password whenever:
 - there was a security incident with the service that you access using the password. For example, if someone broke into the system that provides the service you use
 - your line manager or other authorised person tells you to do so
 
-When required to change a password, you must do so as soon as possible. If you don't change the password soon enough, you may be automatically locked out of your account. The following table shows the maximum time allowed:
+When required to change a password, you must do so as soon as possible. If you don't change the password soon enough, you might be locked out of your account automatically. The following table shows the maximum time allowed:
 
 | Type of system | Maximum time to change a password |
 |---|---|
@@ -99,6 +101,8 @@ Extra guidance for system administrators or developers is available [here][ncsch
 
 -->
 
+<a id="system-administrators-or-developers"></a>
+
 ## System administrators or developers
 
 Follow the [Government Service Manual for Passwords][smdp] when you administer or develop MOJ systems or services.
@@ -134,14 +138,15 @@ If it is not possible to use GOV.UK Verify, follow the advice in this standard t
 
 System and application authentication must always use service accounts . Use certificates for service account authentication. Follow [NCSC guidelines][ncsccertificates] for issuing and securing the certificates. If you can't use certificates, passwords are an acceptable alternative.
 
-Service account passwords:
+Service account passwords must:
 
-- must be system generated
-- must be at least 15 characters long
-- must be complex, including upper-case and lower-case letters, digits, punctuation, and special characters
-- must be kept secure, by using hashes or encryption
-- must not be stored in the clear in any systems or applications
-- must not be used by standard or administrative users for any purpose
+- be system generated
+- be at least 15 characters long
+- be no more than 128 characters long
+- be complex, including upper-case and lower-case letters, digits, punctuation, and special characters
+- be kept secure, by using hashes or encryption
+- not be stored in the clear in any systems or applications
+- not be used by standard or administrative users for any purpose
 
 ### Default passwords
 
@@ -151,13 +156,11 @@ Change all default passwords when a new, modified, or replacement system arrives
 
 [Multi-factor Authentication (MFA)](https://en.wikipedia.org/wiki/Multi-factor_authentication) provides extra security for login and access controls. MFA is also referred to as Two-Factor Authentication or 2FA.
 
-Additionally, use MFA in systems for privileged or important step confirmation. For example, the user must enter their MFA code when deleting a record.
+Use MFA in systems for privileged or important step confirmation. For example, the user must enter their MFA code when deleting a record.
 
 Follow the [NCSC guidance][ncscmfa] for enabling MFA.
 
-Use [Time-based One-Time Password Algorithm (TOTP)](https://en.wikipedia.org/wiki/Time-based_One-time_Password_algorithm) or hardware and software tokens. Only use SMS or email-based one-time code methods if TOTP or hardware/software based tokens are not available.
-
-SMS MFA is still better than no MFA.
+Use [Time-based One-Time Password Algorithm (TOTP)](https://en.wikipedia.org/wiki/Time-based_One-time_Password_algorithm) or hardware and software tokens. If possible, avoid using SMS or email messages containing one-time login codes. If TOTP applications, or hardware- or software-based tokens, are not available to you, then SMS MFA or email MFA is still better than no MFA.
 
 Systems must offer MFA alternatives to users where they are available. For example, MFA codes sent by SMS are not suitable if mobile devices are not allowed in the room or building.
 
@@ -169,7 +172,7 @@ Check which other systems have access to the system or service. Make sure that t
 
 Appropriate extra measures might include tokens or other multi-factor authentication devices. Think about using an existing authentication system other than passwords. Avoid creating new authentication systems. Try to reduce what a user must remember. For more information about authentication, see the [IT Security - Access Control Standard][acs].
 
-A technical risk assessment helps identifies extra controls for systems.
+A technical risk assessment helps identifies extra controls for systems. This is mandatory for systems that need formal accreditation. Multi-user systems are also subject to a Business Impact Assessment (BIA).
 
 For example, an assessment might find that you need extra checks for logging in to an account or service. The checks might depend on various factors such as:
 
@@ -212,7 +215,7 @@ If a password is ever entered incorrectly, a count should start. After at most 1
 
 <a id="password-reset"></a>
 
-If a password lock occurs, a reset is necessary. This requires action by the system administrator or MOJ Service Desk. The process should be like issuing the password for the first time. The main difference between the processes for first-time password and for password reset are that the account details are kept intact during the reset, to avoid losing any work. Checks ensure that an attacker cannot use the password reset process.
+If a password lock occurs, a reset is necessary. This requires action by the system administrator or MOJ Service Desk. The process should be like issuing the password for the first time. Other account details are not changed during the reset. This helps avoid losing any work. Checks ensure that an attacker cannot use the password reset process.
 
 <a id="blocking-passwords"></a>
 <a id="blocking-bad-passwords"></a>
@@ -252,7 +255,7 @@ All multi-user systems and services must check for redundant User IDs and accoun
 
 ### Identity Providers and Single Sign-On
 
-When you need an authentication solution, try to use existing MOJ services. Examples include Identity Provider (IdP) or Single Sign-On (SSO) services, such as Office 365 or D&T Google G-Suite.
+When you need an authentication solution, try to use existing MOJ services. Examples include Identity Provider (IdP) or Single Sign-On (SSO) services, such as Office 365 or Digital and Technology G-Suite.
 
 This helps reduce the need to design, create, deploy and manage yet another solution.
 

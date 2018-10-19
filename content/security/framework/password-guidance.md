@@ -23,16 +23,18 @@ Passwords help ensure that compliance.
 ## Always\.\.\.
 
 - follow the [GOV.UK advice](https://www.cyberaware.gov.uk/passwords) to generate your passwords
-- use a password that's at least 8 characters long
-- use a password that's strong enough for the information or system you are using. The system should force you to choose a strong password
+- use a password that is
+  - at least 8 characters long
+  - no more than 128 characters long
+  - strong enough for the information or system you are using. The system should force you to choose a strong password
 - change your password if it provides access to any information or system affected by a security incident
-
-<!--
-- use a password that has one or more of each of the following character types:
+- try to use a password that has one or more of each of the following character types:
   -  upper case
   -  lower case
   -  digits
   -  special characters such as '`@`', '`$`', '`%`', or '`^`'
+
+<!--
 - use a password manager, to help you choose and store your passwords
 -->
 
@@ -40,6 +42,7 @@ Passwords help ensure that compliance.
 
 - have your username within the password
 - use an [obvious password](https://en.wikipedia.org/wiki/List_of_the_most_common_passwords), such as '`passw0rd`' or '`12345678`'
+- use a dictionary word on its own. A combination of dictionary words might be suitable, such as '`CorrectHorseBatteryStaple`'
 - use a password for more than one account or service
 - re-use a password
 - write a password down
@@ -81,7 +84,7 @@ Some systems might not provide a forgotten password option. Sometimes, it is not
 <table border='1'>
 <tr>
 <td><table>
-<tr><td colspan='4'>This guidance is dated April 2018.
+<tr><td colspan='4'>This guidance is dated October 2018.
 <p>
 To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent+password-guidance@digital.justice.gov.uk?subject=password-guidance">itpolicycontent@digital.justice.gov.uk</a>, or click one of the following icons.</p></td></tr>
 <tr>
