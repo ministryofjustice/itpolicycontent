@@ -8,16 +8,16 @@ Using your personally-owned device is often acceptable as long as you take some 
 
 You must always:
 
-- ensure your equipment meets and maintains MOJ IT security standards, and be ready to demonstrate this at any time
-- maintain the corporate 'memory'. This means being able to respond fully to Freedom of Information, or any data protection legislation requests
+- ensure your equipment meets and maintains MOJ IT security standards, and be ready to prove this at any time
+- maintain the corporate 'memory'. This means being able to respond to any Freedom of Information or data protection legislation requests
 - be able to show a specific business benefit for using your own device
-- be clear as to what work you can, or cannot do, on your equipment
+- be clear about what work you can, or cannot do, on your equipment
 
-**Note:** There is no MOJ technical support for your device. However, any problems or issues regarding an MOJ capability or service should be [reported](#if-something-goes-wrong).
+**Note:** There is no MOJ technical support for your device. However, always [report](#if-something-goes-wrong) any problems or issues with an MOJ resource or service.
 
 ## Device management
 
-To access some MOJ services, MOJ management packages or configurations are required. Installing these provides access and control of the access. Device management also limits your device from performing some tasks. Some of these tasks are ones that you might take for granted. For example, storing data 'in the cloud' is blocked. This is necessary to protect MOJ data from loss or unauthorised sharing. **Note:** An important side effect is that on Apple devices, automatic backup to iCloud no longer works at all.
+To access some MOJ services, you need MOJ management packages or configurations. Installing these provides access and control of the access. Device management also limits your device from performing some tasks. Some of these tasks are ones that you might take for granted. For example, storing data 'in the cloud' is blocked. This is necessary to protect MOJ data from loss or unauthorised sharing. **Note:** An important side effect is that on Apple devices, automatic backup to iCloud no longer works at all.
 
 Device management by the MOJ is necessary to protect MOJ resources. If you do not wish to accept MOJ management of your device, you should not use your own device for work purposes.
 
@@ -25,7 +25,7 @@ Device management by the MOJ is necessary to protect MOJ resources. If you do no
 
 ### Check with your line manager
 
-If you want to work using your own equipment, [ask your line manager for permission _first_](https://intranet.justice.gov.uk/guidance/security/it-computer-security/line-manager-approval/), so you can discuss any issues.
+If you want to use your own equipment, [ask your line manager for permission _first_](https://intranet.justice.gov.uk/guidance/security/it-computer-security/line-manager-approval/), so you can discuss any issues.
 
 Be clear about what tools you will use, and the tasks you will perform: if it's not discussed, it's not approved.
 
@@ -34,29 +34,29 @@ Be clear about what tools you will use, and the tasks you will perform: if it's 
 To stop other people accessing MOJ systems or information, your device must:
 
 - ask for a [strong password](https://www.cyberaware.gov.uk/passwords), PIN, fingerprint or other ID verification whenever you log on
-- lock the screen if you don’t use it for 10 minutes
+- lock the screen if you don't use it for 10 minutes
 
-Ensure that your device is completely up-to-date with security patches as well as antivirus and anti-malware tools.
+Ensure that your device is completely up-to-date with security patches, as well as antivirus and anti-malware tools.
 
-Remember that some devices have automatic and continuous backup tools installed; these might grab and store sensitive MOJ information.
+Remember that some devices have automatic and continuous backup tools installed. These might grab and store sensitive MOJ information.
 
 ## When using your device
 
 ### Keep your security up to date
 
-Always install the [latest security updates](https://www.cyberaware.gov.uk/software-updates) as soon as they are available, to help keep your device secure.
+Always install the [latest security updates](https://www.cyberaware.gov.uk/software-updates) as soon as they are available. They help keep your device secure.
 
 ### Avoid storing work files or information on your device
 
-Make sure everything is stored and up-to-date within the MOJ approved services you’re using. If you use MOJ G Suite (Google Apps), or MOJ Office 365, or indeed any other MOJ approved tool, the information must stay in those systems, not somewhere else on your device.
+Make sure you store everything within MOJ approved services. Keep the data up-to-date. If you use MOJ G Suite (Google Apps), or MOJ Office 365, or indeed any other MOJ approved tool, the information must stay in those systems, not somewhere else on your device.
 
-If you really must store information on the device, for example because you are remote working and have no network access, delete the information from the device as soon as possible after you have finished.
+Sometimes, you might have to store information on the device, for example because you are remote working and have no network access. If this happens, as soon as possible you should store the data within an MOJ approved service then delete the information from your device.
 
-Be especially careful of backup tools on the device, which might store data and therefore stop you complying with data protection requirements.
+Be especially careful of backup tools on the device. These might store data without you knowing. This can stop you from complying with data protection requirements.
 
 ### Be careful when sharing the device
 
-If a family member borrows your tablet or laptop (for example), make sure they cannot use the MOJ applications, or access any of the work information.
+If a family member borrows your device, make sure they can't use MOJ applications, or access any work data.
 
 <a id="if-something-goes-wrong"></a>
 
@@ -85,7 +85,7 @@ In general, subject to the security classification of the work material, you can
 
 ### Sensitive information
 
-Sensitive information can only be accessed, used or shared on approved services. Remember that the sensitive information might include personal data.
+You can only access, use, or share sensitive information on approved services. Remember that the sensitive information might include personal data.
 
 Guidance on classifying information is available [here](https://intranet.justice.gov.uk/guidance/knowledge-information/protecting-information/classifying-information/).
 
@@ -103,15 +103,16 @@ If you are not sure whether the information is sensitive, assume that it is sens
 - The MOJ Digital & Technology Slack. This team uses the domain "`mojdt.slack.com`"
 
 <a id="getting-help-regarding-security"></a>
+<a id="getting-help-with-security"></a>
 
-## Getting help regarding security
+## Getting help with security
 
-For further help about security aspects of using your own smartphone, laptop, tablet or PC for work, contact Operational Security:<br/>![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/05/c210534c474fcf88f5303ed6aa7dccee.gif)
+For further help about security when using your own device, contact Operational Security:<br/>![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/05/c210534c474fcf88f5303ed6aa7dccee.gif)
 
 ---
 
 <table>
-<tr><td colspan='4'>This guidance is dated July 2018.
+<tr><td colspan='4'>This guidance is dated October 2018.
 <p>
 To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent+using-your-own-smartphone-laptop-tablet-or-pc-for-work@digital.justice.gov.uk?subject=using-your-own-smartphone-laptop-tablet-or-pc-for-work">itpolicycontent@digital.justice.gov.uk</a>, or click one of the following icons.</p></td></tr>
 <tr>
