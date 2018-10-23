@@ -265,7 +265,7 @@ SSO integration in existing IdP solutions improves the user experience. This is 
 
 ### Account management
 
-The guidance on passwords is separate from guidance on account management. You should still follow the rules and processes for managing accounts. In particular, while you don't need to [change passwords after a period of time](#password-expiry), you should still expire accounts promptly.  Examples would be when accounts are no longer required, or have fallen out of use.
+The guidance on passwords is separate from guidance on account management. You should still follow the rules and processes for managing accounts. In particular, while you don't need to [change passwords after a period of time](#password-expiry), you should still expire accounts promptly. Examples would be when accounts are no longer required, or have fallen out of use.
 
 ---
 

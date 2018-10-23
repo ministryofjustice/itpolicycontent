@@ -2,11 +2,7 @@
 title: password-guidance
 ---
 
-<table border='1'>
-<tr>
-<td>This guidance applies to everyone who works for the MOJ, or who supply systems or services to the MOJ.</td>
-</tr>
-</table>
+<b>This guidance applies to everyone who works for the MOJ, or who supply systems or services to the MOJ.</b>
 
 ## Overview
 
@@ -81,9 +77,9 @@ Some systems might not provide a forgotten password option. Sometimes, it is not
 <img src="https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2017/12/e6404c31d65821489a775401ce4b941d.gif">&nbsp;</li>
 </ul>
 
-<table border='1'>
-<tr>
-<td><table>
+---
+
+<table>
 <tr><td colspan='4'>This guidance is dated October 2018.
 <p>
 To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent+password-guidance@digital.justice.gov.uk?subject=password-guidance">itpolicycontent@digital.justice.gov.uk</a>, or click one of the following icons.</p></td></tr>
@@ -92,6 +88,4 @@ To provide feedback on this document, please contact us: <a href="mailto:itpolic
 <td width='25%'><a href="mailto:itpolicycontent+password-guidance-1@digital.justice.gov.uk?subject=password-guidance-1"><img src="https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/04/Cross.gif" alt="Content was unhelpful">Unhelpful.</a></td>
 <td width='25%'><a href="mailto:itpolicycontent+password-guidance+1@digital.justice.gov.uk?subject=password-guidance+1"><img src="https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/04/Tick.gif" alt="Content was helpful">Helpful.</a></td>
 <td width='25%'><a href="mailto:itpolicycontent+password-guidance+2@digital.justice.gov.uk?subject=password-guidance+2"><img src="https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/04/DoubleTick.gif" alt="Content was very helpful">Very helpful.</a></td>
-</table></td>
-</tr>
 </table>

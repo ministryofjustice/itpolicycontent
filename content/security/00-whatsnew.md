@@ -8,6 +8,7 @@ This document summarises what changes were made, and when, to MOJ IT Policy cont
 
 Date | Audience | Topic (and link) | Changes
 ---|---|---|---
+October 23 | All | [Password Standard](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/password-standard/#user-facing-services) | Additional guidance on user facing services.
 September 21 | All | [Password Standard](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/password-standard/#account-management) | Additional guidance on account management.
 September 14 | All | [IT Security Guidelines](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/it-security-guidelines/) | Updated links to revised [Leaver's checklist](https://intranet.justice.gov.uk/documents/2015/04/leavers-checklist-for-managers.doc).
 August 14 | All | [Web browsing and web mail](https://intranet.justice.gov.uk/guidance/security/it-computer-security/web-browsing/) | Updates to the Web mail and Internet access rules.
@@ -34,7 +35,7 @@ April 6 | All | [Password Guidance](https://intranet.justice.gov.uk/guidance/sec
 ---
 
 <table>
-<tr><td colspan='4'>This document is dated September 2018.
+<tr><td colspan='4'>This document is dated October 2018.
 <p>
 To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent+00-whatsnew@digital.justice.gov.uk?subject=00-whatsnew">itpolicycontent@digital.justice.gov.uk</a>, or click one of the following icons.</p></td></tr>
 <tr>
