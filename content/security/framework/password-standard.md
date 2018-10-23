@@ -127,10 +127,10 @@ Authenticate people accessing user facing services by using the [GOV.UK Verify](
 
 If it is not possible to use GOV.UK Verify, follow the advice in this standard to support citizen passwords. Pay extra attention to the following points:
 
-- Services should always let users paste passwords into web forms.  This makes it easier to use password managers. People should have complex passwords, and different passwords for each website.
-- Don't force [regular password expiry](#password-expiry). Make it easy to [change passwords](#password-reset) when required.
-- Force password changes when required. For example after [exceeding a count of unsuccessful password entry attempts](#password-access-attempts).
-- Make the process of [resetting a password](#password-reset) like providing a password for the first time. Include a way to [prevent attackers using the reset process](#distributing-passwords-to-users) to conduct an attack.
+- people should have complex passwords which are different for each service they use. Make it easy for people to have complex passwords by supporting password managers. For example, services should always let users paste passwords into web forms
+- don't force [regular password expiry](#password-expiry). Make it easy to [change passwords](#password-reset) when required
+- force password changes when required. For example, after [exceeding a count of unsuccessful password entry attempts](#password-access-attempts)
+- make the process of [resetting a password](#password-reset) like providing a password for the first time. Include a way to [prevent attackers using the reset process](#distributing-passwords-to-users) to conduct an attack
 
 <a id="service-accounts"></a>
 
