@@ -8,6 +8,7 @@ This document summarises what changes were made, and when, to MOJ IT Policy cont
 
 Date | Audience | Topic (and link) | Changes
 ---|---|---|---
+October 29 | All | [Using your own smartphone, laptop, tablet or PC for work](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/using-your-own-smartphone-laptop-tablet-or-pc-for-work/) | Withdrew page pending review.
 October 23 | All | [Password Standard](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/password-standard/#user-facing-services) | Additional guidance on user facing services.
 September 21 | All | [Password Standard](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/password-standard/#account-management) | Additional guidance on account management.
 September 14 | All | [IT Security Guidelines](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/it-security-guidelines/) | Updated links to revised [Leaver's checklist](https://intranet.justice.gov.uk/documents/2015/04/leavers-checklist-for-managers.doc).
