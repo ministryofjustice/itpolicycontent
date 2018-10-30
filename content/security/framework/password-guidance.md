@@ -2,11 +2,7 @@
 title: password-guidance
 ---
 
-<table border='1'>
-<tr>
-<td>This guidance applies to everyone who works for the MOJ, or who supply systems or services to the MOJ.</td>
-</tr>
-</table>
+<b>This guidance applies to everyone who works for the MOJ, or who supply systems or services to the MOJ.</b>
 
 ## Overview
 
@@ -23,16 +19,18 @@ Passwords help ensure that compliance.
 ## Always\.\.\.
 
 - follow the [GOV.UK advice](https://www.cyberaware.gov.uk/passwords) to generate your passwords
-- use a password that's at least 8 characters long
-- use a password that's strong enough for the information or system you are using. The system should force you to choose a strong password
+- use a password that is
+  - at least 8 characters long
+  - no more than 128 characters long
+  - strong enough for the information or system you are using. The system should force you to choose a strong password
 - change your password if it provides access to any information or system affected by a security incident
-
-<!--
-- use a password that has one or more of each of the following character types:
+- try to use a password that has one or more of each of the following character types:
   -  upper case
   -  lower case
   -  digits
   -  special characters such as '`@`', '`$`', '`%`', or '`^`'
+
+<!--
 - use a password manager, to help you choose and store your passwords
 -->
 
@@ -40,6 +38,7 @@ Passwords help ensure that compliance.
 
 - have your username within the password
 - use an [obvious password](https://en.wikipedia.org/wiki/List_of_the_most_common_passwords), such as '`passw0rd`' or '`12345678`'
+- use a dictionary word on its own. A combination of dictionary words might be suitable, such as '`CorrectHorseBatteryStaple`'
 - use a password for more than one account or service
 - re-use a password
 - write a password down
@@ -78,10 +77,10 @@ Some systems might not provide a forgotten password option. Sometimes, it is not
 <img src="https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2017/12/e6404c31d65821489a775401ce4b941d.gif">&nbsp;</li>
 </ul>
 
-<table border='1'>
-<tr>
-<td><table>
-<tr><td colspan='4'>This guidance is dated April 2018.
+---
+
+<table>
+<tr><td colspan='4'>This guidance is dated October 2018.
 <p>
 To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent+password-guidance@digital.justice.gov.uk?subject=password-guidance">itpolicycontent@digital.justice.gov.uk</a>, or click one of the following icons.</p></td></tr>
 <tr>
@@ -89,6 +88,4 @@ To provide feedback on this document, please contact us: <a href="mailto:itpolic
 <td width='25%'><a href="mailto:itpolicycontent+password-guidance-1@digital.justice.gov.uk?subject=password-guidance-1"><img src="https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/04/Cross.gif" alt="Content was unhelpful">Unhelpful.</a></td>
 <td width='25%'><a href="mailto:itpolicycontent+password-guidance+1@digital.justice.gov.uk?subject=password-guidance+1"><img src="https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/04/Tick.gif" alt="Content was helpful">Helpful.</a></td>
 <td width='25%'><a href="mailto:itpolicycontent+password-guidance+2@digital.justice.gov.uk?subject=password-guidance+2"><img src="https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/04/DoubleTick.gif" alt="Content was very helpful">Very helpful.</a></td>
-</table></td>
-</tr>
 </table>

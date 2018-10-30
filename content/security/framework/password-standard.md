@@ -6,6 +6,7 @@ title: password-standard
 
 [acs]: https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/moj-enterprise-access-control-policy/
 [gcs]: https://intranet.justice.gov.uk/guidance/security/it-computer-security/government-classification-scheme/
+[cyberawarepasswords]: https://www.cyberaware.gov.uk/passwords
 [govukpasswords]: https://www.cyberaware.gov.uk/passwords
 [hmgias2]: https://www.ncsc.gov.uk/guidance/information-risk-management-hmg-ia-standard-numbers-1-2
 [ncsccertificates]: https://www.ncsc.gov.uk/guidance/provisioning-and-securing-security-certificates
@@ -32,21 +33,25 @@ This document is the MOJ IT Security - Password Standard. It helps you protect M
 
 You can see the formal [User Password Management](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/technical-controls-policy/#user-password-management) rules in the [IT Security - Technical Controls Policy][tcp].
 
+This document has guidance on passwords for [all users](#all-users). It also includes more detail for [system administrators or developers](#system-administrators-or-developers).
+
 <a id="all-users"></a>
 
 ## All users
 
 The MOJ password guidance uses [NCSC guidance][ncscpasswordguidance]. It recommends a [simpler][ncscpasswordguidancesimplify] approach to passwords. Some agencies or bodies might have specific requirements or variations. Check your team Intranet or ask your Line Manager for more information.
 
-Follow the [GOV.UK advice][govukpasswords] to generate your passwords. Use a separate and unique password for each account or service.
+Follow the [CyberAware advice][cyberawarepasswords] to generate your passwords. Always use a separate and unique password for each account or service.
 
 Make sure you read the MOJ [guidance][pg] information about passwords. The most important points are that passwords should be:
 
 - at least 8 characters long
-- unlimited in length
+- no more than 128 characters long
 - not obvious
+- not a dictionary word. A combination of dictionary words might be suitable, such as '`CorrectHorseBatteryStaple`'
+- unique for each account or service
 
-To access a system for the first time, you get a single-use password. As the name suggests, it allows only one use, then expires. The single use is enough to let you log on to the system and change your password. You _must_ change the password before doing any other MOJ work on that system. This applies to each system you access, including:
+If a system or another person provides you with a password, change it before doing any MOJ work on that system. Examples of 'single-use' passwords include:
 
 - your own account on a work-provided laptop
 - a shared account for accessing a data analytics service
@@ -58,7 +63,7 @@ You must change a password whenever:
 - there was a security incident with the service that you access using the password. For example, if someone broke into the system that provides the service you use
 - your line manager or other authorised person tells you to do so
 
-When required to change a password, you must do so as soon as possible. If you don't change the password soon enough, the account locks. The following table shows the maximum time allowed:
+When required to change a password, you must do so as soon as possible. If you don't change the password soon enough, you might be locked out of your account automatically. The following table shows the maximum time allowed:
 
 | Type of system | Maximum time to change a password |
 |---|---|
@@ -96,6 +101,8 @@ Extra guidance for system administrators or developers is available [here][ncsch
 
 -->
 
+<a id="system-administrators-or-developers"></a>
+
 ## System administrators or developers
 
 Follow the [Government Service Manual for Passwords][smdp] when you administer or develop MOJ systems or services.
@@ -112,20 +119,34 @@ Technical controls are more effective at protecting password-based authenticatio
 - [locking accounts](#password-access-attempts) after repeated access attempts
 - [blocking](#blocking-bad-passwords) common password choices
 
+<a id="user-facing-services"></a>
+
+### User facing services
+
+Authenticate people accessing user facing services by using the [GOV.UK Verify](https://www.gov.uk/government/publications/introducing-govuk-verify/introducing-govuk-verify) service. It is not necessary for someone to be a UK Citizen to use the GOV.UK Verify service, but they must have a UK address.
+
+If it is not possible to use GOV.UK Verify, follow the advice in this standard to support citizen passwords. Pay extra attention to the following points:
+
+- people should have complex passwords which are different for each service they use. Make it easy for people to have complex passwords by supporting password managers. For example, services should always let users paste passwords into web forms
+- don't force [regular password expiry](#password-expiry). Make it easy to [change passwords](#password-reset) when required
+- force password changes when required. For example, after [exceeding a count of unsuccessful password entry attempts](#password-access-attempts)
+- make the process of [resetting a password](#password-reset) like providing a password for the first time. Include a way to [prevent attackers using the reset process](#distributing-passwords-to-users) to conduct an attack
+
 <a id="service-accounts"></a>
 
 ### Service Accounts
 
 System and application authentication must always use service accounts . Use certificates for service account authentication. Follow [NCSC guidelines][ncsccertificates] for issuing and securing the certificates. If you can't use certificates, passwords are an acceptable alternative.
 
-Service account passwords:
+Service account passwords must:
 
-- must be system generated
-- must be at least 15 characters long
-- must be complex, including upper-case and lower-case letters, digits, punctuation, and special characters
-- must be kept secure, by using hashes or encryption
-- must not be stored in the clear in any systems or applications
-- must not be used by standard or administrative users for any purpose
+- be system generated
+- be at least 15 characters long
+- be no more than 128 characters long
+- be complex, including upper-case and lower-case letters, digits, punctuation, and special characters
+- be kept secure, by using hashes or encryption
+- not be stored in the clear in any systems or applications
+- not be used by standard or administrative users for any purpose
 
 ### Default passwords
 
@@ -135,11 +156,11 @@ Change all default passwords when a new, modified, or replacement system arrives
 
 [Multi-factor Authentication (MFA)](https://en.wikipedia.org/wiki/Multi-factor_authentication) provides extra security for login and access controls. MFA is also referred to as Two-Factor Authentication or 2FA.
 
-Additionally, use MFA in systems for privileged or important step confirmation. For example, the user must enter their MFA code when deleting a record.
+Use MFA in systems for privileged or important step confirmation. For example, the user must enter their MFA code when deleting a record.
 
 Follow the [NCSC guidance][ncscmfa] for enabling MFA.
 
-Use [Time-based One-Time Password Algorithm (TOTP)](https://en.wikipedia.org/wiki/Time-based_One-time_Password_algorithm) or hardware and software tokens. Avoid SMS or email messages containing one-time login codes.
+Use [Time-based One-Time Password Algorithm (TOTP)](https://en.wikipedia.org/wiki/Time-based_One-time_Password_algorithm) or hardware and software tokens. If possible, avoid using SMS or email messages containing one-time login codes. If TOTP applications, or hardware- or software-based tokens, are not available to you, then SMS MFA or email MFA is still better than no MFA.
 
 Systems must offer MFA alternatives to users where they are available. For example, MFA codes sent by SMS are not suitable if mobile devices are not allowed in the room or building.
 
@@ -151,7 +172,7 @@ Check which other systems have access to the system or service. Make sure that t
 
 Appropriate extra measures might include tokens or other multi-factor authentication devices. Think about using an existing authentication system other than passwords. Avoid creating new authentication systems. Try to reduce what a user must remember. For more information about authentication, see the [IT Security - Access Control Standard][acs].
 
-A technical risk assessment helps identifies extra controls for systems. This is mandatory for systems that need formal accreditation. The assessment follows [HMG Information Assurance Standard No. 1 & 2][hmgias2]. Multi-user systems are also subject to a Business Impact Assessment (BIA).
+A technical risk assessment helps identifies extra controls for systems. This is mandatory for systems that need formal accreditation. Multi-user systems are also subject to a Business Impact Assessment (BIA).
 
 For example, an assessment might find that you need extra checks for logging in to an account or service. The checks might depend on various factors such as:
 
@@ -192,7 +213,9 @@ Extra information on handling and protecting passwords is in the [IT Security Sy
 
 If a password is ever entered incorrectly, a count should start. After at most 10 (ten) consecutive failed attempts at using the correct password, lock the account or system access. A successful use of the password resets the count to zero again.
 
-If a password lock occurs, a reset is necessary. This requires action by the system administrator or MOJ Service Desk. The process should be like issuing the password for the first time. The main difference between the processes for first-time password and for password reset are that the account details are kept intact during the reset, to avoid losing any work. Checks ensure that an attacker cannot use the password reset process.
+<a id="password-reset"></a>
+
+If a password lock occurs, a reset is necessary. This requires action by the system administrator or MOJ Service Desk. The process should be like issuing the password for the first time. Other account details are not changed during the reset. This helps avoid losing any work. Checks ensure that an attacker cannot use the password reset process.
 
 <a id="blocking-passwords"></a>
 <a id="blocking-bad-passwords"></a>
@@ -202,6 +225,8 @@ If a password lock occurs, a reset is necessary. This requires action by the sys
 Don't let users choose [obvious passwords](https://en.wikipedia.org/wiki/List_of_the_most_common_passwords). Check for and block obvious passwords embedded within a password. For example, `MySecretPassword` is not a good password!
 
 Use password and hash lists from [SecLists](https://github.com/danielmiessler/SecLists/tree/master/Passwords) or [Have I Been Pwned](https://haveibeenpwned.com/Passwords), to help prevent bad passwords.
+
+<a id="distributing-passwords-to-users"></a>
 
 ### Distributing passwords to users
 
@@ -230,7 +255,7 @@ All multi-user systems and services must check for redundant User IDs and accoun
 
 ### Identity Providers and Single Sign-On
 
-When you need an authentication solution, try to use existing MOJ services. Examples include Identity Provider (IdP) or Single Sign-On (SSO) services, such as Office 365 or D&T Google G-Suite.
+When you need an authentication solution, try to use existing MOJ services. Examples include Identity Provider (IdP) or Single Sign-On (SSO) services, such as Office 365 or Digital and Technology G-Suite.
 
 This helps reduce the need to design, create, deploy and manage yet another solution.
 
@@ -240,12 +265,12 @@ SSO integration in existing IdP solutions improves the user experience. This is 
 
 ### Account management
 
-The guidance on passwords is separate from guidance on account management. You should still follow the rules and processes for managing accounts. In particular, while you don't need to [change passwords after a period of time](#password-expiry), you should still expire accounts promptly.  Examples would be when accounts are no longer required, or have fallen out of use.
+The guidance on passwords is separate from guidance on account management. You should still follow the rules and processes for managing accounts. In particular, while you don't need to [change passwords after a period of time](#password-expiry), you should still expire accounts promptly. Examples would be when accounts are no longer required, or have fallen out of use.
 
 ---
 
 <table>
-<tr><td colspan='4'>This guidance is dated September 2018.
+<tr><td colspan='4'>This guidance is dated October 2018.
 <p>
 To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent+password-standard@digital.justice.gov.uk?subject=password-standard">itpolicycontent@digital.justice.gov.uk</a>, or click one of the following icons.</p></td></tr>
 <tr>
