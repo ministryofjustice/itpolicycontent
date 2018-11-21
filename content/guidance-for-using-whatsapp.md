@@ -7,36 +7,36 @@ title: guidance-for-using-whatsapp
 This guidance gives you:
 
 - an [overview](#overview) of using WhatsApp for work
-- a summary of the [security](#security) componens of WhatsApp
+- a summary of the [security](#security) aspects of WhatsApp
 - reasons why you [might](#why-whatsapp), or [might not](#whynot-whatsapp), want to use WhatsApp
 - things you [must think about](#using-whatsapp) when using WhatsApp for work, such as [data protection](#dataprotection) and [information management](#informationmanagement)
-- information on [who to contact](#getting-help) if you would like help or advice
+- details about [who to contact](#getting-help) if you would like help or advice
 
 <a id="overview"></a>
 
 ## Overview
 
-WhatsApp Messenger is a free cross-platform messaging platform owned/operated by Facebook.
+WhatsApp Messenger is a free, cross-platform messaging platform, owned and operated by Facebook.
 
-WhatsApp has recorded voice, live voice (audio calls), recorded video, live video (video calls), 'rich' text message (such as using emoticons) and image/document/attachment sharing functionality.
+WhatsApp supports audio ('voice') calls, video calls, text messages including emoticons, and the ability to attach and share images, documents, or other files.
 
-WhatsApp also allows users to share their location with each other.
+WhatsApp also allows you to share your location with other users.
 
-Messages can be between individuals (two devices) or between larger groups.
+Messages can be sent between two devices, or between larger groups.
 
-WhatsApp primarily runs from mobile devices and requires a mobile telephone number to be verified as part of the sign-up process, however once a mobile device has been configured with WhatsApp a linked desktop application can also be used.
+WhatsApp normally runs from mobile devices. As part of the sign-up process, you supply your mobile device telephone number. This is used to verify you. When WhatsApp is installed on a mobile device, you can link a desktop WhatsApp application to your account.
 
-WhatsApp requires access to the mobile devices contacts list, and optionally access to the device's microphone/camera and file stores such as 'camera roll'.
+WhatsApp needs access to your mobile device contact list. It might also need access to the device's microphone, camera and file stores to enable video calls. 
 
-<b>WhatsApp <i>can</i> be used for work purposes like many other free technology tools on the basis that information management requirements are taken into consideration.</b>
+If you comply with MOJ Acceptable Use and Information Management requirements, then you can use WhatsApp for work purposes.
 
 <a id="security"></a>
 
 ## Security
 
-WhatsApp uses end-to-end encryption to ensure only the intended senders and receivers can view message content. The WhatsApp software on devices autonomously manage encryption keys, and the sensitive 'private keys' used are never sent to WhatsApp servers.
+WhatsApp uses end-to-end encryption to ensure that only intended senders and receivers can view message content. The WhatsApp software manages the encryption keys. The sensitive 'private keys' are never sent to WhatsApp servers.
 
-The WhatsApp application makes reasonable efforts in order to protect messages and message content, however as a tenant application on a user's device, it is important that the device is considered as a whole - how it is updated, how it is encrypted, how it is backed up.
+The WhatsApp application makes reasonable efforts to protect messages and message content. Nevertheless, it is important that the device is considered as a whole - how it is updated, how it is encrypted, how it is backed up.
 
 <a id="why-whatsapp"></a>
 
@@ -148,5 +148,10 @@ Personal Data | Disclosure Team:<br/>![](https://s3-eu-west-2.amazonaws.com/intr
 <table>
 <tr><td colspan='4'>This guidance is dated November 2018.
 <p>
-To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent+guidance-for-using-open-internet-tools@digital.justice.gov.uk?subject=guidance-for-using-open-internet-tools">itpolicycontent@digital.justice.gov.uk</a></p></td></tr>
+To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent+guidance-for-using-whatsapp@digital.justice.gov.uk?subject=guidance-for-using-whatsapp">itpolicycontent@digital.justice.gov.uk</a>, or click one of the following icons.</p></td></tr>
+<tr>
+<td width='25%'><a href="mailto:itpolicycontent+guidance-for-using-whatsapp-2@digital.justice.gov.uk?subject=guidance-for-using-whatsapp-2"><img src="https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/04/DoubleCross.gif" alt="Content was very unhelpful">Very unhelpful.</a></td>
+<td width='25%'><a href="mailto:itpolicycontent+guidance-for-using-whatsapp-1@digital.justice.gov.uk?subject=guidance-for-using-whatsapp-1"><img src="https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/04/Cross.gif" alt="Content was unhelpful">Unhelpful.</a></td>
+<td width='25%'><a href="mailto:itpolicycontent+guidance-for-using-whatsapp+1@digital.justice.gov.uk?subject=guidance-for-using-whatsapp+1"><img src="https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/04/Tick.gif" alt="Content was helpful">Helpful.</a></td>
+<td width='25%'><a href="mailto:itpolicycontent+guidance-for-using-whatsapp+2@digital.justice.gov.uk?subject=guidance-for-using-whatsapp+2"><img src="https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/04/DoubleTick.gif" alt="Content was very helpful">Very helpful.</a></td>
 </table>
