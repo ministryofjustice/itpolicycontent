@@ -23,7 +23,7 @@ and
 
 > All staff handling sensitive government assets are briefed about how legislation (particularly the OSA, FOIA and DPA) specifically relates to their role, including the potential disciplinary or criminal penalties that may result from failure to comply with security policies. Appropriate management structures must be in place to ensure the proper handling, control and (if appropriate) managed disclosure of sensitive assets.
 
-The policy on data handling and information sharing is covered in the IT Security – Information Classification and Handling Policy, whilst this document sets out the MoJ guidance sharing information within the MoJ and externally with other Government departments and 3rd parties.
+The policy on data handling and information sharing is covered in the IT Security - Information Classification and Handling Policy, whilst this document sets out the MoJ guidance sharing information within the MoJ and externally with other Government departments and 3rd parties.
 
 ### Scope
 
@@ -50,7 +50,7 @@ This section covers how data must be handled on MoJ ICT systems, this includes b
 *   data in transit
 *   data at rest
 
-For the purposes of this guide, the term sensitive data / information refers to data or information which attracts a Government Protective Marking of up to and including IL3 REST*, see [IT Security – Protective Marking Guide](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/information-classification-and-handling-policy/) for further details.
+For the purposes of this guide, the term sensitive data / information refers to data or information which attracts a Government Protective Marking of up to and including IL3 REST*, see [IT Security - Protective Marking Guide](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/information-classification-and-handling-policy/) for further details.
 
 ### Ownership of information
 
@@ -84,7 +84,7 @@ As these networks can support data up to and including IL3 REST*, a base level o
 
 *   the amount of data being transferred
 *   frequency
-*   any 'need-to-know' considerations (see IT Security – Access Control Standard for further information)
+*   any 'need-to-know' considerations (see IT Security - Access Control Standard for further information)
 
 Any additional controls must be captured on the DMF (see [Data Movement Form](#dmf) where advice should be obtained from the MoJ ITSO when required.
 
@@ -116,7 +116,7 @@ Sensitive data must not be kept for longer than is needed, the IAO must check fo
 
 Physical media containing sensitive data must be disposed of securely, even if that data is encrypted since an attacker could potentially make unlimited attempts to crack the encryption used if the media comes into their possession.
 
-Further information on disposal and decommissioning can be found in the IT Security – ICT Asset Disposal Guide.
+Further information on disposal and decommissioning can be found in the IT Security - ICT Asset Disposal Guide.
 
 ## Information sharing
 
@@ -142,7 +142,7 @@ MoJ staff (including contractors and agency staff) must make sure they observe t
 *   ensure that the confidentiality of the sensitive information is protected during transit (e.g. using a secure network such as the GSi or encrypting the data)
 *   ensure copies of sensitive information are not kept beyond when they are actually required (e.g. "just in case" the information might be needed in the future)
 
-All MoJ staff must avoid exposing sensitive data to unnecessary risks, in particular by observing all aspects of the MoJ IT Security – IT Acceptable Use Policy.
+All MoJ staff must avoid exposing sensitive data to unnecessary risks, in particular by observing all aspects of the MoJ IT Security - IT Acceptable Use Policy.
 
 Authorisation must be sought from the IAO before sensitive information can be moved or shared with a 3rd party. The authorisation itself is captured within the Data Movement Form (DMF) (see [Data Movement Form](#dmf) ), the following sub-sections provide guidance on particular types of information sharing common across the MoJ and to aid the completion of a DMF.
 
@@ -193,9 +193,10 @@ Where there is a business requirement to share information which attracts a mark
 In the case of any IT security or data loss incident please contact:
 
 | Contact | E-mail | Telephone |
-| --- | --- | --- |
-| MOJ Operational Security Team (OST) | ![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2017/12/c44e91c8a5d308c4953ef918b987f543.gif)&nbsp; | ![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2017/12/cd22de7be3ae15073df84123a112d7fc.gif)&nbsp; |
-| IT Service Desk (Atos) | ![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2017/12/e6404c31d65821489a775401ce4b941d.gif)&nbsp; | ![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2017/12/a8df58bc98d43d1d8aca02ebafe52535.gif)&nbsp; |
+|---|---|---|
+| Data loss or security breach | ![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/11/b0c1f3bf14ff265c2369a84cf1bf05c2.gif) | N/A |
+| MOJ Operational Security Team (OST) | ![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2017/12/c44e91c8a5d308c4953ef918b987f543.gif) | ![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2017/12/cd22de7be3ae15073df84123a112d7fc.gif) |
+| IT Service Desk (Atos) | ![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2017/12/e6404c31d65821489a775401ce4b941d.gif) | ![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2017/12/a8df58bc98d43d1d8aca02ebafe52535.gif) |
 
 <a id="dmf"></a>
 
@@ -215,7 +216,7 @@ SecureZip is a compression and encryption product which can be used to encrypt s
 
 ### Self generated passwords
 
-SecureZip requires self generating passwords which must conform to the [MOJ IT Security – Password Standard](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/password-standard/), a summary is provided below:
+SecureZip requires self generating passwords which must conform to the [MOJ IT Security - Password Standard](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/password-standard/), a summary is provided below:
 
 * password length must be at least 9 characters
 * password composition must include a mixture of upper and lower case letters, numeric and special characters
