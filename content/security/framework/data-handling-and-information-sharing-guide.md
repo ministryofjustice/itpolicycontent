@@ -37,7 +37,7 @@ This guide is split into three sections:
 
 [Data Movement Form](#dmf) includes a copy of the MoJ Data Movement Form (DMF). This form must be completed for all transfers where information is transferred from a MoJ ICT system to another MoJ ICT system or external party, further details on the form can be found in [Data Movement Form](#dmf).
 
-**Note:** This document provides guidance for handling and sharing of information / data up to and including Impact Level (IL) 3 REST*. Where information attracts a high protective marking or IL, advice must be sought from the MoJ Operation Security Team (OST) and MoJ IT Security Officer (ITSO).
+**Note:** This document provides guidance for handling and sharing of information / data up to and including Impact Level (IL) 3 REST*. Where information attracts a high protective marking or IL, advice must be sought from the MoJ Operation Security Team (OST) and the MoJ Chief Information Security Officer (CISO).
 
 ### Demonstration of Compliance
 
@@ -86,7 +86,7 @@ As these networks can support data up to and including IL3 REST*, a base level o
 *   frequency
 *   any 'need-to-know' considerations (see IT Security - Access Control Standard for further information)
 
-Any additional controls must be captured on the DMF (see [Data Movement Form](#dmf) where advice should be obtained from the MoJ ITSO when required.
+Any additional controls must be captured on the DMF (see [Data Movement Form](#dmf) where advice should be obtained from the MoJ CISO when required.
 
 ##### USB mass storage device
 
@@ -95,7 +95,7 @@ If using a secure network is not feasible, the next preferred option is to use a
 - MoJ issued FIPS 140-2 USB memory sticks
 - CESG approved USB mass storage devices with whole hard encryption (using CESG provided cryptographic material)
 
-The type of device selected is normally dependant on the sensitivity of the data and the amount of data being transferred. Advice must be sought from the MoJ OST or MoJ ITSO on the best device to use when completing the DMF (see [Data Movement Form](#dmf) ).
+The type of device selected is normally dependant on the sensitivity of the data and the amount of data being transferred. Advice must be sought from the MoJ OST or MoJ CISO on the best device to use when completing the DMF (see [Data Movement Form](#dmf) ).
 
 ##### Optical media
 
@@ -168,7 +168,7 @@ Any transfer of sensitive data to a 3rd party (including sub-contractors or serv
 
 Where the information attracts a marking of IL3 REST*, it must be transferred to an accredited system (accredited to the same level as the data being transferred) provided by the external 3rd party using one of the data in transit options outlined in [Data in transit](#data-in-transit) section.
 
-Any transfer to a 3rd party must be undertaken with appropriate security controls in place, using the guidance from this document, and seeking advice from the system Accreditor and MoJ ITSO as required.
+Any transfer to a 3rd party must be undertaken with appropriate security controls in place, using the guidance from this document, and seeking advice from the system Accreditor and MoJ CISO as required.
 
 #### Sharing across an unsecured network
 
@@ -186,7 +186,7 @@ Where there is a business requirement to do so, information marked at IL2 PROTEC
 
 ### Sharing information above IL3 REST*
 
-Where there is a business requirement to share information which attracts a marking greater than IL3 REST*, advice must be sought from the MoJ OST or MoJ ITSO prior to completing a DMF (see [Data Movement Form](#dmf) ).
+Where there is a business requirement to share information which attracts a marking greater than IL3 REST*, advice must be sought from the MoJ OST or MoJ CISO prior to completing a DMF (see [Data Movement Form](#dmf) ).
 
 ## Reporting data loss
 
@@ -195,7 +195,7 @@ In the case of any IT security or data loss incident please contact:
 | Contact | E-mail | Telephone |
 |---|---|---|
 | Data loss or security breach | ![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/11/b0c1f3bf14ff265c2369a84cf1bf05c2.gif) | N/A |
-| MOJ Operational Security Team (OST) | ![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2017/12/c44e91c8a5d308c4953ef918b987f543.gif) | ![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2017/12/cd22de7be3ae15073df84123a112d7fc.gif) |
+| MOJ Operational Security Team (OST) | ![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2017/12/c44e91c8a5d308c4953ef918b987f543.gif) | ![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2017/12/64a07aab5f77479e27c487c3f8e20296.gif) |
 | IT Service Desk (Atos) | ![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2017/12/e6404c31d65821489a775401ce4b941d.gif) | ![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2017/12/a8df58bc98d43d1d8aca02ebafe52535.gif) |
 
 <a id="dmf"></a>
