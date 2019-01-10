@@ -80,6 +80,31 @@ If there is any doubt, or you are worried that the [email might be malicious](ht
 
 Limited personal use of MOJ IT is acceptable as long as it does not cause a problem with your work or that of your colleagues. Context is important. For example, doing personal internet banking during your lunch break might be acceptable, but doing the same thing during a work meeting would not.
 
+<a id="personal-use-of-moj-mobile-phones"></a>
+
+### Personal use of MOJ mobile phones
+
+You might be allocated a mobile phone for use as part of your work. The mobile phone enables you to:
+
+- make or receive calls
+- send or receive SMS texts
+- use Internet services
+
+This usage must always be for work purposes.
+
+Examples of unacceptable MOJ mobile phone use include:
+
+- making charitable donations from the mobile phone account
+- signing up for premium rate text services
+- calling premium rate telephone services
+- voting in 'reality TV' popularity contests - these usually involve premium rate services
+- downloading, uploading, or streaming media files that are not work-related, such as music or movies
+- 'tethering' another device to the MOJ mobile phone, and then using the other device for any of the above activities
+
+... as well as any other activities that are not obviously work-related.
+
+All use of MOJ IT resources is monitored and logged. This includes mobile phone usage that is listed in account bills. It is possible to see if a work-issued mobile phone has been used for unacceptable activities that might cause loss or embarrassment to the MOJ. Unacceptable use will be reported to your Line Manager for further appropriate action. The activity be taken into account when assessing your behaviour and performance.
+
 ## Using MOJ IT outside your usual workplace
 
 Some IT resources might be usable [away from your usual workplace](https://intranet.justice.gov.uk/documents/2015/04/remote-working-and-mobile-computing-security-guide.pdf), such as a laptop. Even outside the office, you must continue to ensure acceptable use of the IT resources.
