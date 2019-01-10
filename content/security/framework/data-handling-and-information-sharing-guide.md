@@ -1,29 +1,29 @@
 ---
-title: Data Handling and Information Sharing Guide
+title: data-handling-and-information-sharing-guide
 ---
 
-<table border='1'>
-<tr>
-<td>This content is a version of the Data Handling and Information Sharing Guide, August 2013.<br/>
-This is Legacy IA Policy. It is under review and likely to be withdrawn or substantially revised soon. Please contact us before using this on a new project: <a href="mailto:itpolicycontent@digital.justice.gov.uk?subject=data-handling-and-information-sharing-guide">itpolicycontent@digital.justice.gov.uk</a>.</td>
-</tr>
-</table>
-
-This guide is designed to help protect MoJ information (held on MoJ ICT systems) by providing guidance on how it should be handled and shared in a safe and secure manner.
+<b>This guidance applies to all staff and contractors who work for the MOJ.</b>
 
 ## Overview
 
-### Introduction
+This guide helps you protect MOJ data and information. It uses the terms 'data' and 'information' interchangeably.
 
-[HMG Security Policy Framework](https://www.gov.uk/government/publications/security-policy-framework/hmg-security-policy-framework) mandatory requirements concern valuing and classifying information assets. To comply with these, the MoJ needs to ensure that:
+The [HMG Security Policy Framework](https://www.gov.uk/government/publications/security-policy-framework/hmg-security-policy-framework) makes clear that:
 
-> Where information is shared for business purposes departments and agencies must ensure the receiving party understands the obligations and protects the assets appropriately.
+> The security of information is essential to good government and public confidence.
 
-and
+This places obligations on all parts of the MOJ. The obligations usually come from legislation, such as the Data Protection Act or Freedom of Information Act. Meeting the obligations means that where information is shared for business purposes, the MOJ ensures that the receiving party understands the obligations, and assures asset protection appropriately.
 
-> All staff handling sensitive government assets are briefed about how legislation (particularly the OSA, FOIA and DPA) specifically relates to their role, including the potential disciplinary or criminal penalties that may result from failure to comply with security policies. Appropriate management structures must be in place to ensure the proper handling, control and (if appropriate) managed disclosure of sensitive assets.
+Failing to comply with security policies and guidance such as this document might result in disciplinary or even criminal penalties. Having appropriate business structures and processes in place helps ensure proper handling, control and - where appropriate - managed disclosure of assets.
 
-The policy on data handling and information sharing is covered in the IT Security - Information Classification and Handling Policy, whilst this document sets out the MoJ guidance sharing information within the MoJ and externally with other Government departments and 3rd parties.
+To help you maintain security of information when sharing or transmitting date, this guide tells you about:
+
+- essential data protection or privacy issues
+- things to think about when getting data moved or copied from one system to another
+
+This guide also helps you with what to do if something has gone wrong:
+
+- dealing with data incidents
 
 ### Scope
 
@@ -70,54 +70,6 @@ This individual is the Information Asset Owner (IAO), the IAO must ensure that i
 
 Data must be stored only on managed accredited networks, with transfers onto remote access laptops or other mobile devices/media minimised. No sensitive data should be stored solely on non-networked devices/media unless specifically approved by the IAO.
 
-<a id="data-in-transit"></a>
-
-#### Data in transit
-
-The term data in transit covers all electronic moves/transfers of data from one ICT system to another where either the sender or the recipient system is a MoJ ICT system. This includes the electronic movement of data using either a system-to-system connection (e.g. CJSE, MINT or GSi) or removable media (e.g. USB mass storage device or CD/DVD).
-
-##### Secure network (system-to-system electronic transfer)
-
-The MoJ preference for transferring data is to use a secure accredited government network whether that is a MoJ owner network (e.g. DISC, ONMI, Quantum or MINT) or the Government Secure Intranet (GSi).
-
-As these networks can support data up to and including IL3 REST*, a base level of assurance is provided however consideration will need to be given to the following factors to ascertain if any additional security controls are required:
-
-*   the amount of data being transferred
-*   frequency
-*   any 'need-to-know' considerations (see IT Security - Access Control Standard for further information)
-
-Any additional controls must be captured on the DMF (see [Data Movement Form](#dmf) where advice should be obtained from the MoJ CISO when required.
-
-##### USB mass storage device
-
-If using a secure network is not feasible, the next preferred option is to use an encrypted USB mass storage device.  The MoJ permits two types of device:
-
-- MoJ issued FIPS 140-2 USB memory sticks
-- CESG approved USB mass storage devices with whole hard encryption (using CESG provided cryptographic material)
-
-The type of device selected is normally dependant on the sensitivity of the data and the amount of data being transferred. Advice must be sought from the MoJ OST or MoJ CISO on the best device to use when completing the DMF (see [Data Movement Form](#dmf) ).
-
-##### Optical media
-
-The use of optical media (i.e. CD/DVD) is not recommended for data transfer especially where the data is marked at IL3 REST*.
-
-Where there is a business need to use optical media:
-
-- for data at IL3 REST*, a CESG approved product (using CESG provided cryptographic material) must be used, further information can be obtained from the MoJ OST
-- for data marked at IL2 or below, then a commercial grade product certified to FIPS 140-2 can be used (see [Using commercial encryption products for low sensitivity information](#using-commercial-encryption-products-for-low-sensitivity-information) section). Further information on suitable products can be obtained from the MoJ OST
-
-#### Data at rest on MoJ issued laptops
-
-'Data at rest' is a term used to refer to all data in computer storage. This excludes data that is traversing a network or temporarily residing in computer memory to be read or updated. The protection of data at rest is achieved by encrypting the hard disk. MoJ issued laptops use a CESG approved whole disk encryption product, this allows IL3 REST* data to be transferred from DOM1 for remote working.
-
-#### Disposal and decommissioning
-
-Sensitive data must not be kept for longer than is needed, the IAO must check for compliance, including any mandatory retention period.
-
-Physical media containing sensitive data must be disposed of securely, even if that data is encrypted since an attacker could potentially make unlimited attempts to crack the encryption used if the media comes into their possession.
-
-Further information on disposal and decommissioning can be found in the IT Security - ICT Asset Disposal Guide.
-
 ## Information sharing
 
 ### General principles
@@ -134,96 +86,15 @@ Transferring sensitive data (with the appropriate security controls) may be achi
 
 The sender must ensure that any data shared can be adequately secured by the recipient. The sensitivity of data must never be downgraded in order to send it over inadequately protected channels or to send it to a recipient who does not have an appropriate facility to protect it after it arrives.
 
-### Sharing sensitive information
+---
 
-MoJ staff (including contractors and agency staff) must make sure they observe the following measures when sharing sensitive information:
-
-*   check that all recipients are authorised and cleared to receive sensitive information before sending it to them
-*   ensure that the confidentiality of the sensitive information is protected during transit (e.g. using a secure network such as the GSi or encrypting the data)
-*   ensure copies of sensitive information are not kept beyond when they are actually required (e.g. "just in case" the information might be needed in the future)
-
-All MoJ staff must avoid exposing sensitive data to unnecessary risks, in particular by observing all aspects of the MoJ IT Security - IT Acceptable Use Policy.
-
-Authorisation must be sought from the IAO before sensitive information can be moved or shared with a 3rd party. The authorisation itself is captured within the Data Movement Form (DMF) (see [Data Movement Form](#dmf) ), the following sub-sections provide guidance on particular types of information sharing common across the MoJ and to aid the completion of a DMF.
-
-### Internally within the MoJ
-
-Information marked up to and including IL3 REST* can be transferred in bulk within a MoJ ICT system or domain (e.g. within DOM1) without additional controls required to preserve the confidentiality of that information.
-
-Where information is transferred between MoJ ICT systems or domains (e.g. between DISC and Quantum), additional controls may be required to:
-
-*   ensure the information is routed correctly to preserve its confidentiality
-*   maintain the integrity of the data in transit to guard against inadvertent, accidental or deliberate modification
-*   ensure the exchange cannot be repudiated by either party, for example, proof of sending, and/or proof of receipt
-
-Information transferred between two MoJ ICT systems requires a completed and authorised DMF (see [Data Movement Form](#dmf) ) using one of the data in transit options outlined in [Data in transit](#data-in-transit) section.
-
-### Information sharing with other HMG department
-
-Information shared with another government department must be transferred to an accredited system (accredited to the same level as the data being transferred) using one of the data in transit options outlined in [Data in transit](#data-in-transit) section. The preference is for information to be transferred using a secure network however for low frequency bulk transfers of data, a CESG approved USB encrypted hard disk may be more suitable. A completed and authorised DMF (see [Data Movement Form](#dmf) ) is required.
-
-### Information sharing with external 3rd parties
-
-Any transfer of sensitive data to a 3rd party (including sub-contractors or service providers) must be authorised by the relevant IAO. An appropriate contract, DMF (see [Data Movement Form](#dmf) ) and Non-disclosure Agreement (NDA) must be in place prior to the transfer, it may also be appropriate to establish a Security Aspects Letter (SAL) and Codes of Connection (CoCo).
-
-Where the information attracts a marking of IL3 REST*, it must be transferred to an accredited system (accredited to the same level as the data being transferred) provided by the external 3rd party using one of the data in transit options outlined in [Data in transit](#data-in-transit) section.
-
-Any transfer to a 3rd party must be undertaken with appropriate security controls in place, using the guidance from this document, and seeking advice from the system Accreditor and MoJ CISO as required.
-
-#### Sharing across an unsecured network
-
-Sensitive data (IL2 PROTECT and below) must be encrypted prior to being transmitted over an unsecured network such as the Internet. The encrypted data may then be sent via file transfer or as an email attachment.
-
-Ideally, both sender and recipient should check the integrity of data before and after transmission. This includes checking for malicious content and for evidence of tampering during transit.
-
-<a id="using-commercial-encryption-products-for-low-sensitivity-information"></a>
-
-#### Using commercial encryption products for low sensitivity information
-
-Where there is a business requirement to do so, information marked at IL2 PROTECT or below may be shared with a 3rd party using a commercial grade encryption product such as SecureZip. Further information on the use of SecureZip can be found in [Using SecureZIP](#using-securezip).
-
-**Note:** File encryption does not protect the name of the file, which could result in clues as to the nature and importance of the encrypted data being revealed. Encrypted files should be given innocuous names for transmission. If the data is contained in numerous small files, these should be collected together into a single archive ("zip") file, this archive should then be encrypted. Each file or archive should be sent separately (rather than attaching multiple encrypted files to a single e-mail).
-
-### Sharing information above IL3 REST*
-
-Where there is a business requirement to share information which attracts a marking greater than IL3 REST*, advice must be sought from the MoJ OST or MoJ CISO prior to completing a DMF (see [Data Movement Form](#dmf) ).
-
-## Reporting data loss
-
-In the case of any IT security or data loss incident please contact:
-
-| Contact | E-mail | Telephone |
-|---|---|---|
-| Data loss or security breach | ![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/11/b0c1f3bf14ff265c2369a84cf1bf05c2.gif) | N/A |
-| MOJ Operational Security Team (OST) | ![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2017/12/c44e91c8a5d308c4953ef918b987f543.gif) | ![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2017/12/64a07aab5f77479e27c487c3f8e20296.gif) |
-| IT Service Desk (Atos) | ![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2017/12/e6404c31d65821489a775401ce4b941d.gif) | ![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2017/12/a8df58bc98d43d1d8aca02ebafe52535.gif) |
-
-<a id="dmf"></a>
-
-## Data Movement Form (DMF)
-
-The purpose of the DMF is to ensure that the information asset/s being moved is/are done so securely and in compliance with the [HMG Security Policy Framework](https://www.gov.uk/government/publications/security-policy-framework/hmg-security-policy-framework) and HMG IA Standard (IAS) No. 6.
-
-Failure to fulfil or comply with the controls and measures identified within the DMF will lead to unnecessary risk or exposure for the MoJ or the relevant Information Asset Owner (IAO) or Senior Information Risk Owner (SIRO).
-
-<a id="using-securezip"></a>
-
-## Using SecureZIP
-
-SecureZip is a compression and encryption product which can be used to encrypt sensitive data which attracts a marking of IL2 PROTECT and below for use in optical media and e-mail based information transfers.
-
-**Note:** SecureZip can produce "self-extracting" encrypted files that are executable programs which are likely to be blocked by network firewalls or e-mail content checkers.
-
-### Self generated passwords
-
-SecureZip requires self generating passwords which must conform to the [MOJ IT Security - Password Standard](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/password-standard/), a summary is provided below:
-
-* password length must be at least 9 characters
-* password composition must include a mixture of upper and lower case letters, numeric and special characters
-
-The general rules for transmitting a password to a recipient are:
-
-*   Never transfer the password with the encrypted file, or even over the same communication channel. Use an alternative method, e.g. if an encrypted file is sent by email, communicate the password or key via SMS text message, letter, fax or phone call
-*   Transfer the encrypted data file first. Only send the password or key after the recipient has confirmed receipt of the file
-*   Avoid detailing the purpose of a password when it is sent
-*   Avoid re-using passwords and demonstrate good security discipline to 3rd parties by creating a new password or phrase on a regular basis
+<table>
+<tr><td colspan='4'>This guidance is dated December 2018.
+<p>
+To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent+data-handling-and-information-sharing-guide@digital.justice.gov.uk?subject=data-handling-and-information-sharing-guide">itpolicycontent@digital.justice.gov.uk</a>, or click one of the following icons.</p></td></tr>
+<tr>
+<td width='25%'><a href="mailto:itpolicycontent+data-handling-and-information-sharing-guide-2@digital.justice.gov.uk?subject=data-handling-and-information-sharing-guide-2"><img src="https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/04/DoubleCross.gif" alt="Content was very unhelpful">Very unhelpful.</a></td>
+<td width='25%'><a href="mailto:itpolicycontent+data-handling-and-information-sharing-guide-1@digital.justice.gov.uk?subject=data-handling-and-information-sharing-guide-1"><img src="https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/04/Cross.gif" alt="Content was unhelpful">Unhelpful.</a></td>
+<td width='25%'><a href="mailto:itpolicycontent+data-handling-and-information-sharing-guide+1@digital.justice.gov.uk?subject=data-handling-and-information-sharing-guide+1"><img src="https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/04/Tick.gif" alt="Content was helpful">Helpful.</a></td>
+<td width='25%'><a href="mailto:itpolicycontent+data-handling-and-information-sharing-guide+2@digital.justice.gov.uk?subject=data-handling-and-information-sharing-guide+2"><img src="https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/04/DoubleTick.gif" alt="Content was very helpful">Very helpful.</a></td>
+</table>
