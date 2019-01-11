@@ -103,7 +103,7 @@ Examples of unacceptable MOJ mobile phone use include:
 
 ... as well as any other activities that are not obviously work-related.
 
-All use of MOJ IT resources is monitored and logged. This includes mobile phone usage that is listed in account bills. It is possible to see if a work-issued mobile phone has been used for unacceptable activities that might cause loss or embarrassment to the MOJ. Unacceptable use will be reported to your Line Manager for further appropriate action. The activity be taken into account when assessing your behaviour and performance.
+All use of MOJ IT resources is monitored and logged. This includes mobile phone usage listed in account bills. It is possible to see if you used a work-issued mobile phone for unacceptable activities. Unacceptable use is reported to your Line Manager for further appropriate action. Assessing your behaviour and performance takes this kind of activity into account.
 
 ## Using MOJ IT outside your usual workplace
 
