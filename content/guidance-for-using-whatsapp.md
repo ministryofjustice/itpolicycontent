@@ -94,7 +94,7 @@ WhatsApp can only be used for your day-to-day communication with colleagues (if 
 
 MOJ provides email, document and other communication tools such as Slack, Microsoft Office 365 and Google G-Suite which are generally much better suited to exchange work information.
 
-Think about the MOJ information you work with when usin WhatsApp -  What would happen if you lost your mobile device, or it's stolen? Suppose the voice/video calls was overheard in a cafe, or read from your screen on a crowded train. Could there be damaging consequences? If the answer is 'No', then it's probably OK to use WhatsApp to communicate that information with colleagues.
+Think about the MOJ information you work with when using WhatsApp -  What would happen if you lost your mobile device, or it's stolen? Suppose the voice/video calls was overheard in a cafe, or read from your screen on a crowded train. Could there be damaging consequences? If the answer is 'No', then it's probably OK to use WhatsApp to communicate that information with colleagues.
 
 You have a duty of confidentiality and a responsibility to safeguard any HMG information or data that you access. This is [Principle 2](https://www.gov.uk/government/publications/government-security-classifications) of the Government Security Classifications. The MOJ trusts you to work with `OFFICIAL` information. You're trusted to make a reasoned judgement about whether it's safe to use WhatsApp or whether you should use a different MOJ provided work tool.
 
