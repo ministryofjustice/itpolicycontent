@@ -24,7 +24,7 @@ The way you use IT is important, because it indicates your approach to work, and
 
 ## What is meant by IT?
 
-IT means the devices or services you use for creating, storing, or sharing information. This includes everything from devices (such as laptops, 'phones, iPads, tablets, printers, USB 'memory sticks') through to online services (citizen-facing online services, staff tools, corporate email).
+IT means the devices or services you use for creating, storing, or sharing information. This includes everything from devices (such as laptops, 'phones, mobile Wi-Fi hotspots (MiFi), iPads, tablets, printers, USB 'memory sticks') through to online services (citizen-facing online services, staff tools, corporate email).
 
 ## Acceptable use of MOJ IT
 
