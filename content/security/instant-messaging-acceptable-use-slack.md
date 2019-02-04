@@ -26,6 +26,8 @@ Slack messages include information, multimedia content and attachments such as:
 
 Messages are created and delivered in channels. Channels are identified using hash names, for example `#chat` or `#security`. Channels can be public or private. A public channel in an organisation can be seen by anyone. You need an invitation before you can see a private channel. If you can see a channel, you can see any of the messages within that channel.
 
+As an MOJ resource, anything and everything you put into Slack is potentially public and subject to Freedom-of-Information requests.
+
 ## Classified information
 
 You can use Slack only for `OFFICIAL` information. This includes information with the `SENSITIVE` handling caveat. Slack is not approved for the higher classifications: `SECRET` or `TOP SECRET`.
@@ -40,7 +42,7 @@ Don't use Slack to share material with extra information management or privacy r
 
 ## Information management and record keeping
 
-Slack is designed for near real-time communication. The steady flow of messages in a channel might make it difficult to find individual messages later, such as who made a decision. But as an official MOJ communications tool, messages in Slack are subject to Freedom-of-Information requests, and must be kept and managed in accordance with MOJ information management and retention policy [link-needed].
+Slack is designed for near real-time communication. The steady flow of messages in a channel might make it difficult to find individual messages later, such as who made a decision. But as an official MOJ communications tool, messages in Slack are subject to Freedom-of-Information requests, and must be kept and managed in accordance with MOJ [information management and retention policy](https://intranet.justice.gov.uk/guidance/knowledge-information/).
 
 This is especially important for discussions you have to keep. Examples include key decisions or incident timelines. Consider copying or archiving the conversations.
 
@@ -48,7 +50,7 @@ This is especially important for discussions you have to keep. Examples include 
 
 Slack messages might go through channels to individuals or groups. Think before you send them. If a message might cause problems, upset, offence, or embarrassment, it's not acceptable. Remember that the work discussions might become public in the future. This includes Slack messages and conversations.
 
-You shouldn't discuss personal information about other people using Slack, without their knowledge. For example, you might choose to discuss a personal medical issue of your own with your line manager. But your line manager wouldn't start a conversation in Slack with you about a medical issue you have.
+You shouldn't discuss personal information about other people using Slack, without their knowledge. For example, you might choose to discuss a personal medical issue of your own with your line manager. But your line manager wouldn't start a detailed conversation in Slack with you about a medical issue you have.
 
 Context is important:
 
@@ -57,13 +59,13 @@ Context is important:
 
 ## Invitations
 
-(Review and revise this based on what Okta does and permits.)
+<!-- (Review and revise this based on what Okta does and permits.) -->
 
 Slack makes it easy to 'invite' people to join your conversations. This might be fine for MOJ colleagues, but avoid giving invites to external people. Once someone has access to a Slack channel, it's hard to know what else they might access using the tool.
 
 ## Securing your instant messaging account
 
-(Review and revise this based on what Okta does and permits.)
+<!-- (Review and revise this based on what Okta does and permits.) -->
 
 Improve the security of your IM tools by using 2-factor authentication (2FA). The NCSC says that "[2FA is the single best thing you can do to improve the security of your important accounts](https://www.ncsc.gov.uk/blog-post/two-factor-authentication-2fa-new-guidance-ncsc)". They provide more detailed guidance on setting up 2FA [here](https://www.ncsc.gov.uk/guidance/setting-two-factor-authentication-2fa).
 
@@ -79,7 +81,7 @@ In summary, 2FA requires you to supply more information when you use your accoun
 - access Slack using:
   - the official application
   - a standard web browser
-- use 2FA (Okta dependent)
+- use 2FA <!-- (Okta dependent) -->
 
 ## ...and Don'ts
 
@@ -97,7 +99,7 @@ In summary, 2FA requires you to supply more information when you use your accoun
 ---
 
 <table>
-<tr><td colspan='4'>This guidance is dated January 2019.
+<tr><td colspan='4'>This guidance is dated February 2019.
 <p>
 To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent+instant-messaging-acceptable-use-slack@digital.justice.gov.uk?subject=instant-messaging-acceptable-use-slack">itpolicycontent@digital.justice.gov.uk</a>, or click one of the following icons.</p></td></tr>
 <tr>

@@ -105,6 +105,19 @@ Examples of unacceptable MOJ mobile phone use include:
 
 All use of MOJ IT resources is monitored and logged. This includes mobile phone usage listed in account bills. It is possible to see if you used a work-issued mobile phone for unacceptable activities. Unacceptable use is reported to your Line Manager for further appropriate action. Assessing your behaviour and performance takes this kind of activity into account.
 
+## Slack and Instant messaging
+
+Slack, and other instant messaging tools, are similar to email, but feel more like conversations than an exchange of letters.
+
+Like any other MOJ-provided resources, you must use Slack in an acceptable way. Amongst other things, this means you should:
+
+- follow the [Civil Service Code](https://www.gov.uk/government/publications/civil-service-code/the-civil-service-code/) at all times
+- only work with `OFFICIAL` or `OFFICIAL-SENSITIVE` information
+- avoid sharing personal information about colleagues without their permission
+- remember that as an MOJ resource, Slack messages and activities are part of your work, and that the MOJ monitors them. Messages are subject to Freedom of Information, data retention, and privacy considerations
+
+More information about acceptable use of Slack and instant messaging systems is available [here](https://intranet.justice.gov.uk/guidance/security/it-computer-security/instant-messaging-acceptable-use-slack/).
+
 ## Using MOJ IT outside your usual workplace
 
 Some IT resources might be usable [away from your usual workplace](https://intranet.justice.gov.uk/documents/2015/04/remote-working-and-mobile-computing-security-guide.pdf), such as a laptop. Even outside the office, you must continue to ensure acceptable use of the IT resources.
@@ -122,7 +135,7 @@ A popular trend is to adorn laptops with stickers. This is acceptable as long as
 ---
 
 <table>
-<tr><td colspan='4'>This guidance is dated January 2019.
+<tr><td colspan='4'>This guidance is dated February 2019.
 <p>
 To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent+acceptable-use@digital.justice.gov.uk?subject=acceptable-use">itpolicycontent@digital.justice.gov.uk</a>, or click one of the following icons.</p></td></tr>
 <tr>
