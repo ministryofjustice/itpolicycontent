@@ -8,6 +8,7 @@ This document summarises what changes were made, and when, to MOJ IT Policy cont
 
 Date | Audience | Topic (and link) | Changes
 ---|---|---|---
+January 21 | All | [Acceptable Use](https://intranet.justice.gov.uk/guidance/security/it-computer-security/acceptable-use/#personal-use-of-moj-mobile-phones) | Added section providing more guidance for mobile devices.
 October 29 | All | [Using your own smartphone, laptop, tablet or PC for work](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/using-your-own-smartphone-laptop-tablet-or-pc-for-work/) | Withdrew page pending review.
 October 23 | All | [Password Standard](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/password-standard/#user-facing-services) | Additional guidance on user facing services.
 September 21 | All | [Password Standard](https://intranet.justice.gov.uk/guidance/security/it-computer-security/ict-security-policy-framework/password-standard/#account-management) | Additional guidance on account management.
@@ -36,7 +37,7 @@ April 6 | All | [Password Guidance](https://intranet.justice.gov.uk/guidance/sec
 ---
 
 <table>
-<tr><td colspan='4'>This document is dated October 2018.
+<tr><td colspan='4'>This document is dated January 2019.
 <p>
 To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent+00-whatsnew@digital.justice.gov.uk?subject=00-whatsnew">itpolicycontent@digital.justice.gov.uk</a>, or click one of the following icons.</p></td></tr>
 <tr>
