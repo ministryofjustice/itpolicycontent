@@ -24,7 +24,7 @@ The way you use IT is important, because it indicates your approach to work, and
 
 ## What is meant by IT?
 
-IT means the devices or services you use for creating, storing, or sharing information. This includes everything from devices (laptops, printers, USB 'memory sticks') through to online services (citizen-facing online services, staff tools, corporate email).
+IT means the devices or services you use for creating, storing, or sharing information. This includes everything from devices (such as laptops, 'phones, mobile Wi-Fi hotspots (MiFi), iPads, tablets, printers, USB 'memory sticks') through to online services (citizen-facing online services, staff tools, corporate email).
 
 ## Acceptable use of MOJ IT
 
@@ -80,6 +80,31 @@ If there is any doubt, or you are worried that the [email might be malicious](ht
 
 Limited personal use of MOJ IT is acceptable as long as it does not cause a problem with your work or that of your colleagues. Context is important. For example, doing personal internet banking during your lunch break might be acceptable, but doing the same thing during a work meeting would not.
 
+<a id="personal-use-of-moj-mobile-phones"></a>
+
+### Personal use of MOJ mobile phones
+
+You might be allocated a mobile phone for use as part of your work. The mobile phone enables you to:
+
+- make or receive calls
+- send or receive SMS texts
+- use Internet services
+
+This usage must always be for work purposes.
+
+Examples of unacceptable MOJ mobile phone use include:
+
+- making charitable donations from the mobile phone account
+- signing up for premium rate text services
+- calling premium rate telephone services
+- voting in 'reality TV' popularity contests - these usually involve premium rate services
+- downloading, uploading, or streaming media files that are not work-related, such as music or movies
+- 'tethering' another device to the MOJ mobile phone, and then using the other device for any of the above activities
+
+... as well as any other activities that are not obviously work-related.
+
+All use of MOJ IT resources is monitored and logged. This includes mobile phone usage listed in account bills. It is possible to see if you used a work-issued mobile phone for unacceptable activities. Unacceptable use is reported to your Line Manager for further appropriate action. Assessing your behaviour and performance takes this kind of activity into account.
+
 ## Using MOJ IT outside your usual workplace
 
 Some IT resources might be usable [away from your usual workplace](https://intranet.justice.gov.uk/documents/2015/04/remote-working-and-mobile-computing-security-guide.pdf), such as a laptop. Even outside the office, you must continue to ensure acceptable use of the IT resources.
@@ -97,7 +122,7 @@ A popular trend is to adorn laptops with stickers. This is acceptable as long as
 ---
 
 <table>
-<tr><td colspan='4'>This guidance is dated June 2018.
+<tr><td colspan='4'>This guidance is dated January 2019.
 <p>
 To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent+acceptable-use@digital.justice.gov.uk?subject=acceptable-use">itpolicycontent@digital.justice.gov.uk</a>, or click one of the following icons.</p></td></tr>
 <tr>
