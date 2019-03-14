@@ -203,15 +203,20 @@ Further information is available from <a href="mailto:mojgroupsecurity@justice.g
 
 ## Personnel Security
 
-MoJ ICT is not directly responsible for personnel security; this is the responsibility of MoJ Corporate Security. This includes aspects such as employee (including contractors and agency staff) joining, moving and leaving, and, assessment of security clearance levels.
+MoJ ICT is not directly responsible for personnel security; this is the responsibility of <a href="mailto:mojgroupsecurity@justice.gov.uk">MoJ Group Security</a>. This includes aspects such as employee (including contractors and agency staff) joining, moving and leaving, and, assessment of security clearance levels.
 
 However, the security controls associated with personnel form part of the risk assessment of an ICT system and may lead to addition controls being required.
 
 Line managers are responsible for personnel security (of their staff/contractors), including starting, ongoing, and leaver arrangements, under a policy framework set by MoJ HR (recruitment and exit policies) and Corporate Security (National Security Vetting).
 
-*   all ICT systems must consider the personnel security controls (for example,  security clearance) required in addition to ICT security controls. These should be recorded in a Security Aspects Letter (SAL) provided by the MoJ
+<table border='1'>
+<tr>
+<td>POL.ITSEC.046:<br/>
+All ICT systems **must consider** the personnel security controls (for example,  security clearance) required in addition to ICT security controls. These should be recorded in a Security Aspects Letter (SAL) provided by the MoJ</td>
+</tr>
+</table>
 
-Further information is available from Corporate Security and Business Continuity Branch.
+Further information is available from <a href="mailto:mojgroupsecurity@justice.gov.uk">MoJ Group Security</a>.
 
 ## Staff Education, Training and Awareness
 
