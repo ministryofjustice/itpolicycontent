@@ -194,9 +194,9 @@ The mandatory set of ICT security roles which <b>must be</b> fulfilled is detail
 
 The ICT security management structure falls within the overall MoJ security management structure.
 
-The Permanent Secretary, as Accounting Officer, has overall responsibility for all aspects of security. The Departmental Security Officer (DSO) and MoJ SIRO support the Permanent Secretary by providing advice on personal, physical and information security policy and procedure. The IT Security Officer (ITSO) supports the DSO by providing advice on ICT security policy. This structure is depicted in Figure 2.
+The Permanent Secretary, as Accounting Officer, has overall responsibility for all aspects of security. The Senior Security Advisor (SSA) and MoJ SIRO support the Permanent Secretary by providing advice on personal, physical and information security policy and procedure. The Chief Information Security Officer (CISO) supports the SSA by providing advice on ICT security policy. This structure is depicted in Figure 2:
 
-![ICT security management structure](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2017/11/ict-security-policy-diagram-1.png)
+![Figure 2](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2019/03/ict-security-policy-diagram-2.png)
 
 Figure 2 - ICT security management structure
 
@@ -411,31 +411,37 @@ Further details can be found in the [ICT Incident Management Policy](https://int
 MoJ ICT is not directly responsible for the physical security and environment of MoJ sites. However, physical security controls and the environment in which MoJ ICT systems operate form part of a systems overall risk landscape which is considered during the accreditation process.
 
 <table border='1'>
-<tr><td>POL.ITSEC.044:
-<br/>
-The physical security controls required to maintain the Confidentiality, Integrity and Availability of an ICT system <b>must be</b> considered.</td></tr>
-<tr><td>POL.ITSEC.045
-<br/>
-The environmental risks (e.g. flood or fire) to an ICT system and services <b>must be</b> considered in order to maintain its Confidentiality, Integrity and Availability.</td></tr>
+<tr>
+<td>POL.ITSEC.044:<br/>
+The physical security controls required to maintain the Confidentiality, Integrity and Availability of an ICT system <b>must be</b> considered</td>
+</tr>
 </table>
 
-Further information is available from [Corporate Security and Business Continuity Branch](https://intranet.justice.gov.uk/guidance/security/).
+<table border='1'>
+<tr>
+<td>POL.ITSEC.045:<br/>
+  The environmental risks (e.g. flood or fire) to an ICT system and services <b>must be</b> considered in order to maintain its Confidentiality, Integrity and Availability</td>
+</tr>
+</table>
+
+Further information is available from <a href="mailto:mojgroupsecurity@justice.gov.uk">MoJ Group Security</a>.
 
 ## Personnel Security
 
-MoJ ICT is not directly responsible for personnel security; this is the responsibility of MoJ Corporate Security. This includes aspects such as employee (including contractors and agency staff) joining, moving and leaving, and, assessment of security clearance levels.
+MoJ ICT is not directly responsible for personnel security; this is the responsibility of <a href="mailto:mojgroupsecurity@justice.gov.uk">MoJ Group Security</a>. This includes aspects such as employee (including contractors and agency staff) joining, moving and leaving, and, assessment of security clearance levels.
 
 However, the security controls associated with personnel form part of the risk assessment of an ICT system and may lead to addition controls being required.
 
 Line managers are responsible for personnel security (of their staff/contractors), including starting, ongoing, and leaver arrangements, under a policy framework set by MoJ HR (recruitment and exit policies) and Corporate Security (National Security Vetting).
 
 <table border='1'>
-<tr><td>POL.ITSEC.046:
-<br/>
-All ICT systems <b>must consider</b> the personnel security controls (for example, security clearance) required in addition to ICT security controls. These should be recorded in a Security Aspects Letter (SAL) provided by the MoJ.</td></tr>
+<tr>
+<td>POL.ITSEC.046:<br/>
+  All ICT systems <b>must consider</b> the personnel security controls (for example,  security clearance) required in addition to ICT security controls. These should be recorded in a Security Aspects Letter (SAL) provided by the MoJ</td>
+</tr>
 </table>
 
-Further information is available from [Corporate Security and Business Continuity Branch](https://intranet.justice.gov.uk/guidance/security/).
+Further information is available from <a href="mailto:mojgroupsecurity@justice.gov.uk">MoJ Group Security</a>.
 
 ## Staff Education, Training and Awareness
 
