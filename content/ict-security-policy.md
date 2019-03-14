@@ -97,7 +97,7 @@ The foundation of good Information Security is the establishment and operation o
 
 The ICT security management structure falls within the overall MoJ security management structure.
 
-The Permanent Secretary, as Accounting Officer, has overall responsibility for all aspects of security. The Departmental Security Officer (DSO) and MoJ SIRO support the Permanent Secretary by providing advice on personal, physical and information security policy and procedure. The Chief IT Security Officer (CISO) supports the DSO by providing advice on ICT security policy.
+The Permanent Secretary, as Accounting Officer, has overall responsibility for all aspects of security. The Senior Security Advisor (SSA) and MoJ SIRO support the Permanent Secretary by providing advice on personal, physical and information security policy and procedure. The Chief IT Security Officer (CISO) supports the SSA by providing advice on ICT security policy. This structure is depicted in Figure 2.
 
 ## Identification and Authentication Controls
 
