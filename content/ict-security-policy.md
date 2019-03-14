@@ -186,14 +186,14 @@ MoJ ICT is not directly responsible for the physical security and environment of
 <table border='1'>
 <tr>
 <td>POL.ITSEC.044:<br/>
-The physical security controls required to maintain the Confidentiality, Integrity and Availability of an ICT system **must be** considered</td>
+The physical security controls required to maintain the Confidentiality, Integrity and Availability of an ICT system <b>must be</b> considered</td>
 </tr>
 </table>
 
 <table border='1'>
 <tr>
 <td>POL.ITSEC.045:<br/>
-The environmental risks (e.g. flood or fire) to an ICT system and services **must be** considered in order to maintain its Confidentiality, Integrity and Availability</td>
+  The environmental risks (e.g. flood or fire) to an ICT system and services <b>must be</b> considered in order to maintain its Confidentiality, Integrity and Availability</td>
 </tr>
 </table>
 
@@ -212,7 +212,7 @@ Line managers are responsible for personnel security (of their staff/contractors
 <table border='1'>
 <tr>
 <td>POL.ITSEC.046:<br/>
-All ICT systems **must consider** the personnel security controls (for example,  security clearance) required in addition to ICT security controls. These should be recorded in a Security Aspects Letter (SAL) provided by the MoJ</td>
+  All ICT systems <b>must consider</b> the personnel security controls (for example,  security clearance) required in addition to ICT security controls. These should be recorded in a Security Aspects Letter (SAL) provided by the MoJ</td>
 </tr>
 </table>
 
