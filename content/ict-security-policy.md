@@ -183,8 +183,12 @@ Further details can be found in the ICT Incident Management Policy [Ref, 4] and 
 
 MoJ ICT is not directly responsible for the physical security and environment of MoJ sites. However, physical security controls and the environment in which MoJ ICT systems operate form part of a systems overall risk landscape which is considered during the accreditation process.
 
+<table border='1'>
+<tr>
 *   the physical security controls required to maintain the Confidentiality, Integrity and Availability of an ICT system **must be** considered
 *   the environmental risks (e.g. flood or fire) to an ICT system and services **must be** considered in order to maintain its Confidentiality, Integrity and Availability
+</tr>
+</table>
 
 Further information is available from MoJ Group Security mailto:mojgroupsecurity@justice.gov.uk
 
