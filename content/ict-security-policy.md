@@ -195,7 +195,10 @@ MoJ ICT is not directly responsible for the physical security and environment of
 </tr>
 </table>
 
-Further information is available from MoJ Group Security mailto:mojgroupsecurity@justice.gov.uk
+Further information is available from MoJ Group Security <a href="mailto:mojgroupsecurity@justice.gov.uk">itpolicycontent@digital.justice.gov.uk</a>.
+
+
+mailto:mojgroupsecurity@justice.gov.uk
 
 ## Personnel Security
 
