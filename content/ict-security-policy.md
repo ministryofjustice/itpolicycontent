@@ -185,8 +185,13 @@ MoJ ICT is not directly responsible for the physical security and environment of
 
 <table border='1'>
 <tr>
-<td>*   the physical security controls required to maintain the Confidentiality, Integrity and Availability of an ICT system **must be** considered<br>
-*   the environmental risks (e.g. flood or fire) to an ICT system and services **must be** considered in order to maintain its Confidentiality, Integrity and Availability<td>
+<td>*   the physical security controls required to maintain the Confidentiality, Integrity and Availability of an ICT system **must be** considered<td>
+</tr>
+</table>
+
+<table border='1'>
+<tr>
+<td>*   the environmental risks (e.g. flood or fire) to an ICT system and services **must be** considered in order to maintain its Confidentiality, Integrity and Availability<td>
 </tr>
 </table>
 
