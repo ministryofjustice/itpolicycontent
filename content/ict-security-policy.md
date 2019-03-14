@@ -185,20 +185,21 @@ MoJ ICT is not directly responsible for the physical security and environment of
 
 <table border='1'>
 <tr>
-<td>*   the physical security controls required to maintain the Confidentiality, Integrity and Availability of an ICT system **must be** considered<td>
+<td>POL.ITSEC.044:<br/>
+The physical security controls required to maintain the Confidentiality, Integrity and Availability of an ICT system **must be** considered<td>
 </tr>
 </table>
 
 <table border='1'>
 <tr>
-<td>*   the environmental risks (e.g. flood or fire) to an ICT system and services **must be** considered in order to maintain its Confidentiality, Integrity and Availability<td>
+<td>POL.ITSEC.045:<br/>
+The environmental risks (e.g. flood or fire) to an ICT system and services **must be** considered in order to maintain its Confidentiality, Integrity and Availability<td>
 </tr>
 </table>
 
-Further information is available from MoJ Group Security <a href="mailto:mojgroupsecurity@justice.gov.uk">MoJ Group Security</a>.
+Further information is available from <a href="mailto:mojgroupsecurity@justice.gov.uk">MoJ Group Security</a>.
 
 
-mailto:mojgroupsecurity@justice.gov.uk
 
 ## Personnel Security
 
