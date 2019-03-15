@@ -29,7 +29,7 @@ Each policy statement outlines a security requirement and where applicable, a re
 Policy statement text.</td></tr>
 </table>
 
-The policies outlined in this document form the baseline standard. Where exceptions are required, this is captured on a case by case basis in Tier 4, where approval is required from both the business group SIRO and MoJ ITSO.
+The policies outlined in this document form the baseline standard. Where exceptions are required, this is captured on a case by case basis in Tier 4, where approval is required from both the business group SIRO and MoJ CISO.
 
 ## Forensics Readiness Policy
 
@@ -189,9 +189,9 @@ All investigations will either be:
 Forensic investigations are only to be carried out under the following circumstances:
 
 - Risk Management of a system has revealed a particularly sensitive/vulnerable area which needs to be proactively monitored. Any discovered security incidents would then be escalated through the IT security incident management process.
-- A business function has issued a request to gather forensic investigation evidence directly to the MoJ Operational Security Team (OST). Results of such an investigation will be handed back to the requesting business function. Any request will be processed through the appropriate incident management process and escalated to the ITSO, DSO or SIRO as required.
+- A business function has issued a request to gather forensic investigation evidence directly to the MoJ Operational Security Team (OST). Results of such an investigation will be handed back to the requesting business function. Any request will be processed through the appropriate incident management process and escalated to the SSA, CISO or SIRO as required.
 - An investigation is requested as part of the IT security incident management process. Results of the investigation will be reported back through the incident management process, but other subsidiary processes may also be invoked. Further details available in the [ICT Security – Forensic Readiness Guide][frg].
-- A forensic investigation is requested by the DSO as part of a leak investigation. Results of an investigation under these circumstances will be reported back to the DSO, who will report to the Permanent Secretary. Further information is available from the [Corporate Security and Business Continuity Branch](https://intranet.justice.gov.uk/guidance/security/).
+- A forensic investigation is requested by the SSA as part of a leak investigation. Results of an investigation under these circumstances will be reported back to the SSA, who will report to the Permanent Secretary. Further information is available from the [MOJ Group Security](https://intranet.justice.gov.uk/guidance/security/).
 
 <table border='1'>
 <tr><td>POL.FRP.017:
@@ -199,12 +199,12 @@ Forensic investigations are only to be carried out under the following circumsta
 Each Forensic Readiness Plan <b>must include</b>, in the criteria for conducting an investigation:
 <ul>
 <li>An assessment of the risk management benefits;</li>
-<li>The investigation has been authorised by the ITSO, DSO or business group SIRO;</li>
+<li>The investigation has been authorised by the SSA, CISO or business group SIRO;</li>
 <li>The consideration of a forensic investigation is in line with the corresponding IT security incident management plan process.</li>
 </ul></td></tr>
 <tr><td>POL.FRP.018:
 <br/>
-Where a forensic investigation has been requested in response to a leak investigation. This investigation <b>must be</b> requested by the DSO where the DSO is responsible for that investigation. Note – this may fall outside of the IT security incident management process.</td></tr>
+Where a forensic investigation has been requested in response to a leak investigation. This investigation <b>must be</b> requested by the SSA where the SSA is responsible for that investigation. Note – this may fall outside of the IT security incident management process.</td></tr>
 </table>
 
 ## Capability to collect evidence
@@ -250,7 +250,7 @@ For all incidents it is necessary to consider the internal reporting and communi
 - HR (where staff related matters are relevant);
 - Internal Audit;
 - MoJ legal team;
-- MoJ Data Access and Compliance Unit (DACU) – where an incident involves personal data.
+- MoJ Information Governance and Data Protection – where an incident involves personal data.
 
 <table border='1'>
 <tr><td>POL.FRP.021:
@@ -271,7 +271,7 @@ For major incidents it is necessary to consider escalating the forensic investig
 - Cabinet Office (as part of the annual returns required by the SPF);
 - MoJ legal advisors.
 
-Responsibility for escalation normally resides with the Information Asset Owner (IAO) who may also be in charge of the incident investigation. Where responsibility for an investigation has been escalated to the DSO or SIRO, further escalation responsibility will also reside with them.
+Responsibility for escalation normally resides with the Information Asset Owner (IAO) who may also be in charge of the incident investigation. Where responsibility for an investigation has been escalated to the SSA or SIRO, further escalation responsibility will also reside with them.
 
 The impact upon any relevant ongoing operational activity has to be considered before external reporting and escalation is invoked. The forensic investigation process needs to allow for the chain of evidence to be passed to outside agencies (e.g. a law enforcement agency).
 
