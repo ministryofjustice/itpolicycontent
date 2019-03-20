@@ -33,7 +33,9 @@ This policy is concerned with IT related security incidents outlining the roles 
 
 ### Relationship with wider MoJ functions
 
-An IT system is one element of a number of supporting elements which sustain MoJ business functions and delivery of services. The MoJ [MoJ Group Security](https://intranet.justice.gov.uk/guidance/security/) is responsible for overall MoJ Incident Management policy and plan. This policy is designed to sit within the overall MoJ incident management structure.
+An IT system is one element of a number of supporting elements which sustain MoJ business functions and delivery of services. The [MoJ Group Security](mailto:mojgroupsecurity@justice.gov.uk)
+
+ is responsible for overall MoJ Incident Management policy and plan. This policy is designed to sit within the overall MoJ incident management structure.
 
 ## Incident Management Process
 
