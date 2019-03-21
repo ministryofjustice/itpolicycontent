@@ -28,6 +28,7 @@ Obvious examples include security or encryption keys or credentials, and configu
 
 - algorithms used to detect fraud
 - materials that relate to unreleased policy
+- API keys for cloud-hosted applications or environments, for example AWS
 
 An important exception is for materials developed by third parties. They might have retained ownership of the Intellectual Property (IP).
 
