@@ -38,4 +38,4 @@ Before any connection can be made for access to GSI services, the department mus
 Compliance by all members of the community with these qualifications enables all members to trust the intranet up to a level of restricted. In terms of re-accreditation, GSI members must confirm their continued compliance with the GSI CSP at six-monthly intervals.
 
 For further information contact Operational Security:<br/>
-![](https://intranet.justice.gov.uk/app/uploads/2017/12/c44e91c8a5d308c4953ef918b987f543.gif)&nbsp;
+![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2017/12/c44e91c8a5d308c4953ef918b987f543.gif)&nbsp;

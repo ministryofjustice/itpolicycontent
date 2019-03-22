@@ -245,7 +245,7 @@ All media should be securely disposed of. Electronic media that have been used t
 All computers, laptops and personal electronic devices, must be returned to the ICT service provider for re-use and disposal.
 
 For re-use and disposal of any locally purchased ICT equipment, contact the Operational SecurityTeam for advice:<br/>
-![](https://intranet.justice.gov.uk/app/uploads/2017/12/c44e91c8a5d308c4953ef918b987f543.gif) &nbsp;
+![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2017/12/c44e91c8a5d308c4953ef918b987f543.gif) &nbsp;
 
 ## ICT Security Incidents
 

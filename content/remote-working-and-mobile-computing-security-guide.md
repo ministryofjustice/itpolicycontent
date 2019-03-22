@@ -318,7 +318,7 @@ If a virus is detected; do not open or copy any file(s), remove the device immed
 If you work in NOMS please contact your line manager.
 
 All other staff must first read Operational Security Notice OSN 003 issued on 12/09/2008 OSN 003, then complete Annex C and email your business case to:<br/>
-![](https://intranet.justice.gov.uk/app/uploads/2017/12/c44e91c8a5d308c4953ef918b987f543.gif)&nbsp;
+![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2017/12/c44e91c8a5d308c4953ef918b987f543.gif)&nbsp;
 
 #### Key points to remember
 - Using mobile computing equipment significantly raises the risk to departmental data.
@@ -405,7 +405,7 @@ device provided as a promotional gift or from an unknown source.
 
 - Always return the removable storage device to Piccadilly Exchange, First Floor, 2 Piccadilly Plaza, Manchester M1 4AH if it is faulty or you no longer need it, using Royal Mail signed for service. Delete the data on the device before returning it, if possible, but be aware that a normal deletion does not permanently erase the data so return the storage device using a secure method of transfer.
 
-- In the event of loss of a removable storage device contact the service desk:<br/> ![](https://intranet.justice.gov.uk/app/uploads/2017/12/64a07aab5f77479e27c487c3f8e20296.gif)&nbsp;
+- In the event of loss of a removable storage device contact the service desk:<br/> ![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2017/12/64a07aab5f77479e27c487c3f8e20296.gif)&nbsp;
 
 **ANTI-VIRUS SCANNING OF REMOVABLE MEDIA**
 
@@ -527,7 +527,7 @@ Grade:
 Date of approval:
 
 The approving manager should now send the completed form to the Operational Security Team:<br/>
-![](https://intranet.justice.gov.uk/app/uploads/2017/12/c44e91c8a5d308c4953ef918b987f543.gif)&nbsp;
+![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2017/12/c44e91c8a5d308c4953ef918b987f543.gif)&nbsp;
 
 
 **3. OST assessment** (to be completed by the Operational Security Team)
@@ -565,6 +565,6 @@ Date
 
 
 If you would like the information in this booklet in an alternative format, please email:<br/>
-![](https://intranet.justice.gov.uk/app/uploads/2017/12/c44e91c8a5d308c4953ef918b987f543.gif)&nbsp;<br/>
+![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2017/12/c44e91c8a5d308c4953ef918b987f543.gif)&nbsp;<br/>
 or call:<br/>
-![](https://intranet.justice.gov.uk/app/uploads/2017/12/64a07aab5f77479e27c487c3f8e20296.gif)&nbsp;
+![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2017/12/64a07aab5f77479e27c487c3f8e20296.gif)&nbsp;

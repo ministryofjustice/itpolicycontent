@@ -1,22 +1,18 @@
 branches:
   only:
   - master
-
 addons:
   apt:
     update: true
     packages:
-      - aspell
-      - aspell-en
-
+    - aspell
+    - aspell-en
 script:
-  - scripts/detectAvoidWords.sh
-  - scripts/checkSpelling.sh
-
+- scripts/detectAvoidWords.sh
+- scripts/checkSpelling.sh
 notifications:
   email:
     recipients:
-      - secure: "d7/3q5mx1FUwhw0GFeGoxY9PXxLVzwyW+MdldR+irIliL8hyxO5EjOIZXHaoIfg43XWFfE+pRcdNiIMlVg/4nMpJqGxegLWIUhoasK4v7h2hUVCnnJ+/tyjTkYztuBJDR1BG4WViPr4tr+BFGTCG8D4/AAR+6zPU1MLqw8SiL4AYmUuBZadhNS0px07hbel4QFUs8IiqDQKZPWJVb/Udzkm+aIVkOr9inxRqZr92Sw592OHJhgttYfK2W0lxABAAhhnMM5JslggWt4whf9Z5RZPU76dqwnK/nySduTGkqQWqtqSHwNBeRlWKW0n/aPWW1WcqCGGpCPquKmYC1nNwIxCJPdcvjtbYzsLyr92ymDv2OBHzHIxD4e2PjuR2wgCsjxlESsB0TLUb72mBhdBYfDWRLf6waEPras0WjRXre3r8gZGkHLTXh/NSLCU9VzOSDBwmKQWPYQxRGkLYfvR0jKF8aFDkacfx0LRS7sPsZbVdzkiDwlfimunkKV+SltCt4BUcuYIfxmjZcmVfXlqgN/umqRFAwrbuQXMaGjBQiMqTr/x60RUpJmdn3uIsRp3VOCEE2UQeXpdopVM9zIn2lQkhgG2HJE3vG/oq4Kue+kyvigNhOuriulMeL/8F1JcizDjk2yTxhEaBKVjExCzgDx15NHeOCxAX9M02fDPdXp0="
-      - secure: "E6QzjHRbI10+zaZGwrJjwWfXqizDv60Cb0QYM1as5tewjBhBrJcBnJqN3Ch3ZVDZK9g4aMVLCt5NGXisR9MUmO4ZXDnZ/5FAdkfhDnL4wbq4NcnNKdEcnvT8DSZ7/fhHRaCVzuKTMMxTfdMRUXcFWwh+aaAVqEXVhQ7rKXxc0qnQJD/TeAAu0iTFCJVODxZEavN8VBXB+BBy3e4VJbhkalLNcBSypkWMKv/wc+oenTjEpGxzk6gHa3Ic00AlFSW2zwzgux3MNHP+Y3Ff4PRnflAhWCswj/0RkQzAWEvLUTRGzHlhwpYx0S+wO7F8+FdpxgWGxNmH0fJfd/3wtW71elcgUosIQ0CkJZx/U4lJY3LS7P5RZHCWAiC1aqDQ2AAYCrAyfh8VC3vM97cV6MIJsBqF7MN3x0N63ggBfYXYF2qffLBNieQVR7q1CFYm9sUQgBjWyjzxu8pel/nD2FmJ7L5IDWCScuoAyFdNjqnh/hFs8RnsvcAs78VW3NTFF+2xHhg2ogqdkujGnCB+tBjy1IIDTRV3eSSNskbMbvOIqo8XCfHMQHvGWKO2Ap/P3anVLcjeWbev1mXILv1ZU5uTLhcF18dEMKYrSHrVNIGkvOAudfDd6/UFaAqUcuPzxjjBe1fQ6bA0g3g6rp7SBCReZb1yOgB24/C77PdfEy+WmhM="
+    - secure: gqhrOit3HqFEr3Z95gmXgfhzbODZtvR2KXi0myS3ZmZISpOR4i4onbD6SW19uK6V2a6SVkTJgm6efMyyTfcywcRg2keEqu4KnrRH1wsP+FmaumdtC2avsvSjblidAXqWoXrHDsg+NQmJf468WctZ+3uRBl16hS1jUcZkoEaHHtVnQZXrQlH+gXWgOneHB11xiacsiUanBtizHA0hb1zI8N3Bw3O7pMlSPeAxWZpUaVQiZ42P9elZ0mlYs5fT6tAXBwpOPWi2pDtRh/swEjsRz1bdwT1immPzCmXq7IcFABS9Oda+r0Ik+FX04Jlipk1lXIKZQbKsbuNKGewyAPBcOlQxUPNhL1YqwtId+DiWtzoTK22FLmS9okRLEJm5dvOqYnUZlu7fBhs1MTN0pW4Gd0z/yztr4hoVUJNTolI9HgsPF4m/rRfHfZv7TioGP5+OJqT7V/mb1Zj+WgIXKgWp/Xy2YWwHl36oBe7Go53S/LisxerwO0CXBUu19UoiziX46eVDEuzs3n0tJnggjledZ7I/F25PCYnMgSsuwzdhHSPKdg05v0XjNzte94r9b+x5nSSkMCNbt0GjP/bKRWUsbagbicZzkM++LgWNN6BgW6E+lCfeT9WfJFU9WEkN2Udnw91SeUvURqocPuVenoJze1CyxIiPqVS+VOhnJkpCAZI=
     on_success: never
     on_failure: always
