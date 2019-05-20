@@ -8,6 +8,7 @@ This document summarises what changes were made, and when, to MOJ IT Policy cont
 
 Date | Audience | Topic (and link) | Changes
 ---|---|---|---
+May 20 | All | [Lost Laptop or other IT security incident](https://intranet.justice.gov.uk/guidance/security/it-computer-security/lost-laptophardware) | Updated with current contact/process details.
 March 25 | All | [Lost Laptop/Hardware?](https://intranet.justice.gov.uk/guidance/security/it-computer-security/lost-laptophardware) | Updated with current contact/process details.
 March 21 | Developers, System Administrators | [Source code publishing](https://intranet.justice.gov.uk/guidance/security/it-computer-security/source-code-publishing) | Updated to align with current government guidance.
 January 21 | All | [Acceptable Use](https://intranet.justice.gov.uk/guidance/security/it-computer-security/acceptable-use/#personal-use-of-moj-mobile-phones) | Added section providing more guidance for mobile devices.
@@ -39,7 +40,7 @@ April 6 | All | [Password Guidance](https://intranet.justice.gov.uk/guidance/sec
 ---
 
 <table>
-<tr><td colspan='4'>This document is dated March 2019.
+<tr><td colspan='4'>This document is dated May 2019.
 <p>
 To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent+00-whatsnew@digital.justice.gov.uk?subject=00-whatsnew">itpolicycontent@digital.justice.gov.uk</a>, or click one of the following icons.</p></td></tr>
 <tr>

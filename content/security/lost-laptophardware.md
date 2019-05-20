@@ -16,20 +16,18 @@ If you think your device is lost, stolen, 'hacked', or in some way compromised, 
 2.  Tell your line manager as soon as possible.
 3.  For a lost or stolen device, contact the Police and make sure you get the incident reference number.
 4.  When back online fill in a [security incident form](https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/).
-5.  Email the completed form to:<br/>
-a. Security Breach if the incident involves a data breach<br/>![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2018/11/b0c1f3bf14ff265c2369a84cf1bf05c2.gif)<br/>&nbsp;<br/>
-b. IT Service Desk for all other IT incidents<br/>![](https://intranet.justice.gov.uk/app/uploads/2017/12/e6404c31d65821489a775401ce4b941d.gif)<br/>&nbsp;<br/>
+5.  Email the completed form to [IT Service Desk](mailto:itservicedesk@justice.go.uk).
+
+If MOJ data or information is lost or compromised, [report it as a data incident](https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/reporting-a-data-incident/).
 
 ## Summary
-
-If MOJ data or information is lost or compromised, [report it as a data loss](https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/reporting-a-data-incident/).
 
 Find out more about how to report a security incident [here](https://intranet.justice.gov.uk/guidance/security/report-a-security-incident/).
 
 ---
 
 <table>
-<tr><td colspan='4'>This guidance is dated March 2019.
+<tr><td colspan='4'>This guidance is dated May 2019.
 <p>
 To provide feedback on this document, please contact us: <a href="mailto:itpolicycontent+lost-laptophardware@digital.justice.gov.uk?subject=lost-laptophardware">itpolicycontent@digital.justice.gov.uk</a>, or click one of the following icons.</p></td></tr>
 <tr>
