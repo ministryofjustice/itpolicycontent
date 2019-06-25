@@ -189,7 +189,7 @@ All investigations will either be:
 Forensic investigations are only to be carried out under the following circumstances:
 
 - Risk Management of a system has revealed a particularly sensitive/vulnerable area which needs to be proactively monitored. Any discovered security incidents would then be escalated through the IT security incident management process.
-- A business function has issued a request to gather forensic investigation evidence directly to the MoJ Operational Security Team (OST). Results of such an investigation will be handed back to the requesting business function. Any request will be processed through the appropriate incident management process and escalated to the ITSO, DSO or SIRO as required.
+- A business function has issued a request to gather forensic investigation evidence directly to the MoJ Defensive Security Operations Team (DSOT). Results of such an investigation will be handed back to the requesting business function. Any request will be processed through the appropriate incident management process and escalated to the ITSO, DSO or SIRO as required.
 - An investigation is requested as part of the IT security incident management process. Results of the investigation will be reported back through the incident management process, but other subsidiary processes may also be invoked. Further details available in the [ICT Security – Forensic Readiness Guide][frg].
 - A forensic investigation is requested by the DSO as part of a leak investigation. Results of an investigation under these circumstances will be reported back to the DSO, who will report to the Permanent Secretary. Further information is available from the [Corporate Security and Business Continuity Branch](https://intranet.justice.gov.uk/guidance/security/).
 
