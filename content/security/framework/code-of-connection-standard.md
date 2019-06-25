@@ -259,7 +259,7 @@ Guidance on completion:
 | **A.13.1** | **Reporting Information Security Events and Weaknesses** | | | |
 | **A.13.1.1** | **Reporting Information Security Events** - Is there a documented process to ensure information security events affecting the [NAME OF 3rd PARTY ICT SYSTEM] are reported to MoJ ITSO and system Accreditor as soon as possible? | | | *Describe the Incident Management process applicable to the connecting system or supply documentation to support this.  It must include reporting of security incidents to the MoJ.* |
 | **A.13.2** | **Management of Information Security Incidents &amp; Improvements** | | | |
-| **A.13.2.1** | **Responsibilities &amp; Procedures** - Have assigned responsibilities and procedures to ensure a quick, effective, and orderly response to information security incidents been implemented?  This needs to include the requirement to report incidents associated with the [NAME OF 3rd PARTY ICT SYSTEM] to MoJ. | | | *All IT Security incidents should be reported to MoJ Operational Security Team.* |
+| **A.13.2.1** | **Responsibilities &amp; Procedures** - Have assigned responsibilities and procedures to ensure a quick, effective, and orderly response to information security incidents been implemented?  This needs to include the requirement to report incidents associated with the [NAME OF 3rd PARTY ICT SYSTEM] to MoJ. | | | *All IT Security incidents should be reported to MoJ Defensive Security Operations Team.* |
 | **A.14** | **Business Continuity Management** | | | |
 | **A.14.1** | **Aspects of business continuity management** | | | |
 | **A.15** | **Compliance** | | | |
