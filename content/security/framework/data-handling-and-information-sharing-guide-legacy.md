@@ -23,7 +23,7 @@ This guide is split into three sections:
 
 [Data Movement Form](#dmf) includes a copy of the MOJ Data Movement Form (DMF). This form must be completed for all transfers where information is transferred from a MOJ ICT system to another MOJ ICT system or external party, further details on the form can be found in [Data Movement Form](#dmf).
 
-**Note:** This document provides guidance for handling and sharing of information / data up to and including Impact Level (IL) 3 REST*. Where information attracts a high protective marking or IL, advice must be sought from the MOJ Operation Security Team (OST) and MOJ Chief Information Security Officer (CISO).
+**Note:** This document provides guidance for handling and sharing of information / data up to and including Impact Level (IL) 3 REST*. Where information attracts a high protective marking or IL, advice must be sought from the MOJ Defensive Security Operations Security Team (DSOT) and MOJ Chief Information Security Officer (CISO).
 
 ## Handling data on MOJ ICT systems
 
@@ -77,7 +77,7 @@ If using a secure network is not feasible, the next preferred option is to use a
 *   MOJ issued FIPS 140-2 USB memory sticks
 *   CESG approved USB mass storage devices with whole hard encryption (using CESG provided cryptographic material)
 
-The type of device selected is normally dependant on the sensitivity of the data and the amount of data being transferred. Advice must be sought from the MOJ OST or MOJ CISO on the best device to use when completing the DMF (see [Data Movement Form](#dmf) ).
+The type of device selected is normally dependant on the sensitivity of the data and the amount of data being transferred. Advice must be sought from the MOJ DSOT or MOJ CISO on the best device to use when completing the DMF (see [Data Movement Form](#dmf) ).
 
 #### Disposal and decommissioning
 
@@ -155,7 +155,7 @@ Where there is a business requirement to do so, information marked at IL2 PROTEC
 
 ### Sharing information above IL3 REST*
 
-Where there is a business requirement to share information which attracts a marking greater than IL3 REST*, advice must be sought from the MOJ OST or MOJ CISO prior to completing a DMF (see [Data Movement Form](#dmf) ).
+Where there is a business requirement to share information which attracts a marking greater than IL3 REST*, advice must be sought from the MOJ DSOT or MOJ CISO prior to completing a DMF (see [Data Movement Form](#dmf) ).
 
 ## Reporting data loss
 
@@ -163,7 +163,7 @@ In the case of any IT security or data loss incident please contact:
 
 | Contact | E-mail | Telephone |
 | --- | --- | --- |
-| MOJ Operational Security Team (OST) | ![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2017/12/c44e91c8a5d308c4953ef918b987f543.gif)&nbsp; | ![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2017/12/cd22de7be3ae15073df84123a112d7fc.gif)&nbsp; |
+| Defensive Security Operations Security Team (DSOT) | ![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2017/12/c44e91c8a5d308c4953ef918b987f543.gif)&nbsp; | ![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2017/12/cd22de7be3ae15073df84123a112d7fc.gif)&nbsp; |
 | IT Service Desk (Atos) | ![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2017/12/e6404c31d65821489a775401ce4b941d.gif)&nbsp; | ![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2017/12/a8df58bc98d43d1d8aca02ebafe52535.gif)&nbsp; |
 
 <a id="dmf"></a>
