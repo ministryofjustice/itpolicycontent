@@ -37,7 +37,7 @@ This guide is split into three sections:
 
 [Data Movement Form](#dmf) includes a copy of the MoJ Data Movement Form (DMF). This form must be completed for all transfers where information is transferred from a MoJ ICT system to another MoJ ICT system or external party, further details on the form can be found in [Data Movement Form](#dmf).
 
-**Note:** This document provides guidance for handling and sharing of information / data up to and including Impact Level (IL) 3 REST*. Where information attracts a high protective marking or IL, advice must be sought from the MoJ Operation Security Team (OST) and MoJ IT Security Officer (ITSO).
+**Note:** This document provides guidance for handling and sharing of information / data up to and including Impact Level (IL) 3 REST*. Where information attracts a high protective marking or IL, advice must be sought from the MoJ Defensive Security Operation Team (DOST) and MoJ IT Security Officer (ITSO).
 
 ### Demonstration of Compliance
 
@@ -95,7 +95,7 @@ If using a secure network is not feasible, the next preferred option is to use a
 - MoJ issued FIPS 140-2 USB memory sticks
 - CESG approved USB mass storage devices with whole hard encryption (using CESG provided cryptographic material)
 
-The type of device selected is normally dependant on the sensitivity of the data and the amount of data being transferred. Advice must be sought from the MoJ OST or MoJ ITSO on the best device to use when completing the DMF (see [Data Movement Form](#dmf) ).
+The type of device selected is normally dependant on the sensitivity of the data and the amount of data being transferred. Advice must be sought from the MoJ DOST or MoJ ITSO on the best device to use when completing the DMF (see [Data Movement Form](#dmf) ).
 
 ##### Optical media
 
@@ -103,8 +103,8 @@ The use of optical media (i.e. CD/DVD) is not recommended for data transfer espe
 
 Where there is a business need to use optical media:
 
-- for data at IL3 REST*, a CESG approved product (using CESG provided cryptographic material) must be used, further information can be obtained from the MoJ OST
-- for data marked at IL2 or below, then a commercial grade product certified to FIPS 140-2 can be used (see [Using commercial encryption products for low sensitivity information](#using-commercial-encryption-products-for-low-sensitivity-information) section). Further information on suitable products can be obtained from the MoJ OST
+- for data at IL3 REST*, a CESG approved product (using CESG provided cryptographic material) must be used, further information can be obtained from the MoJ DOST
+- for data marked at IL2 or below, then a commercial grade product certified to FIPS 140-2 can be used (see [Using commercial encryption products for low sensitivity information](#using-commercial-encryption-products-for-low-sensitivity-information) section). Further information on suitable products can be obtained from the MoJ DOST
 
 #### Data at rest on MoJ issued laptops
 
@@ -186,7 +186,7 @@ Where there is a business requirement to do so, information marked at IL2 PROTEC
 
 ### Sharing information above IL3 REST*
 
-Where there is a business requirement to share information which attracts a marking greater than IL3 REST*, advice must be sought from the MoJ OST or MoJ ITSO prior to completing a DMF (see [Data Movement Form](#dmf) ).
+Where there is a business requirement to share information which attracts a marking greater than IL3 REST*, advice must be sought from the MoJ DOST or MoJ ITSO prior to completing a DMF (see [Data Movement Form](#dmf) ).
 
 ## Reporting data loss
 
@@ -194,7 +194,7 @@ In the case of any IT security or data loss incident please contact:
 
 | Contact | E-mail | Telephone |
 | --- | --- | --- |
-| MOJ Operational Security Team (OST) | ![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2017/12/c44e91c8a5d308c4953ef918b987f543.gif)&nbsp; | ![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2017/12/cd22de7be3ae15073df84123a112d7fc.gif)&nbsp; |
+| MOJ Operational Security Team (DOST) | ![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2017/12/c44e91c8a5d308c4953ef918b987f543.gif)&nbsp; | ![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2017/12/cd22de7be3ae15073df84123a112d7fc.gif)&nbsp; |
 | IT Service Desk (Atos) | ![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2017/12/e6404c31d65821489a775401ce4b941d.gif)&nbsp; | ![](https://s3-eu-west-2.amazonaws.com/intranet-prod-storage-1dvcquh7kophi/uploads/2017/12/a8df58bc98d43d1d8aca02ebafe52535.gif)&nbsp; |
 
 <a id="dmf"></a>
