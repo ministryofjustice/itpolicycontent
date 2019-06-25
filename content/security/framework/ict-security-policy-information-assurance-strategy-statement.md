@@ -129,7 +129,7 @@ And:
 
 As part of our commitment to protect the information held and processed on our ICT systems, it is important that we can detect and respond to security incidents as quickly as possible and where possible instigate preventive measures to maintain the confidentiality, integrity and availability of our systems.
 
-Staff using MoJ ICT systems need to be aware that these systems are proactively monitored and activity reviewed by the MoJ Operational Security Team (OST). In addition, the MoJ maintains an IT forensic capability to investigate security incidents. Breaches and examples of poor personal security will be taken seriously and where appropriate, disciplinary procedures (including in severe cases, prosecution or loss of security clearance) form part of the process.
+Staff using MoJ ICT systems need to be aware that these systems are proactively monitored and activity reviewed by the MoJ Defensive Security Operations Team (DSOT). In addition, the MoJ maintains an IT forensic capability to investigate security incidents. Breaches and examples of poor personal security will be taken seriously and where appropriate, disciplinary procedures (including in severe cases, prosecution or loss of security clearance) form part of the process.
 
 Incident reporting and management are fundamental to good IA practice, through mandatory IA training; all users are informed of the MoJ ICT Security policy in operation and the escalation process for reporting security incidents.
 
