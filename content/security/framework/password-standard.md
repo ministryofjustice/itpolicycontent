@@ -45,7 +45,7 @@ Follow the [CyberAware advice][cyberawarepasswords] to generate your passwords. 
 
 Make sure you read the MOJ [guidance][pg] information about passwords. The most important points are that passwords should be:
 
-- at least 8 characters long
+- at least 15 characters long
 - no more than 128 characters long
 - not obvious
 - not a dictionary word. A combination of dictionary words might be suitable, such as '`CorrectHorseBatteryStaple`'
