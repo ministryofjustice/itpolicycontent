@@ -13,10 +13,12 @@ Depending on the type of media, its Government Security Classification and what 
 
 | Title | **Re-use within department** | **Destroy** |
 | --- | --- | --- |
-| Flash (USB) | Delete the data and/or erase using manufacturer instructions | Destroy using commercially available disintegration equipment to produce particles of a maximum of 6 mm in any direction |
-| Hard disk drive | Overwrite the entire storage space with random/garbage data, verifying that only the data used to perform the overwrite can be read back  | Break the platters into at least 4 pieces. This can be done either manually or by using a commercially available destruction product suitable for use with hard disks; __OR__ Lower Level degauss, __THEN__ apply a destructive procedure that prevents the disk from turning (e.g. punching, twisting or bending the platters) |
-| Magnetic tapes and floppy disks | Overwrite the entire storage space with random/garbage data, verifying that only the data used to perform the overwrite can be read back | Destroy using a commercially available shredder that meets a recognised international destruction standard. Particles of tape should be no larger than 6 x 15 mm; __OR__ Lower Level degauss, __THEN__ cut the tape to no larger than 20 mm in any direction  |
-| Optical media | Nil | Shred or disintegrate using equipment that meets a recognised international destruction standard. Particles should be no larger than 6 mm in any direction |
+| Flash (USB) | Delete the data and/or erase using manufacturer instructions | Destroy using commercially available disintegration equipment to produce particles of a maximum of 6 mm in any direction. |
+| Hard disk drive | Overwrite the entire storage space with random/garbage data, verifying that only the data used to perform the overwrite can be read back  | Break the platters into at least 4 pieces. This can be done either manually or by using a commercially available destruction product suitable for use with hard disks; __OR__ Lower Level degauss, __THEN__ apply a destructive procedure that prevents the disk from turning (e.g. punching, twisting or bending the platters). |
+| Magnetic tapes and floppy disks | Overwrite the entire storage space with random/garbage data, verifying that only the data used to perform the overwrite can be read back | Destroy using a commercially available shredder that meets a recognised international destruction standard. Particles of tape should be no larger than 6 x 15 mm; __OR__ Lower Level degauss, __THEN__ cut the tape to no larger than 20 mm in any direction. |
+| Optical media | Nil | Shred or disintegrate using equipment that meets a recognised international destruction standard. Particles should be no larger than 6 mm in any direction. |
+| Computer monitor | N/A | If  the monitor has an asset tag, it must be returned to ATOS. This can be done by contacting the technology helpdesk on (0800 917 5148). However, if the monitor does not have a tag, you should contact either Data Eliminate or Tier1. |
+
 
 Owners of the data storage devices are responsible for procuring services that meet the necessary destruction outcomes as described above. Assurance shall be required that the appropriate destruction has taken place for any locally procured ICT assets, and that an audit trail is available for inspection upon request by the IT Security Officer.
 
